@@ -3,15 +3,6 @@ repo: Consultations-Tracker
 sites:
 - name: 'Join the discussion: Help shape Canada''s accessibility standards'
   url: https://www.canada.ca/en/accessibility-standards-canada/corporate/consultation/2020-priorities.html
-- name: 'Accessibility guidelines for COVID-19 and other emergencies: working from
-    home and returning to the workplace'
-  url: .nan
-- name: 'Accessibility guidelines for COVID-19 and other emergencies: accessible communications
-    for persons with disabilities and federal organizations'
-  url: .nan
-- name: 'Accessibility guidelines for COVID-19 and other emergencies: accessible service
-    delivery'
-  url: .nan
 - name: 'Accessibility Standards Canada: roundtable for youth living with disabilities.'
   url: https://accessible.canada.ca/consultations/youth-roundtable-consultations
 - name: China Free Trade Agreement Exploratory Talks
@@ -64,9 +55,6 @@ sites:
   url: http://www4.agr.gc.ca/AAFC-AAC/display-afficher.do?id=1271850525455&lang=eng
 - name: Growing Forward 2 - Phase 1
   url: http://www4.agr.gc.ca/AAFC-AAC/display-afficher.do?id=1317071908388&lang=eng
-- name: Review of “Product of Canada” and “Made in Canada” Labelling Guidelines -
-    Food Industry Validation Questions
-  url: .nan
 - name: Canadian Grain Commission- Falling Number and DON as Potential Grading Factors
   url: https://www.grainscanada.gc.ca/en/about-us/consultations/2019/falling-number-don.html
 - name: 'Local Food Infrastructure Fund (LFIF) Program '
@@ -78,13 +66,6 @@ sites:
   url: https://www.international.gc.ca/trade-commerce/consultations/cptpp-ptpgp/negotiations-2019-07.aspx?lang=eng
 - name: 'Share ideas: Review of the Canada Grain Act'
   url: https://agriculture.canada.ca/en/about-our-department/transparency-and-corporate-reporting/public-opinion-research-and-consultations/what-we-heard-canada-grain-act-review-consultations
-- name: Canadian Agricultural  Partnership AgriScience Cluster Recipient/FPT Meeting
-  url: .nan
-- name: 'Consultation Opportunity - Services in Agriculture '
-  url: .nan
-- name: Regulatory Impact Analysis Statement - Adding Canaryseed as a Designated Grain
-    under the Canada Grain Act
-  url: .nan
 - name: Sustainable Agriculture Strategy Consultation
   url: https://agriculture.canada.ca/en/about-our-department/transparency-and-corporate-reporting/public-opinion-research-and-consultations/share-ideas-sustainable-agriculture-strategy-discussion-document
 - name: FPT Retail Fees Working Group
@@ -102,12 +83,8 @@ sites:
   url: https://agriculture.canada.ca/en/agricultural-science-and-innovation/agriculture-and-agri-food-research-centres-and-collections/pest-management-centre
 - name: 2022 Canadian Pest Management Virtual Priority Setting Workshop
   url: https://agriculture.canada.ca/en/agricultural-science-and-innovation/agriculture-and-agri-food-research-centres-and-collections/pest-management-centre
-- name: Indigenous Student Recruitment Initiative
-  url: .nan
 - name: Next Agricultural Policy Framework - Share Your Experience and Ideas
   url: https://agriculture.canada.ca/en/department/transparency/public-opinion-research-consultations/next-agricultural-policy-framework
-- name: Genomics R&D Initiative (GRDI) Antimicrobial Resistance One Health
-  url: .nan
 - name: 2023 Canadian Pest Management Priority Setting Workshop
   url: https://agriculture.canada.ca/en/agricultural-science-and-innovation/agriculture-and-agri-food-research-centres-and-collections/pest-management-centre
 - name: 'School Food Stakeholder Roundtable: Connecting Schools with Local Food Systems'
@@ -140,10 +117,6 @@ sites:
   url: https://www.cbsa-asfc.gc.ca/agency-agence/actreg-loireg/frp-ppr/54-eng.html
 - name: Enforcing Removal Orders When a Person is Confirmed to be Outside of Canada
   url: https://www.cbsa-asfc.gc.ca/agency-agence/consult/consultations/2017-4-eng.html
-- name: Immigration Detention and the Best Interests of the Child
-  url: .nan
-- name: Technical Consultations with Commercial Air Carriers on PPP requirements
-  url: .nan
 - name: Proposed Amendments to the Immigration and Refugee Protection Regulations
     Sections 45-49 (Deposits or Guarantees)
   url: https://www.cbsa-asfc.gc.ca/agency-agence/consult/consultations/2018-3-eng.html
@@ -185,23 +158,15 @@ sites:
   url: http://www.cbsa-asfc.gc.ca/agency-agence/consult/reg/menu-eng.html
 - name: Proposed Amendments to the Presentation of Persons (2003) Regulations
   url: http://cbsa-asfc.gc.ca/prog/consult/amend-modif-eng.html
-- name: Presentation to CAN/AM Border Trade Alliance Meeting Ottawa
-  url: .nan
-- name: CAN/AM BTA Rail Discussion
-  url: .nan
 - name: Proposed regulatory amendments to allow for automatic invalidation of certain
     immigration documents following issuance of a removal order
   url: N/a
-- name: 'Annual Northern Border U.S./Canada Immigration Law Conference '
-  url: .nan
 - name: Conclusive Findings of Fact Related to Inadmissibility
   url: https://www.cbsa-asfc.gc.ca/agency-agence/consult/consultations/2020-1-eng.html
 - name: Recovery of Removal Costs
   url: https://www.cbsa-asfc.gc.ca/agency-agence/consult/consultations/2020-2-eng.html
 - name: Expanding Minister's Delegate Authorities
   url: https://www.cbsa-asfc.gc.ca/agency-agence/consult/consultations/2020-3-eng.html
-- name: Conclusive Findings of Fact Related to Inadmissibility
-  url: .nan
 - name: Proposed regulatory amendments to the Valuation for Duty Regulations
   url: 'https://www.cbsa-asfc.gc.ca/agency-agence/consult/consultations/2021-2-eng.html '
 - name: Notification of Proposed Amendments to the Immigration and Refugee Protection
@@ -210,13 +175,6 @@ sites:
   url: https://www.cbsa-asfc.gc.ca/agency-agence/consult/consultations/2021-1-eng.html
 - name: White River First Nations
   url: https://www.rcaanc-cirnac.gc.ca/eng/1511969222951/1529103469169
-- name: Definition for Family Separation and Separated Minor(s) As They Relate to
-    Immigration Enforcement and Best Interest of the Child
-  url: .nan
-- name: Advance CBSA Declaration
-  url: .nan
-- name: 'Importer of Record Implementation Consultations '
-  url: .nan
 - name: Proposed Amendments to Stay of Removal/Public Policy Considerations Immigration
     Protection Refugee Regulations
   url: https://www.cbsa-asfc.gc.ca/agency-agence/consult/consultations/2022-2-eng.html
@@ -316,10 +274,6 @@ sites:
   url: https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/corporate-reports-information/consultation-return-airfare.html
 - name: Canada Pension Plan Enhancement (CPPE)
   url: https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/corporate-reports-information/cpp-consultation-self-employed-individuals-part-one.html
-- name: 'Updated to Information Circulars: IC 94-4  Advanced Pricing Arrangement for
-    Small Businesses and IC71-17 Guidance on Competent Authority Assistance Under
-    Canada''s Tax Conventions'
-  url: .nan
 - name: Consultation on enabling electronic signature for the T183, Information Return
     for Electronic Filing of an Individual's Income Tax and Benefit Return and T183CORP,
     Information Return for Corporations Filing Electronically
@@ -535,13 +489,6 @@ sites:
   url: http://canada150.gc.ca/eng/1344275798109
 - name: The Government’s proposed approach to address harmful content online
   url: https://www.canada.ca/en/canadian-heritage/campaigns/harmful-online-content.html
-- name: Survey on a physical tribute to commemorate victims of air tragedies (PS752,
-    ET302, Air India)
-  url: .nan
-- name: 'Have your say: Export support for Canada’s creative industries '
-  url: .nan
-- name: 'Have your say: Export support for Canada’s creative industries '
-  url: .nan
 - name: What We Heard Report
   url: https://www.ic.gc.ca/eic/site/110.nsf/eng/home
 - name: Be Part of the National Action Plan on Combatting Hate
@@ -554,14 +501,8 @@ sites:
   url: '2022 Cross-Canada Official Languages Consultations - Canada.ca '
 - name: Consultation on the Changing Narratives Fund
   url: https://www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
-- name: Canadian Sport Policy Renewal
-  url: .nan
 - name: 2022-23 Consultations on renewal of the Museum Policy
   url: https://www.canada.ca/en/canadian-heritage/campaigns/renewal-museum-policy.html
-- name: '
-
-    Engagement sessions with Canadian book publishers and book industry stakeholders'
-  url: .nan
 - name: Consultations with Official Language Minority Communities
   url: http://www.cihr-irsc.gc.ca/e/49903.html
 - name: Health research priorities
@@ -833,10 +774,6 @@ sites:
   url: http://crtc.gc.ca/eng/television/services/types.htm
 - name: Device Financing Plans - The Wireless Code
   url: https://crtc.gc.ca/eng/archive/2019/2019-309.htm
-- name: Forbearance from the regulation of Canadian telecommunications common carriers’
-    international telecommunications service agreements or arrangements for the carriage
-    of traffic into or out of Canada
-  url: .nan
 - name: Renewal of CBC's licences
   url: http://crtc.gc.ca/eng/television/cbc-src-consultation.htm?utm_source=canada&utm_medium=rotator1&utm_campaign=consultcbc
 - name: The Future of Mobile Wireless Services in Canada
@@ -982,8 +919,6 @@ sites:
 - name: Town Hall Meeting on the feasibility of re-establishing penitentiary farms
     at the Joyceville and Collins Bay Institutions
   url: https://www.canada.ca/en/correctional-service/news/2016/08/minister-goodale-to-host-town-hall-to-discuss-the-future-of-kingston-area-penitentiary-agribusiness.html
-- name: 'Structured Intervention Units '
-  url: .nan
 - name: 715 - Community Supervision Framework / 715-1 Community Supervision
   url: https://www.csc-scc.gc.ca/lois-et-reglements/715-1-cd-en.shtml
 - name: '345 - Internal Services '
@@ -1634,9 +1569,6 @@ sites:
 - name: Bilateral funding agreements with Provinces and Territories on the implementation
     of the National Action Plan to End Gender-Based Violence
   url: Not yet available
-- name: Engagement with new stakeholders on matters of public policy relating to women
-    and gender equality and youth
-  url: .nan
 - name: 'Pre-Budget Consultations '
   url: https://www.fin.gc.ca/n17/17-113-eng.asp
 - name: Reviewing Canada's Anti-Money Laundering and Anti-Terrorist Financing Regime
@@ -1840,15 +1772,8 @@ sites:
   url: https://www.fin.gc.ca/n19/19-049-eng.asp
 - name: Draft tax legislative proposals
   url: https://www.fin.gc.ca/n19/19-084-eng.asp
-- name: Proposed amendments to the regulations of the Proceeds of Crime (Money Laundering)
-    and Terrorist Financing Act
-  url: .nan
 - name: Pre-budget Consultations 2020
   url: 'https://budget.gc.ca/2020/prebudget-prebudgetaire/index-en.html?utm_source=CanCa&utm_medium=Consult&utm_campaign=PBC20 '
-- name: Review into the Merits of Open Banking (Phase 2)
-  url: .nan
-- name: Strenghtening Corporate Beneficial Ownership Transparency in Canada
-  url: .nan
 - name: Proposed Amendments to the Special Import Measures Regulations and the Canadian
     International Trade Tribunal Regulations
   url: http://www.gazette.gc.ca/rp-pr/p1/2018/2018-03-31/html/reg4-eng.html
@@ -1932,10 +1857,6 @@ sites:
   url: https://www.letstalkbudget2023.ca/let-s-talk-budget-2023
 - name: '  General Anti-Avoidance Rule '
   url: https://www.canada.ca/en/department-finance/programs/consultations/2023/general-anti-avoidance-rule.html
-- name: 'Excessive interest and financing expenses limination (EIFEL) '
-  url: .nan
-- name: Digital Economy Platform Sellers
-  url: .nan
 - name: 'Phase 2- AML/ATF- Strengthen Correspondent Banking Provisions '
   url: https://www.canadagazette.gc.ca/rp-pr/p1/2023/2023-02-18/html/reg2-eng.html
 - name: Phase 2 - AML/ATF – Inclusion of the Armoured Car Sector
@@ -1961,8 +1882,6 @@ sites:
   url: http://www.justice.gc.ca/eng/cj-jp/tcjs-tsjp/index.html
 - name: Web Presence in Support of the Criminal Justcie System Review
   url: http://www.justice.gc.ca/eng/cj-jp/tcjs-tsjp/consultation.html
-- name: Youth Engagement in the review of the Criminal Justice System (CJS)
-  url: .nan
 - name: State of the Criminal Justice System Report
   url: http://www.justice.gc.ca/eng/cj-jp/state-etat/index.html
 - name: Listening Sessions on Victim/Survivor Involvement in Restorative Justice Programs
@@ -1974,20 +1893,11 @@ sites:
 - name: Modernizing the Transportation Provisions of the Criminal Code - Discussion
     Paper
   url: http://canada.justice.gc.ca/eng/cons/mtpcc-mdccmt/index.html
-- name: Indigenous community organizations Engagement on the Pan-Canadian Strategy
-    to Address the Overrepresentation of Indigenous Peoples in the Criminal Justice
-    System
-  url: .nan
 - name: Medical Assistance in Dying - Public Consultations and Roundtables with Experts
     and Stakeholders
   url: https://www.justice.gc.ca/eng/cons/ad-am/index.html
 - name: United Nations Declaration on the Rights of Indigenous Peoples
   url: 'https://www.justice.gc.ca/eng/declaration/engagement/index.html '
-- name: 'Responding to the overrepresentation of Black youth in the criminal justice
-    system '
-  url: .nan
-- name: Academia’s Take on the Future of Justice in Canada 
-  url: .nan
 - name: Amendments to the Interpretation Act to add a non-derogation clause and to
     repeal some existing non-derogation clauses.
   url: https://www.justice.gc.ca/eng/declaration/legislation.html#sb-5
@@ -1996,20 +1906,8 @@ sites:
   url: N/A/
 - name: Consultations on the Creation of a Criminal Case Review Commission
   url: https://can-ccrc-consult.ca/
-- name: 'Justice Data Modernization Initiative - Research on Overrepresentation: Discussions
-    with Stakeholders'
-  url: .nan
-- name: Special Advocate Program Independent Selection Committee
-  url: .nan
-- name: Feedback on the Consultations Report on the Creation of a Criminal Case Review
-    Commission
-  url: .nan
 - name: Public Consultation on HIV non-disclosure
   url: 'https://www.justice.gc.ca/eng/cons/hiv-vih/index.html '
-- name: Black Community Organizations Consultation and Engagement on Canada's Black
-    Justice Strategy to Address the Overrepresentation of Black people in the Criminal
-    Justice System.
-  url: .nan
 - name: Future Skills
   url: https://www.canada.ca/en/employment-social-development/programs/future-skills.html
 - name: 'Temporary Foreign Workers: Primary Agricultural Review'
@@ -2146,9 +2044,6 @@ sites:
   url: https://www.canada.ca/en/employment-social-development/programs/international-affairs/consultation-supply-chains.html
 - name: Consultation on Wage Earner Protection Program Regulations
   url: https://www.canada.ca/en/employment-social-development/programs/labour-standards-equity/consultation-wage-earner-protection.html
-- name: 'Consultations on Foundational Regulations related to the Accessible Canada
-    Act '
-  url: .nan
 - name: 'Temporary Foreign Worker Program: Mandatory Requirements for Employer-Provided
     Accommodations'
   url: https://www.canada.ca/en/employment-social-development/programs/temporary-foreign-worker/consultation-accommodations.html
@@ -2211,18 +2106,6 @@ sites:
   url: https://www.canada.ca/en/employment-social-development/programs/sustainable-development-goals/voluntary-national-review-consultation.html
 - name: Supporting Aging at Home
   url: https://www.canada.ca/en/national-seniors-council/consultation-aging-at-home.html
-- name: Proposed Amendments to Schedule 2 of the Metal Mining Effluent Regulations
-    related to the proposed Blackrock Mine Project
-  url: .nan
-- name: Proposed Amendments to Schedule 2 of the Metal Mining Effluent Regulations
-    related to the proposed Kerr-Sulphurets-Mitchell (KSM) Mine Project
-  url: .nan
-- name: Proposed Amendments to Schedule 2 of the Metal Mining Effluent Regulations
-    related to the proposed Rainy River Project
-  url: .nan
-- name: Proposed Amendments to Schedule 2 of the Metal Mining Effluent Regulations
-    related to the proposed Young-Davidson Mine Project
-  url: .nan
 - name: Consultation Document on the proposed regulatory approach to prohibit asbestos
     and products containing asbestos
   url: https://www.canada.ca/en/environment-climate-change/services/canadian-environmental-protection-act-registry/publications/consultation-regulatory-approach-prohibit-asbestos.html
@@ -2235,9 +2118,6 @@ sites:
   url: http://www.gazette.gc.ca/rp-pr/p1/2017/2017-05-13/html/reg2-eng.html
 - name: 'Proposed Coal Mining Effluent Regulations '
   url: 'Proposed Coal Mining Effluent Regulations: overview - Canada.ca'
-- name: Consultation on the Proposed Amendments to Schedule 2 of the MMER Associated
-    with the Mont Wright Project Expansion in Quebec
-  url: .nan
 - name: Consultation on the Proposed Amendments to Schedule 2 of the MMER Associated
     with the Sisson Mine in New Brunswick
   url: https://www.canada.ca/en/environment-climate-change/services/managing-pollution/sources-industry/mining/amendments-metal-diamond-mining-effluent-regulations/consultation/response-comments-sisson-project.html
@@ -3534,11 +3414,6 @@ sites:
 - name: 'Metal and Diamond Mining Effluent Regulations - Schedule 2 Amendments (Project:
     Whale Tail Pit Expansion)'
   url: https://www.canada.ca/en/environment-climate-change/services/managing-pollution/sources-industry/mining/amendments-metal-diamond-mining-effluent-regulations/whale-tail-pit-mining-project.html
-- name: 'Metal and Diamond Mining Effluent Regulations - Schedule 2 Amendments (Project:
-    Goliath)'
-  url: .nan
-- name: Canadian Plastics Innovation Challenges
-  url: .nan
 - name: 'Consultation: proposed renewal of the environmental performance agreement
     respecting the use of tin stabilizers in the vinyl industry'
   url: https://www.canada.ca/en/environment-climate-change/services/environmental-performance-agreements/list/tin-stabilizers-vinyl-industry-consultation.html
@@ -3556,22 +3431,11 @@ sites:
   url: '
 
     https://www.canada.ca/en/environment-climate-change/services/pollutants/pcb-in-environment/comment-potential-amendments-bpc-regulations.html'
-- name: 'Consultations on the Review of the Storage Tank Systems for Petroleum Products
-    and Allied Petroleum Products Regulations
-
-    '
-  url: .nan
 - name: Discussion on a Proposed integrated management approach to plastic products
     to prevent waste and pollution
   url: https://www.canada.ca/en/environment-climate-change/services/managing-reducing-waste/consultations/plastics.html
 - name: Consultation on the New Substances Program Remissions Approach
   url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/consultation-draft-new-substances-program-remissions-approach.html
-- name: 'Metal and Diamond Mining Effluent Regulations - Schedule 2 Amendments (Project:
-    Macassa)'
-  url: .nan
-- name: 'Metal and Diamond Mining Effluent Regulations - Schedule 2 Amendments (Project:
-    West Detour)'
-  url: .nan
 - name: Consultation on the new weather radar at Fort McMurray, AB
   url: https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/radar-overview/modernizing-network.html
 - name: Consultation on the new weather radar at Radisson, SK
@@ -3730,9 +3594,6 @@ sites:
   url: 'https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/proposed-regulations-mercury.html  '
 - name: Participate in the risk assessment process for the EntoEngine fly
   url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/entoengine-fly-public-engagement.html
-- name: 'Metal and Diamond Mining Effluent Regulations - Schedule 2 Amendments (Project:
-    Porcupine Mine)) '
-  url: .nan
 - name: Consultations on Canada's 2030 Biodiversity Strategy
   url: https://www.canada.ca/en/services/environment/wildlife-plants-species/biodiversity.html
 - name: 'Canada’s voice: towards an ambitious new legally binding global agreement
@@ -4010,8 +3871,6 @@ sites:
   url: https://www.iaac-aeic.gc.ca/050/evaluations/proj/83417
 - name: Alternative Response Measures
   url: https://letstalktransportation.ca/rsrm
-- name: Medium/Large Vessel Recycling and Disposal - Industry Engagement Session
-  url: .nan
 - name: Public consultation on the transition of open net-pen aquaculture in British
     Columbia
   url: https://www.dfo-mpo.gc.ca/about-notre-sujet/engagement/2021/bc-open-net-pen-aquaculture-parcs-en-filet-cb-eng.html
@@ -4035,29 +3894,12 @@ sites:
 - name: Consultation on a regulatory proposal to prescribe stocks to the Fish Stocks
     provisions
   url: To be determined
-- name: 'Indigenous Dialogue Session on Coastal Restoration Fund (CRF) '
-  url: .nan
-- name: North Atlantic Right Whale Advisory Committee (NARW AC) Post-Meeting with
-    Indigenous Partners
-  url: .nan
-- name: Community Consultation related to the Socio-Economic Overview Report for the
-    Southampton Island Area of Interest Marine Protected Area
-  url: .nan
-- name: Aquatic Ecosystems Restoration Fund Workshop
-  url: .nan
 - name: Listing of Mako shark on the Species at Risk public registry
   url: https://species-registry.canada.ca/index-en.html#/species/909-636
-- name: DFO Regional Strategy for Marine Spatial Planning, Quebec Region
-  url: .nan
 - name: Vessel Policy Harmonization across Atlantic Canada and Quebec's Inshore Fisheries
   url: TBD
 - name: Northern Shelf Bioregion (NSB) - Marine Protected Area Network
   url: https://mpanetwork.ca/engage/
-- name: Future of marine finfish aquaculture licensing in the Discovery Islands
-  url: .nan
-- name: Consultation on Glass Sponge Reef-Rockfish Conservation Area (GSR-RCA) alignment
-    in Howe Sound and surrounding inlets
-  url: .nan
 - name: Vessel-related policy consultations
   url: TBD
 - name: Rope-on-Demand/Ropeless Fishing Systems Manufacturers Meeting 
@@ -4078,19 +3920,9 @@ sites:
 - name: Wave 3 - Engagement on Policy and Regulatory Initiatives – Fish and Fish Habitat
     Protection
   url: http://www.talkfishhabitat.ca
-- name: Coastal Community Conservation Opportunities Initiative
-  url: .nan
 - name: Revision of the management plan for Banc-des-Américains Marine Protected Area
     (MPA)
   url: https://www.dfo-mpo.gc.ca/oceans/mpa-zpm/american-americains/index-eng.html
-- name: Action Plan for the Richelieu River
-  url: .nan
-- name: Management Plan for the Northern Sunfish
-  url: .nan
-- name: Management Plan for the Silver Lamprey
-  url: .nan
-- name: Blue Whale Recovery Stategy Update, Atlantic population
-  url: .nan
 - name: Harrington Harbor hauling slip repair
   url: https://iaac-aeic.gc.ca/050/evaluations/proj/84543?culture=en-CA
 - name: Tang.ɢwan — ḥačxwiqak — Tsiǥis Marine Protected Area (Offshore Pacific)
@@ -4102,8 +3934,6 @@ sites:
   url: https://www.dfo-mpo.gc.ca/fisheries-peches/ifmp-gmp/elver-anguille/index-eng.html
 - name: 'Marine Spatial Planning '
   url: https://www.dfo-mpo.gc.ca/oceans/planning-planification/index-eng.html
-- name: 'Ongoing Engagement '
-  url: .nan
 - name: Management Plan for the Mapleleaf (Quadrula quadrula) Great Lakes – Upper
     St. Lawrence Population, and Rainbow (Villosa iris) in Canada
   url: https://wildlife-species.canada.ca/species-risk-registry/involved/consultation/default_e.cfm
@@ -4113,12 +3943,8 @@ sites:
 - name: Addition of a line of floating pontoons and the riprap to breakwater 301 at
     Grosse-Île harbour, Magdalen Islands
   url: https://iaac-aeic.gc.ca/050/evaluations/proj/86003?culture=en-CA
-- name: Corrective work on breakwater 302 at Étang-du-Nord harbour, Iles-de-la-Madeleine
-  url: .nan
 - name: Relocation of the line of floating pontoons at Entry Island Harbour
   url: https://iaac-aeic.gc.ca/050/evaluations/proj/85998?culture=en-CA
-- name: Reconstruction of the commercial wharf at Grande-Entrée harbour
-  url: .nan
 - name: Listing of Lumpfish, Ringed Seal and Harbour Porpoise on the Species at Risk
     public registry
   url: Species at risk public registry - Canada.ca
@@ -8554,56 +8380,14 @@ sites:
   url: http://www.cic.gc.ca/english/department/consultations/index.asp
 - name: Consulting the Public on Marriages of Convenience
   url: http://www.cic.gc.ca/english/department/media/releases/2010/2010-09-27.asp
-- name: IRCC Caregiver Pilot Programs consultations.
-  url: .nan
-- name: Consultation on Immigration Levels 2018
-  url: .nan
-- name: Consultations on Priorities for the Settlement Program and Resettlement Assistance
-    Program 2019 National Call for Proposals.
-  url: .nan
-- name: Consultation on Immigration Levels and Mix 2019
-  url: .nan
-- name: Consultation on Immigration Levels and the Municipal Nominee Program
-  url: .nan
-- name: Ministerial Consultation on Immigration Levels and the Municipal Nominee Program
-  url: .nan
-- name: Excessive Demand
-  url: .nan
-- name: Regulations Amending the Immigration and Refugee Protection Regulations (Excessive
-    Demand)
-  url: .nan
-- name: Ministerial Consultation on Immigration Levels and Responsive Economic Immgration
-  url: .nan
-- name: Consultation on Immigration Levels and Responsive Economic Immigration
-  url: .nan
-- name: EU Digital COVID Certificate and EU Consular Coordination in Canada meeting
-  url: .nan
 - name: Consultation on the Atlantic Immigration Program (pre-publication of regulations)
   url: https://canadagazette.gc.ca/rp-pr/p1/2021/2021-06-12/html/reg2-eng.html
 - name: Consultation on Code of Professional Conduct for College of Immigration and
     Citizenship Consultants (pre-publication of ministerial regulation)
   url: https://www.gazette.gc.ca/rp-pr/p1/2021/2021-05-15/html/reg1-eng.html
-- name: Invitation to Qualify - Facial Recognition Software Service Contract Project
-  url: .nan
-- name: Request for Proposal for Facial Recognition Software Service Contract (Maintenance)
-  url: .nan
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url:  https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
-- name: 'Human rights defenders: Final consultations on program design'
-  url: .nan
-- name: Discussions with the U.S. government on joint resettlement efforts of Afghan
-    nationals and evacuation of Canadian citizens
-  url: .nan
-- name: Discussions with the Veterans Transition Network (VTN) on faciliating travel
-    of persons out of Afghanistan
-  url: .nan
-- name: Discussions with Front Line Defenders (FLD) and ProtectDefenders.eu (PD) on
-    facilitating travel of persons out of Afghanistan and resettlement referrals
-  url: .nan
-- name: Discussions on the European Union’s Digital COVID Certificate and EU consular
-    coordination in Canada
-  url: .nan
 - name: Consultations on immigration levels
   url: https://letstalkimmigration.ca/2022-consultations-on-immigration-levels
 - name: Online survey of newcomers to Canada
@@ -8613,21 +8397,8 @@ sites:
   url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/consultations/2022-consultations-express-entry-selection.html
 - name: An immigration system for Canada’s future
   url: https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/canada-future-immigration-system.html
-- name: Enhancing Express Entry through category-based selection to better meet Canada’s
-    evolving economic needs 
-  url: .nan
 - name: Consultations on immigration levels
   url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/consultations.html
-- name: Presentation about IRCC’s Digital Platform Modernization efforts at a conference
-    hosted by the Canadian Association of Professional Immigration Consultants (CAPIC)
-  url: .nan
-- name: Meeting with IRCC’s Youth Advisory Group (YAG) on IRCC’s Digital Platform
-    Mobilization (DPM) efforts
-  url: .nan
-- name: Consultation on a new Francophone Immigration Policy with community representatives
-  url: .nan
-- name: Consultation on a new Francophone Immigration Policy with government partners
-  url: .nan
 - name: Expert Panel - Review of Environmental Assessment Processes
   url: http://eareview-examenee.ca/
 - name: Let's Talk Environmental Assessment
@@ -9821,18 +9592,10 @@ sites:
 - name: Indigenous Procurement Modernization (including Procurement Strategy for Aboriginal
     Business)
   url: https://www.aadnc-aandc.gc.ca/eng/1554218527634/1554218554486
-- name: Renewal of the Fire Protection Strategy
-  url: .nan
-- name: 'Indian Oil and Gas Regulation Amendments: Environment'
-  url: .nan
 - name: 'Developing laws and regulations for First Nations drinking water and wastewater:
     engagement 2022/2023'
   url: 'Developing laws and regulations for First Nations drinking water and wastewater:
     engagement 2022/2023 (sac-isc.gc.ca)'
-- name: National Outcome-Based Framework
-  url: .nan
-- name: Developing a Policy on External Data Sharing
-  url: .nan
 - name: 'Engagement 2023: Updating the Protocol For Centralised Drinking Water Systems
     in First Nations communities'
   url: https://www.sac-isc.gc.ca/eng/1689939603075/1689939693020
@@ -9862,8 +9625,6 @@ sites:
   url: https://www.infrastructure.gc.ca/plan/about-invest-apropos-eng.html
 - name: Market Sounding - Climate Lens
   url: https://www.infrastructure.gc.ca/plan/about-invest-apropos-eng.html
-- name: Community Employment Benefits Intiative
-  url: .nan
 - name: Natioanl Rresearch Council of Canada workshop on Adaptation to Climate Change
   url: https://www.nrc-cnrc.gc.ca/eng/achievements/highlights/2018/climate_resiliency.html
 - name: Re engagement on Smart Cities Indigenous competition
@@ -9881,8 +9642,6 @@ sites:
   url: https://www.infrastructure.gc.ca/nia-eni/index-eng.html
 - name: 'Consultation on the Active Transportation Fund and Strategy '
   url: https://www.infrastructure.gc.ca/trans/active-actif-eng.html
-- name: 'Consultation on the Rural Transit Solutions Fund '
-  url: .nan
 - name: Indigenous Outreach - Green and Inclusive Community Buildings
   url: https://www.infrastructure.gc.ca/gicb-bcvi/index-eng.html#:~:text=The%20Green%20and%20Inclusive%20Community%20Buildings%20(%20GICB%20)%20program%20aims%20to,more%20resilient%2C%20and%20higher%20performing.
 - name: Canada Infrastructure Bank Act legislative review
@@ -10334,9 +10093,6 @@ sites:
     Agents and Trademark Agents , as part of Budget Implementation Act, 2018, No.
     2.'
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-03-13/html/reg2-eng.html
-- name: CIPO IT Modernization - Technical consultations with Intellectual Property
-    firms
-  url: .nan
 - name: Considering the Creation of New Biomanufacturing Capacity for Canada
   url: https://www.ic.gc.ca/eic/site/151.nsf/eng/00016.html
 - name: Consultation of the Technical and Policy Framework for Licence-Exempt Use
@@ -10358,9 +10114,6 @@ sites:
     by majority voting, retention of documents by the Director, and technical and
     administrative amendments.
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-03-27/html/reg2-eng.html
-- name: 'Consultations with the trademark agent community on the Trademarks Opposition
-    Board (TMOB) services and current practices and procedures. '
-  url: .nan
 - name: 'Canada Gazette, Part I, Volume 155, Number 11: College of Patent Agents and
     Trademark Agents Regulations'
   url: https://canadagazette.gc.ca/rp-pr/p1/2021/2021-03-13/html/reg2-eng.html
@@ -10416,8 +10169,6 @@ sites:
   url: https://www.ic.gc.ca/eic/site/mc-mc.nsf/eng/lm04971.html
 - name: 'Canadian Intellectual Property Office –  Fee Adjustment '
   url: https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/h_wr05037.html
-- name: Dialogue Day with Official Languages Minority Communities (OLMC)
-  url: .nan
 - name: TIPB-002-2021 – Petitions to the Governor in Council concerning Telecom Decision
     CRTC 2021-181
   url: https://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf11754.html
@@ -10428,8 +10179,6 @@ sites:
   url: https://www.ic.gc.ca/eic/site/mc-mc.nsf/eng/lm04990.html
 - name: Competition Bureau invites feedback on draft Information Bulletin on Transparency
   url: https://www.competitionbureau.gc.ca/eic/site/cb-bc.nsf/eng/04626.html
-- name: 'Personal Protective Equipment Industry Workshop: Securing Domestic Capacity'
-  url: .nan
 - name: Regulations Amending the National Security Review of Investments Regulations
   url: https://www.ic.gc.ca/eic/site/020.nsf/eng/h_00645.html
 - name: 'Pan-Canadian Genomics Strategy  '
@@ -10445,8 +10194,6 @@ sites:
 - name: Consultation on Conditions of Licence relating to the Provision of Service
     within the Toronto Transit Commission (TTC) Subway System
   url: https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/learn-more/key-documents/consultations/consultation-conditions-licence-relating-provision-service-within-toronto-transit-commission-ttc
-- name: Consultation on the Spectrum Licence Transfer Framework
-  url: .nan
 - name: Form 60.1, Request for Withdrawal of Mediation, Form 80.1, Notice of Withdrawal
     of the Opposition to Discharge of Bankrupt, and Proposed Amendments to Forms 62,
     Notice of Cancellation of Mediation, and Form 84, Certificate of Discharge
@@ -10477,20 +10224,8 @@ sites:
   url: https://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf11778.html
 - name: Business Development Bank of Canada (BDC) Legislative Review
   url: https://ised-isde.canada.ca/site/bdc-review/en
-- name: Future of COVID-19 Business Stakeholder Calls
-  url: .nan
-- name: Consultation with selected agents from the trademark agent community and representatives
-    from trademark agent organizations on the preliminary policy proposal of the TMOB
-    for the implementation of the Registrar's new authorities introduced under Bill
-    C-86.
-  url: .nan
-- name: Trademarks Opposition Board (TMOB) annual virtual tour of trademark agent
-    firms.
-  url: .nan
 - name: Consultation on Substantive Patent Law Harmonization Issues
   url: https://www.ic.gc.ca/eic/siTe/cipointernet-internetopic.nsf/eng/h_wr05097.html
-- name: Consultation on CIPO's 2022-2023 client service standards
-  url: .nan
 - name: Consultation on new Competition Bureau Compliance Portal
   url: https://ised-isde.canada.ca/site/competition-bureau-canada/en/how-we-foster-competition/consultations/consultation-new-compliance-portal
 - name: Regulations amending the Canada Business Corporations Regulations, 2001
@@ -10511,9 +10246,6 @@ sites:
   url: https://ised-isde.canada.ca/site/measurement-canada/en/consultations/consultation-proposed-specifications-and-test-procedures-approval-level-1-and-level-2-electric
 - name: Amendements to Directive No 11R3, Surplus Income Directive
   url: https://ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/public-consultations
-- name: 'A Canadian innovation and investment agency: RouUne agence canadienne d’innovation
-    et d’investissement : discussion de table rondendtable Discussion'
-  url: .nan
 - name: The Future of Competition Policy in Canada
   url: 'https://ised-isde.canada.ca/site/strategic-policy-sector/en/marketplace-framework-policy/competition-policy/consultation-future-competition-policy-canada '
 - name: Proposed policy direction to the CRTC for competition, affordability, consumer
@@ -10528,11 +10260,6 @@ sites:
     \ can be accessed via the following link: https://ised-isde-gcdocs.ic.gc.ca/IC-GCDOCS/cs.exe/Overview/39659711\
     \  \n\n\"Report on the Strategy to Support Entrepreneurs in OLMCs_(English).pdf\"\
     \ can be accessed via the following link: https://ised-isde-gcdocs.ic.gc.ca/IC-GCDOCS/cs.exe/Overview/38455054 "
-- name: National Quantum Strategy Consultation on Security and Immigration for Businesses
-    and Academics
-  url: .nan
-- name: Development of a National Lab to Market Program
-  url: .nan
 - name: Consultation on provisions in GEN-28 for the inspection and testing of compressed
     natural gas dispensers
   url: 'https://www.ic.gc.ca/eic/site/mc-mc.nsf/eng/lm05020.html '
@@ -10550,12 +10277,8 @@ sites:
   url: https://ised-isde.canada.ca/site/intellectual-property-strategy/en/strategic-intellectual-property-program-review
 - name: Future of the Federal Research Support System
   url: https://ised-isde.canada.ca/site/panel-federal-research-support/en
-- name: Comprehensive Regulatory Review
-  url: .nan
 - name: Retail Grocery Market Study
   url: https://ised-isde.canada.ca/site/competition-bureau-canada/en/how-we-foster-competition/promotion-and-advocacy/reports-and-studies/retail-grocery-market-study
-- name: Critical Infrastructure Manufacturing Sector (CIMS) stakeholder consultations
-  url: .nan
 - name: Petition to the Governor in Council concerning Telecom Regulatory Policy CRTC
     2021-130
   url: https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/learn-more/key-documents/gazette-notices-and-petitions/petitions-governor-council/petition-governor-council-concerning-telecom-regulatory-policy-crtc-2021-130
@@ -10563,44 +10286,11 @@ sites:
     draft practice notices of the Trademarks Opposition Board
   url: Public consultation on proposed amendments to the Trademarks Regulations and
     draft practice notices of the Trademarks Opposition Board (canada.ca)
-- name: Consultation on CIPO's 2023-2024 client service standards
-  url: .nan
 - name: 'Canada Gazette, Part I: 30 day public consultations on proposed changes to
     fees charged by the Canadian Intellectual Property Office '
   url: https://www.gazette.gc.ca/rp-pr/p1/2022/2022-12-31/html/index-eng.html
-- name: Consultation to review how to better protect the public interest in cases
-    of public post-secondary educational institutions insolvency
-  url: .nan
 - name: Proposed Amendments to Directive No 23, Publication in Local Newspaper
   url: https://ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/public-consultations
-- name: Consultation on the Verification Specifications for In-service Level 1 and
-    2 AC Electric Vehicle Supply Equipment (EVSE).
-  url: .nan
-- name: Consultation on potential changes to the specifications for Multiple Dimension
-    Measuring Devices
-  url: .nan
-- name: Canada Gazette Part 1 - Regulations Amending the Electricity and Gas Inspection
-    Regulations and the Weights and Measures Regulations
-  url: .nan
-- name: Pre-regulatory Consultations -Electricity and Gas Inspection Regulations
-  url: .nan
-- name: Pre-regulatory Consultations -Weights and Measures Regulations
-  url: .nan
-- name: Consultation with Authorized Service Providers (ASPs) who use Online Reporting
-    Application (ORA).
-  url: .nan
-- name: Improving Canada’s Medical Countermeasure Readiness for Health Emergencies
-  url: .nan
-- name: Consultation on Amendments to Bulletin S-G-03 (new meter type for thermal
-    mass meters)
-  url: .nan
-- name: 'Consultation with selected agents from the trademark agent community and
-    representatives from trademark agent organizations to provide an operational update
-    on the progress of the Registrar''s new authorities introduced under Bill C-86,
-    as well as the reduction of extensions of time in opposition proceedings. '
-  url: .nan
-- name: CBV IP Valuations Survey
-  url: .nan
 - name: Consultation on amendments to the Patent Rules
   url: 'https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/consultation-amendments-patent-rules '
 - name: ' Development of a Canadian code of practice for generative AI'
@@ -10614,8 +10304,6 @@ sites:
   url: 'https://ised-isde.canada.ca/site/strategic-policy-sector/en/marketplace-framework-policy/consultation-copyright-age-generative-artificial-intelligence '
 - name: Bulletin on Amendments to the Abuse of Dominance Provisions
   url: https://ised-isde.canada.ca/site/competition-bureau-canada/en/how-we-foster-competition/consultations/bulletin-amendments-abuse-dominance-provisions
-- name: Consultation on CIPO's client service standards for trademarks.
-  url: .nan
 - name: Consultation on the Licence Renewal Process for the 24 GHz and 38 GHz Bands
     and Preliminary Consultation on Changes to the 24.25-26.5 GHz Band
   url: https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/node/2033
@@ -10641,20 +10329,6 @@ sites:
   url: http://dgpaapp.forces.gc.ca/en/defence-policy-review/index.asp
 - name: Defence Policy Review Public Consultation Paper
   url: http://dgpaapp.forces.gc.ca/en/defence-policy-review/consultation-paper.asp
-- name: Consultation - IDEaS program Exploration of a classified stream
-  url: .nan
-- name: Consultation to inform the regulatory development to support the implementation
-    of An Act to amend the National Defence Act and to make related and consequential
-    amendments to other Acts
-  url: .nan
-- name: Consultation to inform the regulatory development to support the implementation
-    of An Act to amend the National Defence Act and to make related and consequential
-    amendments to other Acts
-  url: .nan
-- name: Consultation to inform the regulatory development to support the implementation
-    of An Act to amend the National Defence Act and to make related and consequential
-    amendments to other Acts
-  url: .nan
 - name: Third Independent Review of the National Defence Act and Call for Submissions
   url: https://www.canada.ca/en/department-national-defence/corporate/policies-standards/acts-regulations/third-independant-review-national-defence-act-call-submission.html
 - name: Consultation to inform the regulatory development to support the implementation
@@ -10667,32 +10341,6 @@ sites:
   url: https://www.canada.ca/en/department-national-defence/services/benefits-military/legal-services/victim-service-offence.html
 - name: Social systems professional services
   url: www.marsdd.com
-- name: Indigenous Reconciliation Program
-  url: .nan
-- name: Indigenous Reconciliation Program
-  url: .nan
-- name: Indigenous Reconciliation Program
-  url: .nan
-- name: Indigenous Reconciliation Program
-  url: .nan
-- name: Indigenous Reconciliation Program
-  url: .nan
-- name: Indigenous Reconciliation Program
-  url: .nan
-- name: Indigenous Reconciliation Program
-  url: .nan
-- name: Indigenous Reconciliation Program
-  url: .nan
-- name: Indigenous Reconciliation Program
-  url: .nan
-- name: Indigenous Reconciliation Program
-  url: .nan
-- name: Indigenous Reconciliation Program
-  url: .nan
-- name: Indigenous Reconciliation Program
-  url: .nan
-- name: Indigenous Reconciliation Program
-  url: .nan
 - name: Public review on proposed changes to Codes Canada publications - Fall 2019
   url: https://nrc.canada.ca/en/certifications-evaluations-standards/codes-canada/codes-development-process/public-review-proposed-changes-codes-canada-publications-fall-2019
 - name: Pole Removal at NRC Dominion Radio Astrophysical Observatory
@@ -10802,33 +10450,20 @@ sites:
   url: https://smractionplan.ca/
 - name: Modernizing Canada’s Radioactive Waste Policy
   url: https://www.rncanengagenrcan.ca/en/collections/modernizing-canadas-radioactive-waste-policy
-- name: National Adaptation Strategy
-  url: .nan
 - name: The Offshore Renewable Energy Regulations Initiative
   url: https://www.rncanengagenrcan.ca/en/collections/offshore-renewable-energy-regulations-initiative
 - name: Indigenous Ministerial Arrangements Regulations
   url: https://www.rncanengagenrcan.ca/en/content/development-new-indigenous-ministerial-arrangements-regulations
-- name: Pre-consultations on Amendment 17 to the Energy Efficiency Regulations
-  url: .nan
 - name: Sustainable Jobs/Just Transition
   url: https://www.parl.ca/legisinfo/en/bill/44-1/c-50
 - name: 'Canada''s Critical Minerals Strategy: Discussion Paper'
   url: https://www.canada.ca/en/campaign/critical-minerals-in-canada/canada-critical-minerals-strategy-discussion-paper.html#a2
-- name: Supporting OECD's Study of Antofagasta, Chile (Mining)
-  url: .nan
 - name: 'Canada Green Buildings Strategy: Discussion Paper'
   url: 'https://www.rncanengagenrcan.ca/en/content/industry-have-your-say
 
     https://www.rncanengagenrcan.ca/en/collections/canada-green-buildings-strategy'
-- name: Modernization of the Explosives Regulations, 2013
-  url: .nan
 - name: Clean Technology in Canada's Natural Resource Sectors
   url: https://www.nrcan.gc.ca/public-consultations/activities/10884
-- name: Engagement on supporting the growth of Canada's biofuels sector
-  url: .nan
-- name: Stakeholder engagement on managing conflicts of interest in the delivery of
-    the EnerGuide Rating System
-  url: .nan
 - name: National Planning Permit Process (Land Use Management Regulations)
   url: https://www.pc.gc.ca/en/agence-agency/lr-ar/consultations
 - name: Public Consultation on Ski Area Site Guidelines for Development and Use At
@@ -10842,8 +10477,6 @@ sites:
   url: https://www.pc.gc.ca/en/amnc-nmca/qc/saguenay/info/consultation
 - name: Sir Wilfrid Laurier national historic site - 2018 public consultation
   url: https://www.pc.gc.ca/en/lhn-nhs/qc/wilfridlaurier/gestion-management/consultation-2018
-- name: Niagara National Historic Sites Draft Management Plan, 2018
-  url: .nan
 - name: Sault St. Marie Canal National Historic Site Management Plan
   url: https://www.pc.gc.ca/en/lhn-nhs/on/ssmarie/info/index/plan/bulletin2
 - name: DRAFT Gwaii Haanas Gina 'Waadluxan KilGuhlGa Land-Sea-People Management Plan
@@ -11227,8 +10860,6 @@ sites:
 - name: 'Program on Social Procurement '
   url: Social Procurement Engagement / Engagement sur le programme d'approvisionnment
     social (office.com)
-- name: Engagement sessions for vendors of at-risk goods
-  url: .nan
 - name: Tunney’s Pasture Master Plan Project (Redevelopment)
   url: https://www.tpsgc-pwgsc.gc.ca/biens-property/construction/tunneyspasture-eng.html
 - name: Confederation Heights Master Plan (CHMP)
@@ -11237,10 +10868,6 @@ sites:
   url: na
 - name: Alexandra Bridge Replacement Project
   url: https://ncc-ccn.gc.ca/projects/alexandra-bridge-replacement#
-- name: Future of Wellington Street
-  url: .nan
-- name: Parliamentary Precinct Rehabilitation project
-  url: .nan
 - name: Your opinion counts! SSC's IT Transformation Plan Consultations
   url: https://www.canada.ca/en/shared-services/corporate/publications/information-technology-transformation-plan-consultations-report-2016.html
 - name: 'Standards Council of Canada: Stakeholder response requested for new ISO standard
@@ -11582,12 +11209,6 @@ sites:
   url: https://www.tc.gc.ca/en/transport-canada/corporate/consultations/public-consultation-proposed-purchase-transat-a-t-inc-air-canada.html
 - name: Marine Fuel in the Arctic
   url: https://www.tc.gc.ca/en/transport-canada/corporate/consultations/lets-talk-marine-fuel-arctic-2.html
-- name: Development of the Transportation of Dangerous Goods Client Identification
-    Database (TDG CID)
-  url: .nan
-- name: Development of the Transportation of Dangerous Goods Client Identification
-    Database (TDG CID)
-  url: .nan
 - name: Marine Fuel in the Arctic
   url: https://letstalktransportation.ca/marine-fuel-in-the-arctic2
 - name: Creating a new regulation for Administrative Monetary Penalties under the
@@ -11608,8 +11229,6 @@ sites:
 - name: Modernizing the Canadian Aviation Regulations - Personnel Training, Qualification
     and Licensing
   url: https://letstalktransportation.ca/cars-training-qualifications-licensing
-- name: Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA)
-  url: .nan
 - name: 'Following-up on the Railway Safety Act Review '
   url: https://tc.canada.ca/en/corporate-services/consultations/let-s-talk-rail-safety-safety-culture-policy-statement
 - name: Compensation for Ship-source Oil Spills
@@ -11729,20 +11348,12 @@ sites:
   url: https://tc.canada.ca/en/corporate-services/consultations
 - name: Updates to Canada's Vehicle Cyber Security Guidance
   url: https://N/A
-- name: 'TBD: Allowing Product Identification Numbers for restricted-use vehicles,
-    and Clarifying public roads'
-  url: .nan
 - name: Regulations Amending Certain Regulations Made Under the Motor Vehicle Safety
     Act (Recall Information)
   url: https://www.gazette.gc.ca/rp-pr/p1/2023/2023-06-17/html/reg3-eng.html
-- name: Regulations Amending Certain Regulations Under the Motor Vehicle Safety Act
-    (Information Gathering)
-  url: .nan
 - name: 'TBD: Updating Technical Standard Documents to accommodate new Standard Reference
     Test Tire'
   url: https://N/A
-- name: Updated requirements for Technical Standards Document (TSD) 108
-  url: .nan
 - name: 'TBD: Adopting Global Technical Regulations 13 and 20 for Zero Emission Vehicle
     Safety (Electric Battery and Hydrogen)'
   url: https://N/A
@@ -11750,22 +11361,12 @@ sites:
   url: https://N/A
 - name: 'TBD: Requirements for Advanced Driver Assistance Systems'
   url: https://N/A
-- name: 'TBD: Raising Awareness of Government Programs to Address Labour and Skill
-    Shortages'
-  url: .nan
 - name: Interference with CATSA screening at airports
   url: https://tc.canada.ca/en/corporate-services/consultations/let-s-talk-interference-catsa-screening-airports
 - name: 'Let’s talk: Labour shortages in Canada’s marine transportation sector'
   url: https://letstalktransportation.ca/lets-talk-labour-shortages-canadas-marine-transportation-sector
-- name: Preliminary Issue & Consultation Assessment (PICA) - Global Aeronautical Distress
-    and Safety System (GADSS)
-  url: .nan
 - name: Fee Modernisation Initiative for Transport Canada's Owned and Operated Ports
   url: https://TBD
-- name: 'Digitizing the Travel Journey at Airports '
-  url: .nan
-- name: Air Right Touch Engagement
-  url: .nan
 - name: Proposed amendments to the Environmental Response Regulations
   url: TBD
 - name: 'Let’s talk: Preparing and responding to marine pollution'
@@ -11862,9 +11463,6 @@ sites:
   url: https://letstalkfederalregulations.ca/
 - name: Regulations Amending the Government Contracts Regulations
   url: https://www.gazette.gc.ca/rp-pr/p1/2022/2022-06-18/html/reg10-eng.html
-- name: Follow-up discussions with Indigenous organizations consulted during the development
-    of the new Directive on the Management of Real Property
-  url: .nan
 - name: Creating Canada’s 6th  National Action Plan on Open Government
   url: TBC
 - name: 'Annual Regulatory Modernization Bill: keeping pace with change'
@@ -11882,13 +11480,6 @@ sites:
   url: http://www.veterans.gc.ca/eng/help/feedback
 - name: VAC Stakeholder Summit
   url: http://www.veterans.gc.ca/eng/about-us/stakeholder-engagement
-- name: Have your say! Online consultations – National Monument to Canada’s Mission
-    in Afghanistan
-  url: .nan
-- name: Veteran Community Consultation
-  url: .nan
-- name: Consultation and assessment of stakeholders’ needs regarding commemoration
-  url: .nan
 - name: Let’s Talk Veterans
   url: https://letstalkveterans.ca/
 - name: 'Disability Benefits Application Process Consultation '
