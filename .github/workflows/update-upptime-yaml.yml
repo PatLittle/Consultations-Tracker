@@ -1,0 +1,33 @@
+name: run update yaml
+
+on:
+  schedule:
+    - cron: '0 /4 * * *' # every 4 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v3 # checkout the repository content to github runner
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9.12' # install the python version needed
+          
+          
+      - name: execute py script 
+        
+        run:  python get-consultations.py
+          
+          
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -a -m "updates" --allow-empty
+          git push -f
