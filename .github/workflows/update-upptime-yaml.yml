@@ -12,6 +12,8 @@ jobs:
 
       - name: checkout repo content
         uses: actions/checkout@v3 # checkout the repository content to github runner
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
 
       - name: setup python
         uses: actions/setup-python@v4
