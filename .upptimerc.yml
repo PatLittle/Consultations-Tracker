@@ -1,7 +1,5 @@
 owner: PatLittle
 repo: Consultations-Tracker
-
-
 sites:
 - name: CBSA Assessment and Revenue Management (CARM) Information sessions on implementation
   url: https://www.cbsa-asfc.gc.ca/prog/carm-gcra/menu-eng.html
@@ -23,6 +21,9 @@ sites:
 - name: 'Share your thoughts: Support the development of a new national-level potato
     wart response plan'
   url: N
+- name: 'Share your thoughts: Proposed new livestock feed ingredient – 3-Nitrooxypropanol
+    (3-NOP)'
+  url: https://inspection.canada.ca/about-cfia/transparency/consultations-and-engagement/proposed-new-livestock-feed-ingredient-3-nitrooxyp/eng/1699286069890/1699286070639
 - name: Changing Narrative Fund
   url: https://www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
 - name: 2022-23 Consultations on renewal of the Museum Policy
@@ -403,10 +404,14 @@ status-website:
   theme: night
   baseUrl: /Consultations-Tracker
   logoUrl: https://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg
-  name: GC Automated Consultations QA 
-  introTitle: "[Consulting with Canadians](https://www.canada.ca/en/government/system/consultations/consultingcanadians.html) is Canada's one stop shop for finding Consultations."
-  introMessage: This tool scans all Consultations from [Consulting with Canadians](https://www.canada.ca/en/government/system/consultations/consultingcanadians.html) which are listed as either Open or Planned and checks to ensure the profile page is an active link. No server required —
-    This tool automatically get's the list of consultations from [Open Government](https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d/resource/92bec4b7-6feb-4215-a5f7-61da342b2354) and tries each link every 4 hours.
+  name: GC Automated Consultations QA
+  introTitle: '[Consulting with Canadians](https://www.canada.ca/en/government/system/consultations/consultingcanadians.html)
+    is Canada''s one stop shop for finding Consultations.'
+  introMessage: This tool scans all Consultations from [Consulting with Canadians](https://www.canada.ca/en/government/system/consultations/consultingcanadians.html)
+    which are listed as either Open or Planned and checks to ensure the profile page
+    is an active link. No server required — This tool automatically get's the list
+    of consultations from [Open Government](https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d/resource/92bec4b7-6feb-4215-a5f7-61da342b2354)
+    and tries each link every 4 hours.
   navbar:
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
