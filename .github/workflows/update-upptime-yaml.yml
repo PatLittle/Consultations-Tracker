@@ -12,8 +12,6 @@ jobs:
 
       - name: checkout repo content
         uses: actions/checkout@v3 # checkout the repository content to github runner
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
 
       - name: setup python
         uses: actions/setup-python@v4
@@ -27,13 +25,10 @@ jobs:
           
       - name: execute py script 
         
-        run:  python get-consultations.py
-          
-          
-      - name: commit files
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          python get-consultations.py
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add -A
           git commit -a -m "updates" --allow-empty
           git push -f
