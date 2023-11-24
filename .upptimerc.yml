@@ -402,8 +402,8 @@ sites:
 status-website:
   theme: night
   baseUrl: /Consultations-Tracker
-  logoUrl: https://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg
-  name: Government of Canada Automated Consultations QA 
+  logoUrl: hhttps://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg
+  name: GC Automated Consultations QA 
   introTitle: "[Consulting with Canadians](https://www.canada.ca/en/government/system/consultations/consultingcanadians.html) is Canada's one stop shop for finding Consultations."
   introMessage: This tool scans all Consultations from [Consulting with Canadians](https://www.canada.ca/en/government/system/consultations/consultingcanadians.html) which are listed as either Open or Planned and checks to ensure the profile page is an active link. No server required —
     This tool automatically get's the list of consultations from [Open Government](https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d/resource/92bec4b7-6feb-4215-a5f7-61da342b2354) and tries each link every 4 hours.
