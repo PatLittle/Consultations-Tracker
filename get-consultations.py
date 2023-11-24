@@ -20,13 +20,13 @@ df_filtered = df[df['status'] != 'C']
 # Select specific columns and rename them for YAML
 selected_data = df_filtered[['title_en', 'profile_page_en']].rename(columns={'title_en': 'name', 'profile_page_en': 'url'})
 
-# Remove ':' from the 'url' field
-selected_data['url'] = selected_data['url'].str.replace(':', '')
-selected_data['url'] = selected_data['url'].str.replace('\n', '')
-selected_data['name'] = selected_data['name'].str.replace('\n', '')
-
 # Further filter out entries where the URL is nan
 filtered_data = selected_data.dropna(subset=['url'])
+
+# Remove ':' from the 'url' field
+filtered_data['url'] = filtered_data['url'].str.replace(': ', '')
+filtered_data['url'] = filtered_data['url'].str.replace('\n', '')
+filtered_data['name'] = filtered_data['name'].str.replace('\n', '')
 
 # Update the 'sites' section in the YAML content
 yaml_content['sites'] = filtered_data.to_dict(orient='records')
