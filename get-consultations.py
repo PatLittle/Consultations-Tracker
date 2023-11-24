@@ -22,6 +22,8 @@ selected_data = df_filtered[['title_en', 'profile_page_en']].rename(columns={'ti
 
 # Remove ':' from the 'url' field
 selected_data['url'] = selected_data['url'].str.replace(':', '')
+selected_data['url'] = selected_data['url'].str.replace('\n', '')
+selected_data['name'] = selected_data['url'].str.replace('\n', '')
 
 # Further filter out entries where the URL is nan
 filtered_data = selected_data.dropna(subset=['url'])
