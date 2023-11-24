@@ -1,335 +1,401 @@
 owner: PatLittle
 repo: Consultations-Tracker
 sites:
-- name: https//www.cbsa-asfc.gc.ca/prog/carm-gcra/menu-eng.html
+- name: CBSA Assessment and Revenue Management (CARM) Information sessions on implementation
   url: https//www.cbsa-asfc.gc.ca/prog/carm-gcra/menu-eng.html
-- name: https//www.rcaanc-cirnac.gc.ca/eng/1511969222951/1529103469169
+- name: White River First Nations
   url: https//www.rcaanc-cirnac.gc.ca/eng/1511969222951/1529103469169
-- name: https//www.cer-rec.gc.ca/en/applications-hearings/submit-applications-documents/filing-manuals/filing-manual/filing-manual-updates/index.html
+- name: Filing Manual Updates
   url: https//www.cer-rec.gc.ca/en/applications-hearings/submit-applications-documents/filing-manuals/filing-manual/filing-manual-updates/index.html
-- name: https//www.cer-rec.gc.ca/en/about/how-we-regulate/plans-for-regulatory-framework/regulatory-framework-plan/index.html#s6
+- name: Regulatory Framework Plan
   url: https//www.cer-rec.gc.ca/en/about/how-we-regulate/plans-for-regulatory-framework/regulatory-framework-plan/index.html#s6
-- name: https//www.cer-rec.gc.ca/en/applications-hearings/submit-applications-documents/filing-manuals/filing-manual/filing-manual-updates/
+- name: 'Regulated Industry Engagement: '
   url: https//www.cer-rec.gc.ca/en/applications-hearings/submit-applications-documents/filing-manuals/filing-manual/filing-manual-updates/
-- name: https//www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/corporate-reports-information/consultations-official-language-minority-communities-across-canada.html
+- name: 'Official language minority communities (External organizations)  '
   url: https//www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/corporate-reports-information/consultations-official-language-minority-communities-across-canada.html
-- name: https//inspection.canada.ca/about-cfia/acts-and-regulations/regulatory-initiatives-notices-of-intent/amendment-of-sfcr/eng/1673446782165/1673446782946
+- name: 'Notice of Intent: Amendment to the Safe Food for Canadians Regulations'
   url: https//inspection.canada.ca/about-cfia/acts-and-regulations/regulatory-initiatives-notices-of-intent/amendment-of-sfcr/eng/1673446782165/1673446782946
-- name: https//inspection.canada.ca/importing-food-plants-or-animals/plant-and-plant-product-imports/international-plant-protection/eng/1307387838940/1307388165125#a3
+- name: IPPC Member consultation on draft International Standards for Phytosanitary
+    Measures and Implementation and Capacity Development Documents
   url: https//inspection.canada.ca/importing-food-plants-or-animals/plant-and-plant-product-imports/international-plant-protection/eng/1307387838940/1307388165125#a3
-- name: N
+- name: 'Share your thoughts: Support the development of a new national-level potato
+    wart response plan'
   url: N
-- name: https//www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
+- name: Changing Narrative Fund
   url: https//www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
-- name: https//www.canada.ca/en/canadian-heritage/campaigns/renewal-museum-policy.html
+- name: 2022-23 Consultations on renewal of the Museum Policy
   url: https//www.canada.ca/en/canadian-heritage/campaigns/renewal-museum-policy.html
-- name: https//letstalknuclearsafety.ca/regulatory-framework-plan-2
+- name: Regulatory Framework Plan
   url: https//letstalknuclearsafety.ca/regulatory-framework-plan-2
-- name: https//crtc.gc.ca/eng/archive/2019/2019-217.htm
+- name: Co-development of a new Indigenous Broadcasting Policy
   url: https//crtc.gc.ca/eng/archive/2019/2019-217.htm
-- name: https//crtc.gc.ca/eng/consultation/northwestel-norouestel.htm
+- name: Consultation on telecommunications services in the Far North
   url: https//crtc.gc.ca/eng/consultation/northwestel-norouestel.htm
-- name: Not  available
+- name: Enhancing the framing and parameters of GBA Plus
   url: Not  available
-- name: Not yet available
+- name: Bilateral funding agreements with Provinces and Territories on the implementation
+    of the National Action Plan to End Gender-Based Violence
   url: Not yet available
-- name: https//www.canada.ca/en/department-finance/programs/consultations/2023/proposed-acquisition-of-hsbc-bank-canada-by-royal-bank-of-canada.html
+- name: The proposed acquisition of HSBC Bank Canada by the Royal Bank of Canada
   url: https//www.canada.ca/en/department-finance/programs/consultations/2023/proposed-acquisition-of-hsbc-bank-canada-by-royal-bank-of-canada.html
-- name: https//www.canada.ca/en/department-finance/programs/consultations/2023/consultation-on-cracking-down-on-predatory-lending-faster-by-further-lowering-the-criminal-rate-of-interest-and-increasing-access-to-low-cost-credit.html
+- name: Consultation on Cracking Down on Predatory Lending Faster by Further Lowering
+    the Criminal Rate of Interest and Increasing Access to Low-Cost Credit
   url: https//www.canada.ca/en/department-finance/programs/consultations/2023/consultation-on-cracking-down-on-predatory-lending-faster-by-further-lowering-the-criminal-rate-of-interest-and-increasing-access-to-low-cost-credit.html
-- name: https//www.canada.ca/en/department-finance/programs/consultations/2023/consultation-on-defending-canadian-businesses-against-unfair-foreign-tax-credit-restrictions.html
+- name: Consultation on Defending Canadian Businesses Against Foreign Tax Credit Restrictions
   url: https//www.canada.ca/en/department-finance/programs/consultations/2023/consultation-on-defending-canadian-businesses-against-unfair-foreign-tax-credit-restrictions.html
-- name: https//www.justice.gc.ca/eng/declaration/legislation.html#sb-5
+- name: Amendments to the Interpretation Act to add a non-derogation clause and to
+    repeal some existing non-derogation clauses.
   url: https//www.justice.gc.ca/eng/declaration/legislation.html#sb-5
-- name: https//www.canada.ca/en/environment-climate-change/services/managing-pollution/energy-production/fuel-regulations/clean-fuel-standard.html
+- name: Clean Fuel Standard
   url: https//www.canada.ca/en/environment-climate-change/services/managing-pollution/energy-production/fuel-regulations/clean-fuel-standard.html
-- name: https//www.canada.ca/en/environment-climate-change/services/managing-pollution/fisheries-act-registry/consultation-modernization-pulp-paper-effluent-regulations.html
+- name: Consultation on the modernization of the Pulp and Paper Effluent Regulations
   url: https//www.canada.ca/en/environment-climate-change/services/managing-pollution/fisheries-act-registry/consultation-modernization-pulp-paper-effluent-regulations.html
-- name: Share your ideas Blackwater Project - Canada.ca
+- name: 'Metal and Diamond Mining Effluent Regulations - Schedule 2 Amendments (Project:
+    Blackwater)'
   url: Share your ideas Blackwater Project - Canada.ca
-- name: https//www.canada.ca/en/environment-climate-change/services/managing-pollution/sources-industry/volatile-organic-compounds-consumer-commercial/renewal-federal-agenda-volatile-organic-compound-consumer-commercial-product.html
+- name: 'Share and view ideas: Renewal of the Federal Agenda for Volatile Organic
+    Compounds in Consumer and Commercial Product'
   url: https//www.canada.ca/en/environment-climate-change/services/managing-pollution/sources-industry/volatile-organic-compounds-consumer-commercial/renewal-federal-agenda-volatile-organic-compound-consumer-commercial-product.html
-- name: https//www.canada.ca/en/environment-climate-change/services/managing-pollution/sources-industry/mining/metal-diamond-mining-effluent-regulation/blackwater-consultation.html
+- name: 'Share your ideas: Blackwater Project'
   url: https//www.canada.ca/en/environment-climate-change/services/managing-pollution/sources-industry/mining/metal-diamond-mining-effluent-regulation/blackwater-consultation.html
-- name: https//canada.ca/en/environment-climate-change/services/managing-pollution/sources-industry/mining/metal-diamond-mining-effluent-regulation/basin-dyno-consultation.html
+- name: 'Share ideas: Mont-Wright Mining Project (Dyno Basin)'
   url: https//canada.ca/en/environment-climate-change/services/managing-pollution/sources-industry/mining/metal-diamond-mining-effluent-regulation/basin-dyno-consultation.html
-- name: https//registre-especes.canada.ca/index-fr.html#/documents/923
+- name: Recovery Strategy (Amended) and Action Plan for the Piping Plover melodus
+    subspecies (Charadrius melodus melodus) in Canada [Proposed]
   url: https//registre-especes.canada.ca/index-fr.html#/documents/923
-- name: https//www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/macassa-project-consultation.html
+- name: 'Metal and Diamond Mining Effluent Regulations - Schedule 2 Amendments (Project:
+    Macassa)'
   url: https//www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/macassa-project-consultation.html
-- name: https//www.canada.ca/en/services/environment/weather/lets-talk-weather-consultation.html
+- name: Let's Talk Weather
   url: https//www.canada.ca/en/services/environment/weather/lets-talk-weather-consultation.html
-- name: https//www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/new-substance-notification.html
+- name: 'Share your thoughts: New Substances Notification Regulations (Organisms)
+    consultation'
   url: https//www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/new-substance-notification.html
-- name: https//www.canada.ca/en/environment-climate-change/services/managing-pollution/sources-industry/volatile-organic-compounds-consumer-commercial/consultation-architectural-coatings-regulations/architectural-coatings.html
+- name: 'Share your ideas: Proposed amendments to the Volatile Organic Compound (VOC)
+    Concentration Limits for Architectural Coatings Regulations '
   url: https//www.canada.ca/en/environment-climate-change/services/managing-pollution/sources-industry/volatile-organic-compounds-consumer-commercial/consultation-architectural-coatings-regulations/architectural-coatings.html
-- name: https//www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/labelling-toxic.html
+- name: Notice of intent on the labelling of toxic substances in products, including
+    toxic flame retardants
   url: https//www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/labelling-toxic.html
-- name: 'https//www.canada.ca/en/environment-climate-change/services/biodiversity/share-view-ideas-offsetting-policy-biodiversity.html '
+- name: Offsetting Policy for Biodiversity
   url: 'https//www.canada.ca/en/environment-climate-change/services/biodiversity/share-view-ideas-offsetting-policy-biodiversity.html '
-- name: https//www.canada.ca/en/services/environment/wildlife-plants-species/biodiversity.html
+- name: Consultations on Canada's 2030 Biodiversity Strategy
   url: https//www.canada.ca/en/services/environment/wildlife-plants-species/biodiversity.html
-- name: https//binational.net/2023/03/13/2022-2026-lake-huron-lakewide-action-and-management-plan-available-for-public-review-and-comment/
+- name: Draft Canada-US Lake Huron Lakewide Action & Management Plan
   url: https//binational.net/2023/03/13/2022-2026-lake-huron-lakewide-action-and-management-plan-available-for-public-review-and-comment/
-- name: https//www.canada.ca/en/environment-climate-change/services/managing-reducing-waste/consultations/cross-border-movement.html
+- name: 'Share your thoughts: Proposed amendments to the Cross-Border Movement of
+    Hazardous Waste and Hazardous Recyclable Material Regulations'
   url: https//www.canada.ca/en/environment-climate-change/services/managing-reducing-waste/consultations/cross-border-movement.html
-- name: 'https//www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/proposed-guidelines-reduction-dyes.html '
+- name: 'Share your thoughts: Proposed amended Guidelines for the Reduction of Dyes
+    Released from Pulp and Paper Mills'
   url: 'https//www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/proposed-guidelines-reduction-dyes.html '
-- name: 'https//www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/draft-state-pfas-report.html '
+- name: 'Share your thoughts: Draft State of Per- and Polyfluoroalkyl Substances (PFAS)
+    Report and Risk Management Scope'
   url: 'https//www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/draft-state-pfas-report.html '
-- name: https//www.canada.ca/en/environment-climate-change/services/wastewater/consultations-wastewater.html
+- name: 'Share and view ideas: Proposed amendments to the Wastewater Systems Effluent
+    Regulations'
   url: https//www.canada.ca/en/environment-climate-change/services/wastewater/consultations-wastewater.html
-- name: https//www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/dome-mine-project.html
+- name: 'Share your ideas: Amendments to the Metal and Diamond Mining Effluent Regulations
+    for the Dome Mine'
   url: https//www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/dome-mine-project.html
-- name: 'https//www.canada.ca/en/environment-climate-change/services/managing-pollution/sources-industry/mining-effluent/oil-sands.html '
+- name: Oil sands mining effluent
   url: 'https//www.canada.ca/en/environment-climate-change/services/managing-pollution/sources-industry/mining-effluent/oil-sands.html '
-- name: https//www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/consultation-phosphorus-lake-ontario.html
+- name: 'Share your ideas: Assessing phosphorus targets for Lake Ontario'
   url: https//www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/consultation-phosphorus-lake-ontario.html
-- name: https//www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/pollution-prevention-planning-notice-plastic-primary-food-packaging.html
+- name: Development of a pollution prevention (P2) planning notice for primary food
+    plastic packaging
   url: https//www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/pollution-prevention-planning-notice-plastic-primary-food-packaging.html
-- name: https//www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/entoengine-2.html
+- name: Participate in the risk assessment process for the EntoEngine fly producing
+    human FGF2
   url: https//www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/entoengine-2.html
-- name: https//www.canada.ca/en/environment-climate-change/services/managing-reducing-waste/consultations/proposed-regulations-amending-certain-regulations-department-environment-cross-border-movement.html
+- name: 'Proposed Amendments to the Cross-Border Movement of Hazardous Waste and Hazardous
+    Recyclable Materials Regulations '
   url: https//www.canada.ca/en/environment-climate-change/services/managing-reducing-waste/consultations/proposed-regulations-amending-certain-regulations-department-environment-cross-border-movement.html
-- name: http//www.dfo-mpo.gc.ca/oceans/consultations/easternshore-ilescoteest/index-eng.html
+- name: 'Eastern Shore Islands Area of Interest Consultations '
   url: http//www.dfo-mpo.gc.ca/oceans/consultations/easternshore-ilescoteest/index-eng.html
-- name: https//www.dfo-mpo.gc.ca/oceans/canada-quebec-agreement-entente/index-eng.html
+- name: 'St. Lawrence Estuary Area of Interest '
   url: https//www.dfo-mpo.gc.ca/oceans/canada-quebec-agreement-entente/index-eng.html
-- name: https//www.dfo-mpo.gc.ca/oceans/canada-quebec-agreement-entente/index-eng.html
+- name: Northern Gulf of St. Lawrence Study Area
   url: https//www.dfo-mpo.gc.ca/oceans/canada-quebec-agreement-entente/index-eng.html
-- name: https//www.dfo-mpo.gc.ca/oceans/aoi-si/fundian-fundy-browns-eng.html
+- name: 'Fundian Channel- Browns Bank Area of Interest '
   url: https//www.dfo-mpo.gc.ca/oceans/aoi-si/fundian-fundy-browns-eng.html
-- name: https//www.dfo-mpo.gc.ca/aquaculture/management-gestion/aar-raa-eng.htm
+- name: Aquaculture Activities Regulations (AAR)
   url: https//www.dfo-mpo.gc.ca/aquaculture/management-gestion/aar-raa-eng.htm
-- name: https//letstalkpacificsalmon.ca/
+- name: Let's talk Pacific Salmon
   url: https//letstalkpacificsalmon.ca/
-- name: TBD
+- name: Proposed ticketing for the enforcement of a fisheries offence under the Fisheries
+    Act
   url: TBD
-- name: http//www.talkfishhabitat.ca
+- name: Wave 3-Engagement on Policy and Regulatory Initiatives – Fish and Fish Habitat
+    Protection
   url: http//www.talkfishhabitat.ca
-- name: https//www.canadagazette.gc.ca/rp-pr/p1/2023/2023-02-18/html/reg5-eng.html
+- name: Tang.ɢwan — ḥačxwiqak — Tsiǥis Marine Protected Area (Offshore Pacific)
   url: https//www.canadagazette.gc.ca/rp-pr/p1/2023/2023-02-18/html/reg5-eng.html
-- name: https//www.dfo-mpo.gc.ca/oceans/networks-reseaux/development-developpement-eng.html
+- name: Conservation Network Development
   url: https//www.dfo-mpo.gc.ca/oceans/networks-reseaux/development-developpement-eng.html
-- name: https//www.dfo-mpo.gc.ca/sch-ppb/whitby/index-eng.html
+- name: Whitby Harbour Remediation Project
   url: https//www.dfo-mpo.gc.ca/sch-ppb/whitby/index-eng.html
-- name: https//www.pac.dfo-mpo.gc.ca/consultation/aquaculture/bc-transition-cb/index-eng.html
+- name: Discussion framework for a BC aquaculture open-net pen transition plan
   url: https//www.pac.dfo-mpo.gc.ca/consultation/aquaculture/bc-transition-cb/index-eng.html
-- name: To be determined
+- name: Consultation on a regulatory proposal to prescribe stocks to the Fish Stocks
+    provisions
   url: To be determined
-- name: https//www.dfo-mpo.gc.ca/species-especes/mammals-mammiferes/whales-baleines/gear-equipement/index-eng.html
+- name: Rope-on-Demand/Ropeless Fishing Systems Manufacturers Meeting 
   url: https//www.dfo-mpo.gc.ca/species-especes/mammals-mammiferes/whales-baleines/gear-equipement/index-eng.html
-- name: https//www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/consultation-documents/check-in-14-aquatic.html
+- name: Consultation check-in on 14 aquatic species under consideration for addition
+    or reclassification to Schedule 1 of the Species at Risk Act
   url: https//www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/consultation-documents/check-in-14-aquatic.html
-- name: https//www.pac.dfo-mpo.gc.ca/fm-gp/mammals-mammiferes/whales-baleines/srkw-measures-mesures-ers-eng.html
+- name: Potential 2023 management measures to address key threats to Southern Resident
+    Killer Whales
   url: https//www.pac.dfo-mpo.gc.ca/fm-gp/mammals-mammiferes/whales-baleines/srkw-measures-mesures-ers-eng.html
-- name: http//www.dfo-mpo.gc.ca/oceans/consultations/noise-bruit/index-eng.html
+- name: Draft Ocean Noise Strategy for Canada
   url: http//www.dfo-mpo.gc.ca/oceans/consultations/noise-bruit/index-eng.html
-- name: http//www.talkfishhabitat.ca
+- name: Wave 3 - Engagement on Policy and Regulatory Initiatives – Fish and Fish Habitat
+    Protection
   url: http//www.talkfishhabitat.ca
-- name: https//www.dfo-mpo.gc.ca/oceans/mpa-zpm/american-americains/index-eng.html
+- name: Revision of the management plan for Banc-des-Américains Marine Protected Area
+    (MPA)
   url: https//www.dfo-mpo.gc.ca/oceans/mpa-zpm/american-americains/index-eng.html
-- name: https//iaac-aeic.gc.ca/050/evaluations/proj/84543?culture=en-CA
+- name: Harrington Harbor hauling slip repair
   url: https//iaac-aeic.gc.ca/050/evaluations/proj/84543?culture=en-CA
-- name: https//www.canadagazette.gc.ca/rp-pr/p1/2023/2023-02-18/html/reg5-eng.html
+- name: Tang.ɢwan — ḥačxwiqak — Tsiǥis Marine Protected Area (Offshore Pacific)
   url: https//www.canadagazette.gc.ca/rp-pr/p1/2023/2023-02-18/html/reg5-eng.html
-- name: https//www.dfo-mpo.gc.ca/fisheries-peches/ifmp-gmp/elver-anguille/index-eng.html
+- name: Elver Fishery Management Review
   url: https//www.dfo-mpo.gc.ca/fisheries-peches/ifmp-gmp/elver-anguille/index-eng.html
-- name: https//www.dfo-mpo.gc.ca/oceans/planning-planification/index-eng.html
+- name: 'Marine Spatial Planning '
   url: https//www.dfo-mpo.gc.ca/oceans/planning-planification/index-eng.html
-- name: https//wildlife-species.canada.ca/species-risk-registry/involved/consultation/default_e.cfm
+- name: Management Plan for the Mapleleaf (Quadrula quadrula) Great Lakes – Upper
+    St. Lawrence Population, and Rainbow (Villosa iris) in Canada
   url: https//wildlife-species.canada.ca/species-risk-registry/involved/consultation/default_e.cfm
-- name: https//www.registrelep-sararegistry.gc.ca/document/default_e.cfm?documentID=173
+- name: 'Management Plan for the Northern Sunfish (Lepomis peltastes) in Canada (Great
+    Lakes – Upper St. Lawrence Populations) '
   url: https//www.registrelep-sararegistry.gc.ca/document/default_e.cfm?documentID=173
-- name: https//iaac-aeic.gc.ca/050/evaluations/proj/86003?culture=en-CA
+- name: Addition of a line of floating pontoons and the riprap to breakwater 301 at
+    Grosse-Île harbour, Magdalen Islands
   url: https//iaac-aeic.gc.ca/050/evaluations/proj/86003?culture=en-CA
-- name: https//iaac-aeic.gc.ca/050/evaluations/proj/85998?culture=en-CA
+- name: Relocation of the line of floating pontoons at Entry Island Harbour
   url: https//iaac-aeic.gc.ca/050/evaluations/proj/85998?culture=en-CA
-- name: Species at risk public registry - Canada.ca
+- name: Listing of Lumpfish, Ringed Seal and Harbour Porpoise on the Species at Risk
+    public registry
   url: Species at risk public registry - Canada.ca
-- name: https//www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
+- name: Proposed Amendments to the Export Permits Regulations
   url: https//www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
-- name: https//www.canada.ca/en/health-canada/programs/engagement-indigenous-perspectives-medical-assistance-dying.html
+- name: Engagement on Indigenous Perspectives on Medical Assistance in Dying
   url: https//www.canada.ca/en/health-canada/programs/engagement-indigenous-perspectives-medical-assistance-dying.html
-- name: https//www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2023/agrobacterium-radiobacter-strain-k84.html
+- name: Consultation on Agrobacterium radiobacter strain K84 and Its Associated End-use
+    Products, Proposed Re-evaluation Decision PRVD2023-04
   url: https//www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2023/agrobacterium-radiobacter-strain-k84.html
-- name: https//www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2023/difenoconazole-leaves-of-root-and-tuber-vegetables.html
+- name: Consultation on difenoconazole, Proposed Maximum Residue Limit PMRL2023-43
   url: https//www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2023/difenoconazole-leaves-of-root-and-tuber-vegetables.html
-- name: https//www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2023/pydiflumetofen-leaves-of-root-and-tuber-vegetables.html
+- name: Consultation on pydiflumetofen, Proposed Maximum Residue Limit PMRL2023-42
   url: https//www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2023/pydiflumetofen-leaves-of-root-and-tuber-vegetables.html
-- name: https//www.canada.ca/en/health-canada/programs/consultation-guidelines-canadian-drinking-water-quality-iron.html
+- name: 'Consultation on guidelines for Canadian drinking water quality: Iron'
   url: https//www.canada.ca/en/health-canada/programs/consultation-guidelines-canadian-drinking-water-quality-iron.html
-- name: https//www.canada.ca/en/health-canada/programs/consultation-proposed-residential-indoor-air-quality-guidelines-benzene.html
+- name: 'Consultation: Proposed Residential Indoor Air Quality Guidelines for Benzene'
   url: https//www.canada.ca/en/health-canada/programs/consultation-proposed-residential-indoor-air-quality-guidelines-benzene.html
-- name: https//www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2023/pyriofenone-300-sc-fungicide.html
+- name: Consultation on Pyriofenone 300 SC Fungicide, containing pyriofenone, Proposed
+    Registration Decision PRD2023-08
   url: https//www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2023/pyriofenone-300-sc-fungicide.html
-- name: https//www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2023/pyriofenone.html
+- name: Consultation on pyriofenone, Proposed Maximum Residue Limit PMRL2023-44
   url: https//www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2023/pyriofenone.html
-- name: https//www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2023/carfentrazone-ethyl-mustard-seeds.html
+- name: Consultation on carfentrazone-ethyl, Proposed Maximum Residue Limit PMRL2023-45
   url: https//www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2023/carfentrazone-ethyl-mustard-seeds.html
-- name: https//www.canada.ca/en/health-canada/programs/consultation-proposal-derivitives-analogues-4-piperdone-salts-controlled-drugs-and-substances-act.html
+- name: 'Share your views: Consultation on a proposal to control the derivatives and
+    analogues of 4-piperidone and its salts under the Controlled Drugs and Substances
+    Act'
   url: https//www.canada.ca/en/health-canada/programs/consultation-proposal-derivitives-analogues-4-piperdone-salts-controlled-drugs-and-substances-act.html
-- name: https//www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2023/lecanicillium-muscarium-ve6-mycotal-biological-insecticide.html
+- name: Consultation on Lecanicillium muscarium strain Ve6 and Mycotal Biological
+    Insecticide, Proposed Registration Decision PRD2023-09
   url: https//www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2023/lecanicillium-muscarium-ve6-mycotal-biological-insecticide.html
-- name: https//www.canada.ca/en/health-canada/programs/consultation-proposed-regulations-amending-certain-regulations-concerning-food-additives-compositional-standards-microbiological-criteria-methods-analysis-food.html
+- name: Consultation on the proposed Regulations Amending Certain Regulations Concerning
+    Food Additives and Compositional Standards, Microbiological Criteria and Methods
+    of Analysis for Food
   url: https//www.canada.ca/en/health-canada/programs/consultation-proposed-regulations-amending-certain-regulations-concerning-food-additives-compositional-standards-microbiological-criteria-methods-analysis-food.html
-- name: https//www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-special-review-decision/2023/fosetyl-aluminum.html
+- name: Consultation on the proposed special review decision of fosetyl-aluminum and
+    its associated end-use products, PSRD2023-02
   url: https//www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-special-review-decision/2023/fosetyl-aluminum.html
-- name: https//www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2023/paclobutrazol.html
+- name: Consultation on Paclobutrazol, Proposed Registration Decision PRD2023-10
   url: https//www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2023/paclobutrazol.html
-- name: https//www.canada.ca/en/public-health/programs/consultation-vision-public-health-assessment-canada-future.html
+- name: 'Consultation: A vision for public health assessment for Canada’s future'
   url: https//www.canada.ca/en/public-health/programs/consultation-vision-public-health-assessment-canada-future.html
-- name:  https//gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
+- name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
+    Foreign Workers)
   url:  https//gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
-- name: https//www.canada.ca/en/immigration-refugees-citizenship/campaigns/canada-future-immigration-system.html
+- name: An immigration system for Canada’s future
   url: https//www.canada.ca/en/immigration-refugees-citizenship/campaigns/canada-future-immigration-system.html
-- name: Public Notice - Comments Invited on the Summary of the Initial Project Description
-    (iaac-aeic.gc.ca)
+- name: De Havilland Field ProjectComments Invited on the Summary of the Initial Project
+    Description
   url: Public Notice - Comments Invited on the Summary of the Initial Project Description
     (iaac-aeic.gc.ca)
-- name: Public Notice - Participant Funding Available (iaac-aeic.gc.ca)
+- name: Aspen Power Station Project -Participant Funding Available
   url: Public Notice - Participant Funding Available (iaac-aeic.gc.ca)
-- name: Public Notice Comments Invited on the Summary of the Initial Project Description
-    (iaac-aeic.gc.ca)
+- name: Aspen Power Station Project - Comments Invited on the Summary of the Initial
+    Project Description
   url: Public Notice Comments Invited on the Summary of the Initial Project Description
     (iaac-aeic.gc.ca)
-- name: https//iaac-aeic.gc.ca/050/evaluations/document/153177?culture=en-CA
+- name: Strange Lake Rare Earth Mining ProjectPublic Comments Invited on the Summary
+    of the Initial Project Description
   url: https//iaac-aeic.gc.ca/050/evaluations/document/153177?culture=en-CA
-- name: https//iaac-aeic.gc.ca/050/evaluations/document/153236?culture=en-CA
+- name: Strange Lake Rare Earth Mining ProjectParticipant Funding Available
   url: https//iaac-aeic.gc.ca/050/evaluations/document/153236?culture=en-CA
-- name: http//www.pgic-iogc.gc.ca/eng/1471964522302/1471964567990
+- name: Indian Oil and Gas Regulations - Phase II
   url: http//www.pgic-iogc.gc.ca/eng/1471964522302/1471964567990
-- name: https//www.aadnc-aandc.gc.ca/eng/1554218527634/1554218554486
+- name: Indigenous Procurement Modernization (including Procurement Strategy for Aboriginal
+    Business)
   url: https//www.aadnc-aandc.gc.ca/eng/1554218527634/1554218554486
-- name: Developing laws and regulations for First Nations drinking water and wastewater
-    engagement 2022/2023 (sac-isc.gc.ca)
+- name: 'Developing laws and regulations for First Nations drinking water and wastewater:
+    engagement 2022/2023'
   url: Developing laws and regulations for First Nations drinking water and wastewater
     engagement 2022/2023 (sac-isc.gc.ca)
-- name: https//www.sac-isc.gc.ca/eng/1689939603075/1689939693020
+- name: 'Engagement 2023: Updating the Protocol For Centralised Drinking Water Systems
+    in First Nations communities'
   url: https//www.sac-isc.gc.ca/eng/1689939603075/1689939693020
-- name: https//www.infrastructure.gc.ca/nia-eni/index-eng.html
+- name: National Infrastructure Assessment
   url: https//www.infrastructure.gc.ca/nia-eni/index-eng.html
-- name: https//www.ic.gc.ca/eic/site/cb-bc.nsf/eng/h_00142.html
+- name: Competition Bureau invites feedback on changes to the Textile Labelling and
+    Advertising Regulations
   url: https//www.ic.gc.ca/eic/site/cb-bc.nsf/eng/h_00142.html
-- name: Not yet available
+- name: 'Canada Gazette, Part I: Public Consultations on proposed changes to the Patent
+    Rules and Trademark Regulations in regards to the creation of the College of Patent
+    Agents and Trademark Agents , as part of Budget Implementation Act, 2018, No.
+    2.   '
   url: Not yet available
-- name: https//ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/public-consultations
+- name: Form 60.1, Request for Withdrawal of Mediation, Form 80.1, Notice of Withdrawal
+    of the Opposition to Discharge of Bankrupt, and Proposed Amendments to Forms 62,
+    Notice of Cancellation of Mediation, and Form 84, Certificate of Discharge
   url: https//ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/public-consultations
-- name: https//ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/public-consultations
+- name: Amendements to Directive No 11R3, Surplus Income Directive
   url: https//ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/public-consultations
-- name: https//ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/public-consultations
+- name: Proposed Amendments to Directive No 23, Publication in Local Newspaper
   url: https//ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/public-consultations
-- name: https//ised-isde.canada.ca/site/measurement-canada/en/consultations/share-your-thoughts-impacts-alternative-fuel-and-fuel-blends-metering-devices
+- name: Consultation on the impacts of alternative fuel and fuel blends on metering
+    devices
   url: https//ised-isde.canada.ca/site/measurement-canada/en/consultations/share-your-thoughts-impacts-alternative-fuel-and-fuel-blends-metering-devices
-- name: 'https//ised-isde.canada.ca/site/strategic-policy-sector/en/marketplace-framework-policy/consultation-copyright-age-generative-artificial-intelligence '
+- name: Consultation on Copyright in the Age of Generative Artificial Intelligence
   url: 'https//ised-isde.canada.ca/site/strategic-policy-sector/en/marketplace-framework-policy/consultation-copyright-age-generative-artificial-intelligence '
-- name: https//ised-isde.canada.ca/site/competition-bureau-canada/en/how-we-foster-competition/consultations/bulletin-amendments-abuse-dominance-provisions
+- name: Bulletin on Amendments to the Abuse of Dominance Provisions
   url: https//ised-isde.canada.ca/site/competition-bureau-canada/en/how-we-foster-competition/consultations/bulletin-amendments-abuse-dominance-provisions
-- name: https//ised-isde.canada.ca/site/spectrum-management-telecommunications/en/node/2033
+- name: Consultation on the Licence Renewal Process for the 24 GHz and 38 GHz Bands
+    and Preliminary Consultation on Changes to the 24.25-26.5 GHz Band
   url: https//ised-isde.canada.ca/site/spectrum-management-telecommunications/en/node/2033
-- name: https//library-archives.canada.ca/eng/corporate/about-us/our-partners/Pages/indigenous-advisory-circle.aspx
+- name: Indigenous Advisory Circle
   url: https//library-archives.canada.ca/eng/corporate/about-us/our-partners/Pages/indigenous-advisory-circle.aspx
-- name: https//library-archives.canada.ca/eng/corporate/about-us/our-partners/pages/stakeholders-forum.aspx
+- name: 'Stakeholders'' Forum '
   url: https//library-archives.canada.ca/eng/corporate/about-us/our-partners/pages/stakeholders-forum.aspx
-- name: https//library-archives.canada.ca/eng/corporate/about-us/our-partners/Pages/services-consultation-group.aspx
+- name: Services Consultation Committee
   url: https//library-archives.canada.ca/eng/corporate/about-us/our-partners/Pages/services-consultation-group.aspx
-- name: https//library-archives.canada.ca/eng/corporate/about-us/our-partners/Pages/youth-advisory-council.aspx
+- name: Youth Advisory Council
   url: https//library-archives.canada.ca/eng/corporate/about-us/our-partners/Pages/youth-advisory-council.aspx
-- name: https//www.canada.ca/en/department-national-defence/services/benefits-military/legal-services/victim-service-offence.html
+- name: Consultation to inform the regulatory development to support the implementation
+    of An Act to amend the National Defence Act and to make related and consequential
+    amendments to other Acts
   url: https//www.canada.ca/en/department-national-defence/services/benefits-military/legal-services/victim-service-offence.html
-- name: https//www.canada.ca/en/department-national-defence/services/benefits-military/legal-services/victim-service-offence.html
+- name: Consultation to inform the regulatory development to support the implementation
+    of An Act to amend the National Defence Act and to make related and consequential
+    amendments to other Acts
   url: https//www.canada.ca/en/department-national-defence/services/benefits-military/legal-services/victim-service-offence.html
-- name: www.marsdd.com
+- name: Social systems professional services
   url: www.marsdd.com
-- name: https//www.rncanengagenrcan.ca/en/collections/offshore-renewable-energy-regulations-initiative
+- name: The Offshore Renewable Energy Regulations Initiative
   url: https//www.rncanengagenrcan.ca/en/collections/offshore-renewable-energy-regulations-initiative
-- name: https//www.rncanengagenrcan.ca/en/content/development-new-indigenous-ministerial-arrangements-regulations
+- name: Indigenous Ministerial Arrangements Regulations
   url: https//www.rncanengagenrcan.ca/en/content/development-new-indigenous-ministerial-arrangements-regulations
-- name: https//www.canada.ca/en/services/policing/emergencies/targeted-engagement-nrp.html
+- name: National Risk Profile (NRP) Targeted Engagement
   url: https//www.canada.ca/en/services/policing/emergencies/targeted-engagement-nrp.html
-- name: https//www.canada.ca/en/services/defence/nationalsecurity/consultation-foreign-influence-transparency.html
+- name: Consultation on a foreign influence transparency registry
   url: https//www.canada.ca/en/services/defence/nationalsecurity/consultation-foreign-influence-transparency.html
-- name: https//www.tpsgc-pwgsc.gc.ca/pmc-cgp/pipmc-secgp-eng.html
+- name: 'PSPC Controlled Goods Program’s Industry Engagement Committee (IEC) '
   url: https//www.tpsgc-pwgsc.gc.ca/pmc-cgp/pipmc-secgp-eng.html
-- name: https//www.tpsgc-pwgsc.gc.ca/trans/documentinfo-briefingmaterial/proc/2020_02_27/p15-eng.html#a3
+- name: Providing green energy services to buildings in the National Capital Region
+    (NCR) beyond the Federal Government Portfolio
   url: https//www.tpsgc-pwgsc.gc.ca/trans/documentinfo-briefingmaterial/proc/2020_02_27/p15-eng.html#a3
-- name: na
+- name: Three-year Departmental Accessibility Plan
   url: na
-- name: https//ncc-ccn.gc.ca/projects/alexandra-bridge-replacement#
+- name: Alexandra Bridge Replacement Project
   url: https//ncc-ccn.gc.ca/projects/alexandra-bridge-replacement#
-- name: 'https//www.statcan.gc.ca/eng/consultation/2019/mpa '
+- name: Multifactor Productivity Application
   url: 'https//www.statcan.gc.ca/eng/consultation/2019/mpa '
-- name: https//www.statcan.gc.ca/en/consultation/2022/sccs2022
+- name: Statistics Canada Client Survey 2022
   url: https//www.statcan.gc.ca/en/consultation/2022/sccs2022
-- name: https//www.statcan.gc.ca/en/consultation/2022/coep
+- name: Census of the Environment Program
   url: https//www.statcan.gc.ca/en/consultation/2022/coep
-- name: https//www.statcan.gc.ca/en/consultation/2022/coep
+- name: Statistics Canada is seeking input on the new Census of Environment program
   url: https//www.statcan.gc.ca/en/consultation/2022/coep
-- name: https//www.statcan.gc.ca/en/consultation/2023/csds
+- name: Statistics Canada is seeking input on the improved Standards, data sources
+    and methods hub
   url: https//www.statcan.gc.ca/en/consultation/2023/csds
-- name: https//www.statcan.gc.ca/en/consultation/2023/missing-persons-data-standards
+- name: Missing persons data standards consultative engagement
   url: https//www.statcan.gc.ca/en/consultation/2023/missing-persons-data-standards
-- name: https//www.statcan.gc.ca/en/consultation/2023/stdp
+- name: Statistics Canada's data products consultative engagement
   url: https//www.statcan.gc.ca/en/consultation/2023/stdp
-- name: 'https//www.statcan.gc.ca/en/consultation/2023/census-data-on-demand '
+- name: Census Data on Demand (CDOD) program consultative engagement
   url: 'https//www.statcan.gc.ca/en/consultation/2023/census-data-on-demand '
-- name: https//www.statcan.gc.ca/en/consultation/2023/naics
+- name: Invitation to participate in the revision of the North American Industry Classification
+    System (NAICS) Canada
   url: https//www.statcan.gc.ca/en/consultation/2023/naics
-- name: https//www.statcan.gc.ca/en/consultation/2023/napcs
+- name: Invitation to participate in the revision of the North American Product Classification
+    System (NAPCS) Canada
   url: https//www.statcan.gc.ca/en/consultation/2023/napcs
-- name: https//www.statcan.gc.ca/en/consultation/2023/mbm-poverty
+- name: Market Basket Measure of poverty (2023-base) consultative engagement
   url: https//www.statcan.gc.ca/en/consultation/2023/mbm-poverty
-- name: https//www.statcan.gc.ca/en/consultation/2023/stdp
+- name: Statistics Canada's data products consultative engagement
   url: https//www.statcan.gc.ca/en/consultation/2023/stdp
-- name: "\thttps//www.tsb.gc.ca/eng/qui-about/relation.html"
+- name: Watchlist 2020 mid-cycle consultation with industry
   url: "\thttps//www.tsb.gc.ca/eng/qui-about/relation.html"
-- name: https//www.letstalktransportation.ca/OPP
+- name: Oceans Protection Plan
   url: https//www.letstalktransportation.ca/OPP
-- name: https//letstalktransportation.ca/understanding-the-effects-of-marine-vessel-activity-on-coastal-environments
+- name: OPP - Understanding the Cumulative Effects of Marine Vessel Activity on Coastal
+    and Marine Environments
   url: https//letstalktransportation.ca/understanding-the-effects-of-marine-vessel-activity-on-coastal-environments
-- name: https//www.tc.gc.ca/eng/engagement-marine-safety-security-regulations.html
+- name: Canadian Marine Advisory Council (CMAC)
   url: https//www.tc.gc.ca/eng/engagement-marine-safety-security-regulations.html
-- name: https//www.dfo-mpo.gc.ca/about-notre-sujet/engagement/2021/shipping-corridors-navigation-eng.html
+- name: 'OPP: Northern Low-Impact Shipping Corridors'
   url: https//www.dfo-mpo.gc.ca/about-notre-sujet/engagement/2021/shipping-corridors-navigation-eng.html
-- name: https//N/A
+- name: Options to Address Mandatory Wear of Lifejackets/Personal Floatation Devices
+    on Pleasure Craft
   url: https//N/A
-- name: https//Webpage in development
+- name: Consultation on a user interface for the Regulatory Evaluation Platform
   url: https//Webpage in development
-- name: https//tc.canada.ca/en/corporate-services/consultations/let-s-talk-polar-code-adding-new-vessel-types-arctic-shipping-safety-pollution-prevention-regulations
+- name: 'Let’s Talk Polar Code: Adding new vessel types to the Arctic Shipping Safety
+    and Pollution Prevention Regulations'
   url: https//tc.canada.ca/en/corporate-services/consultations/let-s-talk-polar-code-adding-new-vessel-types-arctic-shipping-safety-pollution-prevention-regulations
-- name: https//tc.canada.ca/en/corporate-services/consultations/let-s-talk-transportation-public-interest-assessment-bunge-s-proposed-acquisition-viterra
+- name: 'Let’s Talk Transportation: Public Interest Assessment of Bunge’s Proposed
+    Acquisition of Viterra'
   url: https//tc.canada.ca/en/corporate-services/consultations/let-s-talk-transportation-public-interest-assessment-bunge-s-proposed-acquisition-viterra
-- name: https//N/A
+- name: Updates to Canada's Vehicle Cyber Security Guidance
   url: https//N/A
-- name: https//N/A
+- name: 'TBD: Updating Technical Standard Documents to accommodate new Standard Reference
+    Test Tire'
   url: https//N/A
-- name: https//N/A
+- name: 'TBD: Adopting Global Technical Regulations 13 and 20 for Zero Emission Vehicle
+    Safety (Electric Battery and Hydrogen)'
   url: https//N/A
-- name: https//N/A
+- name: 'TBD: Requirements for Automatic Emergency Braking Systems'
   url: https//N/A
-- name: https//N/A
+- name: 'TBD: Requirements for Advanced Driver Assistance Systems'
   url: https//N/A
-- name: https//TBD
+- name: Fee Modernisation Initiative for Transport Canada's Owned and Operated Ports
   url: https//TBD
-- name: TBD
+- name: Proposed amendments to the Environmental Response Regulations
   url: TBD
-- name: https//whova.com/portal/registration/foppd_202311/
+- name: Fall 2023 OPP Pacific Dialogue Forum
   url: https//whova.com/portal/registration/foppd_202311/
-- name: https//tc.canada.ca/en/campaigns/protecting-our-coasts-oceans-protection-plan/stronger-partnerships-indigenous-coastal-communities/what-salish-sea-strategy
+- name: Salish Sea Summit – As part of the Salish Sea Strategy
   url: https//tc.canada.ca/en/campaigns/protecting-our-coasts-oceans-protection-plan/stronger-partnerships-indigenous-coastal-communities/what-salish-sea-strategy
-- name: https//N/A
+- name: EMSA Workshop
   url: https//N/A
-- name: https//tc.canada.ca/en/corporate-services/consultations/vessel-operation-restriction-regulations-providing-provinces-municipalities-greater-role-managing-their-waterways-0
+- name: 'The Vessel Operation Restriction Regulations: Providing provinces and municipalities
+    with a greater role in managing their waterways'
   url: https//tc.canada.ca/en/corporate-services/consultations/vessel-operation-restriction-regulations-providing-provinces-municipalities-greater-role-managing-their-waterways-0
-- name: https//NA
+- name: Updating Regulations for Response Organizations and Oil Handling Facilities
   url: https//NA
-- name: https//letstalktransportation.ca/long-term-anchoring
+- name: Long-Term Anchoring
   url: https//letstalktransportation.ca/long-term-anchoring
-- name: TBC
+- name: Creating Canada’s 6th  National Action Plan on Open Government
   url: TBC
-- name: TBC
+- name: Creating Canada’s 6th  National Action Plan on Open Government
   url: TBC
-- name: 'https//www.veterans.gc.ca/eng/about-vac/what-we-do/public-engagement/veterans-health-well-being-assessment '
+- name: Veterans’ health and well-being assessment
   url: 'https//www.veterans.gc.ca/eng/about-vac/what-we-do/public-engagement/veterans-health-well-being-assessment '
 status-website:
   baseUrl: /Consultations-Tracker
