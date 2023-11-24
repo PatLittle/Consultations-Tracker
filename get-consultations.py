@@ -2,7 +2,7 @@ import pandas as pd
 import yaml
 
 # Path to the uploaded YAML file
-yaml_file_path = '/content/upptimerc.yml'  # Replace with your actual YAML file path
+yaml_file_path = '/home/runner/work/Consultations-Tracker/Consultations-Tracker/.upptimerc.yml'  # Replace with your actual YAML file path
 
 # URL of the CSV file
 csv_url = 'https://open.canada.ca/data/en/datastore/dump/92bec4b7-6feb-4215-a5f7-61da342b2354'  # Replace with the actual URL of the CSV file
