@@ -402,7 +402,7 @@ sites:
 status-website:
   theme: night
   baseUrl: /Consultations-Tracker
-  logoUrl: hhttps://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg
+  logoUrl: https://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg
   name: GC Automated Consultations QA 
   introTitle: "[Consulting with Canadians](https://www.canada.ca/en/government/system/consultations/consultingcanadians.html) is Canada's one stop shop for finding Consultations."
   introMessage: This tool scans all Consultations from [Consulting with Canadians](https://www.canada.ca/en/government/system/consultations/consultingcanadians.html) which are listed as either Open or Planned and checks to ensure the profile page is an active link. No server required —
