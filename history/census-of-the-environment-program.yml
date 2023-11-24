@@ -1,7 +1,7 @@
-url: https://www.statcan.gc.ca/en/consultation/2022/coep
-status: up
-code: 200
-responseTime: 142
-lastUpdated: 2023-11-24T00:07:26.051Z
+url: https//www.statcan.gc.ca/en/consultation/2022/coep
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-11-24T00:22:37.596Z
 startTime: 2023-11-24T00:07:25.907Z
 generator: Upptime <https://github.com/upptime/upptime>
