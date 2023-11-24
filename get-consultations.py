@@ -14,6 +14,35 @@ with open(yaml_file_path, 'r', encoding='utf8') as file:
 # Read the CSV file
 df = pd.read_csv(csv_url)
 
+# Filtering the DataFrame for rows where 'status' = 'O' and 'end_date' is before today's date
+today = datetime.today().date()
+p5 = today + timedelta(days=5)
+m5 = today - timedelta(days=5)
+
+subset_df = df[['registration_number', 'title_en', 'start_date', 'end_date', 'status', 'owner_org']]
+
+p5m5_start_df = subset_df[pd.to_datetime(subset_df['start_date']).isin(pd.date_range(m5, p5))]
+p5m5_start_df = p5m5_start_df.sort_values(by='start_date', ascending=False)
+html_p5m5_start = p5m5_start_df.to_html(index=False)
+
+p5m5_close_df = subset_df[pd.to_datetime(subset_df['end_date']).isin(pd.date_range(m5, p5))]
+p5m5_close_df = p5m5_close_df.sort_values(by='end_date', ascending=False)
+html_p5m5_close = p5m5_close_df.to_html(index=False)
+
+late_close_df = subset_df[(subset_df['status'] == 'O') & (pd.to_datetime(subset_df['end_date']).dt.date < today)]
+late_close_df = late_close_df.sort_values(by='end_date', ascending=False)
+html_late_close = late_close_df.to_html(index=False)
+
+early_close_df = subset_df[(subset_df['status'] == 'C') & (pd.to_datetime(subset_df['end_date']).dt.date > today)]
+early_close_df = early_close_df.sort_values(by='end_date', ascending=False)
+html_early_close = early_close_df.to_html(index=False)
+
+late_start_df = subset_df[(subset_df['status'] == 'P') & (pd.to_datetime(subset_df['start_date']).dt.date < today)]
+late_start_df = late_start_df.sort_values(by='start_date', ascending=False)
+html_late_start = late_start_df.to_html(index=False)
+
+yaml_content['status-website']['customBodyHtml'] = ''.join("<h3>Consultations Starting +/- 5 days from today</h3>"+html_p5m5_start+"<h3>Consultations Ending +/- 5 days from today</h3>"+html_p5m5_close)
+
 # Filter out rows where 'status' column equals 'C'
 df_filtered = df[df['status'] != 'C']
 
