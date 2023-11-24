@@ -412,6 +412,7 @@ status-website:
     is an active link. No server required — This tool automatically get's the list
     of consultations from [Open Government](https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d/resource/92bec4b7-6feb-4215-a5f7-61da342b2354)
     and tries each link every 4 hours.
+  customBodyHtml: "<!-- Custom HTML to add at the beginning of <body> -->"
   navbar:
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
