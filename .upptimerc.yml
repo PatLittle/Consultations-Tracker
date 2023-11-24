@@ -1,5 +1,7 @@
 owner: PatLittle
 repo: Consultations-Tracker
+
+
 sites:
 - name: CBSA Assessment and Revenue Management (CARM) Information sessions on implementation
   url: https://www.cbsa-asfc.gc.ca/prog/carm-gcra/menu-eng.html
@@ -398,19 +400,22 @@ sites:
 - name: Veterans’ health and well-being assessment
   url: 'https://www.veterans.gc.ca/eng/about-vac/what-we-do/public-engagement/veterans-health-well-being-assessment '
 status-website:
+  theme: ocean
   baseUrl: /Consultations-Tracker
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: '**Upptime** is the open-source uptime monitor and status page, powered
-    entirely by GitHub.'
-  introMessage: This is a sample status page which uses **real-time** data from our
-    [GitHub repository](https://github.com/upptime/upptime). No server required —
-    just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg
+  name: Government of Canada Automated Consultations QA 
+  introTitle: ' [Consulting with Canadians](https://www.canada.ca/en/government/system/consultations/consultingcanadians.html) is Canada's one stop shop for finding Consultations.'
+  introMessage: This tool scans all Consultations from [Consulting with Canadians](https://www.canada.ca/en/government/system/consultations/consultingcanadians.html) which are listed as either Open or Planned and checks to ensure the profile page is an active link. No server required —
+    This tool automatically get's the list of consultations from [Open Government](https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d/resource/92bec4b7-6feb-4215-a5f7-61da342b2354) and tries each link every 4 hours.
   navbar:
   - title: Status
     href: /
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
+  - title: Consulting with Canadians
+    href: https://www.canada.ca/en/government/system/consultations/consultingcanadians.html
+  - title: Consultations Open Data
+    href: https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d
 workflowSchedule:
   graphs: 0 0 * * *
   responseTime: 0 23 * * *
