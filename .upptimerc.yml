@@ -114,6 +114,9 @@ sites:
 - name: 'Proposed Amendments to the Cross-Border Movement of Hazardous Waste and Hazardous
     Recyclable Materials Regulations '
   url: https://www.canada.ca/en/environment-climate-change/services/managing-reducing-waste/consultations/proposed-regulations-amending-certain-regulations-department-environment-cross-border-movement.html
+- name: Consultation on FCAC's proposed Guideline on Complaint-Handling Procedures
+    for Trust and Loan Companies and Insurance Companies
+  url: https://www.canada.ca/en/financial-consumer-agency/corporate/transparency/consultations/complaint-handling-procedures-trust-loan-insurance.html
 - name: 'Eastern Shore Islands Area of Interest Consultations '
   url: http://www.dfo-mpo.gc.ca/oceans/consultations/easternshore-ilescoteest/index-eng.html
 - name: 'St. Lawrence Estuary Area of Interest '
@@ -183,6 +186,9 @@ sites:
   url: Species at risk public registry - Canada.ca
 - name: Proposed Amendments to the Export Permits Regulations
   url: https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
+- name: Canada’s participation in treaty negotiations on artificial intelligence at
+    the Council of Europe
+  url: https://www.international.gc.ca/consultation/artificial-intelligence-artificielle/index.aspx?lang=eng
 - name: Engagement on Indigenous Perspectives on Medical Assistance in Dying
   url: https://www.canada.ca/en/health-canada/programs/engagement-indigenous-perspectives-medical-assistance-dying.html
 - name: Consultation on Agrobacterium radiobacter strain K84 and Its Associated End-use
@@ -196,9 +202,6 @@ sites:
   url: https://www.canada.ca/en/health-canada/programs/consultation-guidelines-canadian-drinking-water-quality-iron.html
 - name: 'Consultation: Proposed Residential Indoor Air Quality Guidelines for Benzene'
   url: https://www.canada.ca/en/health-canada/programs/consultation-proposed-residential-indoor-air-quality-guidelines-benzene.html
-- name: Consultation on Pyriofenone 300 SC Fungicide, containing pyriofenone, Proposed
-    Registration Decision PRD2023-08
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2023/pyriofenone-300-sc-fungicide.html
 - name: Consultation on pyriofenone, Proposed Maximum Residue Limit PMRL2023-44
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2023/pyriofenone.html
 - name: Consultation on carfentrazone-ethyl, Proposed Maximum Residue Limit PMRL2023-45
@@ -305,8 +308,8 @@ sites:
   url: https://www.rncanengagenrcan.ca/en/content/development-new-indigenous-ministerial-arrangements-regulations
 - name: National Risk Profile (NRP) Targeted Engagement
   url: https://www.canada.ca/en/services/policing/emergencies/targeted-engagement-nrp.html
-- name: Consultation on a foreign influence transparency registry
-  url: https://www.canada.ca/en/services/defence/nationalsecurity/consultation-foreign-influence-transparency.html
+- name: Consultations on Foreign Interference
+  url: https://www.canada.ca/en/services/defence/nationalsecurity/consulting-canadians-countering-foreign-interference.html
 - name: 'PSPC Controlled Goods Program’s Industry Engagement Committee (IEC) '
   url: https://www.tpsgc-pwgsc.gc.ca/pmc-cgp/pipmc-secgp-eng.html
 - name: Providing green energy services to buildings in the National Capital Region
@@ -419,26 +422,32 @@ status-website:
     \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0211</td>\n      <td>Consultation\
     \ on the Verification Specifications for In-service Level 1 and 2 AC Electric\
     \ Vehicle Supply Equipment (EVSE).</td>\n      <td>2023-11-30</td>\n      <td>2024-01-12</td>\n\
-    \      <td>P</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>DFO20231018-04</td>\n\
-    \      <td>Reconstruction of the commercial wharf at Grande-Entrée harbour</td>\n\
-    \      <td>2023-11-20</td>\n      <td>2023-12-21</td>\n      <td>P</td>\n    \
-    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0000901</td>\n      <td>Consultation:\
-    \ A vision for public health assessment for Canada’s future</td>\n      <td>2023-11-20</td>\n\
-    \      <td>2024-03-01</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0228</td>\n      <td>Consultation on CIPO's client service\
-    \ standards for trademarks.</td>\n      <td>2023-11-20</td>\n      <td>2023-12-08</td>\n\
-    \      <td>O</td>\n      <td>ic</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
-    \ Ending +/- 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n\
-    \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
-    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
-    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>C-0000111</td>\n      <td>Consultation on Cracking Down on\
-    \ Predatory Lending Faster by Further Lowering the Criminal Rate of Interest and\
-    \ Increasing Access to Low-Cost Credit</td>\n      <td>2023-10-05</td>\n     \
-    \ <td>2023-11-30</td>\n      <td>O</td>\n      <td>fin</td>\n    </tr>\n    <tr>\n\
-    \      <td>STC0000061</td>\n      <td>Statistics Canada's data products consultative\
-    \ engagement</td>\n      <td>2023-09-22</td>\n      <td>2023-11-30</td>\n    \
-    \  <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-000045</td>\n\
+    \      <td>P</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C0000571</td>\n\
+    \      <td>Canada’s participation in treaty negotiations on artificial intelligence\
+    \ at the Council of Europe</td>\n      <td>2023-11-27</td>\n      <td>2024-01-10</td>\n\
+    \      <td>P</td>\n      <td>dfatd-maecd</td>\n    </tr>\n    <tr>\n      <td>C-7</td>\n\
+    \      <td>Consultation on FCAC's proposed Guideline on Complaint-Handling Procedures\
+    \ for Trust and Loan Companies and Insurance Companies</td>\n      <td>2023-11-23</td>\n\
+    \      <td>2024-01-08</td>\n      <td>O</td>\n      <td>fcac-acfc</td>\n    </tr>\n\
+    \    <tr>\n      <td>DFO20231018-04</td>\n      <td>Reconstruction of the commercial\
+    \ wharf at Grande-Entrée harbour</td>\n      <td>2023-11-20</td>\n      <td>2023-12-21</td>\n\
+    \      <td>P</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0000901</td>\n\
+    \      <td>Consultation: A vision for public health assessment for Canada’s future</td>\n\
+    \      <td>2023-11-20</td>\n      <td>2024-03-01</td>\n      <td>O</td>\n    \
+    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0228</td>\n      <td>Consultation\
+    \ on CIPO's client service standards for trademarks.</td>\n      <td>2023-11-20</td>\n\
+    \      <td>2023-12-08</td>\n      <td>O</td>\n      <td>ic</td>\n    </tr>\n \
+    \ </tbody>\n</table><h3>Consultations Ending +/- 5 days from today</h3><table\
+    \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
+    >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
+    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0000111</td>\n      <td>Consultation\
+    \ on Cracking Down on Predatory Lending Faster by Further Lowering the Criminal\
+    \ Rate of Interest and Increasing Access to Low-Cost Credit</td>\n      <td>2023-10-05</td>\n\
+    \      <td>2023-11-30</td>\n      <td>O</td>\n      <td>fin</td>\n    </tr>\n\
+    \    <tr>\n      <td>STC0000061</td>\n      <td>Statistics Canada's data products\
+    \ consultative engagement</td>\n      <td>2023-09-22</td>\n      <td>2023-11-30</td>\n\
+    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-000045</td>\n\
     \      <td>Consultation on telecommunications services in the Far North</td>\n\
     \      <td>2023-10-13</td>\n      <td>2023-11-29</td>\n      <td>O</td>\n    \
     \  <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-003188</td>\n      <td>Proposed\
@@ -466,7 +475,7 @@ status-website:
     \   <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000893</td>\n\
     \      <td>Consultation on Pyriofenone 300 SC Fungicide, containing pyriofenone,\
     \ Proposed Registration Decision PRD2023-08</td>\n      <td>2023-10-10</td>\n\
-    \      <td>2023-11-24</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \      <td>2023-11-24</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-0000114</td>\n      <td>The Land Use Planning Program is\
     \ launching additional consultations!</td>\n      <td>2023-10-25</td>\n      <td>2023-11-22</td>\n\
     \      <td>C</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000885</td>\n\
