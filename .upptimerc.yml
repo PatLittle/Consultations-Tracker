@@ -476,10 +476,7 @@ status-website:
     \      <td>2023-11-24</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-0000114</td>\n      <td>The Land Use Planning Program is\
     \ launching additional consultations!</td>\n      <td>2023-10-25</td>\n      <td>2023-11-22</td>\n\
-    \      <td>C</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000885</td>\n\
-    \      <td>Consultation on mefentrifluconazole, Proposed Maximum Residue Limit\
-    \ PMRL2023-41</td>\n      <td>2023-09-07</td>\n      <td>2023-11-21</td>\n   \
-    \   <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n  </tbody>\n</table>"
+    \      <td>C</td>\n      <td>pc</td>\n    </tr>\n  </tbody>\n</table>"
   navbar:
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
