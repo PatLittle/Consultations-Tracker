@@ -1,7 +1,7 @@
 url: https://wildlife-species.canada.ca/species-risk-registry/involved/consultation/default_e.cfm
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-27T04:38:14.332Z
+status: up
+code: 200
+responseTime: 6310
+lastUpdated: 2023-11-27T08:25:43.379Z
 startTime: 2023-11-24T00:05:21.087Z
 generator: Upptime <https://github.com/upptime/upptime>
