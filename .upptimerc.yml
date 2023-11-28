@@ -191,9 +191,6 @@ sites:
   url: https://www.international.gc.ca/consultation/artificial-intelligence-artificielle/index.aspx?lang=eng
 - name: Engagement on Indigenous Perspectives on Medical Assistance in Dying
   url: https://www.canada.ca/en/health-canada/programs/engagement-indigenous-perspectives-medical-assistance-dying.html
-- name: Consultation on Agrobacterium radiobacter strain K84 and Its Associated End-use
-    Products, Proposed Re-evaluation Decision PRVD2023-04
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2023/agrobacterium-radiobacter-strain-k84.html
 - name: Consultation on difenoconazole, Proposed Maximum Residue Limit PMRL2023-43
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2023/difenoconazole-leaves-of-root-and-tuber-vegetables.html
 - name: Consultation on pydiflumetofen, Proposed Maximum Residue Limit PMRL2023-42
@@ -206,10 +203,6 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2023/pyriofenone.html
 - name: Consultation on carfentrazone-ethyl, Proposed Maximum Residue Limit PMRL2023-45
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2023/carfentrazone-ethyl-mustard-seeds.html
-- name: 'Share your views: Consultation on a proposal to control the derivatives and
-    analogues of 4-piperidone and its salts under the Controlled Drugs and Substances
-    Act'
-  url: https://www.canada.ca/en/health-canada/programs/consultation-proposal-derivitives-analogues-4-piperdone-salts-controlled-drugs-and-substances-act.html
 - name: Consultation on Lecanicillium muscarium strain Ve6 and Mycotal Biological
     Insecticide, Proposed Registration Decision PRD2023-09
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2023/lecanicillium-muscarium-ve6-mycotal-biological-insecticide.html
@@ -401,6 +394,8 @@ sites:
   url: TBC
 - name: Creating Canada’s 6th  National Action Plan on Open Government
   url: TBC
+- name: Supply Chain Regulatory Review
+  url: https://letstalkfederalregulations.ca/
 - name: Veterans’ health and well-being assessment
   url: 'https://www.veterans.gc.ca/eng/about-vac/what-we-do/public-engagement/veterans-health-well-being-assessment '
 status-website:
@@ -427,7 +422,7 @@ status-website:
     \      <td>2024-01-12</td>\n      <td>P</td>\n      <td>ic</td>\n    </tr>\n \
     \   <tr>\n      <td>C0000571</td>\n      <td>Canada’s participation in treaty\
     \ negotiations on artificial intelligence at the Council of Europe</td>\n    \
-    \  <td>2023-11-27</td>\n      <td>2024-01-10</td>\n      <td>P</td>\n      <td>dfatd-maecd</td>\n\
+    \  <td>2023-11-27</td>\n      <td>2024-01-10</td>\n      <td>O</td>\n      <td>dfatd-maecd</td>\n\
     \    </tr>\n    <tr>\n      <td>C-7</td>\n      <td>Consultation on FCAC's proposed\
     \ Guideline on Complaint-Handling Procedures for Trust and Loan Companies and\
     \ Insurance Companies</td>\n      <td>2023-11-23</td>\n      <td>2024-01-08</td>\n\
@@ -445,17 +440,15 @@ status-website:
     \ <td>2023-11-30</td>\n      <td>O</td>\n      <td>fin</td>\n    </tr>\n    <tr>\n\
     \      <td>STC0000061</td>\n      <td>Statistics Canada's data products consultative\
     \ engagement</td>\n      <td>2023-09-22</td>\n      <td>2023-11-30</td>\n    \
-    \  <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-000045</td>\n\
-    \      <td>Consultation on telecommunications services in the Far North</td>\n\
-    \      <td>2023-10-13</td>\n      <td>2023-11-29</td>\n      <td>O</td>\n    \
-    \  <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-003188</td>\n      <td>Proposed\
-    \ Amendments to the Cross-Border Movement of Hazardous Waste and Hazardous Recyclable\
-    \ Materials Regulations</td>\n      <td>2023-09-30</td>\n      <td>2023-11-29</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000892</td>\n\
-    \      <td>Consultation: Proposed Residential Indoor Air Quality Guidelines for\
-    \ Benzene</td>\n      <td>2023-09-30</td>\n      <td>2023-11-29</td>\n      <td>O</td>\n\
-    \      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000888</td>\n      <td>Consultation\
-    \ on difenoconazole, Proposed Maximum Residue Limit PMRL2023-43</td>\n      <td>2023-09-14</td>\n\
+    \  <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-003188</td>\n\
+    \      <td>Proposed Amendments to the Cross-Border Movement of Hazardous Waste\
+    \ and Hazardous Recyclable Materials Regulations</td>\n      <td>2023-09-30</td>\n\
+    \      <td>2023-11-29</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-0000892</td>\n      <td>Consultation: Proposed Residential\
+    \ Indoor Air Quality Guidelines for Benzene</td>\n      <td>2023-09-30</td>\n\
+    \      <td>2023-11-29</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000888</td>\n      <td>Consultation on difenoconazole,\
+    \ Proposed Maximum Residue Limit PMRL2023-43</td>\n      <td>2023-09-14</td>\n\
     \      <td>2023-11-28</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-0000889</td>\n      <td>Consultation on pydiflumetofen,\
     \ Proposed Maximum Residue Limit PMRL2023-42</td>\n      <td>2023-09-14</td>\n\
@@ -466,11 +459,11 @@ status-website:
     \  <tr>\n      <td>C-0000896</td>\n      <td>Share your views: Consultation on\
     \ a proposal to control the derivatives and analogues of 4-piperidone and its\
     \ salts under the Controlled Drugs and Substances Act</td>\n      <td>2023-10-28</td>\n\
-    \      <td>2023-11-27</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \      <td>2023-11-27</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-0000882</td>\n      <td>Consultation on Agrobacterium radiobacter\
     \ strain K84 and Its Associated End-use Products, Proposed Re-evaluation Decision\
     \ PRVD2023-04</td>\n      <td>2023-08-28</td>\n      <td>2023-11-26</td>\n   \
-    \   <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000893</td>\n\
+    \   <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000893</td>\n\
     \      <td>Consultation on Pyriofenone 300 SC Fungicide, containing pyriofenone,\
     \ Proposed Registration Decision PRD2023-08</td>\n      <td>2023-10-10</td>\n\
     \      <td>2023-11-24</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
