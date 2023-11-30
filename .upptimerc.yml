@@ -470,11 +470,7 @@ status-website:
     \    <tr>\n      <td>C-0000882</td>\n      <td>Consultation on Agrobacterium radiobacter\
     \ strain K84 and Its Associated End-use Products, Proposed Re-evaluation Decision\
     \ PRVD2023-04</td>\n      <td>2023-08-28</td>\n      <td>2023-11-26</td>\n   \
-    \   <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000893</td>\n\
-    \      <td>Consultation on Pyriofenone 300 SC Fungicide, containing pyriofenone,\
-    \ Proposed Registration Decision PRD2023-08</td>\n      <td>2023-10-10</td>\n\
-    \      <td>2023-11-24</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \  </tbody>\n</table>"
+    \   <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n  </tbody>\n</table>"
   navbar:
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
