@@ -191,8 +191,6 @@ sites:
   url: https://www.international.gc.ca/consultation/artificial-intelligence-artificielle/index.aspx?lang=eng
 - name: Engagement on Indigenous Perspectives on Medical Assistance in Dying
   url: https://www.canada.ca/en/health-canada/programs/engagement-indigenous-perspectives-medical-assistance-dying.html
-- name: 'Consultation: Proposed Residential Indoor Air Quality Guidelines for Benzene'
-  url: https://www.canada.ca/en/health-canada/programs/consultation-proposed-residential-indoor-air-quality-guidelines-benzene.html
 - name: Consultation on pyriofenone, Proposed Maximum Residue Limit PMRL2023-44
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2023/pyriofenone.html
 - name: Consultation on carfentrazone-ethyl, Proposed Maximum Residue Limit PMRL2023-45
@@ -209,8 +207,9 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-special-review-decision/2023/fosetyl-aluminum.html
 - name: Consultation on Paclobutrazol, Proposed Registration Decision PRD2023-10
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2023/paclobutrazol.html
-- name: 'Consultation: A vision for public health assessment for Canada’s future'
-  url: https://www.canada.ca/en/public-health/programs/consultation-vision-public-health-assessment-canada-future.html
+- name: 'Consultation: Regulatory modernization of foods for special dietary use and
+    infant foods'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-regulatory-modernization-foods-special-dietary-use-infant-foods.html
 - name: 'Consultation: Regulatory modernization of foods for special dietary use and
     infant foods'
   url: https://www.canada.ca/en/health-canada/programs/consultation-regulatory-modernization-foods-special-dietary-use-infant-foods.html
@@ -298,6 +297,8 @@ sites:
   url: https://www.rncanengagenrcan.ca/en/content/development-new-indigenous-ministerial-arrangements-regulations
 - name: Criteria for Ecological Corridors in Canada
   url: https://parks.canada.ca/nature/science/conservation/corridors-ecologiques-ecological-corridors/criteres-criteria
+- name: 'Consultation: A vision for public health assessment for Canada’s future'
+  url: https://www.canada.ca/en/public-health/programs/consultation-vision-public-health-assessment-canada-future.html
 - name: National Risk Profile (NRP) Targeted Engagement
   url: https://www.canada.ca/en/services/policing/emergencies/targeted-engagement-nrp.html
 - name: Consultations on Foreign Interference
@@ -421,7 +422,10 @@ status-website:
     \      <td>2024-01-12</td>\n      <td>P</td>\n      <td>ic</td>\n    </tr>\n \
     \   <tr>\n      <td>C-0000115</td>\n      <td>Criteria for Ecological Corridors\
     \ in Canada</td>\n      <td>2023-11-29</td>\n      <td>2024-01-05</td>\n     \
-    \ <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000902</td>\n\
+    \ <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000901</td>\n\
+    \      <td>Consultation: Regulatory modernization of foods for special dietary\
+    \ use and infant foods</td>\n      <td>2023-11-28</td>\n      <td>2024-02-06</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000902</td>\n\
     \      <td>Consultation: Regulatory modernization of foods for special dietary\
     \ use and infant foods</td>\n      <td>2023-11-28</td>\n      <td>2024-02-06</td>\n\
     \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C0000571</td>\n\
@@ -453,7 +457,7 @@ status-website:
     \      <td>2023-11-29</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
     \   <tr>\n      <td>C-0000892</td>\n      <td>Consultation: Proposed Residential\
     \ Indoor Air Quality Guidelines for Benzene</td>\n      <td>2023-09-30</td>\n\
-    \      <td>2023-11-29</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \      <td>2023-11-29</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-0000888</td>\n      <td>Consultation on difenoconazole,\
     \ Proposed Maximum Residue Limit PMRL2023-43</td>\n      <td>2023-09-14</td>\n\
     \      <td>2023-11-28</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
