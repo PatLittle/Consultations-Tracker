@@ -210,9 +210,9 @@ sites:
 - name: 'Consultation: Regulatory modernization of foods for special dietary use and
     infant foods'
   url: https://www.canada.ca/en/health-canada/programs/consultation-regulatory-modernization-foods-special-dietary-use-infant-foods.html
-- name: 'Consultation: Regulatory modernization of foods for special dietary use and
-    infant foods'
-  url: https://www.canada.ca/en/health-canada/programs/consultation-regulatory-modernization-foods-special-dietary-use-infant-foods.html
+- name: 'Share your thoughts: Strategy to replace, reduce or refine vertebrate animal
+    testing'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-strategy-replace-reduce-refine-vertebrate-animal-testing.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url:  https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
@@ -416,16 +416,16 @@ status-website:
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
     \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C--20230529</td>\n      <td>Parliamentary\
     \ Precinct Rehabilitation project</td>\n      <td>2023-12-01</td>\n      <td>2024-09-01</td>\n\
-    \      <td>P</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-0211</td>\n\
+    \      <td>P</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-0000902</td>\n\
+    \      <td>Share your thoughts: Strategy to replace, reduce or refine vertebrate\
+    \ animal testing</td>\n      <td>2023-11-30</td>\n      <td>2024-01-29</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0211</td>\n\
     \      <td>Consultation on the Verification Specifications for In-service Level\
     \ 1 and 2 AC Electric Vehicle Supply Equipment (EVSE).</td>\n      <td>2023-11-30</td>\n\
     \      <td>2024-01-12</td>\n      <td>P</td>\n      <td>ic</td>\n    </tr>\n \
     \   <tr>\n      <td>C-0000115</td>\n      <td>Criteria for Ecological Corridors\
     \ in Canada</td>\n      <td>2023-11-29</td>\n      <td>2024-01-05</td>\n     \
     \ <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000901</td>\n\
-    \      <td>Consultation: Regulatory modernization of foods for special dietary\
-    \ use and infant foods</td>\n      <td>2023-11-28</td>\n      <td>2024-02-06</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000902</td>\n\
     \      <td>Consultation: Regulatory modernization of foods for special dietary\
     \ use and infant foods</td>\n      <td>2023-11-28</td>\n      <td>2024-02-06</td>\n\
     \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C0000571</td>\n\
@@ -471,10 +471,7 @@ status-website:
     \ a proposal to control the derivatives and analogues of 4-piperidone and its\
     \ salts under the Controlled Drugs and Substances Act</td>\n      <td>2023-10-28</td>\n\
     \      <td>2023-11-27</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0000882</td>\n      <td>Consultation on Agrobacterium radiobacter\
-    \ strain K84 and Its Associated End-use Products, Proposed Re-evaluation Decision\
-    \ PRVD2023-04</td>\n      <td>2023-08-28</td>\n      <td>2023-11-26</td>\n   \
-    \   <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n  </tbody>\n</table>"
+    \  </tbody>\n</table>"
   navbar:
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
