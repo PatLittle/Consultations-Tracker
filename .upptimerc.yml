@@ -439,24 +439,21 @@ status-website:
     \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>85969</td>\n      <td>Strange Lake\
     \ Rare Earth Mining Project\\nPublic Comments Invited on the Summary of the Initial\
     \ Project Description</td>\n      <td>2023-10-06</td>\n      <td>2023-12-04</td>\n\
-    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-0225</td>\n\
-    \      <td>Consultation on Copyright in the Age of Generative Artificial Intelligence</td>\n\
-    \      <td>2023-10-12</td>\n      <td>2023-12-04</td>\n      <td>O</td>\n    \
-    \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>STC-0000050</td>\n      <td>Statistics\
-    \ Canada is seeking input on the new Census of Environment program</td>\n    \
-    \  <td>2023-06-16</td>\n      <td>2023-12-01</td>\n      <td>O</td>\n      <td>statcan</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-0000111</td>\n      <td>Consultation on Cracking\
-    \ Down on Predatory Lending Faster by Further Lowering the Criminal Rate of Interest\
-    \ and Increasing Access to Low-Cost Credit</td>\n      <td>2023-10-05</td>\n \
-    \     <td>2023-11-30</td>\n      <td>O</td>\n      <td>fin</td>\n    </tr>\n \
-    \   <tr>\n      <td>STC0000061</td>\n      <td>Statistics Canada's data products\
-    \ consultative engagement</td>\n      <td>2023-09-22</td>\n      <td>2023-11-30</td>\n\
-    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-003188</td>\n\
-    \      <td>Proposed Amendments to the Cross-Border Movement of Hazardous Waste\
-    \ and Hazardous Recyclable Materials Regulations</td>\n      <td>2023-09-30</td>\n\
-    \      <td>2023-11-29</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-0000892</td>\n      <td>Consultation: Proposed Residential\
-    \ Indoor Air Quality Guidelines for Benzene</td>\n      <td>2023-09-30</td>\n\
+    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>STC-0000050</td>\n\
+    \      <td>Statistics Canada is seeking input on the new Census of Environment\
+    \ program</td>\n      <td>2023-06-16</td>\n      <td>2023-12-01</td>\n      <td>O</td>\n\
+    \      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-0000111</td>\n     \
+    \ <td>Consultation on Cracking Down on Predatory Lending Faster by Further Lowering\
+    \ the Criminal Rate of Interest and Increasing Access to Low-Cost Credit</td>\n\
+    \      <td>2023-10-05</td>\n      <td>2023-11-30</td>\n      <td>O</td>\n    \
+    \  <td>fin</td>\n    </tr>\n    <tr>\n      <td>STC0000061</td>\n      <td>Statistics\
+    \ Canada's data products consultative engagement</td>\n      <td>2023-09-22</td>\n\
+    \      <td>2023-11-30</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-003188</td>\n      <td>Proposed Amendments to the Cross-Border\
+    \ Movement of Hazardous Waste and Hazardous Recyclable Materials Regulations</td>\n\
+    \      <td>2023-09-30</td>\n      <td>2023-11-29</td>\n      <td>O</td>\n    \
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000892</td>\n      <td>Consultation:\
+    \ Proposed Residential Indoor Air Quality Guidelines for Benzene</td>\n      <td>2023-09-30</td>\n\
     \      <td>2023-11-29</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
     \  </tbody>\n</table>"
   navbar:
