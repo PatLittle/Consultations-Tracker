@@ -423,39 +423,32 @@ status-website:
     \      <td>Consultation on the Verification Specifications for In-service Level\
     \ 1 and 2 AC Electric Vehicle Supply Equipment (EVSE).</td>\n      <td>2023-11-30</td>\n\
     \      <td>2024-01-12</td>\n      <td>P</td>\n      <td>ic</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-0000115</td>\n      <td>Criteria for Ecological Corridors\
-    \ in Canada</td>\n      <td>2023-11-29</td>\n      <td>2024-01-05</td>\n     \
-    \ <td>O</td>\n      <td>pc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
-    \ Ending +/- 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n\
-    \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
-    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
-    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>C-0000897</td>\n      <td>Consultation on Lecanicillium muscarium\
-    \ strain Ve6 and Mycotal Biological Insecticide, Proposed Registration Decision\
-    \ PRD2023-09</td>\n      <td>2023-10-25</td>\n      <td>2023-12-09</td>\n    \
-    \  <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0228</td>\n\
-    \      <td>Consultation on CIPO's client service standards for trademarks.</td>\n\
-    \      <td>2023-11-20</td>\n      <td>2023-12-08</td>\n      <td>O</td>\n    \
-    \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>85969</td>\n      <td>Strange Lake\
-    \ Rare Earth Mining Project\\nPublic Comments Invited on the Summary of the Initial\
-    \ Project Description</td>\n      <td>2023-10-06</td>\n      <td>2023-12-04</td>\n\
-    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>STC-0000050</td>\n\
-    \      <td>Statistics Canada is seeking input on the new Census of Environment\
-    \ program</td>\n      <td>2023-06-16</td>\n      <td>2023-12-01</td>\n      <td>O</td>\n\
-    \      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-0000111</td>\n     \
-    \ <td>Consultation on Cracking Down on Predatory Lending Faster by Further Lowering\
-    \ the Criminal Rate of Interest and Increasing Access to Low-Cost Credit</td>\n\
-    \      <td>2023-10-05</td>\n      <td>2023-11-30</td>\n      <td>O</td>\n    \
-    \  <td>fin</td>\n    </tr>\n    <tr>\n      <td>STC0000061</td>\n      <td>Statistics\
-    \ Canada's data products consultative engagement</td>\n      <td>2023-09-22</td>\n\
-    \      <td>2023-11-30</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-003188</td>\n      <td>Proposed Amendments to the Cross-Border\
-    \ Movement of Hazardous Waste and Hazardous Recyclable Materials Regulations</td>\n\
-    \      <td>2023-09-30</td>\n      <td>2023-11-29</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000892</td>\n      <td>Consultation:\
-    \ Proposed Residential Indoor Air Quality Guidelines for Benzene</td>\n      <td>2023-09-30</td>\n\
-    \      <td>2023-11-29</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \  </tbody>\n</table>"
+    \ </tbody>\n</table><h3>Consultations Ending +/- 5 days from today</h3><table\
+    \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
+    >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
+    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>716</td>\n      <td>Long-Term\
+    \ Anchoring</td>\n      <td>2023-10-11</td>\n      <td>2023-12-10</td>\n     \
+    \ <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0000897</td>\n\
+    \      <td>Consultation on Lecanicillium muscarium strain Ve6 and Mycotal Biological\
+    \ Insecticide, Proposed Registration Decision PRD2023-09</td>\n      <td>2023-10-25</td>\n\
+    \      <td>2023-12-09</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0228</td>\n      <td>Consultation on CIPO's client service\
+    \ standards for trademarks.</td>\n      <td>2023-11-20</td>\n      <td>2023-12-08</td>\n\
+    \      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>85969</td>\n\
+    \      <td>Strange Lake Rare Earth Mining Project\\nPublic Comments Invited on\
+    \ the Summary of the Initial Project Description</td>\n      <td>2023-10-06</td>\n\
+    \      <td>2023-12-04</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
+    \    <tr>\n      <td>STC-0000050</td>\n      <td>Statistics Canada is seeking\
+    \ input on the new Census of Environment program</td>\n      <td>2023-06-16</td>\n\
+    \      <td>2023-12-01</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000111</td>\n      <td>Consultation on Cracking Down on\
+    \ Predatory Lending Faster by Further Lowering the Criminal Rate of Interest and\
+    \ Increasing Access to Low-Cost Credit</td>\n      <td>2023-10-05</td>\n     \
+    \ <td>2023-11-30</td>\n      <td>O</td>\n      <td>fin</td>\n    </tr>\n    <tr>\n\
+    \      <td>STC0000061</td>\n      <td>Statistics Canada's data products consultative\
+    \ engagement</td>\n      <td>2023-09-22</td>\n      <td>2023-11-30</td>\n    \
+    \  <td>O</td>\n      <td>statcan</td>\n    </tr>\n  </tbody>\n</table>"
   navbar:
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
