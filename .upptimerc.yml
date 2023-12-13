@@ -425,38 +425,41 @@ status-website:
     \  <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n   \
     \   <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n  \
     \    <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>C-000124</td>\n      <td>Share your thoughts: Proposed new\
-    \ livestock feed ingredient – 3-Nitrooxypropanol (3-NOP)</td>\n      <td>2023-11-16</td>\n\
-    \      <td>2023-12-16</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-ISC-1021</td>\n      <td>Engagement 2023: Updating the\
-    \ Protocol For Centralised Drinking Water Systems in First Nations communities</td>\n\
-    \      <td>2023-07-12</td>\n      <td>2023-12-15</td>\n      <td>O</td>\n    \
-    \  <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-0158</td>\n      <td>Form\
-    \ 60.1, Request for Withdrawal of Mediation, Form 80.1, Notice of Withdrawal of\
-    \ the Opposition to Discharge of Bankrupt, and Proposed Amendments to Forms 62,\
-    \ Notice of Cancellation of Mediation, and Form 84, Certificate of Discharge</td>\n\
-    \      <td>2023-11-15</td>\n      <td>2023-12-15</td>\n      <td>P</td>\n    \
-    \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0210</td>\n      <td>Proposed\
-    \ Amendments to Directive No 23, Publication in Local Newspaper</td>\n      <td>2023-11-15</td>\n\
-    \      <td>2023-12-15</td>\n      <td>P</td>\n      <td>ic</td>\n    </tr>\n \
-    \   <tr>\n      <td>694</td>\n      <td>Preliminary Issue &amp; Consultation Assessment\
-    \ (PICA) - Global Aeronautical Distress and Safety System (GADSS)</td>\n     \
-    \ <td>2023-09-01</td>\n      <td>2023-12-15</td>\n      <td>P</td>\n      <td>tc</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-000100</td>\n      <td>Notice of Intent: Amendment\
-    \ to the Safe Food for Canadians Regulations</td>\n      <td>2023-01-12</td>\n\
-    \      <td>2023-12-12</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n\
-    \    <tr>\n      <td>709</td>\n      <td>The Vessel Operation Restriction Regulations:\
-    \ Providing provinces and municipalities with a greater role in managing their\
-    \ waterways</td>\n      <td>2023-10-12</td>\n      <td>2023-12-11</td>\n     \
-    \ <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>716</td>\n   \
-    \   <td>Long-Term Anchoring</td>\n      <td>2023-10-11</td>\n      <td>2023-12-10</td>\n\
-    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0000897</td>\n\
-    \      <td>Consultation on Lecanicillium muscarium strain Ve6 and Mycotal Biological\
-    \ Insecticide, Proposed Registration Decision PRD2023-09</td>\n      <td>2023-10-25</td>\n\
-    \      <td>2023-12-09</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0228</td>\n      <td>Consultation on CIPO's client service\
-    \ standards for trademarks.</td>\n      <td>2023-11-20</td>\n      <td>2023-12-08</td>\n\
-    \      <td>O</td>\n      <td>ic</td>\n    </tr>\n  </tbody>\n</table>"
+    \    <tr>\n      <td>C-VAC0056</td>\n      <td>Veterans’ health and well-being\
+    \ assessment</td>\n      <td>2023-07-17</td>\n      <td>2023-12-18</td>\n    \
+    \  <td>O</td>\n      <td>vac-acc</td>\n    </tr>\n    <tr>\n      <td>C-000124</td>\n\
+    \      <td>Share your thoughts: Proposed new livestock feed ingredient – 3-Nitrooxypropanol\
+    \ (3-NOP)</td>\n      <td>2023-11-16</td>\n      <td>2023-12-16</td>\n      <td>O</td>\n\
+    \      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-ISC-1021</td>\n  \
+    \    <td>Engagement 2023: Updating the Protocol For Centralised Drinking Water\
+    \ Systems in First Nations communities</td>\n      <td>2023-07-12</td>\n     \
+    \ <td>2023-12-15</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-0158</td>\n      <td>Form 60.1, Request for Withdrawal of\
+    \ Mediation, Form 80.1, Notice of Withdrawal of the Opposition to Discharge of\
+    \ Bankrupt, and Proposed Amendments to Forms 62, Notice of Cancellation of Mediation,\
+    \ and Form 84, Certificate of Discharge</td>\n      <td>2023-11-15</td>\n    \
+    \  <td>2023-12-15</td>\n      <td>P</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n\
+    \      <td>C-0210</td>\n      <td>Proposed Amendments to Directive No 23, Publication\
+    \ in Local Newspaper</td>\n      <td>2023-11-15</td>\n      <td>2023-12-15</td>\n\
+    \      <td>P</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>694</td>\n\
+    \      <td>Preliminary Issue &amp; Consultation Assessment (PICA) - Global Aeronautical\
+    \ Distress and Safety System (GADSS)</td>\n      <td>2023-09-01</td>\n      <td>2023-12-15</td>\n\
+    \      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-000100</td>\n\
+    \      <td>Notice of Intent: Amendment to the Safe Food for Canadians Regulations</td>\n\
+    \      <td>2023-01-12</td>\n      <td>2023-12-12</td>\n      <td>O</td>\n    \
+    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>709</td>\n      <td>The\
+    \ Vessel Operation Restriction Regulations: Providing provinces and municipalities\
+    \ with a greater role in managing their waterways</td>\n      <td>2023-10-12</td>\n\
+    \      <td>2023-12-11</td>\n      <td>P</td>\n      <td>tc</td>\n    </tr>\n \
+    \   <tr>\n      <td>716</td>\n      <td>Long-Term Anchoring</td>\n      <td>2023-10-11</td>\n\
+    \      <td>2023-12-10</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-0000897</td>\n      <td>Consultation on Lecanicillium muscarium\
+    \ strain Ve6 and Mycotal Biological Insecticide, Proposed Registration Decision\
+    \ PRD2023-09</td>\n      <td>2023-10-25</td>\n      <td>2023-12-09</td>\n    \
+    \  <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0228</td>\n\
+    \      <td>Consultation on CIPO's client service standards for trademarks.</td>\n\
+    \      <td>2023-11-20</td>\n      <td>2023-12-08</td>\n      <td>O</td>\n    \
+    \  <td>ic</td>\n    </tr>\n  </tbody>\n</table>"
   navbar:
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
