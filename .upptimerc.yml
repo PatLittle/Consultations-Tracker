@@ -462,10 +462,7 @@ status-website:
     \   <tr>\n      <td>694</td>\n      <td>Preliminary Issue &amp; Consultation Assessment\
     \ (PICA) - Global Aeronautical Distress and Safety System (GADSS)</td>\n     \
     \ <td>2023-09-01</td>\n      <td>2023-12-15</td>\n      <td>P</td>\n      <td>tc</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-000100</td>\n      <td>Notice of Intent: Amendment\
-    \ to the Safe Food for Canadians Regulations</td>\n      <td>2023-01-12</td>\n\
-    \      <td>2023-12-12</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n\
-    \  </tbody>\n</table>"
+    \    </tr>\n  </tbody>\n</table>"
   navbar:
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
