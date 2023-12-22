@@ -447,10 +447,7 @@ status-website:
     \      <td>2023-11-17</td>\n      <td>2023-12-19</td>\n      <td>O</td>\n    \
     \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-VAC0056</td>\n      <td>Veterans’\
     \ health and well-being assessment</td>\n      <td>2023-07-17</td>\n      <td>2023-12-18</td>\n\
-    \      <td>O</td>\n      <td>vac-acc</td>\n    </tr>\n    <tr>\n      <td>C-000124</td>\n\
-    \      <td>Share your thoughts: Proposed new livestock feed ingredient – 3-Nitrooxypropanol\
-    \ (3-NOP)</td>\n      <td>2023-11-16</td>\n      <td>2023-12-16</td>\n      <td>O</td>\n\
-    \      <td>cfia-acia</td>\n    </tr>\n  </tbody>\n</table>"
+    \      <td>O</td>\n      <td>vac-acc</td>\n    </tr>\n  </tbody>\n</table>"
   navbar:
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
