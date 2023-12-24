@@ -422,32 +422,33 @@ status-website:
     \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
     \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>C-0000894</td>\n      <td>Consultation on pyriofenone, Proposed\
-    \ Maximum Residue Limit PMRL2023-44</td>\n      <td>2023-10-10</td>\n      <td>2023-12-24</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0227</td>\n\
-    \      <td>Bulletin on Amendments to the Abuse of Dominance Provisions</td>\n\
-    \      <td>2023-10-25</td>\n      <td>2023-12-24</td>\n      <td>O</td>\n    \
-    \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-000045</td>\n      <td>Consultation\
-    \ on telecommunications services in the Far North</td>\n      <td>2023-10-13</td>\n\
-    \      <td>2023-12-22</td>\n      <td>O</td>\n      <td>crtc</td>\n    </tr>\n\
-    \    <tr>\n      <td>DFO20231030-01</td>\n      <td>Listing of Lumpfish, Ringed\
-    \ Seal and Harbour Porpoise on the Species at Risk public registry</td>\n    \
-    \  <td>2023-09-27</td>\n      <td>2023-12-22</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n\
-    \    </tr>\n    <tr>\n      <td>673</td>\n      <td>Let’s Talk Transportation:\
-    \ Public Interest Assessment of Bunge’s Proposed Acquisition of Viterra</td>\n\
-    \      <td>2023-10-23</td>\n      <td>2023-12-22</td>\n      <td>O</td>\n    \
-    \  <td>tc</td>\n    </tr>\n    <tr>\n      <td>DFO20231018-04</td>\n      <td>Reconstruction\
-    \ of the commercial wharf at Grande-Entrée harbour</td>\n      <td>2023-11-20</td>\n\
-    \      <td>2023-12-21</td>\n      <td>P</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-100115</td>\n      <td>Official language minority communities\
-    \ (External organizations)</td>\n      <td>2023-11-06</td>\n      <td>2023-12-20</td>\n\
-    \      <td>P</td>\n      <td>cra-arc</td>\n    </tr>\n    <tr>\n      <td>C-0230</td>\n\
-    \      <td>Consultation on the Licence Renewal Process for the 24 GHz and 38 GHz\
-    \ Bands and Preliminary Consultation on Changes to the 24.25-26.5 GHz Band</td>\n\
-    \      <td>2023-11-17</td>\n      <td>2023-12-19</td>\n      <td>O</td>\n    \
-    \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-VAC0056</td>\n      <td>Veterans’\
-    \ health and well-being assessment</td>\n      <td>2023-07-17</td>\n      <td>2023-12-18</td>\n\
-    \      <td>O</td>\n      <td>vac-acc</td>\n    </tr>\n  </tbody>\n</table>"
+    \    <tr>\n      <td>C-0000899</td>\n      <td>Consultation on the proposed special\
+    \ review decision of fosetyl-aluminum and its associated end-use products, PSRD2023-02</td>\n\
+    \      <td>2023-11-14</td>\n      <td>2023-12-29</td>\n      <td>O</td>\n    \
+    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000894</td>\n      <td>Consultation\
+    \ on pyriofenone, Proposed Maximum Residue Limit PMRL2023-44</td>\n      <td>2023-10-10</td>\n\
+    \      <td>2023-12-24</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0227</td>\n      <td>Bulletin on Amendments to the Abuse\
+    \ of Dominance Provisions</td>\n      <td>2023-10-25</td>\n      <td>2023-12-24</td>\n\
+    \      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-000045</td>\n\
+    \      <td>Consultation on telecommunications services in the Far North</td>\n\
+    \      <td>2023-10-13</td>\n      <td>2023-12-22</td>\n      <td>O</td>\n    \
+    \  <td>crtc</td>\n    </tr>\n    <tr>\n      <td>DFO20231030-01</td>\n      <td>Listing\
+    \ of Lumpfish, Ringed Seal and Harbour Porpoise on the Species at Risk public\
+    \ registry</td>\n      <td>2023-09-27</td>\n      <td>2023-12-22</td>\n      <td>O</td>\n\
+    \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>673</td>\n      <td>Let’s\
+    \ Talk Transportation: Public Interest Assessment of Bunge’s Proposed Acquisition\
+    \ of Viterra</td>\n      <td>2023-10-23</td>\n      <td>2023-12-22</td>\n    \
+    \  <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>DFO20231018-04</td>\n\
+    \      <td>Reconstruction of the commercial wharf at Grande-Entrée harbour</td>\n\
+    \      <td>2023-11-20</td>\n      <td>2023-12-21</td>\n      <td>P</td>\n    \
+    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-100115</td>\n      <td>Official\
+    \ language minority communities (External organizations)</td>\n      <td>2023-11-06</td>\n\
+    \      <td>2023-12-20</td>\n      <td>P</td>\n      <td>cra-arc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0230</td>\n      <td>Consultation on the Licence Renewal\
+    \ Process for the 24 GHz and 38 GHz Bands and Preliminary Consultation on Changes\
+    \ to the 24.25-26.5 GHz Band</td>\n      <td>2023-11-17</td>\n      <td>2023-12-19</td>\n\
+    \      <td>O</td>\n      <td>ic</td>\n    </tr>\n  </tbody>\n</table>"
   navbar:
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
