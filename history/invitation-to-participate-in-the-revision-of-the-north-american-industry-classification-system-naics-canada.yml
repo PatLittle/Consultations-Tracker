@@ -1,7 +1,7 @@
 url: https://www.statcan.gc.ca/en/consultation/2023/naics
-status: up
-code: 200
-responseTime: 65
-lastUpdated: 2023-12-23T23:11:41.320Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-12-24T16:29:48.996Z
 startTime: 2023-11-24T00:07:30.335Z
 generator: Upptime <https://github.com/upptime/upptime>
