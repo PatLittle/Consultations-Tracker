@@ -499,10 +499,40 @@ status-website:
     \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
     >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0000039</td>\n      <td>Enhancing\
-    \ the framing and parameters of GBA Plus</td>\n      <td>2023-06-01</td>\n   \
-    \   <td>2023-12-30</td>\n      <td>O</td>\n      <td>wage</td>\n    </tr>\n  \
-    \  <tr>\n      <td>STC-0000052</td>\n      <td>Missing persons data standards\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-2021-01</td>\n      <td>Filing\
+    \ Manual Updates</td>\n      <td>2021-02-01</td>\n      <td>2023-12-31</td>\n\
+    \      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-0000042</td>\n\
+    \      <td>Bilateral funding agreements with Provinces and Territories on the\
+    \ implementation of the National Action Plan to End Gender-Based Violence</td>\n\
+    \      <td>2022-11-11</td>\n      <td>2023-12-31</td>\n      <td>O</td>\n    \
+    \  <td>wage</td>\n    </tr>\n    <tr>\n      <td>DFO202008-02</td>\n      <td>St.\
+    \ Lawrence Estuary Area of Interest</td>\n      <td>2019-06-01</td>\n      <td>2023-12-31</td>\n\
+    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-00000010</td>\n\
+    \      <td>Consultation on the modernization of the Pulp and Paper Effluent Regulations</td>\n\
+    \      <td>2019-05-15</td>\n      <td>2023-12-31</td>\n      <td>O</td>\n    \
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000895</td>\n      <td>Consultation\
+    \ on carfentrazone-ethyl, Proposed Maximum Residue Limit PMRL2023-45</td>\n  \
+    \    <td>2023-10-17</td>\n      <td>2023-12-31</td>\n      <td>O</td>\n      <td>hc-sc</td>\n\
+    \    </tr>\n    <tr>\n      <td>DFO202108-24</td>\n      <td>Wave 3 - Engagement\
+    \ on Policy and Regulatory Initiatives – Fish and Fish Habitat Protection</td>\n\
+    \      <td>2023-02-15</td>\n      <td>2023-12-31</td>\n      <td>O</td>\n    \
+    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0000055</td>\n      <td>Amendments\
+    \ to the Interpretation Act to add a non-derogation clause and to repeal some\
+    \ existing non-derogation clauses.</td>\n      <td>2021-01-11</td>\n      <td>2023-12-31</td>\n\
+    \      <td>O</td>\n      <td>jus</td>\n    </tr>\n    <tr>\n      <td>DFO202008-03</td>\n\
+    \      <td>Northern Gulf of St. Lawrence Study Area</td>\n      <td>2019-06-01</td>\n\
+    \      <td>2023-12-31</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000900</td>\n      <td>Consultation on Paclobutrazol,\
+    \ Proposed Registration Decision PRD2023-10</td>\n      <td>2023-11-16</td>\n\
+    \      <td>2023-12-31</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-301023</td>\n      <td>Supply Chain Regulatory Review</td>\n\
+    \      <td>2023-11-07</td>\n      <td>2023-12-31</td>\n      <td>O</td>\n    \
+    \  <td>tbs-sct</td>\n    </tr>\n    <tr>\n      <td>C-2021-02</td>\n      <td>Regulatory\
+    \ Framework Plan</td>\n      <td>2021-06-16</td>\n      <td>2023-12-31</td>\n\
+    \      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-0000039</td>\n\
+    \      <td>Enhancing the framing and parameters of GBA Plus</td>\n      <td>2023-06-01</td>\n\
+    \      <td>2023-12-30</td>\n      <td>O</td>\n      <td>wage</td>\n    </tr>\n\
+    \    <tr>\n      <td>STC-0000052</td>\n      <td>Missing persons data standards\
     \ consultative engagement</td>\n      <td>2023-06-22</td>\n      <td>2023-12-30</td>\n\
     \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-0000899</td>\n\
     \      <td>Consultation on the proposed special review decision of fosetyl-aluminum\
@@ -513,33 +543,33 @@ status-website:
     \      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000894</td>\n\
     \      <td>Consultation on pyriofenone, Proposed Maximum Residue Limit PMRL2023-44</td>\n\
     \      <td>2023-10-10</td>\n      <td>2023-12-24</td>\n      <td>O</td>\n    \
-    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>673</td>\n      <td>Let’s Talk\
-    \ Transportation: Public Interest Assessment of Bunge’s Proposed Acquisition of\
-    \ Viterra</td>\n      <td>2023-10-23</td>\n      <td>2023-12-22</td>\n      <td>O</td>\n\
-    \      <td>tc</td>\n    </tr>\n    <tr>\n      <td>DFO20231030-01</td>\n     \
-    \ <td>Listing of Lumpfish, Ringed Seal and Harbour Porpoise on the Species at\
-    \ Risk public registry</td>\n      <td>2023-09-27</td>\n      <td>2023-12-22</td>\n\
-    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-000045</td>\n\
-    \      <td>Consultation on telecommunications services in the Far North</td>\n\
-    \      <td>2023-10-13</td>\n      <td>2023-12-22</td>\n      <td>O</td>\n    \
-    \  <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-0230</td>\n      <td>Consultation\
-    \ on the Licence Renewal Process for the 24 GHz and 38 GHz Bands and Preliminary\
-    \ Consultation on Changes to the 24.25-26.5 GHz Band</td>\n      <td>2023-11-17</td>\n\
-    \      <td>2023-12-19</td>\n      <td>O</td>\n      <td>ic</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-VAC0056</td>\n      <td>Veterans’ health and well-being\
-    \ assessment</td>\n      <td>2023-07-17</td>\n      <td>2023-12-18</td>\n    \
-    \  <td>O</td>\n      <td>vac-acc</td>\n    </tr>\n    <tr>\n      <td>C-000124</td>\n\
-    \      <td>Share your thoughts: Proposed new livestock feed ingredient – 3-Nitrooxypropanol\
-    \ (3-NOP)</td>\n      <td>2023-11-16</td>\n      <td>2023-12-16</td>\n      <td>O</td>\n\
-    \      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-ISC-1021</td>\n  \
-    \    <td>Engagement 2023: Updating the Protocol For Centralised Drinking Water\
-    \ Systems in First Nations communities</td>\n      <td>2023-07-12</td>\n     \
-    \ <td>2023-12-15</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-000100</td>\n      <td>Notice of Intent: Amendment to the\
-    \ Safe Food for Canadians Regulations</td>\n      <td>2023-01-12</td>\n      <td>2023-12-12</td>\n\
-    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>716</td>\n\
-    \      <td>Long-Term Anchoring</td>\n      <td>2023-10-11</td>\n      <td>2023-12-10</td>\n\
-    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0000897</td>\n\
+    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-000045</td>\n      <td>Consultation\
+    \ on telecommunications services in the Far North</td>\n      <td>2023-10-13</td>\n\
+    \      <td>2023-12-22</td>\n      <td>O</td>\n      <td>crtc</td>\n    </tr>\n\
+    \    <tr>\n      <td>673</td>\n      <td>Let’s Talk Transportation: Public Interest\
+    \ Assessment of Bunge’s Proposed Acquisition of Viterra</td>\n      <td>2023-10-23</td>\n\
+    \      <td>2023-12-22</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n \
+    \   <tr>\n      <td>DFO20231030-01</td>\n      <td>Listing of Lumpfish, Ringed\
+    \ Seal and Harbour Porpoise on the Species at Risk public registry</td>\n    \
+    \  <td>2023-09-27</td>\n      <td>2023-12-22</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n\
+    \    </tr>\n    <tr>\n      <td>C-0230</td>\n      <td>Consultation on the Licence\
+    \ Renewal Process for the 24 GHz and 38 GHz Bands and Preliminary Consultation\
+    \ on Changes to the 24.25-26.5 GHz Band</td>\n      <td>2023-11-17</td>\n    \
+    \  <td>2023-12-19</td>\n      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n\
+    \      <td>C-VAC0056</td>\n      <td>Veterans’ health and well-being assessment</td>\n\
+    \      <td>2023-07-17</td>\n      <td>2023-12-18</td>\n      <td>O</td>\n    \
+    \  <td>vac-acc</td>\n    </tr>\n    <tr>\n      <td>C-000124</td>\n      <td>Share\
+    \ your thoughts: Proposed new livestock feed ingredient – 3-Nitrooxypropanol (3-NOP)</td>\n\
+    \      <td>2023-11-16</td>\n      <td>2023-12-16</td>\n      <td>O</td>\n    \
+    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-ISC-1021</td>\n      <td>Engagement\
+    \ 2023: Updating the Protocol For Centralised Drinking Water Systems in First\
+    \ Nations communities</td>\n      <td>2023-07-12</td>\n      <td>2023-12-15</td>\n\
+    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-000100</td>\n\
+    \      <td>Notice of Intent: Amendment to the Safe Food for Canadians Regulations</td>\n\
+    \      <td>2023-01-12</td>\n      <td>2023-12-12</td>\n      <td>O</td>\n    \
+    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>716</td>\n      <td>Long-Term\
+    \ Anchoring</td>\n      <td>2023-10-11</td>\n      <td>2023-12-10</td>\n     \
+    \ <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0000897</td>\n\
     \      <td>Consultation on Lecanicillium muscarium strain Ve6 and Mycotal Biological\
     \ Insecticide, Proposed Registration Decision PRD2023-09</td>\n      <td>2023-10-25</td>\n\
     \      <td>2023-12-09</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
@@ -624,11 +654,11 @@ status-website:
     \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>DFO202304-07</td>\n    \
     \  <td>Harrington Harbor hauling slip repair</td>\n      <td>2023-04-25</td>\n\
     \      <td>2023-06-01</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0000108</td>\n      <td>2022-23 Consultations on renewal\
-    \ of the Museum Policy</td>\n      <td>2022-10-28</td>\n      <td>2023-05-31</td>\n\
-    \      <td>O</td>\n      <td>pch</td>\n    </tr>\n    <tr>\n      <td>C0000138</td>\n\
-    \      <td>An immigration system for Canada’s future</td>\n      <td>2023-02-23</td>\n\
-    \      <td>2023-05-31</td>\n      <td>O</td>\n      <td>cic</td>\n    </tr>\n\
+    \    <tr>\n      <td>C0000138</td>\n      <td>An immigration system for Canada’s\
+    \ future</td>\n      <td>2023-02-23</td>\n      <td>2023-05-31</td>\n      <td>O</td>\n\
+    \      <td>cic</td>\n    </tr>\n    <tr>\n      <td>C-0000108</td>\n      <td>2022-23\
+    \ Consultations on renewal of the Museum Policy</td>\n      <td>2022-10-28</td>\n\
+    \      <td>2023-05-31</td>\n      <td>O</td>\n      <td>pch</td>\n    </tr>\n\
     \    <tr>\n      <td>84525</td>\n      <td>Aspen Power Station Project -Participant\
     \ Funding Available</td>\n      <td>2023-04-27</td>\n      <td>2023-05-27</td>\n\
     \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>84525-1</td>\n\
@@ -647,18 +677,18 @@ status-website:
     \   <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20210811-02</td>\n\
     \      <td>Tang.ɢwan — ḥačxwiqak — Tsiǥis Marine Protected Area (Offshore Pacific)</td>\n\
     \      <td>2023-02-15</td>\n      <td>2023-04-15</td>\n      <td>O</td>\n    \
-    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C--202304</td>\n      <td>Future\
-    \ of Wellington Street</td>\n      <td>2022-12-01</td>\n      <td>2023-03-31</td>\n\
-    \      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-0000087</td>\n\
-    \      <td>Justice Data Modernization Initiative - Research on Overrepresentation:\
-    \ Discussions with Stakeholders</td>\n      <td>2021-09-01</td>\n      <td>2023-03-31</td>\n\
-    \      <td>O</td>\n      <td>jus</td>\n    </tr>\n    <tr>\n      <td>DFO20230131-10</td>\n\
-    \      <td>Rope-on-Demand/Ropeless Fishing Systems Manufacturers Meeting</td>\n\
-    \      <td>2023-02-01</td>\n      <td>2023-02-28</td>\n      <td>O</td>\n    \
-    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>DFO20230131-08</td>\n    \
-    \  <td>Potential 2023 management measures to address key threats to Southern Resident\
-    \ Killer Whales</td>\n      <td>2023-01-19</td>\n      <td>2023-02-19</td>\n \
-    \     <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-003164</td>\n\
+    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0000087</td>\n      <td>Justice\
+    \ Data Modernization Initiative - Research on Overrepresentation: Discussions\
+    \ with Stakeholders</td>\n      <td>2021-09-01</td>\n      <td>2023-03-31</td>\n\
+    \      <td>O</td>\n      <td>jus</td>\n    </tr>\n    <tr>\n      <td>C--202304</td>\n\
+    \      <td>Future of Wellington Street</td>\n      <td>2022-12-01</td>\n     \
+    \ <td>2023-03-31</td>\n      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n\
+    \    <tr>\n      <td>DFO20230131-10</td>\n      <td>Rope-on-Demand/Ropeless Fishing\
+    \ Systems Manufacturers Meeting</td>\n      <td>2023-02-01</td>\n      <td>2023-02-28</td>\n\
+    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>DFO20230131-08</td>\n\
+    \      <td>Potential 2023 management measures to address key threats to Southern\
+    \ Resident Killer Whales</td>\n      <td>2023-01-19</td>\n      <td>2023-02-19</td>\n\
+    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-003164</td>\n\
     \      <td>Offsetting Policy for Biodiversity</td>\n      <td>2022-12-16</td>\n\
     \      <td>2023-02-17</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
     \   <tr>\n      <td>C-ISC-1019</td>\n      <td>National Outcome-Based Framework</td>\n\
@@ -706,29 +736,29 @@ status-website:
     \      <td>2020-03-09</td>\n      <td>2021-12-31</td>\n      <td>O</td>\n    \
     \  <td>jus</td>\n    </tr>\n    <tr>\n      <td>C-003124</td>\n      <td>Share\
     \ your ideas: Blackwater Project</td>\n      <td>2021-06-08</td>\n      <td>2021-09-30</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-00124</td>\n\
-    \      <td>Clean Fuel Standard</td>\n      <td>2017-01-01</td>\n      <td>2021-06-30</td>\n\
     \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-00052</td>\n\
     \      <td>National Infrastructure Assessment</td>\n      <td>2021-03-16</td>\n\
     \      <td>2021-06-30</td>\n      <td>O</td>\n      <td>infc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-003127</td>\n      <td>Recovery Strategy (Amended) and\
-    \ Action Plan for the Piping Plover melodus subspecies (Charadrius melodus melodus)\
-    \ in Canada [Proposed]</td>\n      <td>2021-03-25</td>\n      <td>2021-06-23</td>\n\
+    \    <tr>\n      <td>C-00124</td>\n      <td>Clean Fuel Standard</td>\n      <td>2017-01-01</td>\n\
+    \      <td>2021-06-30</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-003127</td>\n      <td>Recovery Strategy (Amended) and Action\
+    \ Plan for the Piping Plover melodus subspecies (Charadrius melodus melodus) in\
+    \ Canada [Proposed]</td>\n      <td>2021-03-25</td>\n      <td>2021-06-23</td>\n\
     \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003115</td>\n\
     \      <td>Share and view ideas: Renewal of the Federal Agenda for Volatile Organic\
     \ Compounds in Consumer and Commercial Product</td>\n      <td>2021-03-10</td>\n\
     \      <td>2021-04-08</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-ISC0037</td>\n      <td>Renewal of the Fire Protection Strategy</td>\n\
-    \      <td>2020-04-01</td>\n      <td>2021-03-31</td>\n      <td>O</td>\n    \
-    \  <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-INA0005</td>\n      <td>Indigenous\
-    \ Procurement Modernization (including Procurement Strategy for Aboriginal Business)</td>\n\
-    \      <td>2017-06-01</td>\n      <td>2021-03-31</td>\n      <td>O</td>\n    \
-    \  <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0033</td>\n      <td>Indian\
-    \ Oil and Gas Regulations - Phase II</td>\n      <td>2013-04-01</td>\n      <td>2021-03-31</td>\n\
-    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>STC-0000023</td>\n\
-    \      <td>Multifactor Productivity Application</td>\n      <td>2019-12-01</td>\n\
-    \      <td>2020-03-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
-    \  </tbody>\n</table>"
+    \   <tr>\n      <td>C-ISC0033</td>\n      <td>Indian Oil and Gas Regulations -\
+    \ Phase II</td>\n      <td>2013-04-01</td>\n      <td>2021-03-31</td>\n      <td>O</td>\n\
+    \      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-INA0005</td>\n     \
+    \ <td>Indigenous Procurement Modernization (including Procurement Strategy for\
+    \ Aboriginal Business)</td>\n      <td>2017-06-01</td>\n      <td>2021-03-31</td>\n\
+    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0037</td>\n\
+    \      <td>Renewal of the Fire Protection Strategy</td>\n      <td>2020-04-01</td>\n\
+    \      <td>2021-03-31</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n\
+    \    <tr>\n      <td>STC-0000023</td>\n      <td>Multifactor Productivity Application</td>\n\
+    \      <td>2019-12-01</td>\n      <td>2020-03-31</td>\n      <td>O</td>\n    \
+    \  <td>statcan</td>\n    </tr>\n  </tbody>\n</table>"
   navbar:
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
