@@ -417,24 +417,34 @@ status-website:
     1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n \
     \     <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>688</td>\n      <td>TBD:\
-    \ Requirements for Automatic Emergency Braking Systems</td>\n      <td>2024-01-07</td>\n\
-    \      <td>2024-02-15</td>\n      <td>P</td>\n      <td>tc</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-0214</td>\n      <td>Pre-regulatory Consultations -Electricity\
-    \ and Gas Inspection Regulations</td>\n      <td>2024-01-05</td>\n      <td>2024-05-14</td>\n\
-    \      <td>P</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>697</td>\n\
-    \      <td>Fee Modernisation Initiative for Transport Canada's Owned and Operated\
-    \ Ports</td>\n      <td>2024-01-01</td>\n      <td>2024-02-01</td>\n      <td>P</td>\n\
-    \      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-ISC-1013</td>\n      <td>Indian\
-    \ Oil and Gas Regulation Amendments: Environment</td>\n      <td>2023-12-30</td>\n\
-    \      <td>2024-03-31</td>\n      <td>P</td>\n      <td>isc-sac</td>\n    </tr>\n\
-    \  </tbody>\n</table><h3>Consultations Ending +/- 5 days from today</h3><table\
-    \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
-    >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
-    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0000115</td>\n      <td>Criteria\
-    \ for Ecological Corridors in Canada</td>\n      <td>2023-11-29</td>\n      <td>2024-01-05</td>\n\
-    \      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C - 20230721</td>\n\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>670</td>\n      <td>Consultation\
+    \ on a user interface for the Regulatory Evaluation Platform</td>\n      <td>2024-01-08</td>\n\
+    \      <td>2024-04-11</td>\n      <td>P</td>\n      <td>tc</td>\n    </tr>\n \
+    \   <tr>\n      <td>688</td>\n      <td>TBD: Requirements for Automatic Emergency\
+    \ Braking Systems</td>\n      <td>2024-01-07</td>\n      <td>2024-02-15</td>\n\
+    \      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0214</td>\n\
+    \      <td>Pre-regulatory Consultations -Electricity and Gas Inspection Regulations</td>\n\
+    \      <td>2024-01-05</td>\n      <td>2024-05-14</td>\n      <td>P</td>\n    \
+    \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>697</td>\n      <td>Fee Modernisation\
+    \ Initiative for Transport Canada's Owned and Operated Ports</td>\n      <td>2024-01-01</td>\n\
+    \      <td>2024-02-01</td>\n      <td>P</td>\n      <td>tc</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-ISC-1013</td>\n      <td>Indian Oil and Gas Regulation Amendments:\
+    \ Environment</td>\n      <td>2023-12-30</td>\n      <td>2024-03-31</td>\n   \
+    \   <td>P</td>\n      <td>isc-sac</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \ Ending +/- 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n\
+    \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
+    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
+    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
+    \    <tr>\n      <td>C-0000717</td>\n      <td>Stakeholder engagement on managing\
+    \ conflicts of interest in the delivery of the EnerGuide Rating System</td>\n\
+    \      <td>2023-12-06</td>\n      <td>2024-01-08</td>\n      <td>P</td>\n    \
+    \  <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>C-7</td>\n      <td>Consultation\
+    \ on FCAC's proposed Guideline on Complaint-Handling Procedures for Trust and\
+    \ Loan Companies and Insurance Companies</td>\n      <td>2023-11-23</td>\n   \
+    \   <td>2024-01-08</td>\n      <td>O</td>\n      <td>fcac-acfc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000115</td>\n      <td>Criteria for Ecological Corridors\
+    \ in Canada</td>\n      <td>2023-11-29</td>\n      <td>2024-01-05</td>\n     \
+    \ <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C - 20230721</td>\n\
     \      <td>Elver Fishery Management Review</td>\n      <td>2023-07-07</td>\n \
     \     <td>2024-01-01</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
     \    <tr>\n      <td>C-0000211</td>\n      <td>National Adaptation Strategy</td>\n\
