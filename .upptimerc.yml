@@ -435,104 +435,59 @@ status-website:
     \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C0000571</td>\n      <td>Canada’s\
     \ participation in treaty negotiations on artificial intelligence at the Council\
     \ of Europe</td>\n      <td>2023-11-27</td>\n      <td>2024-01-10</td>\n     \
-    \ <td>O</td>\n      <td>dfatd-maecd</td>\n    </tr>\n    <tr>\n      <td>C-0000717</td>\n\
-    \      <td>Stakeholder engagement on managing conflicts of interest in the delivery\
-    \ of the EnerGuide Rating System</td>\n      <td>2023-12-06</td>\n      <td>2024-01-08</td>\n\
-    \      <td>P</td>\n      <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>C-7</td>\n\
+    \ <td>O</td>\n      <td>dfatd-maecd</td>\n    </tr>\n    <tr>\n      <td>C-7</td>\n\
     \      <td>Consultation on FCAC's proposed Guideline on Complaint-Handling Procedures\
     \ for Trust and Loan Companies and Insurance Companies</td>\n      <td>2023-11-23</td>\n\
     \      <td>2024-01-08</td>\n      <td>O</td>\n      <td>fcac-acfc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000717</td>\n      <td>Stakeholder engagement on managing\
+    \ conflicts of interest in the delivery of the EnerGuide Rating System</td>\n\
+    \      <td>2023-12-06</td>\n      <td>2024-01-08</td>\n      <td>P</td>\n    \
+    \  <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>C-0000115</td>\n     \
+    \ <td>Criteria for Ecological Corridors in Canada</td>\n      <td>2023-11-29</td>\n\
+    \      <td>2024-01-05</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
+    \   <tr>\n      <td>C - 20230721</td>\n      <td>Elver Fishery Management Review</td>\n\
+    \      <td>2023-07-07</td>\n      <td>2024-01-01</td>\n      <td>O</td>\n    \
+    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0000211</td>\n      <td>National\
+    \ Adaptation Strategy</td>\n      <td>2021-05-01</td>\n      <td>2024-01-01</td>\n\
+    \      <td>P</td>\n      <td>nrcan-rncan</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \ Listed as Open that should be closed</h3><table border=\"1\" class=\"dataframe\"\
+    >\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
+    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
+    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
     \    <tr>\n      <td>C-0000115</td>\n      <td>Criteria for Ecological Corridors\
     \ in Canada</td>\n      <td>2023-11-29</td>\n      <td>2024-01-05</td>\n     \
     \ <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C - 20230721</td>\n\
     \      <td>Elver Fishery Management Review</td>\n      <td>2023-07-07</td>\n \
     \     <td>2024-01-01</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0000211</td>\n      <td>National Adaptation Strategy</td>\n\
-    \      <td>2021-05-01</td>\n      <td>2024-01-01</td>\n      <td>P</td>\n    \
-    \  <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>C-2021-01</td>\n     \
-    \ <td>Filing Manual Updates</td>\n      <td>2021-02-01</td>\n      <td>2023-12-31</td>\n\
-    \      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>STC-0000040</td>\n\
-    \      <td>Statistics Canada Client Experience Survey</td>\n      <td>2022-12-16</td>\n\
-    \      <td>2023-12-31</td>\n      <td>C</td>\n      <td>statcan</td>\n    </tr>\n\
-    \    <tr>\n      <td>C00075</td>\n      <td>National Strategy for Critical Infrastructure</td>\n\
-    \      <td>2022-04-20</td>\n      <td>2023-12-31</td>\n      <td>C</td>\n    \
-    \  <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>C-0205</td>\n      <td>Critical\
-    \ Infrastructure Manufacturing Sector (CIMS) stakeholder consultations</td>\n\
-    \      <td>2022-05-01</td>\n      <td>2023-12-31</td>\n      <td>C</td>\n    \
-    \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000900</td>\n      <td>Consultation\
-    \ on Paclobutrazol, Proposed Registration Decision PRD2023-10</td>\n      <td>2023-11-16</td>\n\
-    \      <td>2023-12-31</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0000895</td>\n      <td>Consultation on carfentrazone-ethyl,\
-    \ Proposed Maximum Residue Limit PMRL2023-45</td>\n      <td>2023-10-17</td>\n\
-    \      <td>2023-12-31</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>DFO202108-24</td>\n      <td>Wave 3 - Engagement on Policy\
-    \ and Regulatory Initiatives – Fish and Fish Habitat Protection</td>\n      <td>2023-02-15</td>\n\
-    \      <td>2023-12-31</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-2021-02</td>\n      <td>Regulatory Framework Plan</td>\n\
-    \      <td>2021-06-16</td>\n      <td>2023-12-31</td>\n      <td>O</td>\n    \
-    \  <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>DFO20210811-03</td>\n    \
-    \  <td>Conservation Network Development</td>\n      <td>2023-10-15</td>\n    \
-    \  <td>2023-12-31</td>\n      <td>P</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>DFO20210824-01</td>\n      <td>Wave 3-Engagement on Policy\
-    \ and Regulatory Initiatives – Fish and Fish Habitat Protection</td>\n      <td>2023-02-15</td>\n\
-    \      <td>2023-12-31</td>\n      <td>P</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>DFO202008-03</td>\n      <td>Northern Gulf of St. Lawrence\
-    \ Study Area</td>\n      <td>2019-06-01</td>\n      <td>2023-12-31</td>\n    \
-    \  <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>DFO202008-02</td>\n\
-    \      <td>St. Lawrence Estuary Area of Interest</td>\n      <td>2019-06-01</td>\n\
-    \      <td>2023-12-31</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-00000010</td>\n      <td>Consultation on the modernization\
-    \ of the Pulp and Paper Effluent Regulations</td>\n      <td>2019-05-15</td>\n\
-    \      <td>2023-12-31</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-0000055</td>\n      <td>Amendments to the Interpretation\
-    \ Act to add a non-derogation clause and to repeal some existing non-derogation\
-    \ clauses.</td>\n      <td>2021-01-11</td>\n      <td>2023-12-31</td>\n      <td>O</td>\n\
-    \      <td>jus</td>\n    </tr>\n    <tr>\n      <td>C-0000042</td>\n      <td>Bilateral\
-    \ funding agreements with Provinces and Territories on the implementation of the\
-    \ National Action Plan to End Gender-Based Violence</td>\n      <td>2022-11-11</td>\n\
-    \      <td>2023-12-31</td>\n      <td>O</td>\n      <td>wage</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-000122</td>\n      <td>Share your thoughts: Support the\
-    \ development of a new national-level potato wart response plan</td>\n      <td>2023-11-01</td>\n\
-    \      <td>2023-12-31</td>\n      <td>P</td>\n      <td>cfia-acia</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-301023</td>\n      <td>Supply Chain Regulatory Review</td>\n\
-    \      <td>2023-11-07</td>\n      <td>2023-12-31</td>\n      <td>O</td>\n    \
-    \  <td>tbs-sct</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Listed as\
-    \ Open that should be closed</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n\
-    \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
-    \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
-    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>C - 20230721</td>\n      <td>Elver Fishery Management Review</td>\n\
-    \      <td>2023-07-07</td>\n      <td>2024-01-01</td>\n      <td>O</td>\n    \
-    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0000042</td>\n      <td>Bilateral\
-    \ funding agreements with Provinces and Territories on the implementation of the\
-    \ National Action Plan to End Gender-Based Violence</td>\n      <td>2022-11-11</td>\n\
-    \      <td>2023-12-31</td>\n      <td>O</td>\n      <td>wage</td>\n    </tr>\n\
-    \    <tr>\n      <td>DFO202108-24</td>\n      <td>Wave 3 - Engagement on Policy\
-    \ and Regulatory Initiatives – Fish and Fish Habitat Protection</td>\n      <td>2023-02-15</td>\n\
-    \      <td>2023-12-31</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-2021-01</td>\n      <td>Filing Manual Updates</td>\n  \
-    \    <td>2021-02-01</td>\n      <td>2023-12-31</td>\n      <td>O</td>\n      <td>cer-rec</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-00000010</td>\n      <td>Consultation on the\
-    \ modernization of the Pulp and Paper Effluent Regulations</td>\n      <td>2019-05-15</td>\n\
-    \      <td>2023-12-31</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-0000895</td>\n      <td>Consultation on carfentrazone-ethyl,\
-    \ Proposed Maximum Residue Limit PMRL2023-45</td>\n      <td>2023-10-17</td>\n\
-    \      <td>2023-12-31</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-0000055</td>\n      <td>Amendments to the Interpretation\
     \ Act to add a non-derogation clause and to repeal some existing non-derogation\
     \ clauses.</td>\n      <td>2021-01-11</td>\n      <td>2023-12-31</td>\n      <td>O</td>\n\
-    \      <td>jus</td>\n    </tr>\n    <tr>\n      <td>C-0000900</td>\n      <td>Consultation\
-    \ on Paclobutrazol, Proposed Registration Decision PRD2023-10</td>\n      <td>2023-11-16</td>\n\
-    \      <td>2023-12-31</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>DFO202008-02</td>\n      <td>St. Lawrence Estuary Area of\
-    \ Interest</td>\n      <td>2019-06-01</td>\n      <td>2023-12-31</td>\n      <td>O</td>\n\
-    \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>DFO202008-03</td>\n  \
-    \    <td>Northern Gulf of St. Lawrence Study Area</td>\n      <td>2019-06-01</td>\n\
-    \      <td>2023-12-31</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-301023</td>\n      <td>Supply Chain Regulatory Review</td>\n\
-    \      <td>2023-11-07</td>\n      <td>2023-12-31</td>\n      <td>O</td>\n    \
-    \  <td>tbs-sct</td>\n    </tr>\n    <tr>\n      <td>C-2021-02</td>\n      <td>Regulatory\
-    \ Framework Plan</td>\n      <td>2021-06-16</td>\n      <td>2023-12-31</td>\n\
+    \      <td>jus</td>\n    </tr>\n    <tr>\n      <td>DFO202008-02</td>\n      <td>St.\
+    \ Lawrence Estuary Area of Interest</td>\n      <td>2019-06-01</td>\n      <td>2023-12-31</td>\n\
+    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-2021-01</td>\n\
+    \      <td>Filing Manual Updates</td>\n      <td>2021-02-01</td>\n      <td>2023-12-31</td>\n\
+    \      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-0000895</td>\n\
+    \      <td>Consultation on carfentrazone-ethyl, Proposed Maximum Residue Limit\
+    \ PMRL2023-45</td>\n      <td>2023-10-17</td>\n      <td>2023-12-31</td>\n   \
+    \   <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000900</td>\n\
+    \      <td>Consultation on Paclobutrazol, Proposed Registration Decision PRD2023-10</td>\n\
+    \      <td>2023-11-16</td>\n      <td>2023-12-31</td>\n      <td>O</td>\n    \
+    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>DFO202108-24</td>\n      <td>Wave\
+    \ 3 - Engagement on Policy and Regulatory Initiatives – Fish and Fish Habitat\
+    \ Protection</td>\n      <td>2023-02-15</td>\n      <td>2023-12-31</td>\n    \
+    \  <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-00000010</td>\n\
+    \      <td>Consultation on the modernization of the Pulp and Paper Effluent Regulations</td>\n\
+    \      <td>2019-05-15</td>\n      <td>2023-12-31</td>\n      <td>O</td>\n    \
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO202008-03</td>\n      <td>Northern\
+    \ Gulf of St. Lawrence Study Area</td>\n      <td>2019-06-01</td>\n      <td>2023-12-31</td>\n\
+    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-301023</td>\n\
+    \      <td>Supply Chain Regulatory Review</td>\n      <td>2023-11-07</td>\n  \
+    \    <td>2023-12-31</td>\n      <td>O</td>\n      <td>tbs-sct</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000042</td>\n      <td>Bilateral funding agreements with\
+    \ Provinces and Territories on the implementation of the National Action Plan\
+    \ to End Gender-Based Violence</td>\n      <td>2022-11-11</td>\n      <td>2023-12-31</td>\n\
+    \      <td>O</td>\n      <td>wage</td>\n    </tr>\n    <tr>\n      <td>C-2021-02</td>\n\
+    \      <td>Regulatory Framework Plan</td>\n      <td>2021-06-16</td>\n      <td>2023-12-31</td>\n\
     \      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-0000039</td>\n\
     \      <td>Enhancing the framing and parameters of GBA Plus</td>\n      <td>2023-06-01</td>\n\
     \      <td>2023-12-30</td>\n      <td>O</td>\n      <td>wage</td>\n    </tr>\n\
@@ -725,13 +680,13 @@ status-website:
     \      <td>2022-07-18</td>\n      <td>O</td>\n      <td>dfatd-maecd</td>\n   \
     \ </tr>\n    <tr>\n      <td>SCCS-2021</td>\n      <td>Statistics Canada Client\
     \ Survey 2022</td>\n      <td>2022-03-01</td>\n      <td>2022-04-25</td>\n   \
-    \   <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-00242</td>\n\
-    \      <td>Metal and Diamond Mining Effluent Regulations - Schedule 2 Amendments\
-    \ (Project: Blackwater)</td>\n      <td>2021-05-24</td>\n      <td>2022-03-31</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C--202204</td>\n\
+    \   <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C--202204</td>\n\
     \      <td>Engagement sessions for vendors of at-risk goods</td>\n      <td>2022-04-01</td>\n\
     \      <td>2022-03-31</td>\n      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n   \
-    \ </tr>\n    <tr>\n      <td>530</td>\n      <td>OPP - Understanding the Cumulative\
+    \ </tr>\n    <tr>\n      <td>C-00242</td>\n      <td>Metal and Diamond Mining\
+    \ Effluent Regulations - Schedule 2 Amendments (Project: Blackwater)</td>\n  \
+    \    <td>2021-05-24</td>\n      <td>2022-03-31</td>\n      <td>O</td>\n      <td>ec</td>\n\
+    \    </tr>\n    <tr>\n      <td>530</td>\n      <td>OPP - Understanding the Cumulative\
     \ Effects of Marine Vessel Activity on Coastal and Marine Environments</td>\n\
     \      <td>2017-09-20</td>\n      <td>2022-01-10</td>\n      <td>O</td>\n    \
     \  <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0000041</td>\n      <td>Indigenous\
