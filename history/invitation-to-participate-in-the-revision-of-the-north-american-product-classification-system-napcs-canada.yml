@@ -1,7 +1,7 @@
 url: https://www.statcan.gc.ca/en/consultation/2023/napcs
-status: down
-code: 500
-responseTime: 20233
-lastUpdated: 2024-01-21T23:13:58.487Z
+status: up
+code: 200
+responseTime: 359
+lastUpdated: 2024-01-22T01:23:39.093Z
 startTime: 2023-11-24T00:07:30.952Z
 generator: Upptime <https://github.com/upptime/upptime>
