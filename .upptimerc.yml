@@ -441,17 +441,17 @@ status-website:
     \      <td>2024-02-06</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
     \    <tr>\n      <td>D00093</td>\n      <td>Consultations on Foreign Interference</td>\n\
     \      <td>2023-11-24</td>\n      <td>2024-02-02</td>\n      <td>O</td>\n    \
-    \  <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>C-0000903</td>\n      <td>Share\
+    \  <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>C-0226</td>\n      <td>Consultation\
+    \ on the impacts of alternative fuel and fuel blends on metering devices</td>\n\
+    \      <td>2023-10-10</td>\n      <td>2024-02-02</td>\n      <td>O</td>\n    \
+    \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000898</td>\n      <td>Consultation\
+    \ on the proposed Regulations Amending Certain Regulations Concerning Food Additives\
+    \ and Compositional Standards, Microbiological Criteria and Methods of Analysis\
+    \ for Food</td>\n      <td>2023-11-04</td>\n      <td>2024-02-02</td>\n      <td>O</td>\n\
+    \      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000903</td>\n      <td>Share\
     \ your views: Consultation opened for guidance on applications and service standards\
     \ (GUI-0127)</td>\n      <td>2023-12-05</td>\n      <td>2024-02-02</td>\n    \
-    \  <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000898</td>\n\
-    \      <td>Consultation on the proposed Regulations Amending Certain Regulations\
-    \ Concerning Food Additives and Compositional Standards, Microbiological Criteria\
-    \ and Methods of Analysis for Food</td>\n      <td>2023-11-04</td>\n      <td>2024-02-02</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0226</td>\n\
-    \      <td>Consultation on the impacts of alternative fuel and fuel blends on\
-    \ metering devices</td>\n      <td>2023-10-10</td>\n      <td>2024-02-02</td>\n\
-    \      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>697</td>\n\
+    \  <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>697</td>\n\
     \      <td>Fee Modernisation Initiative for Transport Canada's Owned and Operated\
     \ Ports</td>\n      <td>2024-01-01</td>\n      <td>2024-02-01</td>\n      <td>P</td>\n\
     \      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C0000164</td>\n      <td>Consulting\
@@ -485,10 +485,7 @@ status-website:
     \      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>690</td>\n\
     \      <td>TBD: Raising Awareness of Government Programs to Address Labour and\
     \ Skill Shortages</td>\n      <td>2023-09-09</td>\n      <td>2024-01-30</td>\n\
-    \      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0000902</td>\n\
-    \      <td>Share your thoughts: Strategy to replace, reduce or refine vertebrate\
-    \ animal testing</td>\n      <td>2023-11-30</td>\n      <td>2024-01-29</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \      <td>P</td>\n      <td>tc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
     \ Listed as Open that should be closed</h3><table border=\"1\" class=\"dataframe\"\
     >\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
     \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
