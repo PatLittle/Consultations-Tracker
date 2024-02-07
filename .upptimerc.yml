@@ -422,19 +422,10 @@ status-website:
     \      <td>2024-03-07</td>\n      <td>P</td>\n      <td>ic</td>\n    </tr>\n \
     \   <tr>\n      <td>C-0215</td>\n      <td>Pre-regulatory Consultations -Weights\
     \ and Measures Regulations</td>\n      <td>2024-02-05</td>\n      <td>2024-05-14</td>\n\
-    \      <td>P</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0156</td>\n\
-    \      <td>Consultation on the Spectrum Licence Transfer Framework</td>\n    \
-    \  <td>2024-02-01</td>\n      <td>2024-06-01</td>\n      <td>P</td>\n      <td>ic</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-0213</td>\n      <td>Canada Gazette Part 1 -\
-    \ Regulations Amending the Electricity and Gas Inspection Regulations and the\
-    \ Weights and Measures Regulations</td>\n      <td>2024-02-01</td>\n      <td>2024-03-01</td>\n\
-    \      <td>P</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-311024</td>\n\
-    \      <td>Creating Canada’s 6th  National Action Plan on Open Government</td>\n\
-    \      <td>2024-02-01</td>\n      <td>2024-04-30</td>\n      <td>P</td>\n    \
-    \  <td>tbs-sct</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Ending +/-\
-    \ 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n\
-    \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
-    \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
+    \      <td>P</td>\n      <td>ic</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \ Ending +/- 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n\
+    \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
+    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
     \    <tr>\n      <td>C-0000901</td>\n      <td>Consultation: Regulatory modernization\
     \ of foods for special dietary use and infant foods</td>\n      <td>2023-11-28</td>\n\
@@ -451,27 +442,27 @@ status-website:
     \      <td>2023-10-10</td>\n      <td>2024-02-02</td>\n      <td>O</td>\n    \
     \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>D00093</td>\n      <td>Consultations\
     \ on Foreign Interference</td>\n      <td>2023-11-24</td>\n      <td>2024-02-02</td>\n\
-    \      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>697</td>\n\
-    \      <td>Fee Modernisation Initiative for Transport Canada's Owned and Operated\
-    \ Ports</td>\n      <td>2024-01-01</td>\n      <td>2024-02-01</td>\n      <td>P</td>\n\
-    \      <td>tc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Listed as\
-    \ Open that should be closed</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n\
-    \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
-    \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
+    \      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \ Listed as Open that should be closed</h3><table border=\"1\" class=\"dataframe\"\
+    >\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
+    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
+    \    <tr>\n      <td>C-0000901</td>\n      <td>Consultation: Regulatory modernization\
+    \ of foods for special dietary use and infant foods</td>\n      <td>2023-11-28</td>\n\
+    \      <td>2024-02-06</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-0226</td>\n      <td>Consultation on the impacts of alternative\
     \ fuel and fuel blends on metering devices</td>\n      <td>2023-10-10</td>\n \
     \     <td>2024-02-02</td>\n      <td>O</td>\n      <td>ic</td>\n    </tr>\n  \
-    \  <tr>\n      <td>D00093</td>\n      <td>Consultations on Foreign Interference</td>\n\
-    \      <td>2023-11-24</td>\n      <td>2024-02-02</td>\n      <td>O</td>\n    \
-    \  <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>C-0000898</td>\n      <td>Consultation\
-    \ on the proposed Regulations Amending Certain Regulations Concerning Food Additives\
-    \ and Compositional Standards, Microbiological Criteria and Methods of Analysis\
-    \ for Food</td>\n      <td>2023-11-04</td>\n      <td>2024-02-02</td>\n      <td>O</td>\n\
-    \      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000903</td>\n      <td>Share\
-    \ your views: Consultation opened for guidance on applications and service standards\
-    \ (GUI-0127)</td>\n      <td>2023-12-05</td>\n      <td>2024-02-02</td>\n    \
-    \  <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-003151</td>\n\
+    \  <tr>\n      <td>C-0000898</td>\n      <td>Consultation on the proposed Regulations\
+    \ Amending Certain Regulations Concerning Food Additives and Compositional Standards,\
+    \ Microbiological Criteria and Methods of Analysis for Food</td>\n      <td>2023-11-04</td>\n\
+    \      <td>2024-02-02</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000903</td>\n      <td>Share your views: Consultation\
+    \ opened for guidance on applications and service standards (GUI-0127)</td>\n\
+    \      <td>2023-12-05</td>\n      <td>2024-02-02</td>\n      <td>O</td>\n    \
+    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>D00093</td>\n      <td>Consultations\
+    \ on Foreign Interference</td>\n      <td>2023-11-24</td>\n      <td>2024-02-02</td>\n\
+    \      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>C-003151</td>\n\
     \      <td>Let's Talk Weather</td>\n      <td>2022-08-22</td>\n      <td>2024-01-31</td>\n\
     \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C0000164</td>\n\
     \      <td>Consulting and cooperating with Indigenous Peoples on border mobility</td>\n\
@@ -502,39 +493,39 @@ status-website:
     \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0000055</td>\n      <td>Amendments\
     \ to the Interpretation Act to add a non-derogation clause and to repeal some\
     \ existing non-derogation clauses.</td>\n      <td>2021-01-11</td>\n      <td>2023-12-31</td>\n\
-    \      <td>O</td>\n      <td>jus</td>\n    </tr>\n    <tr>\n      <td>DFO202008-03</td>\n\
-    \      <td>Northern Gulf of St. Lawrence Study Area</td>\n      <td>2019-06-01</td>\n\
-    \      <td>2023-12-31</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>DFO202108-24</td>\n      <td>Wave 3 - Engagement on Policy\
-    \ and Regulatory Initiatives – Fish and Fish Habitat Protection</td>\n      <td>2023-02-15</td>\n\
-    \      <td>2023-12-31</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-2021-02</td>\n      <td>Regulatory Framework Plan</td>\n\
-    \      <td>2021-06-16</td>\n      <td>2023-12-31</td>\n      <td>O</td>\n    \
-    \  <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-2021-01</td>\n      <td>Filing\
-    \ Manual Updates</td>\n      <td>2021-02-01</td>\n      <td>2023-12-31</td>\n\
+    \      <td>O</td>\n      <td>jus</td>\n    </tr>\n    <tr>\n      <td>C-301023</td>\n\
+    \      <td>Supply Chain Regulatory Review</td>\n      <td>2023-11-07</td>\n  \
+    \    <td>2023-12-31</td>\n      <td>O</td>\n      <td>tbs-sct</td>\n    </tr>\n\
+    \    <tr>\n      <td>DFO202008-03</td>\n      <td>Northern Gulf of St. Lawrence\
+    \ Study Area</td>\n      <td>2019-06-01</td>\n      <td>2023-12-31</td>\n    \
+    \  <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>DFO202108-24</td>\n\
+    \      <td>Wave 3 - Engagement on Policy and Regulatory Initiatives – Fish and\
+    \ Fish Habitat Protection</td>\n      <td>2023-02-15</td>\n      <td>2023-12-31</td>\n\
+    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-2021-02</td>\n\
+    \      <td>Regulatory Framework Plan</td>\n      <td>2021-06-16</td>\n      <td>2023-12-31</td>\n\
+    \      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-2021-01</td>\n\
+    \      <td>Filing Manual Updates</td>\n      <td>2021-02-01</td>\n      <td>2023-12-31</td>\n\
     \      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-0000895</td>\n\
     \      <td>Consultation on carfentrazone-ethyl, Proposed Maximum Residue Limit\
     \ PMRL2023-45</td>\n      <td>2023-10-17</td>\n      <td>2023-12-31</td>\n   \
-    \   <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-301023</td>\n\
-    \      <td>Supply Chain Regulatory Review</td>\n      <td>2023-11-07</td>\n  \
-    \    <td>2023-12-31</td>\n      <td>O</td>\n      <td>tbs-sct</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0000900</td>\n      <td>Consultation on Paclobutrazol,\
-    \ Proposed Registration Decision PRD2023-10</td>\n      <td>2023-11-16</td>\n\
-    \      <td>2023-12-31</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0000042</td>\n      <td>Bilateral funding agreements with\
-    \ Provinces and Territories on the implementation of the National Action Plan\
-    \ to End Gender-Based Violence</td>\n      <td>2022-11-11</td>\n      <td>2023-12-31</td>\n\
-    \      <td>O</td>\n      <td>wage</td>\n    </tr>\n    <tr>\n      <td>C-00000010</td>\n\
-    \      <td>Consultation on the modernization of the Pulp and Paper Effluent Regulations</td>\n\
-    \      <td>2019-05-15</td>\n      <td>2023-12-31</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO202008-02</td>\n      <td>St.\
-    \ Lawrence Estuary Area of Interest</td>\n      <td>2019-06-01</td>\n      <td>2023-12-31</td>\n\
-    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>STC-0000052</td>\n\
-    \      <td>Missing persons data standards consultative engagement</td>\n     \
-    \ <td>2023-06-22</td>\n      <td>2023-12-30</td>\n      <td>O</td>\n      <td>statcan</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-0000039</td>\n      <td>Enhancing the framing\
-    \ and parameters of GBA Plus</td>\n      <td>2023-06-01</td>\n      <td>2023-12-30</td>\n\
-    \      <td>O</td>\n      <td>wage</td>\n    </tr>\n    <tr>\n      <td>C-0000899</td>\n\
+    \   <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000900</td>\n\
+    \      <td>Consultation on Paclobutrazol, Proposed Registration Decision PRD2023-10</td>\n\
+    \      <td>2023-11-16</td>\n      <td>2023-12-31</td>\n      <td>O</td>\n    \
+    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000042</td>\n      <td>Bilateral\
+    \ funding agreements with Provinces and Territories on the implementation of the\
+    \ National Action Plan to End Gender-Based Violence</td>\n      <td>2022-11-11</td>\n\
+    \      <td>2023-12-31</td>\n      <td>O</td>\n      <td>wage</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-00000010</td>\n      <td>Consultation on the modernization\
+    \ of the Pulp and Paper Effluent Regulations</td>\n      <td>2019-05-15</td>\n\
+    \      <td>2023-12-31</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
+    \   <tr>\n      <td>DFO202008-02</td>\n      <td>St. Lawrence Estuary Area of\
+    \ Interest</td>\n      <td>2019-06-01</td>\n      <td>2023-12-31</td>\n      <td>O</td>\n\
+    \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>STC-0000052</td>\n   \
+    \   <td>Missing persons data standards consultative engagement</td>\n      <td>2023-06-22</td>\n\
+    \      <td>2023-12-30</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000039</td>\n      <td>Enhancing the framing and parameters\
+    \ of GBA Plus</td>\n      <td>2023-06-01</td>\n      <td>2023-12-30</td>\n   \
+    \   <td>O</td>\n      <td>wage</td>\n    </tr>\n    <tr>\n      <td>C-0000899</td>\n\
     \      <td>Consultation on the proposed special review decision of fosetyl-aluminum\
     \ and its associated end-use products, PSRD2023-02</td>\n      <td>2023-11-14</td>\n\
     \      <td>2023-12-29</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
