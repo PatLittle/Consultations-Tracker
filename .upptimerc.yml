@@ -494,27 +494,20 @@ status-website:
     \   <tr>\n      <td>C-003194</td>\n      <td>Share and view ideas: Publication\
     \ of a Notice of intent for the Federal Plastics Registry</td>\n      <td>2023-12-30</td>\n\
     \      <td>2024-02-13</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-003193</td>\n      <td>Share your thoughts: Upcoming amendments\
-    \ to the Migratory Birds Regulations, 2022 for hunting seasons 2024-2025 and 2025-2026</td>\n\
-    \      <td>2024-01-13</td>\n      <td>2024-02-12</td>\n      <td>C</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20240112</td>\n      <td>Potential\
-    \ 2024 and 2025 management measures to address key threats to Southern Resident\
-    \ Killer Whales</td>\n      <td>2024-01-12</td>\n      <td>2024-02-12</td>\n \
-    \     <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
-    \ Listed as Open that should be closed</h3><table border=\"1\" class=\"dataframe\"\
-    >\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
-    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
-    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>87156</td>\n      <td>Public Notice\\nNew Nain Airport Project\\\
-    nPublic Comments Invited on the Summary of the Initial Project Description</td>\n\
-    \      <td>2023-12-18</td>\n      <td>2024-02-16</td>\n      <td>O</td>\n    \
-    \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-003194</td>\n      <td>Share\
-    \ and view ideas: Publication of a Notice of intent for the Federal Plastics Registry</td>\n\
-    \      <td>2023-12-30</td>\n      <td>2024-02-13</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20240112</td>\n      <td>Potential\
-    \ 2024 and 2025 management measures to address key threats to Southern Resident\
-    \ Killer Whales</td>\n      <td>2024-01-12</td>\n      <td>2024-02-12</td>\n \
-    \     <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-00126</td>\n\
+    \ </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
+    \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
+    >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
+    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>87156</td>\n      <td>Public\
+    \ Notice\\nNew Nain Airport Project\\nPublic Comments Invited on the Summary of\
+    \ the Initial Project Description</td>\n      <td>2023-12-18</td>\n      <td>2024-02-16</td>\n\
+    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-003194</td>\n\
+    \      <td>Share and view ideas: Publication of a Notice of intent for the Federal\
+    \ Plastics Registry</td>\n      <td>2023-12-30</td>\n      <td>2024-02-13</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20240112</td>\n\
+    \      <td>Potential 2024 and 2025 management measures to address key threats\
+    \ to Southern Resident Killer Whales</td>\n      <td>2024-01-12</td>\n      <td>2024-02-12</td>\n\
+    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-00126</td>\n\
     \      <td>Share your thoughts: Pest risk management options to expand the regulated\
     \ area for box tree moth in Canada</td>\n      <td>2024-01-11</td>\n      <td>2024-02-10</td>\n\
     \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-000126</td>\n\
