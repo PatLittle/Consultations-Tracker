@@ -458,12 +458,6 @@ status-website:
     \      <td>Consultation: Comment period for the danger to human health or safety\
     \ assessment for portable electric heaters</td>\n      <td>2024-02-19</td>\n \
     \     <td>2024-05-19</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-000135</td>\n      <td>Share your thoughts: Proposed new\
-    \ livestock feed ingredient - tannic acid</td>\n      <td>2024-02-16</td>\n  \
-    \    <td>2024-03-18</td>\n      <td>P</td>\n      <td>cfia-acia</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-000136</td>\n      <td>Share your thoughts: Process for\
-    \ Prioritizing Feed Applications in Certain Unique Circumstances</td>\n      <td>2024-02-16</td>\n\
-    \      <td>2024-03-18</td>\n      <td>P</td>\n      <td>cfia-acia</td>\n    </tr>\n\
     \  </tbody>\n</table><h3>Consultations Ending +/- 5 days from today</h3><table\
     \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
     >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
@@ -485,13 +479,7 @@ status-website:
     \    <tr>\n      <td>C-000125</td>\n      <td>Share your thoughts: Implementation\
     \ of the interim standard on per- and polyfluoroalkyl substances in biosolids</td>\n\
     \      <td>2023-12-22</td>\n      <td>2024-02-20</td>\n      <td>O</td>\n    \
-    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>87156</td>\n      <td>Public\
-    \ Notice\\nNew Nain Airport Project\\nPublic Comments Invited on the Summary of\
-    \ the Initial Project Description</td>\n      <td>2023-12-18</td>\n      <td>2024-02-16</td>\n\
-    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-0000716</td>\n\
-    \      <td>Consultation: Update of Canada's Critical Minerals list and methodology</td>\n\
-    \      <td>2023-12-11</td>\n      <td>2024-02-16</td>\n      <td>C</td>\n    \
-    \  <td>nrcan-rncan</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Listed\
+    \  <td>cfia-acia</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Listed\
     \ as Open that should be closed</h3><table border=\"1\" class=\"dataframe\">\n\
     \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
     \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
