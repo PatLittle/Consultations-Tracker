@@ -74,6 +74,8 @@ sites:
   url: https://letstalknuclearsafety.ca/regulatory-framework-plan-2
 - name: REGDOC-2.3.4, Operations Programs for Reactor Facilities
   url: https://letstalknuclearsafety.ca/regdoc-234-operations-programs-reactor-facilities
+- name: 'REGDOC-1.3.1, Licence Application Guide: Uranium Mines and Mills'
+  url: https://letstalknuclearsafety.ca/regdoc-131-licence-application-guide-uranium-mines-and-mills
 - name: Co-development of a new Indigenous Broadcasting Policy
   url: https://crtc.gc.ca/eng/archive/2019/2019-217.htm
 - name: Bilateral funding agreements with Provinces and Territories on the implementation
@@ -140,6 +142,9 @@ sites:
 - name: 'Share your thoughts: Implementation Framework for a Right to a Healthy Environment
     in the Canadian Environmental Protection Act, 1999'
   url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/right-healthy-environment.html
+- name: 'Share your ideas: Amendments to the Metal and Diamond Mining Effluent Regulations
+    for the Red Lake Mine '
+  url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/red-lake-mine-project.html
 - name: 'Eastern Shore Islands Area of Interest Consultations '
   url: http://www.dfo-mpo.gc.ca/oceans/consultations/easternshore-ilescoteest/index-eng.html
 - name: 'Fundian Channel- Browns Bank Area of Interest '
@@ -447,14 +452,20 @@ status-website:
     1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n \
     \     <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0000913</td>\n      <td>Health\
-    \ Canada and United States Food and Drug Administration Joint Public Consultation\
-    \ on the International Council for Harmonisation of Technical Requirements for\
-    \ Pharmaceuticals for Human Use (ICH) Guidelines</td>\n      <td>2024-02-22</td>\n\
-    \      <td>2024-02-22</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0210</td>\n      <td>Proposed Amendments to Directive No\
-    \ 23, Publication in Local Newspaper</td>\n      <td>2024-02-21</td>\n      <td>2024-03-22</td>\n\
-    \      <td>P</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000921</td>\n\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-003198</td>\n      <td>Share\
+    \ your ideas: Amendments to the Metal and Diamond Mining Effluent Regulations\
+    \ for the Red Lake Mine</td>\n      <td>2024-02-26</td>\n      <td>2024-04-10</td>\n\
+    \      <td>P</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000913</td>\n\
+    \      <td>Health Canada and United States Food and Drug Administration Joint\
+    \ Public Consultation on the International Council for Harmonisation of Technical\
+    \ Requirements for Pharmaceuticals for Human Use (ICH) Guidelines</td>\n     \
+    \ <td>2024-02-22</td>\n      <td>2024-02-22</td>\n      <td>O</td>\n      <td>hc-sc</td>\n\
+    \    </tr>\n    <tr>\n      <td>C-0210</td>\n      <td>Proposed Amendments to\
+    \ Directive No 23, Publication in Local Newspaper</td>\n      <td>2024-02-21</td>\n\
+    \      <td>2024-03-22</td>\n      <td>P</td>\n      <td>ic</td>\n    </tr>\n \
+    \   <tr>\n      <td>C202402</td>\n      <td>REGDOC-1.3.1, Licence Application\
+    \ Guide: Uranium Mines and Mills</td>\n      <td>2024-02-19</td>\n      <td>2024-04-19</td>\n\
+    \      <td>O</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>C-0000921</td>\n\
     \      <td>Consultation: Comment period for the danger to human health or safety\
     \ assessment for portable electric heaters</td>\n      <td>2024-02-19</td>\n \
     \     <td>2024-05-19</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
