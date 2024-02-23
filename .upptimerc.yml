@@ -55,15 +55,21 @@ sites:
   url: N
 - name: 'Share your thoughts: Proposed amended livestock feed ingredients – barley
     protein concentrate'
-  url: N
+  url: https://inspection.canada.ca/about-the-cfia/transparency/consultations-and-engagement/share-your-thoughts-proposed-new-livestock-feed-in/eng/1708460416993/1708460508652
 - name: 'Share your thoughts: Proposed amended livestock feed ingredients – l-threonine'
-  url: N
+  url: https://inspection.canada.ca/about-the-cfia/transparency/consultations-and-engagement/share-your-thoughts-proposed-amended-livestock-fee/eng/1708457165147/1708457272152
 - name: 'Share your thoughts: Proposed amended livestock feed ingredients – l-threonine
     from fermentation process'
-  url: N
+  url: https://inspection.canada.ca/about-the-cfia/transparency/consultations-and-engagement/share-your-thoughts-proposed-new-livestock-feed-in/eng/1708459042370/1708459230613
 - name: 'Share your thoughts: Proposed amended livestock feed ingredients – L-arginine
     from fermentation process'
-  url: N
+  url: https://inspection.canada.ca/about-the-cfia/transparency/consultations-and-engagement/share-your-thoughts-proposed-amended-livestock-fee/eng/1708456542569/1708456609134
+- name: 'Share your thoughts: Proposed amended livestock feed ingredient – Cattle
+    whey solubles dehydrated'
+  url: https://inspection.canada.ca/about-the-cfia/transparency/consultations-and-engagement/share-your-thoughts-proposed-amended-livestock-fee/eng/1708454897036/1708455106685
+- name: 'Share your thoughts: Proposed amended livestock feed ingredient – Cattle
+    whey solubles on carrier dehydrated'
+  url: https://inspection.canada.ca/about-the-cfia/transparency/consultations-and-engagement/share-your-thoughts-proposed-amended-livestock-fee/eng/1708455874538/1708456032277
 - name: Changing Narrative Fund
   url: https://www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
 - name: 2022-23 Consultations on renewal of the Museum Policy
@@ -460,8 +466,27 @@ status-website:
     \ Public Consultation on the International Council for Harmonisation of Technical\
     \ Requirements for Pharmaceuticals for Human Use (ICH) Guidelines</td>\n     \
     \ <td>2024-02-22</td>\n      <td>2024-02-22</td>\n      <td>O</td>\n      <td>hc-sc</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-0210</td>\n      <td>Proposed Amendments to\
-    \ Directive No 23, Publication in Local Newspaper</td>\n      <td>2024-02-21</td>\n\
+    \    </tr>\n    <tr>\n      <td>C-000137</td>\n      <td>Share your thoughts:\
+    \ Proposed amended livestock feed ingredients – barley protein concentrate</td>\n\
+    \      <td>2024-02-21</td>\n      <td>2024-03-22</td>\n      <td>O</td>\n    \
+    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-000138</td>\n      <td>Share\
+    \ your thoughts: Proposed amended livestock feed ingredients – l-threonine</td>\n\
+    \      <td>2024-02-21</td>\n      <td>2024-03-22</td>\n      <td>O</td>\n    \
+    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-000139</td>\n      <td>Share\
+    \ your thoughts: Proposed amended livestock feed ingredients – l-threonine from\
+    \ fermentation process</td>\n      <td>2024-02-21</td>\n      <td>2024-03-22</td>\n\
+    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-000140</td>\n\
+    \      <td>Share your thoughts: Proposed amended livestock feed ingredients –\
+    \ L-arginine from fermentation process</td>\n      <td>2024-02-21</td>\n     \
+    \ <td>2024-03-22</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-000141</td>\n      <td>Share your thoughts: Proposed amended\
+    \ livestock feed ingredient – Cattle whey solubles dehydrated</td>\n      <td>2024-02-21</td>\n\
+    \      <td>2024-03-22</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-000142</td>\n      <td>Share your thoughts: Proposed amended\
+    \ livestock feed ingredient – Cattle whey solubles on carrier dehydrated</td>\n\
+    \      <td>2024-02-21</td>\n      <td>2024-03-22</td>\n      <td>O</td>\n    \
+    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-0210</td>\n      <td>Proposed\
+    \ Amendments to Directive No 23, Publication in Local Newspaper</td>\n      <td>2024-02-21</td>\n\
     \      <td>2024-03-22</td>\n      <td>P</td>\n      <td>ic</td>\n    </tr>\n \
     \   <tr>\n      <td>C202402</td>\n      <td>REGDOC-1.3.1, Licence Application\
     \ Guide: Uranium Mines and Mills</td>\n      <td>2024-02-19</td>\n      <td>2024-04-19</td>\n\
