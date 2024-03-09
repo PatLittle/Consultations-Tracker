@@ -239,6 +239,13 @@ sites:
 - name: Consultation on natamycin and its associated end-use products, Proposed Re-evaluation
     Decision PRVD2024-02
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2024/natamycin.html
+- name: 'Guidelines for Canadian drinking water quality — Operational parameters:
+    calcium, magnesium, hardness, chloride, sulphate, total dissolved solids and hydrogen
+    sulphide in drinking water'
+  url: https://gazette.gc.ca/rp-pr/p1/2024/2024-03-09/html/notice-avis-eng.html#ne2
+- name: Consultation on copper (metallic) and V2 Net, Proposed Registration Decision
+    PRD2024-03
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2024/copper-metallic-v2-net.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url:  https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
@@ -320,7 +327,8 @@ sites:
     Coast of British Columbia
   url: https://parks.canada.ca/amnc-nmca/cnamnc-cnnmca/cotecentrale-centralcoast
 - name: Notice of Mooring Restrictions – Ontario Waterways
-  url: https://parks.canada.ca/lhn-nhs/on/trentsevern AND https://parks.canada.ca/lhn-nhs/on/rideau
+  url: https://parks.canada.ca/lhn-nhs/on/trentsevern/info/avis-restrictions-amarrage-notice-mooring-restrictions/
+    AND https://parks.canada.ca/lhn-nhs/on/rideau/info/avis-restrictions-amarrage-notice-mooring-restrictions/
 - name: 'Consultation: A vision for public health assessment for Canada’s future'
   url: https://www.canada.ca/en/public-health/programs/consultation-vision-public-health-assessment-canada-future.html
 - name: National Risk Profile (NRP) Targeted Engagement
@@ -440,8 +448,15 @@ status-website:
     1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n \
     \     <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0000119</td>\n      <td>Notice\
-    \ of Mooring Restrictions – Ontario Waterways</td>\n      <td>2024-03-07</td>\n\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0000931</td>\n      <td>Guidelines\
+    \ for Canadian drinking water quality — Operational parameters: calcium, magnesium,\
+    \ hardness, chloride, sulphate, total dissolved solids and hydrogen sulphide in\
+    \ drinking water</td>\n      <td>2024-03-08</td>\n      <td>2024-05-07</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000932</td>\n\
+    \      <td>Consultation on copper (metallic) and V2 Net, Proposed Registration\
+    \ Decision PRD2024-03</td>\n      <td>2024-03-08</td>\n      <td>2024-04-22</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000119</td>\n\
+    \      <td>Notice of Mooring Restrictions – Ontario Waterways</td>\n      <td>2024-03-07</td>\n\
     \      <td>2024-04-07</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
     \   <tr>\n      <td>C-0000930</td>\n      <td>Consultation on natamycin and its\
     \ associated end-use products, Proposed Re-evaluation Decision PRVD2024-02</td>\n\
