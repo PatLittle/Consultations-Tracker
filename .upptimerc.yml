@@ -484,24 +484,20 @@ status-website:
     \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000907</td>\n      <td>Consultation\
     \ on dimethenamid, Proposed Maximum Residue Limit PMRL2023-47</td>\n      <td>2023-12-20</td>\n\
     \      <td>2024-03-04</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0000909</td>\n      <td>Consultation on the proposed policy\
-    \ on continuous oversight of pesticides, Regulatory Proposal PRO2024-01</td>\n\
-    \      <td>2024-01-03</td>\n      <td>2024-03-03</td>\n      <td>C</td>\n    \
-    \  <td>hc-sc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Listed as\
-    \ Open that should be closed</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n\
-    \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
-    \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
-    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>CT-2021-0004</td>\n      <td>White River First Nations</td>\n\
-    \      <td>2021-02-01</td>\n      <td>2024-03-01</td>\n      <td>O</td>\n    \
-    \  <td>cbsa-asfc</td>\n    </tr>\n    <tr>\n      <td>C-0000005</td>\n      <td>Consultation:\
-    \ A vision for public health assessment for Canada’s future</td>\n      <td>2023-11-20</td>\n\
-    \      <td>2024-03-01</td>\n      <td>O</td>\n      <td>phac-aspc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C20230719</td>\n      <td>Marine Spatial Planning</td>\n\
-    \      <td>2023-07-19</td>\n      <td>2024-02-28</td>\n      <td>O</td>\n    \
-    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>80087</td>\n      <td>Public\
-    \ Notice\\nCrown Mountain Coking Coal Project\\nPublic Comments Invited on the\
-    \ Summary of the Environmental Impact Statement</td>\n      <td>2024-01-29</td>\n\
+    \  </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
+    \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
+    >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
+    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>CT-2021-0004</td>\n     \
+    \ <td>White River First Nations</td>\n      <td>2021-02-01</td>\n      <td>2024-03-01</td>\n\
+    \      <td>O</td>\n      <td>cbsa-asfc</td>\n    </tr>\n    <tr>\n      <td>C-0000005</td>\n\
+    \      <td>Consultation: A vision for public health assessment for Canada’s future</td>\n\
+    \      <td>2023-11-20</td>\n      <td>2024-03-01</td>\n      <td>O</td>\n    \
+    \  <td>phac-aspc</td>\n    </tr>\n    <tr>\n      <td>C20230719</td>\n      <td>Marine\
+    \ Spatial Planning</td>\n      <td>2023-07-19</td>\n      <td>2024-02-28</td>\n\
+    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>80087</td>\n\
+    \      <td>Public Notice\\nCrown Mountain Coking Coal Project\\nPublic Comments\
+    \ Invited on the Summary of the Environmental Impact Statement</td>\n      <td>2024-01-29</td>\n\
     \      <td>2024-02-28</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
     \    <tr>\n      <td>C-000125</td>\n      <td>Share your thoughts: Implementation\
     \ of the interim standard on per- and polyfluoroalkyl substances in biosolids</td>\n\
