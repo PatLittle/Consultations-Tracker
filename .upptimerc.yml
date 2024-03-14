@@ -458,14 +458,7 @@ status-website:
     \      <td>P</td>\n      <td>cbsa-asfc</td>\n    </tr>\n    <tr>\n      <td>C-0000120</td>\n\
     \      <td>Notice of Mooring Restrictions – Ontario Waterways - Rideau Canal National\
     \ Historic Site</td>\n      <td>2024-03-11</td>\n      <td>2024-04-07</td>\n \
-    \     <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000931</td>\n\
-    \      <td>Guidelines for Canadian drinking water quality — Operational parameters:\
-    \ calcium, magnesium, hardness, chloride, sulphate, total dissolved solids and\
-    \ hydrogen sulphide in drinking water</td>\n      <td>2024-03-08</td>\n      <td>2024-05-07</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000932</td>\n\
-    \      <td>Consultation on copper (metallic) and V2 Net, Proposed Registration\
-    \ Decision PRD2024-03</td>\n      <td>2024-03-08</td>\n      <td>2024-04-22</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \     <td>O</td>\n      <td>pc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
     \ Ending +/- 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n\
     \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
     \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
