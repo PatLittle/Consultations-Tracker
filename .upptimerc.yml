@@ -502,32 +502,42 @@ status-website:
     \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
     >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0000919</td>\n      <td>Share\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0000102</td>\n      <td>Council\
+    \ of Europe Second Additional Protocol to the Convention on Cybercrime on Enhanced\
+    \ Cooperation and Disclosure of Electronic Evidence\\nConsultations, 2023</td>\n\
+    \      <td>2023-10-24</td>\n      <td>2024-03-15</td>\n      <td>O</td>\n    \
+    \  <td>jus</td>\n    </tr>\n    <tr>\n      <td>C-003195</td>\n      <td>Share\
+    \ your ideas: consultation on the modernization of the Pulp and Paper Effluent\
+    \ Regulations</td>\n      <td>2024-01-17</td>\n      <td>2024-03-15</td>\n   \
+    \   <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000117</td>\n\
+    \      <td>Proposed national marine conservation area reserve (NMCAR) on the Central\
+    \ Coast of British Columbia</td>\n      <td>2024-01-19</td>\n      <td>2024-03-15</td>\n\
+    \      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000918</td>\n\
+    \      <td>Share your views: Draft policy on terms and conditions for medical\
+    \ device establishment licences, guidance on medical device establishment licensing\
+    \ (GUI-0016), and medical device establishment licence application (FRM-0292)</td>\n\
+    \      <td>2024-02-09</td>\n      <td>2024-03-09</td>\n      <td>O</td>\n    \
+    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000919</td>\n      <td>Share\
     \ your views: Consultation for medical devices recall guide (GUI-0054)</td>\n\
     \      <td>2024-02-09</td>\n      <td>2024-03-09</td>\n      <td>O</td>\n    \
-    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000918</td>\n      <td>Share\
-    \ your views: Draft policy on terms and conditions for medical device establishment\
-    \ licences, guidance on medical device establishment licensing (GUI-0016), and\
-    \ medical device establishment licence application (FRM-0292)</td>\n      <td>2024-02-09</td>\n\
-    \      <td>2024-03-09</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>CT-2021-0004</td>\n      <td>White River First Nations</td>\n\
-    \      <td>2021-02-01</td>\n      <td>2024-03-01</td>\n      <td>O</td>\n    \
-    \  <td>cbsa-asfc</td>\n    </tr>\n    <tr>\n      <td>C-0000005</td>\n      <td>Consultation:\
-    \ A vision for public health assessment for Canada’s future</td>\n      <td>2023-11-20</td>\n\
-    \      <td>2024-03-01</td>\n      <td>O</td>\n      <td>phac-aspc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C20230719</td>\n      <td>Marine Spatial Planning</td>\n\
-    \      <td>2023-07-19</td>\n      <td>2024-02-28</td>\n      <td>O</td>\n    \
-    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>80087</td>\n      <td>Public\
-    \ Notice\\nCrown Mountain Coking Coal Project\\nPublic Comments Invited on the\
-    \ Summary of the Environmental Impact Statement</td>\n      <td>2024-01-29</td>\n\
+    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>CT-2021-0004</td>\n      <td>White\
+    \ River First Nations</td>\n      <td>2021-02-01</td>\n      <td>2024-03-01</td>\n\
+    \      <td>O</td>\n      <td>cbsa-asfc</td>\n    </tr>\n    <tr>\n      <td>C-0000005</td>\n\
+    \      <td>Consultation: A vision for public health assessment for Canada’s future</td>\n\
+    \      <td>2023-11-20</td>\n      <td>2024-03-01</td>\n      <td>O</td>\n    \
+    \  <td>phac-aspc</td>\n    </tr>\n    <tr>\n      <td>C20230719</td>\n      <td>Marine\
+    \ Spatial Planning</td>\n      <td>2023-07-19</td>\n      <td>2024-02-28</td>\n\
+    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>80087</td>\n\
+    \      <td>Public Notice\\nCrown Mountain Coking Coal Project\\nPublic Comments\
+    \ Invited on the Summary of the Environmental Impact Statement</td>\n      <td>2024-01-29</td>\n\
     \      <td>2024-02-28</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-000125</td>\n      <td>Share your thoughts: Implementation\
-    \ of the interim standard on per- and polyfluoroalkyl substances in biosolids</td>\n\
+    \    <tr>\n      <td>C-00125</td>\n      <td>Implementation of an interim standard\
+    \ for Per- and polyfluoroalkyl substances (PFAS) in municipal biosolids</td>\n\
     \      <td>2023-12-22</td>\n      <td>2024-02-20</td>\n      <td>O</td>\n    \
-    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-00125</td>\n      <td>Implementation\
-    \ of an interim standard for Per- and polyfluoroalkyl substances (PFAS) in municipal\
-    \ biosolids</td>\n      <td>2023-12-22</td>\n      <td>2024-02-20</td>\n     \
-    \ <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>87156</td>\n\
+    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-000125</td>\n      <td>Share\
+    \ your thoughts: Implementation of the interim standard on per- and polyfluoroalkyl\
+    \ substances in biosolids</td>\n      <td>2023-12-22</td>\n      <td>2024-02-20</td>\n\
+    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>87156</td>\n\
     \      <td>Public Notice\\nNew Nain Airport Project\\nPublic Comments Invited\
     \ on the Summary of the Initial Project Description</td>\n      <td>2023-12-18</td>\n\
     \      <td>2024-02-16</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
@@ -537,12 +547,12 @@ status-website:
     \   <tr>\n      <td>DFO20240112</td>\n      <td>Potential 2024 and 2025 management\
     \ measures to address key threats to Southern Resident Killer Whales</td>\n  \
     \    <td>2024-01-12</td>\n      <td>2024-02-12</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-00126</td>\n      <td>Share your thoughts: Pest\
-    \ risk management options to expand the regulated area for box tree moth in Canada</td>\n\
-    \      <td>2024-01-11</td>\n      <td>2024-02-10</td>\n      <td>O</td>\n    \
-    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-000126</td>\n      <td>Share\
-    \ your thoughts: Pest risk management options to expand the regulated area for\
-    \ box tree moth in Canada</td>\n      <td>2024-01-11</td>\n      <td>2024-02-10</td>\n\
+    \    </tr>\n    <tr>\n      <td>C-000126</td>\n      <td>Share your thoughts:\
+    \ Pest risk management options to expand the regulated area for box tree moth\
+    \ in Canada</td>\n      <td>2024-01-11</td>\n      <td>2024-02-10</td>\n     \
+    \ <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-00126</td>\n\
+    \      <td>Share your thoughts: Pest risk management options to expand the regulated\
+    \ area for box tree moth in Canada</td>\n      <td>2024-01-11</td>\n      <td>2024-02-10</td>\n\
     \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-0000115</td>\n\
     \      <td>Pre-Budget Consultations 2024</td>\n      <td>2023-12-12</td>\n   \
     \   <td>2024-02-09</td>\n      <td>O</td>\n      <td>fin</td>\n    </tr>\n   \
@@ -565,26 +575,26 @@ status-website:
     \    <tr>\n      <td>C-0000042</td>\n      <td>Bilateral funding agreements with\
     \ Provinces and Territories on the implementation of the National Action Plan\
     \ to End Gender-Based Violence</td>\n      <td>2022-11-11</td>\n      <td>2024-01-31</td>\n\
-    \      <td>O</td>\n      <td>wage</td>\n    </tr>\n    <tr>\n      <td>DFO20231018-01</td>\n\
-    \      <td>Addition of a line of floating pontoons and the riprap to breakwater\
-    \ 301 at Grosse-Île harbour, Magdalen Islands</td>\n      <td>2023-10-13</td>\n\
-    \      <td>2024-01-30</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>681</td>\n      <td>Updates to Canada's Vehicle Cyber Security\
-    \ Guidance</td>\n      <td>2023-02-22</td>\n      <td>2024-01-30</td>\n      <td>O</td>\n\
-    \      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0000115</td>\n      <td>Criteria\
+    \      <td>O</td>\n      <td>wage</td>\n    </tr>\n    <tr>\n      <td>681</td>\n\
+    \      <td>Updates to Canada's Vehicle Cyber Security Guidance</td>\n      <td>2023-02-22</td>\n\
+    \      <td>2024-01-30</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n \
+    \   <tr>\n      <td>DFO20231018-01</td>\n      <td>Addition of a line of floating\
+    \ pontoons and the riprap to breakwater 301 at Grosse-Île harbour, Magdalen Islands</td>\n\
+    \      <td>2023-10-13</td>\n      <td>2024-01-30</td>\n      <td>O</td>\n    \
+    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0000115</td>\n      <td>Criteria\
     \ for Ecological Corridors in Canada</td>\n      <td>2023-11-29</td>\n      <td>2024-01-05</td>\n\
     \      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C - 20230721</td>\n\
     \      <td>Elver Fishery Management Review</td>\n      <td>2023-07-07</td>\n \
     \     <td>2024-01-01</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
     \    <tr>\n      <td>STC-0000052</td>\n      <td>Missing persons data standards\
     \ consultative engagement</td>\n      <td>2023-06-22</td>\n      <td>2023-12-30</td>\n\
-    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>673</td>\n\
-    \      <td>Let’s Talk Transportation: Public Interest Assessment of Bunge’s Proposed\
-    \ Acquisition of Viterra</td>\n      <td>2023-10-23</td>\n      <td>2023-12-22</td>\n\
-    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>DFO20231030-01</td>\n\
+    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>DFO20231030-01</td>\n\
     \      <td>Listing of Lumpfish, Ringed Seal and Harbour Porpoise on the Species\
     \ at Risk public registry</td>\n      <td>2023-09-27</td>\n      <td>2023-12-22</td>\n\
-    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-VAC0056</td>\n\
+    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>673</td>\n\
+    \      <td>Let’s Talk Transportation: Public Interest Assessment of Bunge’s Proposed\
+    \ Acquisition of Viterra</td>\n      <td>2023-10-23</td>\n      <td>2023-12-22</td>\n\
+    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-VAC0056</td>\n\
     \      <td>Veterans’ health and well-being assessment</td>\n      <td>2023-07-17</td>\n\
     \      <td>2023-12-18</td>\n      <td>O</td>\n      <td>vac-acc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-ISC-1021</td>\n      <td>Engagement 2023: Updating the\
@@ -684,25 +694,25 @@ status-website:
     \      <td>2017-09-20</td>\n      <td>2022-01-10</td>\n      <td>O</td>\n    \
     \  <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-003124</td>\n      <td>Share\
     \ your ideas: Blackwater Project</td>\n      <td>2021-06-08</td>\n      <td>2021-09-30</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-00124</td>\n\
-    \      <td>Clean Fuel Standard</td>\n      <td>2017-01-01</td>\n      <td>2021-06-30</td>\n\
     \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-00052</td>\n\
     \      <td>National Infrastructure Assessment</td>\n      <td>2021-03-16</td>\n\
     \      <td>2021-06-30</td>\n      <td>O</td>\n      <td>infc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-003127</td>\n      <td>Recovery Strategy (Amended) and\
-    \ Action Plan for the Piping Plover melodus subspecies (Charadrius melodus melodus)\
-    \ in Canada [Proposed]</td>\n      <td>2021-03-25</td>\n      <td>2021-06-23</td>\n\
+    \    <tr>\n      <td>C-00124</td>\n      <td>Clean Fuel Standard</td>\n      <td>2017-01-01</td>\n\
+    \      <td>2021-06-30</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-003127</td>\n      <td>Recovery Strategy (Amended) and Action\
+    \ Plan for the Piping Plover melodus subspecies (Charadrius melodus melodus) in\
+    \ Canada [Proposed]</td>\n      <td>2021-03-25</td>\n      <td>2021-06-23</td>\n\
     \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003115</td>\n\
     \      <td>Share and view ideas: Renewal of the Federal Agenda for Volatile Organic\
     \ Compounds in Consumer and Commercial Product</td>\n      <td>2021-03-10</td>\n\
     \      <td>2021-04-08</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
     \   <tr>\n      <td>C-ISC0037</td>\n      <td>Renewal of the Fire Protection Strategy</td>\n\
     \      <td>2020-04-01</td>\n      <td>2021-03-31</td>\n      <td>O</td>\n    \
-    \  <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-INA0005</td>\n      <td>Indigenous\
-    \ Procurement Modernization (including Procurement Strategy for Aboriginal Business)</td>\n\
-    \      <td>2017-06-01</td>\n      <td>2021-03-31</td>\n      <td>O</td>\n    \
     \  <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0033</td>\n      <td>Indian\
     \ Oil and Gas Regulations - Phase II</td>\n      <td>2013-04-01</td>\n      <td>2021-03-31</td>\n\
+    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-INA0005</td>\n\
+    \      <td>Indigenous Procurement Modernization (including Procurement Strategy\
+    \ for Aboriginal Business)</td>\n      <td>2017-06-01</td>\n      <td>2021-03-31</td>\n\
     \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>STC-0000023</td>\n\
     \      <td>Multifactor Productivity Application</td>\n      <td>2019-12-01</td>\n\
     \      <td>2020-03-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
