@@ -459,10 +459,7 @@ status-website:
     \ Historic Site</td>\n      <td>2024-03-19</td>\n      <td>2024-04-19</td>\n \
     \     <td>P</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>CT-2024-0001</td>\n\
     \      <td>Accessibility Plan</td>\n      <td>2024-03-15</td>\n      <td>2024-04-15</td>\n\
-    \      <td>P</td>\n      <td>cbsa-asfc</td>\n    </tr>\n    <tr>\n      <td>C-0000122</td>\n\
-    \      <td>Thaidene Nene National Park Reserve and Thaidene Nëné Indigenous Protected\
-    \ Area Relationship (Management) Plan</td>\n      <td>2024-03-14</td>\n      <td>2024-04-28</td>\n\
-    \      <td>O</td>\n      <td>pc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \      <td>P</td>\n      <td>cbsa-asfc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
     \ Ending +/- 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n\
     \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
     \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
