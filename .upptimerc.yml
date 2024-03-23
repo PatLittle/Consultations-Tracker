@@ -249,6 +249,12 @@ sites:
 - name: 'Consultation on the draft guidance for preparing veterinary drug submissions:
     Quality requirements'
   url: https://www.canada.ca/en/health-canada/programs/consultation-draft-guidance-preparing-veterinary-drug-submissions-quality-requirements.html
+- name: 'Share your views: New Annex 13 to the Good manufacturing practices guide
+    for drugs used in clinical trials (GUI-0036)'
+  url: https://www.canada.ca/en/services/health/consultations/consultation-annex-13-gmp-guide-drugs-clinical-trials-0036.html
+- name: 'Notice: Consultation on the Framework for Pesticide Water Monitoring Programs
+    in Canada'
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/framework-pesticide-water-monitoring-programs.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url:  https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
@@ -466,11 +472,17 @@ status-website:
     \ the Opposition to Discharge of Bankrupt, and Proposed Amendments to Forms 62,\
     \ Notice of Cancellation of Mediation, and Form 84, Certificate of Discharge</td>\n\
     \      <td>2024-03-27</td>\n      <td>2024-04-26</td>\n      <td>P</td>\n    \
-    \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000934</td>\n      <td>Consultation\
-    \ on the draft guidance for preparing veterinary abbreviated new drug submissions:\
-    \ Clinical and human safety requirements</td>\n      <td>2024-03-20</td>\n   \
-    \   <td>2024-05-19</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-0000935</td>\n      <td>Consultation on the draft guidance\
+    \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000937</td>\n      <td>Notice:\
+    \ Consultation on the Framework for Pesticide Water Monitoring Programs in Canada</td>\n\
+    \      <td>2024-03-22</td>\n      <td>2024-05-06</td>\n      <td>O</td>\n    \
+    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000936</td>\n      <td>Share\
+    \ your views: New Annex 13 to the Good manufacturing practices guide for drugs\
+    \ used in clinical trials (GUI-0036)</td>\n      <td>2024-03-21</td>\n      <td>2024-05-21</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000934</td>\n\
+    \      <td>Consultation on the draft guidance for preparing veterinary abbreviated\
+    \ new drug submissions: Clinical and human safety requirements</td>\n      <td>2024-03-20</td>\n\
+    \      <td>2024-05-19</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000935</td>\n      <td>Consultation on the draft guidance\
     \ for preparing veterinary drug submissions: Quality requirements</td>\n     \
     \ <td>2024-03-20</td>\n      <td>2024-05-19</td>\n      <td>O</td>\n      <td>hc-sc</td>\n\
     \    </tr>\n    <tr>\n      <td>C-0000121</td>\n      <td>Public consultation\
