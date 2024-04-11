@@ -55,8 +55,6 @@ sites:
   url: https://www.canada.ca/en/canadian-heritage/campaigns/renewal-museum-policy.html
 - name: Refreshing Canada's Strategy for Patient-Oriented Research
   url: https://cihr-irsc.gc.ca/e/53699.html
-- name: Regulatory Framework Plan
-  url: https://letstalknuclearsafety.ca/regulatory-framework-plan-2
 - name: REGDOC-2.3.4, Operations Programs for Reactor Facilities
   url: https://letstalknuclearsafety.ca/regdoc-234-operations-programs-reactor-facilities
 - name: 'REGDOC-1.3.1, Licence Application Guide: Uranium Mines and Mills'
@@ -530,36 +528,34 @@ status-website:
     \ Habitat Protection</td>\n      <td>2023-02-15</td>\n      <td>2024-03-31</td>\n\
     \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0000005</td>\n\
     \      <td>Stakeholders' Forum</td>\n      <td>2019-04-01</td>\n      <td>2024-03-31</td>\n\
-    \      <td>O</td>\n      <td>lac-bac</td>\n    </tr>\n    <tr>\n      <td>C-0000006</td>\n\
+    \      <td>O</td>\n      <td>lac-bac</td>\n    </tr>\n    <tr>\n      <td>C-0000008</td>\n\
+    \      <td>Youth Advisory Council</td>\n      <td>2019-04-01</td>\n      <td>2024-03-31</td>\n\
+    \      <td>O</td>\n      <td>lac-bac</td>\n    </tr>\n    <tr>\n      <td>C00056</td>\n\
+    \      <td>National Risk Profile (NRP) Targeted Engagement</td>\n      <td>2021-04-01</td>\n\
+    \      <td>2024-03-31</td>\n      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n\
+    \    <tr>\n      <td>STC0000055</td>\n      <td>Census Data on Demand (CDOD) program\
+    \ consultative engagement</td>\n      <td>2023-07-30</td>\n      <td>2024-03-31</td>\n\
+    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-0000006</td>\n\
     \      <td>Services Consultation Committee</td>\n      <td>2019-04-01</td>\n \
     \     <td>2024-03-31</td>\n      <td>O</td>\n      <td>lac-bac</td>\n    </tr>\n\
-    \    <tr>\n      <td>C00056</td>\n      <td>National Risk Profile (NRP) Targeted\
-    \ Engagement</td>\n      <td>2021-04-01</td>\n      <td>2024-03-31</td>\n    \
-    \  <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>STC0000055</td>\n\
-    \      <td>Census Data on Demand (CDOD) program consultative engagement</td>\n\
-    \      <td>2023-07-30</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
-    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-0000008</td>\n      <td>Youth\
-    \ Advisory Council</td>\n      <td>2019-04-01</td>\n      <td>2024-03-31</td>\n\
-    \      <td>O</td>\n      <td>lac-bac</td>\n    </tr>\n    <tr>\n      <td>DFO20240130-05</td>\n\
-    \      <td>Engagement on regional restoration priorities for fish and fish habitat</td>\n\
-    \      <td>2023-09-19</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
-    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C202102</td>\n      <td>Regulatory\
-    \ Framework Plan</td>\n      <td>2023-06-23</td>\n      <td>2024-03-31</td>\n\
-    \      <td>O</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>C-20240110</td>\n\
-    \      <td>Refreshing Canada's Strategy for Patient-Oriented Research</td>\n \
-    \     <td>2024-01-10</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n     \
-    \ <td>cihr-irsc</td>\n    </tr>\n    <tr>\n      <td>STC0000062</td>\n      <td>Share\
-    \ your input on Canada’s Oral Health Statistics Program</td>\n      <td>2023-11-27</td>\n\
+    \    <tr>\n      <td>DFO20240130-05</td>\n      <td>Engagement on regional restoration\
+    \ priorities for fish and fish habitat</td>\n      <td>2023-09-19</td>\n     \
+    \ <td>2024-03-31</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-20240110</td>\n      <td>Refreshing Canada's Strategy for\
+    \ Patient-Oriented Research</td>\n      <td>2024-01-10</td>\n      <td>2024-03-31</td>\n\
+    \      <td>O</td>\n      <td>cihr-irsc</td>\n    </tr>\n    <tr>\n      <td>STC0000062</td>\n\
+    \      <td>Share your input on Canada’s Oral Health Statistics Program</td>\n\
+    \      <td>2023-11-27</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
+    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-000100</td>\n      <td>Notice\
+    \ of Intent: Amendment to the Safe Food for Canadians Regulations</td>\n     \
+    \ <td>2023-01-12</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n\
+    \    </tr>\n    <tr>\n      <td>STC-0000064</td>\n      <td>Invitation to participate\
+    \ in a flood awareness consultative engagement</td>\n      <td>2024-01-02</td>\n\
     \      <td>2024-03-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-000100</td>\n      <td>Notice of Intent: Amendment to the\
-    \ Safe Food for Canadians Regulations</td>\n      <td>2023-01-12</td>\n      <td>2024-03-31</td>\n\
-    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>STC-0000064</td>\n\
-    \      <td>Invitation to participate in a flood awareness consultative engagement</td>\n\
-    \      <td>2024-01-02</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
-    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>698</td>\n      <td>Digitizing\
-    \ the Travel Journey at Airports</td>\n      <td>2023-04-01</td>\n      <td>2024-03-31</td>\n\
-    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>DFO20231018-02</td>\n\
-    \      <td>Corrective work on breakwater 302 at Étang-du-Nord harbour, Iles-de-la-Madeleine</td>\n\
+    \    <tr>\n      <td>698</td>\n      <td>Digitizing the Travel Journey at Airports</td>\n\
+    \      <td>2023-04-01</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
+    \  <td>tc</td>\n    </tr>\n    <tr>\n      <td>DFO20231018-02</td>\n      <td>Corrective\
+    \ work on breakwater 302 at Étang-du-Nord harbour, Iles-de-la-Madeleine</td>\n\
     \      <td>2023-10-25</td>\n      <td>2024-03-30</td>\n      <td>O</td>\n    \
     \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>DFO202305-30</td>\n      <td>Coastal\
     \ Community Conservation Opportunities Initiative</td>\n      <td>2023-04-01</td>\n\
