@@ -499,17 +499,14 @@ status-website:
     \   <tr>\n      <td>DFO20240130-03</td>\n      <td>American Eel: Consultation\
     \ check-in on listing under the Species at Risk Act</td>\n      <td>2024-01-25</td>\n\
     \      <td>2024-04-08</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0000119</td>\n      <td>Notice of Mooring Restrictions\
-    \ – Ontario Waterways - Trent-Severn Waterway National Historic Site</td>\n  \
-    \    <td>2024-03-07</td>\n      <td>2024-04-07</td>\n      <td>O</td>\n      <td>pc</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-0000120</td>\n      <td>Notice of Mooring Restrictions\
-    \ – Ontario Waterways - Rideau Canal National Historic Site</td>\n      <td>2024-03-11</td>\n\
-    \      <td>2024-04-07</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
-    \ </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
+    \  </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
     \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
     >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0000922</td>\n      <td>Consultation\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-000046</td>\n      <td>Share\
+    \ your thoughts about the regulatory framework for the Online News Act</td>\n\
+    \      <td>2024-03-13</td>\n      <td>2024-04-12</td>\n      <td>O</td>\n    \
+    \  <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-0000922</td>\n      <td>Consultation\
     \ on Phthorimaea operculella granulovirus isolate GV‑0019 and Tutavir, Proposed\
     \ Registration Decision PRD2024-01</td>\n      <td>2024-02-26</td>\n      <td>2024-04-11</td>\n\
     \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-003197</td>\n\
@@ -527,9 +524,7 @@ status-website:
     \  <td>2024-03-07</td>\n      <td>2024-04-07</td>\n      <td>O</td>\n      <td>pc</td>\n\
     \    </tr>\n    <tr>\n      <td>C-0000102</td>\n      <td>Indigenous Student Recruitment\
     \ Initiative</td>\n      <td>2023-05-31</td>\n      <td>2024-04-01</td>\n    \
-    \  <td>O</td>\n      <td>aafc-aac</td>\n    </tr>\n    <tr>\n      <td>C-0000005</td>\n\
-    \      <td>Stakeholders' Forum</td>\n      <td>2019-04-01</td>\n      <td>2024-03-31</td>\n\
-    \      <td>O</td>\n      <td>lac-bac</td>\n    </tr>\n    <tr>\n      <td>DFO20230401</td>\n\
+    \  <td>O</td>\n      <td>aafc-aac</td>\n    </tr>\n    <tr>\n      <td>DFO20230401</td>\n\
     \      <td>Ongoing Engagement</td>\n      <td>2023-04-01</td>\n      <td>2024-03-31</td>\n\
     \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>DFO20210824-01</td>\n\
     \      <td>Wave 3-Engagement on Policy and Regulatory Initiatives – Fish and Fish\
@@ -543,6 +538,8 @@ status-website:
     \      <td>2023-09-19</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
     \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0000004</td>\n      <td>Indigenous\
     \ Advisory Circle</td>\n      <td>2019-04-01</td>\n      <td>2024-03-31</td>\n\
+    \      <td>O</td>\n      <td>lac-bac</td>\n    </tr>\n    <tr>\n      <td>C-0000005</td>\n\
+    \      <td>Stakeholders' Forum</td>\n      <td>2019-04-01</td>\n      <td>2024-03-31</td>\n\
     \      <td>O</td>\n      <td>lac-bac</td>\n    </tr>\n    <tr>\n      <td>C-0000006</td>\n\
     \      <td>Services Consultation Committee</td>\n      <td>2019-04-01</td>\n \
     \     <td>2024-03-31</td>\n      <td>O</td>\n      <td>lac-bac</td>\n    </tr>\n\
