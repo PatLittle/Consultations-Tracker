@@ -416,8 +416,6 @@ sites:
   url: TBC
 - name: Supply Chain Regulatory Review - *New closing date*
   url: https://letstalkfederalregulations.ca/
-- name: Veterans’ health and well-being assessment
-  url: 'https://www.veterans.gc.ca/eng/about-vac/what-we-do/public-engagement/veterans-health-well-being-assessment '
 - name: Bilateral funding agreements with Provinces and Territories on the implementation
     of the National Action Plan to End Gender-Based Violence
   url: Not yet available
@@ -597,19 +595,17 @@ status-website:
     \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>673</td>\n\
     \      <td>Let’s Talk Transportation: Public Interest Assessment of Bunge’s Proposed\
     \ Acquisition of Viterra</td>\n      <td>2023-10-23</td>\n      <td>2023-12-22</td>\n\
-    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-VAC0056</td>\n\
-    \      <td>Veterans’ health and well-being assessment</td>\n      <td>2023-07-17</td>\n\
-    \      <td>2023-12-18</td>\n      <td>O</td>\n      <td>vac-acc</td>\n    </tr>\n\
-    \    <tr>\n      <td>716</td>\n      <td>Long-Term Anchoring</td>\n      <td>2023-10-11</td>\n\
-    \      <td>2023-12-10</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n \
-    \   <tr>\n      <td>672</td>\n      <td>Let’s Talk Polar Code: Adding new vessel\
-    \ types to the Arctic Shipping Safety and Pollution Prevention Regulations</td>\n\
-    \      <td>2023-09-08</td>\n      <td>2023-11-08</td>\n      <td>O</td>\n    \
-    \  <td>tc</td>\n    </tr>\n    <tr>\n      <td>704</td>\n      <td>Fall 2023 OPP\
-    \ Pacific Dialogue Forum</td>\n      <td>2023-10-31</td>\n      <td>2023-11-03</td>\n\
-    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-000112</td>\n\
-    \      <td>IPPC Member consultation on draft International Standards for Phytosanitary\
-    \ Measures and Implementation and Capacity Development Documents</td>\n      <td>2023-07-01</td>\n\
+    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>716</td>\n\
+    \      <td>Long-Term Anchoring</td>\n      <td>2023-10-11</td>\n      <td>2023-12-10</td>\n\
+    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>672</td>\n\
+    \      <td>Let’s Talk Polar Code: Adding new vessel types to the Arctic Shipping\
+    \ Safety and Pollution Prevention Regulations</td>\n      <td>2023-09-08</td>\n\
+    \      <td>2023-11-08</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n \
+    \   <tr>\n      <td>704</td>\n      <td>Fall 2023 OPP Pacific Dialogue Forum</td>\n\
+    \      <td>2023-10-31</td>\n      <td>2023-11-03</td>\n      <td>O</td>\n    \
+    \  <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-000112</td>\n      <td>IPPC Member\
+    \ consultation on draft International Standards for Phytosanitary Measures and\
+    \ Implementation and Capacity Development Documents</td>\n      <td>2023-07-01</td>\n\
     \      <td>2023-09-30</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n\
     \    <tr>\n      <td>C-ISC - 1018</td>\n      <td>Developing laws and regulations\
     \ for First Nations drinking water and wastewater: engagement 2022/2023</td>\n\
@@ -628,32 +624,31 @@ status-website:
     \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>84552</td>\n      <td>De Havilland\
     \ Field Project\\nComments Invited on the Summary of the Initial Project Description</td>\n\
     \      <td>2023-05-08</td>\n      <td>2023-06-07</td>\n      <td>O</td>\n    \
-    \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C0000138</td>\n      <td>An\
-    \ immigration system for Canada’s future</td>\n      <td>2023-02-23</td>\n   \
-    \   <td>2023-05-31</td>\n      <td>O</td>\n      <td>cic</td>\n    </tr>\n   \
-    \ <tr>\n      <td>C-0000108</td>\n      <td>2022-23 Consultations on renewal of\
-    \ the Museum Policy</td>\n      <td>2022-10-28</td>\n      <td>2023-05-31</td>\n\
-    \      <td>O</td>\n      <td>pch</td>\n    </tr>\n    <tr>\n      <td>84525</td>\n\
-    \      <td>Aspen Power Station Project -Participant Funding Available</td>\n \
-    \     <td>2023-04-27</td>\n      <td>2023-05-27</td>\n      <td>O</td>\n     \
-    \ <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>84525-1</td>\n      <td>Aspen\
-    \ Power Station Project - Comments Invited on the Summary of the Initial Project\
-    \ Description</td>\n      <td>2023-04-23</td>\n      <td>2023-05-25</td>\n   \
-    \   <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C202301</td>\n\
-    \      <td>REGDOC-1.2.3, Licence Application Guide: Licence to Prepare Site for\
-    \ a Deep Geological Repository</td>\n      <td>2023-02-22</td>\n      <td>2023-05-23</td>\n\
-    \      <td>O</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>DFO20230131-03</td>\n\
-    \      <td>Consultation check-in on 14 aquatic species under consideration for\
-    \ addition or reclassification to Schedule 1 of the Species at Risk Act</td>\n\
-    \      <td>2023-03-20</td>\n      <td>2023-05-22</td>\n      <td>O</td>\n    \
-    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-003170</td>\n      <td>Draft\
-    \ Canada-US Lake Huron Lakewide Action &amp; Management Plan</td>\n      <td>2023-03-14</td>\n\
-    \      <td>2023-05-13</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-000127</td>\n      <td>Share your thoughts: Winter 2024\
-    \ Seed Regulatory Modernization Consultation (excluding seed potatoes)</td>\n\
-    \      <td>2024-02-08</td>\n      <td>2023-05-01</td>\n      <td>O</td>\n    \
-    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>DFO20210811-02</td>\n  \
-    \    <td>Tang.ɢwan — ḥačxwiqak — Tsiǥis Marine Protected Area (Offshore Pacific)</td>\n\
+    \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-0000108</td>\n      <td>2022-23\
+    \ Consultations on renewal of the Museum Policy</td>\n      <td>2022-10-28</td>\n\
+    \      <td>2023-05-31</td>\n      <td>O</td>\n      <td>pch</td>\n    </tr>\n\
+    \    <tr>\n      <td>C0000138</td>\n      <td>An immigration system for Canada’s\
+    \ future</td>\n      <td>2023-02-23</td>\n      <td>2023-05-31</td>\n      <td>O</td>\n\
+    \      <td>cic</td>\n    </tr>\n    <tr>\n      <td>84525</td>\n      <td>Aspen\
+    \ Power Station Project -Participant Funding Available</td>\n      <td>2023-04-27</td>\n\
+    \      <td>2023-05-27</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
+    \    <tr>\n      <td>84525-1</td>\n      <td>Aspen Power Station Project - Comments\
+    \ Invited on the Summary of the Initial Project Description</td>\n      <td>2023-04-23</td>\n\
+    \      <td>2023-05-25</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
+    \    <tr>\n      <td>C202301</td>\n      <td>REGDOC-1.2.3, Licence Application\
+    \ Guide: Licence to Prepare Site for a Deep Geological Repository</td>\n     \
+    \ <td>2023-02-22</td>\n      <td>2023-05-23</td>\n      <td>O</td>\n      <td>cnsc-ccsn</td>\n\
+    \    </tr>\n    <tr>\n      <td>DFO20230131-03</td>\n      <td>Consultation check-in\
+    \ on 14 aquatic species under consideration for addition or reclassification to\
+    \ Schedule 1 of the Species at Risk Act</td>\n      <td>2023-03-20</td>\n    \
+    \  <td>2023-05-22</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-003170</td>\n      <td>Draft Canada-US Lake Huron Lakewide\
+    \ Action &amp; Management Plan</td>\n      <td>2023-03-14</td>\n      <td>2023-05-13</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-000127</td>\n\
+    \      <td>Share your thoughts: Winter 2024 Seed Regulatory Modernization Consultation\
+    \ (excluding seed potatoes)</td>\n      <td>2024-02-08</td>\n      <td>2023-05-01</td>\n\
+    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>DFO20210811-02</td>\n\
+    \      <td>Tang.ɢwan — ḥačxwiqak — Tsiǥis Marine Protected Area (Offshore Pacific)</td>\n\
     \      <td>2023-02-15</td>\n      <td>2023-04-15</td>\n      <td>O</td>\n    \
     \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C--202304</td>\n      <td>Future\
     \ of Wellington Street</td>\n      <td>2022-12-01</td>\n      <td>2023-03-31</td>\n\
@@ -701,17 +696,17 @@ status-website:
     \      <td>Share and view ideas: Renewal of the Federal Agenda for Volatile Organic\
     \ Compounds in Consumer and Commercial Product</td>\n      <td>2021-03-10</td>\n\
     \      <td>2021-04-08</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-ISC0037</td>\n      <td>Renewal of the Fire Protection Strategy</td>\n\
-    \      <td>2020-04-01</td>\n      <td>2021-03-31</td>\n      <td>O</td>\n    \
-    \  <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-INA0005</td>\n      <td>Indigenous\
-    \ Procurement Modernization (including Procurement Strategy for Aboriginal Business)</td>\n\
-    \      <td>2017-06-01</td>\n      <td>2021-03-31</td>\n      <td>O</td>\n    \
-    \  <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0033</td>\n      <td>Indian\
-    \ Oil and Gas Regulations - Phase II</td>\n      <td>2013-04-01</td>\n      <td>2021-03-31</td>\n\
-    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>STC-0000023</td>\n\
-    \      <td>Multifactor Productivity Application</td>\n      <td>2019-12-01</td>\n\
-    \      <td>2020-03-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
-    \  </tbody>\n</table>"
+    \   <tr>\n      <td>C-INA0005</td>\n      <td>Indigenous Procurement Modernization\
+    \ (including Procurement Strategy for Aboriginal Business)</td>\n      <td>2017-06-01</td>\n\
+    \      <td>2021-03-31</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-ISC0033</td>\n      <td>Indian Oil and Gas Regulations\
+    \ - Phase II</td>\n      <td>2013-04-01</td>\n      <td>2021-03-31</td>\n    \
+    \  <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0037</td>\n\
+    \      <td>Renewal of the Fire Protection Strategy</td>\n      <td>2020-04-01</td>\n\
+    \      <td>2021-03-31</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n\
+    \    <tr>\n      <td>STC-0000023</td>\n      <td>Multifactor Productivity Application</td>\n\
+    \      <td>2019-12-01</td>\n      <td>2020-03-31</td>\n      <td>O</td>\n    \
+    \  <td>statcan</td>\n    </tr>\n  </tbody>\n</table>"
   navbar:
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
