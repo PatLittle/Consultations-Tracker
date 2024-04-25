@@ -440,43 +440,39 @@ status-website:
     \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
     \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>C-000135</td>\n      <td>Share your thoughts: Proposed new\
-    \ livestock feed ingredient - tannic acid</td>\n      <td>2024-03-28</td>\n  \
-    \    <td>2024-04-28</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0000122</td>\n      <td>Thaidene Nene National Park Reserve\
-    \ and Thaidene Nëné Indigenous Protected Area Relationship (Management) Plan</td>\n\
-    \      <td>2024-03-14</td>\n      <td>2024-04-28</td>\n      <td>O</td>\n    \
-    \  <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-2024-01</td>\n      <td>Revised\
-    \ Event Reporting Guidelines</td>\n      <td>2024-01-29</td>\n      <td>2024-04-27</td>\n\
-    \      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-0158</td>\n\
-    \      <td>Form 60.1, Request for Withdrawal of Mediation, Form 80.1, Notice of\
-    \ Withdrawal of the Opposition to Discharge of Bankrupt, and Proposed Amendments\
-    \ to Forms 62, Notice of Cancellation of Mediation, and Form 84, Certificate of\
-    \ Discharge</td>\n      <td>2024-03-27</td>\n      <td>2024-04-26</td>\n     \
-    \ <td>P</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000917</td>\n\
-    \      <td>Share your views: Draft guidance on how to interpret ‘significant change’\
-    \ of a medical device</td>\n      <td>2024-02-07</td>\n      <td>2024-04-22</td>\n\
-    \      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000932</td>\n\
-    \      <td>Consultation on copper (metallic) and V2 Net, Proposed Registration\
-    \ Decision PRD2024-03</td>\n      <td>2024-03-08</td>\n      <td>2024-04-22</td>\n\
-    \      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C202402</td>\n\
-    \      <td>REGDOC-1.3.1, Licence Application Guide: Uranium Mines and Mills</td>\n\
-    \      <td>2024-02-19</td>\n      <td>2024-04-19</td>\n      <td>C</td>\n    \
-    \  <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>C-0000121</td>\n      <td>Public\
+    \    <tr>\n      <td>C202401</td>\n      <td>REGDOC-2.3.4, Operations Programs\
+    \ for Reactor Facilities</td>\n      <td>2024-01-30</td>\n      <td>2024-04-30</td>\n\
+    \      <td>O</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>C-000135</td>\n\
+    \      <td>Share your thoughts: Proposed new livestock feed ingredient - tannic\
+    \ acid</td>\n      <td>2024-03-28</td>\n      <td>2024-04-28</td>\n      <td>O</td>\n\
+    \      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-0000122</td>\n   \
+    \   <td>Thaidene Nene National Park Reserve and Thaidene Nëné Indigenous Protected\
+    \ Area Relationship (Management) Plan</td>\n      <td>2024-03-14</td>\n      <td>2024-04-28</td>\n\
+    \      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-2024-01</td>\n\
+    \      <td>Revised Event Reporting Guidelines</td>\n      <td>2024-01-29</td>\n\
+    \      <td>2024-04-27</td>\n      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0158</td>\n      <td>Form 60.1, Request for Withdrawal\
+    \ of Mediation, Form 80.1, Notice of Withdrawal of the Opposition to Discharge\
+    \ of Bankrupt, and Proposed Amendments to Forms 62, Notice of Cancellation of\
+    \ Mediation, and Form 84, Certificate of Discharge</td>\n      <td>2024-03-27</td>\n\
+    \      <td>2024-04-26</td>\n      <td>P</td>\n      <td>ic</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-0000917</td>\n      <td>Share your views: Draft guidance\
+    \ on how to interpret ‘significant change’ of a medical device</td>\n      <td>2024-02-07</td>\n\
+    \      <td>2024-04-22</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000932</td>\n      <td>Consultation on copper (metallic)\
+    \ and V2 Net, Proposed Registration Decision PRD2024-03</td>\n      <td>2024-03-08</td>\n\
+    \      <td>2024-04-22</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \  </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
+    \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
+    >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
+    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0000121</td>\n      <td>Public\
     \ consultation on the draft management plan for the Gulf of Georgia Cannery National\
     \ Historic Site</td>\n      <td>2024-03-19</td>\n      <td>2024-04-19</td>\n \
-    \     <td>O</td>\n      <td>pc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
-    \ Listed as Open that should be closed</h3><table border=\"1\" class=\"dataframe\"\
-    >\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
-    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
-    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>C-0000121</td>\n      <td>Public consultation on the draft\
-    \ management plan for the Gulf of Georgia Cannery National Historic Site</td>\n\
-    \      <td>2024-03-19</td>\n      <td>2024-04-19</td>\n      <td>O</td>\n    \
-    \  <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-000046</td>\n      <td>Share\
-    \ your thoughts about the regulatory framework for the Online News Act</td>\n\
-    \      <td>2024-03-13</td>\n      <td>2024-04-12</td>\n      <td>O</td>\n    \
-    \  <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-003197</td>\n      <td>Share\
+    \     <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-000046</td>\n\
+    \      <td>Share your thoughts about the regulatory framework for the Online News\
+    \ Act</td>\n      <td>2024-03-13</td>\n      <td>2024-04-12</td>\n      <td>O</td>\n\
+    \      <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-003197</td>\n      <td>Share\
     \ your thoughts: Implementation Framework for a Right to a Healthy Environment\
     \ in the Canadian Environmental Protection Act, 1999</td>\n      <td>2024-02-08</td>\n\
     \      <td>2024-04-08</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
