@@ -182,6 +182,8 @@ sites:
 - name: 'American Eel: Consultation check-in on listing under the Species at Risk
     Act'
   url: https://species-registry.canada.ca/index-en.html#/documents/1049
+- name: Marine Conservation Network Plan for the Scotian Shelf-Bay of Fundy Bioregion
+  url: https://www.dfo-mpo.gc.ca/oceans/consultations/scotian-shelf-plateau-neo-ecossais-bay-baie-fundy/index-eng.html
 - name: Proposed Amendments to the Export Permits Regulations
   url: https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
 - name: Engagement on Indigenous Perspectives on Medical Assistance in Dying
@@ -322,6 +324,9 @@ sites:
 - name: Public consultation on the draft management plan for the Gulf of Georgia Cannery
     National Historic Site
   url: https://parks.canada.ca/lhn-nhs/bc/georgia/plan/plan1/gestion-management
+- name: Consultation on the Renewal of the Cultural Resource Management Policy Draft
+    Share your Thoughts!!
+  url: https://parks.canada.ca/agence-agency/bib-lib/politiques-policies/culturelle-cultural
 - name: National Risk Profile (NRP) Targeted Engagement
   url: https://www.canada.ca/en/services/policing/emergencies/targeted-engagement-nrp.html
 - name: Consultations on Foreign Interference
@@ -437,7 +442,13 @@ status-website:
     1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n \
     \     <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-00000122</td>\n      <td>Launching\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0000123</td>\n      <td>Consultation\
+    \ on the Renewal of the Cultural Resource Management Policy Draft Share your Thoughts!!</td>\n\
+    \      <td>2024-05-03</td>\n      <td>2024-05-22</td>\n      <td>P</td>\n    \
+    \  <td>pc</td>\n    </tr>\n    <tr>\n      <td>DFO20240429</td>\n      <td>Marine\
+    \ Conservation Network Plan for the Scotian Shelf-Bay of Fundy Bioregion</td>\n\
+    \      <td>2024-04-29</td>\n      <td>2024-06-29</td>\n      <td>O</td>\n    \
+    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-00000122</td>\n      <td>Launching\
     \ the second phase of consultations on the Scientific Research and Experimental\
     \ Development Tax Incentive Program</td>\n      <td>2024-04-25</td>\n      <td>2024-05-27</td>\n\
     \      <td>O</td>\n      <td>fin</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
