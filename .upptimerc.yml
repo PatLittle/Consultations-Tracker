@@ -218,6 +218,12 @@ sites:
 - name: Consultation on Lymantria dispar multicapsid nucleopolyhedrovirus strain LDP-67
     and BoVir, Proposed Registration Decision PRD2024-05
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2024/lymantria-dispar-multicapsid-nucleopolyhedrovirus.html
+- name: Consultation on fluopyram, Proposed Maximum Residue Limit PMRL2024-04
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2024/fluopyram.html
+- name: Consultation on trifloxystrobin, Proposed Maximum Residue Limit PMRL2024-05
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2024/trifloxystrobin.html
+- name: 'Share your thoughts: Public Health Agency of Canada Science Strategy'
+  url: https://www.canada.ca/en/public-health/programs/consultation-public-health-agency-science-strategy.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url:  https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
@@ -408,7 +414,15 @@ status-website:
     1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n \
     \     <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0000123</td>\n      <td>Consultation\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0000946</td>\n      <td>Share\
+    \ your thoughts: Public Health Agency of Canada Science Strategy</td>\n      <td>2024-05-08</td>\n\
+    \      <td>2024-06-10</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000944</td>\n      <td>Consultation on fluopyram, Proposed\
+    \ Maximum Residue Limit PMRL2024-04</td>\n      <td>2024-05-07</td>\n      <td>2024-07-21</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000945</td>\n\
+    \      <td>Consultation on trifloxystrobin, Proposed Maximum Residue Limit PMRL2024-05</td>\n\
+    \      <td>2024-05-07</td>\n      <td>2024-07-21</td>\n      <td>O</td>\n    \
+    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000123</td>\n      <td>Consultation\
     \ on the Renewal of the Cultural Resource Management Policy Draft Share your Thoughts!!</td>\n\
     \      <td>2024-05-06</td>\n      <td>2024-05-27</td>\n      <td>O</td>\n    \
     \  <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000124</td>\n      <td>Fortress\
