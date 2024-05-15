@@ -154,9 +154,7 @@ sites:
     Act
   url: TBD
 - name: Whitby Harbour Remediation Project
-  url: https://www.dfo-mpo.gc.ca/sch-ppb/whitby/index-eng.html
-- name: Draft Ocean Noise Strategy for Canada
-  url: http://www.dfo-mpo.gc.ca/oceans/consultations/noise-bruit/index-eng.html
+  url: Whitby Harbour Remediation Project (dfo-mpo.gc.ca)
 - name: Revision of the management plan for Banc-des-Américains Marine Protected Area
     (MPA)
   url: https://www.dfo-mpo.gc.ca/oceans/mpa-zpm/american-americains/index-eng.html
@@ -168,6 +166,15 @@ sites:
   url: https://www.registrelep-sararegistry.gc.ca/document/default_e.cfm?documentID=173
 - name: Marine Conservation Network Plan for the Scotian Shelf-Bay of Fundy Bioregion
   url: https://www.dfo-mpo.gc.ca/oceans/consultations/scotian-shelf-plateau-neo-ecossais-bay-baie-fundy/index-eng.html
+- name: Multi-species Action Plan for the Richelieu River Watershed in Canada [Proposed]
+  url: Multi-species Action Plan for the Richelieu River Watershed in Canada - Document
+    search - Species at risk registry
+- name: Survey to assess Fisheries and Oceans Canada’s aquatic species at risk public
+    outreach activities
+  url: Survey to Assess Fisheries and Oceans Canada’s (DFO) Aquatic Species at Risk
+    Public Outreach Activities | 1/2 (simplesurvey.com)
+- name: Multi-species Action Plan for the Richelieu River Watershed in Canada
+  url: https://species-registry.canada.ca/index-en.html#/consultations/2965
 - name: Proposed Amendments to the Export Permits Regulations
   url: https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
 - name: Canada’s post-2025–26 international climate and nature finance commitment
@@ -397,7 +404,11 @@ status-website:
     1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n \
     \     <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0210</td>\n      <td>Proposed\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>DFO20240513-02</td>\n   \
+    \   <td>To  prepare an action plan and progress report on the  implementation\
+    \ of the 2018 Recovery Strategy for the Lacs des Loups Marins Harbour Seal</td>\n\
+    \      <td>2024-05-20</td>\n      <td>2024-06-30</td>\n      <td>P</td>\n    \
+    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0210</td>\n      <td>Proposed\
     \ Amendments to Directive No 23, Publication in Local Newspaper</td>\n      <td>2024-05-15</td>\n\
     \      <td>2024-06-14</td>\n      <td>P</td>\n      <td>ic</td>\n    </tr>\n \
     \   <tr>\n      <td>C-0219</td>\n      <td>Consultation on Amendments to Bulletin\
