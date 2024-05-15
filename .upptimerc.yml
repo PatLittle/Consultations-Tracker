@@ -445,25 +445,17 @@ status-website:
     \ campus</td>\n      <td>2024-04-12</td>\n      <td>2024-05-11</td>\n      <td>O</td>\n\
     \      <td>nrc-cnrc</td>\n    </tr>\n    <tr>\n      <td>1027</td>\n      <td>Improving\
     \ the safety of Pilot Transfer Arrangement</td>\n      <td>2024-04-10</td>\n \
-    \     <td>2024-05-10</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n  \
-    \  <tr>\n      <td>cta-otc-2024-1</td>\n      <td>Consultation on requests for\
-    \ Conditional Exemptions from the tactile requirement related to signage in terminals\
-    \ in the Accessible Transportation for Persons with Disabilities Regulations</td>\n\
-    \      <td>2024-04-11</td>\n      <td>2024-05-09</td>\n      <td>O</td>\n    \
-    \  <td>cta-otc</td>\n    </tr>\n    <tr>\n      <td>87307</td>\n      <td>Public\
-    \ Notice \\nSummit Lake PG LNG Project\\nPublic Comments Invited &amp; Information\
-    \ Sessions</td>\n      <td>2024-04-02</td>\n      <td>2024-05-09</td>\n      <td>C</td>\n\
-    \      <td>iaac-aeic</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Listed\
-    \ as Open that should be closed</h3><table border=\"1\" class=\"dataframe\">\n\
-    \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
-    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
-    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>C-672050</td>\n      <td>Pedestrian pathway - NRC Uplands\
-    \ campus</td>\n      <td>2024-04-12</td>\n      <td>2024-05-11</td>\n      <td>O</td>\n\
-    \      <td>nrc-cnrc</td>\n    </tr>\n    <tr>\n      <td>1027</td>\n      <td>Improving\
-    \ the safety of Pilot Transfer Arrangement</td>\n      <td>2024-04-10</td>\n \
-    \     <td>2024-05-10</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n  \
-    \  <tr>\n      <td>cta-otc-2024-1</td>\n      <td>Consultation on requests for\
+    \     <td>2024-05-10</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n  </tbody>\n\
+    </table><h3>Consultations Listed as Open that should be closed</h3><table border=\"\
+    1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n \
+    \     <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
+    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-672050</td>\n      <td>Pedestrian\
+    \ pathway - NRC Uplands campus</td>\n      <td>2024-04-12</td>\n      <td>2024-05-11</td>\n\
+    \      <td>O</td>\n      <td>nrc-cnrc</td>\n    </tr>\n    <tr>\n      <td>1027</td>\n\
+    \      <td>Improving the safety of Pilot Transfer Arrangement</td>\n      <td>2024-04-10</td>\n\
+    \      <td>2024-05-10</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n \
+    \   <tr>\n      <td>cta-otc-2024-1</td>\n      <td>Consultation on requests for\
     \ Conditional Exemptions from the tactile requirement related to signage in terminals\
     \ in the Accessible Transportation for Persons with Disabilities Regulations</td>\n\
     \      <td>2024-04-11</td>\n      <td>2024-05-09</td>\n      <td>O</td>\n    \
