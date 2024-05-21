@@ -178,6 +178,10 @@ sites:
   url: https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
 - name: Canada’s post-2025–26 international climate and nature finance commitment
   url: https://www.international.gc.ca/consultation/climate-finance-financement-climatique/climate-nature-changement-climatique.aspx?lang=eng
+- name: Public consultations on the potential collection and publication of country
+    of smelt and cast information for aluminum imports under Canada's Aluminum Import
+    Monitoring Program
+  url: https://www.international.gc.ca/consultation/aluminum-imports-importations-aluminium/index.aspx?lang=eng
 - name: Engagement on Indigenous Perspectives on Medical Assistance in Dying
   url: https://www.canada.ca/en/health-canada/programs/engagement-indigenous-perspectives-medical-assistance-dying.html
 - name: 'Consultation: Comment period for the danger to human health or safety assessment
@@ -415,7 +419,11 @@ status-website:
     \ your thoughts: Proposed changes to the Units of Measurement for the Net Quantity\
     \ Declaration of Certain Foods for fresh fruits or vegetables packaged in non-retail\
     \ containers</td>\n      <td>2024-05-22</td>\n      <td>2024-06-21</td>\n    \
-    \  <td>P</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>DFO20240513-02</td>\n\
+    \  <td>P</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C0000575</td>\n\
+    \      <td>Public consultations on the potential collection and publication of\
+    \ country of smelt and cast information for aluminum imports under Canada's Aluminum\
+    \ Import Monitoring Program</td>\n      <td>2024-05-21</td>\n      <td>2024-06-28</td>\n\
+    \      <td>O</td>\n      <td>dfatd-maecd</td>\n    </tr>\n    <tr>\n      <td>DFO20240513-02</td>\n\
     \      <td>To  prepare an action plan and progress report on the  implementation\
     \ of the 2018 Recovery Strategy for the Lacs des Loups Marins Harbour Seal</td>\n\
     \      <td>2024-05-20</td>\n      <td>2024-06-30</td>\n      <td>P</td>\n    \
