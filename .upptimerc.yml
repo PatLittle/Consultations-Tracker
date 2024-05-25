@@ -402,8 +402,11 @@ status-website:
     1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n \
     \     <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>DFO20230131-06</td>\n   \
-    \   <td>Canadian Coast Guard Long-term Strategy</td>\n      <td>2024-05-27</td>\n\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0211</td>\n      <td>Consultation\
+    \ on the Verification Specifications for In-service Level 1 and 2 AC Electric\
+    \ Vehicle Supply Equipment (EVSE).</td>\n      <td>2024-05-30</td>\n      <td>2025-07-16</td>\n\
+    \      <td>P</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>DFO20230131-06</td>\n\
+    \      <td>Canadian Coast Guard Long-term Strategy</td>\n      <td>2024-05-27</td>\n\
     \      <td>2024-08-30</td>\n      <td>P</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
     \    <tr>\n      <td>C-000151</td>\n      <td>Share your thoughts: Proposed amended\
     \ livestock feed ingredients – Waxy Leaf Nightshade</td>\n      <td>2024-05-24</td>\n\
@@ -458,17 +461,7 @@ status-website:
     \    <tr>\n      <td>C-0000936</td>\n      <td>Share your views: New Annex 13\
     \ to the Good manufacturing practices guide for drugs used in clinical trials\
     \ (GUI-0036)</td>\n      <td>2024-03-21</td>\n      <td>2024-05-21</td>\n    \
-    \  <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000921</td>\n\
-    \      <td>Consultation: Comment period for the danger to human health or safety\
-    \ assessment for portable electric heaters</td>\n      <td>2024-02-19</td>\n \
-    \     <td>2024-05-19</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0000934</td>\n      <td>Consultation on the draft guidance\
-    \ for preparing veterinary abbreviated new drug submissions: Clinical and human\
-    \ safety requirements</td>\n      <td>2024-03-20</td>\n      <td>2024-05-19</td>\n\
-    \      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000935</td>\n\
-    \      <td>Consultation on the draft guidance for preparing veterinary drug submissions:\
-    \ Quality requirements</td>\n      <td>2024-03-20</td>\n      <td>2024-05-19</td>\n\
-    \      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \  <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
     \ Listed as Open that should be closed</h3><table border=\"1\" class=\"dataframe\"\
     >\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
     \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
