@@ -183,9 +183,6 @@ sites:
   url: https://www.international.gc.ca/consultation/aluminum-imports-importations-aluminium/index.aspx?lang=eng
 - name: Engagement on Indigenous Perspectives on Medical Assistance in Dying
   url: https://www.canada.ca/en/health-canada/programs/engagement-indigenous-perspectives-medical-assistance-dying.html
-- name: Consultation on the proposed re-evaluation decision of S-metolachlor and R-enantiomer
-    and its associated end-use products, PRVD2024-01
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2024/s-metolachlor-r-enantiomer.html
 - name: Consultation on natamycin and its associated end-use products, Proposed Re-evaluation
     Decision PRVD2024-02
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2024/natamycin.html
@@ -443,7 +440,7 @@ status-website:
     \  <td>tbs-sct</td>\n    </tr>\n    <tr>\n      <td>C-0000923</td>\n      <td>Consultation\
     \ on the proposed re-evaluation decision of S-metolachlor and R-enantiomer and\
     \ its associated end-use products, PRVD2024-01</td>\n      <td>2024-02-29</td>\n\
-    \      <td>2024-05-29</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \      <td>2024-05-29</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-000130</td>\n      <td>Taking stock of progress: Legislative\
     \ Review of the Safe Food for Canadians Act</td>\n      <td>2024-03-27</td>\n\
     \      <td>2024-05-27</td>\n      <td>C</td>\n      <td>cfia-acia</td>\n    </tr>\n\
