@@ -182,6 +182,9 @@ sites:
     of smelt and cast information for aluminum imports under Canada's Aluminum Import
     Monitoring Program
   url: https://www.international.gc.ca/consultation/aluminum-imports-importations-aluminium/index.aspx?lang=eng
+- name: 'Join the discussion: The General Review of the Comprehensive and Progressive
+    Agreement for Trans-Pacific Partnership (CPTPP)'
+  url: https://www.international.gc.ca/trade-commerce/consultations/TRQ-CT/transpacific-cptpp-transpacifique-ptpgp.aspx?lang=eng
 - name: Engagement on Indigenous Perspectives on Medical Assistance in Dying
   url: https://www.canada.ca/en/health-canada/programs/engagement-indigenous-perspectives-medical-assistance-dying.html
 - name: Consultation on natamycin and its associated end-use products, Proposed Re-evaluation
@@ -395,33 +398,36 @@ status-website:
     \ on the International Council for Harmonisation of Technical Requirements for\
     \ Pharmaceuticals for Human Use (ICH) Guidelines</td>\n      <td>2024-06-04</td>\n\
     \      <td>2024-06-05</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>688</td>\n      <td>TBD: Requirements for Automatic Emergency\
-    \ Braking Systems</td>\n      <td>2024-06-03</td>\n      <td>2024-08-09</td>\n\
-    \      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>1028</td>\n\
-    \      <td>Potential legislative measures to support the high-frequency rail project</td>\n\
-    \      <td>2024-06-03</td>\n      <td>2024-07-26</td>\n      <td>P</td>\n    \
-    \  <td>tc</td>\n    </tr>\n    <tr>\n      <td>DFO20230131-09</td>\n      <td>Canada's\
-    \ (Draft) Ocean Noise Strategy</td>\n      <td>2024-06-01</td>\n      <td>2024-09-01</td>\n\
-    \      <td>P</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-00000124</td>\n\
-    \      <td>Consultation on Qualified Investments for Tax-Advantaged Savings Plans</td>\n\
-    \      <td>2024-05-30</td>\n      <td>2024-07-15</td>\n      <td>O</td>\n    \
-    \  <td>fin</td>\n    </tr>\n    <tr>\n      <td>C-0211</td>\n      <td>Consultation\
-    \ on the Verification Specifications for In-service Level 1 and 2 AC Electric\
-    \ Vehicle Supply Equipment (EVSE).</td>\n      <td>2024-05-30</td>\n      <td>2025-07-16</td>\n\
-    \      <td>P</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-000144</td>\n\
-    \      <td>Share your thoughts: Proposed changes to the Units of Measurement for\
-    \ the Net Quantity Declaration of Certain Foods for fresh fruits or vegetables\
-    \ packaged in non-retail containers</td>\n      <td>2024-05-28</td>\n      <td>2024-06-27</td>\n\
-    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-003212</td>\n\
-    \      <td>Share your ideas: Amendments to the Metal and Diamond Mining Effluent\
-    \ Regulations for the Goldboro Gold Project</td>\n      <td>2024-05-27</td>\n\
-    \      <td>2024-07-27</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
-    \   <tr>\n      <td>DFO20230131-06</td>\n      <td>Canadian Coast Guard Long-term\
-    \ Strategy</td>\n      <td>2024-05-27</td>\n      <td>2024-08-30</td>\n      <td>P</td>\n\
-    \      <td>dfo-mpo</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Ending\
-    \ +/- 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n\
-    \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
-    \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
+    \    <tr>\n      <td>C0000576</td>\n      <td>Join the discussion: The General\
+    \ Review of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership\
+    \ (CPTPP)</td>\n      <td>2024-06-03</td>\n      <td>2024-07-31</td>\n      <td>P</td>\n\
+    \      <td>dfatd-maecd</td>\n    </tr>\n    <tr>\n      <td>688</td>\n      <td>TBD:\
+    \ Requirements for Automatic Emergency Braking Systems</td>\n      <td>2024-06-03</td>\n\
+    \      <td>2024-08-09</td>\n      <td>P</td>\n      <td>tc</td>\n    </tr>\n \
+    \   <tr>\n      <td>1028</td>\n      <td>Potential legislative measures to support\
+    \ the high-frequency rail project</td>\n      <td>2024-06-03</td>\n      <td>2024-07-26</td>\n\
+    \      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>DFO20230131-09</td>\n\
+    \      <td>Canada's (Draft) Ocean Noise Strategy</td>\n      <td>2024-06-01</td>\n\
+    \      <td>2024-09-01</td>\n      <td>P</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-00000124</td>\n      <td>Consultation on Qualified Investments\
+    \ for Tax-Advantaged Savings Plans</td>\n      <td>2024-05-30</td>\n      <td>2024-07-15</td>\n\
+    \      <td>O</td>\n      <td>fin</td>\n    </tr>\n    <tr>\n      <td>C-0211</td>\n\
+    \      <td>Consultation on the Verification Specifications for In-service Level\
+    \ 1 and 2 AC Electric Vehicle Supply Equipment (EVSE).</td>\n      <td>2024-05-30</td>\n\
+    \      <td>2025-07-16</td>\n      <td>P</td>\n      <td>ic</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-000144</td>\n      <td>Share your thoughts: Proposed changes\
+    \ to the Units of Measurement for the Net Quantity Declaration of Certain Foods\
+    \ for fresh fruits or vegetables packaged in non-retail containers</td>\n    \
+    \  <td>2024-05-28</td>\n      <td>2024-06-27</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n\
+    \    </tr>\n    <tr>\n      <td>C-003212</td>\n      <td>Share your ideas: Amendments\
+    \ to the Metal and Diamond Mining Effluent Regulations for the Goldboro Gold Project</td>\n\
+    \      <td>2024-05-27</td>\n      <td>2024-07-27</td>\n      <td>O</td>\n    \
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20230131-06</td>\n      <td>Canadian\
+    \ Coast Guard Long-term Strategy</td>\n      <td>2024-05-27</td>\n      <td>2024-08-30</td>\n\
+    \      <td>P</td>\n      <td>dfo-mpo</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \ Ending +/- 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n\
+    \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
+    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
     \    <tr>\n      <td>C-0000950</td>\n      <td>Health Canada and United States\
     \ Food and Drug Administration Joint Public Consultation on the International\
