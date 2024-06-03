@@ -229,12 +229,19 @@ sites:
     Consultation on the International Council for Harmonisation of Technical Requirements
     for Pharmaceuticals for Human Use (ICH) Guidelines
   url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
+- name: Notice of intent to consult on modernization of provisions pertaining to hospitals
+    and practitioners in regulations made under the Controlled Drugs and Substances
+    Act
+  url: https://www.canada.ca/en/public-health/programs/consultation-updating-provisions-hospitals-practitioners-regulations-controlled-drugs-substances-act.html
 - name: 'Consultation: Modernization of the regulations for controlled substances'
   url: https://www.canada.ca/en/public-health/programs/consultation-modernization-regulations-controlled-substances.html
 - name: Consultation on broflanilide, Proposed Maximum Residue Limit PMRL2024-08
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2024/broflanilide.html
 - name: Consultation on metsulfuron-methyl, Proposed Maximum Residue Limit PMRL2024-09
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2024/metsulfuron-methyl.html
+- name: Consultation on didecyl dimethyl ammonium chloride (DDAC), Acticide DDQ 50-E,
+    Proposed Registration Decision PRD2024-06
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2024/didecyl-dimethyl-ammonium-chloride.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
@@ -270,6 +277,9 @@ sites:
   url: https://ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/public-consultations
 - name: Proposed Amendments to Directive No 23, Publication in Local Newspaper
   url: https://ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/public-consultations
+- name: Consultation on the Verification Specifications for In-service Level 1 and
+    2 AC Electric Vehicle Supply Equipment (EVSE).
+  url: https://ised-isde.canada.ca/site/measurement-canada/en/consultations/consultation-provisional-specifications-and-procedures-inspection-electric-vehicle-supply-equipment
 - name: Consultation Relating to the Use of Radiocommunication Devices in Auto Theft
   url: https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/node/2103
 - name: Informing Potential Legislated Targets for Canadian SMEs to meet Government
@@ -423,60 +433,67 @@ status-website:
     \ Consultation on the International Council for Harmonisation of Technical Requirements\
     \ for Pharmaceuticals for Human Use (ICH) Guidelines</td>\n      <td>2024-06-04</td>\n\
     \      <td>2024-06-05</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>DFO20240508-01</td>\n      <td>Proposed Amendments to the\
-    \ Marine Mammal Regulations: Pacific Killer Whale approach distance and other\
-    \ amendments</td>\n      <td>2024-06-03</td>\n      <td>2024-09-03</td>\n    \
-    \  <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C0000576</td>\n\
-    \      <td>Join the discussion: The General Review of the Comprehensive and Progressive\
-    \ Agreement for Trans-Pacific Partnership (CPTPP)</td>\n      <td>2024-06-03</td>\n\
-    \      <td>2024-07-31</td>\n      <td>O</td>\n      <td>dfatd-maecd</td>\n   \
-    \ </tr>\n    <tr>\n      <td>C-0234</td>\n      <td>Informing Potential Legislated\
-    \ Targets for Canadian SMEs to meet Government of Canada Innovation Needs</td>\n\
-    \      <td>2024-06-03</td>\n      <td>2024-06-30</td>\n      <td>O</td>\n    \
-    \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>688</td>\n      <td>TBD: Requirements\
-    \ for Automatic Emergency Braking Systems</td>\n      <td>2024-06-03</td>\n  \
-    \    <td>2024-08-09</td>\n      <td>P</td>\n      <td>tc</td>\n    </tr>\n   \
-    \ <tr>\n      <td>1028</td>\n      <td>Potential legislative measures to support\
+    \    <tr>\n      <td>1028</td>\n      <td>Potential legislative measures to support\
     \ the high-frequency rail project</td>\n      <td>2024-06-03</td>\n      <td>2024-07-26</td>\n\
-    \      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-003213</td>\n\
-    \      <td>Proposed Regulations Amending the Wildlife Area Regulations – Delisting\
-    \ of 19 Units of the Prairie National Wildlife Area (NWA) and Designation of Five\
-    \ New NWAs</td>\n      <td>2024-06-01</td>\n      <td>2024-08-30</td>\n      <td>O</td>\n\
-    \      <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20230131-09</td>\n     \
-    \ <td>Canada's (Draft) Ocean Noise Strategy</td>\n      <td>2024-06-01</td>\n\
+    \      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>DFO20240508-01</td>\n\
+    \      <td>Proposed Amendments to the Marine Mammal Regulations: Pacific Killer\
+    \ Whale approach distance and other amendments</td>\n      <td>2024-06-03</td>\n\
+    \      <td>2024-09-03</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
+    \    <tr>\n      <td>C0000576</td>\n      <td>Join the discussion: The General\
+    \ Review of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership\
+    \ (CPTPP)</td>\n      <td>2024-06-03</td>\n      <td>2024-07-31</td>\n      <td>O</td>\n\
+    \      <td>dfatd-maecd</td>\n    </tr>\n    <tr>\n      <td>C-0211</td>\n    \
+    \  <td>Consultation on the Verification Specifications for In-service Level 1\
+    \ and 2 AC Electric Vehicle Supply Equipment (EVSE).</td>\n      <td>2024-06-03</td>\n\
+    \      <td>2024-07-16</td>\n      <td>O</td>\n      <td>ic</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-0234</td>\n      <td>Informing Potential Legislated Targets\
+    \ for Canadian SMEs to meet Government of Canada Innovation Needs</td>\n     \
+    \ <td>2024-06-03</td>\n      <td>2024-06-30</td>\n      <td>O</td>\n      <td>ic</td>\n\
+    \    </tr>\n    <tr>\n      <td>688</td>\n      <td>TBD: Requirements for Automatic\
+    \ Emergency Braking Systems</td>\n      <td>2024-06-03</td>\n      <td>2024-08-09</td>\n\
+    \      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>DFO20230131-09</td>\n\
+    \      <td>Canada's (Draft) Ocean Noise Strategy</td>\n      <td>2024-06-01</td>\n\
     \      <td>2024-09-01</td>\n      <td>P</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000951</td>\n      <td>Notice of intent to consult on\
+    \ modernization of provisions pertaining to hospitals and practitioners in regulations\
+    \ made under the Controlled Drugs and Substances Act</td>\n      <td>2024-06-01</td>\n\
+    \      <td>2024-12-01</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-0000952</td>\n      <td>Consultation: Modernization of\
     \ the regulations for controlled substances</td>\n      <td>2024-06-01</td>\n\
     \      <td>2024-07-31</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-00000124</td>\n      <td>Consultation on Qualified Investments\
-    \ for Tax-Advantaged Savings Plans</td>\n      <td>2024-05-30</td>\n      <td>2024-07-15</td>\n\
-    \      <td>O</td>\n      <td>fin</td>\n    </tr>\n    <tr>\n      <td>C-0000953</td>\n\
-    \      <td>Consultation on broflanilide, Proposed Maximum Residue Limit PMRL2024-08</td>\n\
-    \      <td>2024-05-30</td>\n      <td>2024-08-13</td>\n      <td>O</td>\n    \
-    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000954</td>\n      <td>Consultation\
+    \    <tr>\n      <td>C-003213</td>\n      <td>Proposed Regulations Amending the\
+    \ Wildlife Area Regulations – Delisting of 19 Units of the Prairie National Wildlife\
+    \ Area (NWA) and Designation of Five New NWAs</td>\n      <td>2024-06-01</td>\n\
+    \      <td>2024-08-30</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-0000955</td>\n      <td>Consultation on didecyl dimethyl\
+    \ ammonium chloride (DDAC), Acticide DDQ 50-E, Proposed Registration Decision\
+    \ PRD2024-06</td>\n      <td>2024-05-31</td>\n      <td>2024-07-15</td>\n    \
+    \  <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-00000124</td>\n\
+    \      <td>Consultation on Qualified Investments for Tax-Advantaged Savings Plans</td>\n\
+    \      <td>2024-05-30</td>\n      <td>2024-07-15</td>\n      <td>O</td>\n    \
+    \  <td>fin</td>\n    </tr>\n    <tr>\n      <td>C-0000954</td>\n      <td>Consultation\
     \ on metsulfuron-methyl, Proposed Maximum Residue Limit PMRL2024-09</td>\n   \
     \   <td>2024-05-30</td>\n      <td>2024-08-13</td>\n      <td>O</td>\n      <td>hc-sc</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-0211</td>\n      <td>Consultation on the Verification\
-    \ Specifications for In-service Level 1 and 2 AC Electric Vehicle Supply Equipment\
-    \ (EVSE).</td>\n      <td>2024-05-30</td>\n      <td>2025-07-16</td>\n      <td>P</td>\n\
-    \      <td>ic</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Ending +/-\
-    \ 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n\
-    \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
-    \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
-    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>85832-2</td>\n      <td>Public notice\\nGreat Bear Gold Project\\\
-    nPublic Comments Invited on the Draft Tailored Impact Statement Guidelines and\
-    \ Public Participation Plan</td>\n      <td>2024-05-08</td>\n      <td>2024-06-07</td>\n\
-    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-0000124</td>\n\
-    \      <td>Fortress of Louisbourg National Historic Site Management Plan</td>\n\
-    \      <td>2024-05-06</td>\n      <td>2024-06-07</td>\n      <td>O</td>\n    \
-    \  <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000950</td>\n      <td>Health\
-    \ Canada and United States Food and Drug Administration Joint Public Consultation\
-    \ on the International Council for Harmonisation of Technical Requirements for\
-    \ Pharmaceuticals for Human Use (ICH) Guidelines</td>\n      <td>2024-06-04</td>\n\
-    \      <td>2024-06-05</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0000930</td>\n      <td>Consultation on natamycin and its\
-    \ associated end-use products, Proposed Re-evaluation Decision PRVD2024-02</td>\n\
+    \    </tr>\n    <tr>\n      <td>C-0000953</td>\n      <td>Consultation on broflanilide,\
+    \ Proposed Maximum Residue Limit PMRL2024-08</td>\n      <td>2024-05-30</td>\n\
+    \      <td>2024-08-13</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \  </tbody>\n</table><h3>Consultations Ending +/- 5 days from today</h3><table\
+    \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
+    >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
+    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>85832-2</td>\n      <td>Public\
+    \ notice\\nGreat Bear Gold Project\\nPublic Comments Invited on the Draft Tailored\
+    \ Impact Statement Guidelines and Public Participation Plan</td>\n      <td>2024-05-08</td>\n\
+    \      <td>2024-06-07</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000124</td>\n      <td>Fortress of Louisbourg National\
+    \ Historic Site Management Plan</td>\n      <td>2024-05-06</td>\n      <td>2024-06-07</td>\n\
+    \      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000950</td>\n\
+    \      <td>Health Canada and United States Food and Drug Administration Joint\
+    \ Public Consultation on the International Council for Harmonisation of Technical\
+    \ Requirements for Pharmaceuticals for Human Use (ICH) Guidelines</td>\n     \
+    \ <td>2024-06-04</td>\n      <td>2024-06-05</td>\n      <td>O</td>\n      <td>hc-sc</td>\n\
+    \    </tr>\n    <tr>\n      <td>C-0000930</td>\n      <td>Consultation on natamycin\
+    \ and its associated end-use products, Proposed Re-evaluation Decision PRVD2024-02</td>\n\
     \      <td>2024-03-06</td>\n      <td>2024-06-04</td>\n      <td>O</td>\n    \
     \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>CT-2017-0018</td>\n      <td>CBSA\
     \ Assessment and Revenue Management (CARM) Information sessions on implementation</td>\n\
