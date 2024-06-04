@@ -509,41 +509,37 @@ status-website:
     \      <td>O</td>\n      <td>tbs-sct</td>\n    </tr>\n    <tr>\n      <td>C-311024</td>\n\
     \      <td>Creating Canada’s 6th  National Action Plan on Open Government</td>\n\
     \      <td>2024-03-27</td>\n      <td>2024-05-31</td>\n      <td>P</td>\n    \
-    \  <td>tbs-sct</td>\n    </tr>\n    <tr>\n      <td>C-0000923</td>\n      <td>Consultation\
-    \ on the proposed re-evaluation decision of S-metolachlor and R-enantiomer and\
-    \ its associated end-use products, PRVD2024-01</td>\n      <td>2024-02-29</td>\n\
-    \      <td>2024-05-29</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \  </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
-    \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
-    >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
-    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>CT-2017-0018</td>\n     \
-    \ <td>CBSA Assessment and Revenue Management (CARM) Information sessions on implementation</td>\n\
-    \      <td>2018-07-18</td>\n      <td>2024-05-31</td>\n      <td>O</td>\n    \
-    \  <td>cbsa-asfc</td>\n    </tr>\n    <tr>\n      <td>C-011125</td>\n      <td>Creating\
-    \ Canada’s 6th  National Action Plan on Open Government</td>\n      <td>2024-03-26</td>\n\
-    \      <td>2024-05-31</td>\n      <td>O</td>\n      <td>tbs-sct</td>\n    </tr>\n\
-    \    <tr>\n      <td>STC0000061</td>\n      <td>Statistics Canada's data products\
-    \ consultative engagement</td>\n      <td>2023-09-22</td>\n      <td>2024-05-31</td>\n\
-    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-1235681</td>\n\
-    \      <td>Amending the Nuclear Exclusions Regulations</td>\n      <td>2024-04-27</td>\n\
-    \      <td>2024-05-26</td>\n      <td>O</td>\n      <td>esdc-edsc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-003196</td>\n      <td>Consultation on Amending the List\
-    \ of Species under the Species at Risk Act: Terrestrial Species December 2023</td>\n\
-    \      <td>2023-12-13</td>\n      <td>2024-05-16</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>CT-2024-0001</td>\n      <td>Accessibility\
-    \ Plan</td>\n      <td>2024-03-15</td>\n      <td>2024-05-15</td>\n      <td>O</td>\n\
-    \      <td>cbsa-asfc</td>\n    </tr>\n    <tr>\n      <td>C-672050</td>\n    \
-    \  <td>Pedestrian pathway - NRC Uplands campus</td>\n      <td>2024-04-12</td>\n\
-    \      <td>2024-05-11</td>\n      <td>O</td>\n      <td>nrc-cnrc</td>\n    </tr>\n\
-    \    <tr>\n      <td>1027</td>\n      <td>Improving the safety of Pilot Transfer\
-    \ Arrangement</td>\n      <td>2024-04-10</td>\n      <td>2024-05-10</td>\n   \
-    \   <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>cta-otc-2024-1</td>\n\
-    \      <td>Consultation on requests for Conditional Exemptions from the tactile\
-    \ requirement related to signage in terminals in the Accessible Transportation\
-    \ for Persons with Disabilities Regulations</td>\n      <td>2024-04-11</td>\n\
-    \      <td>2024-05-09</td>\n      <td>O</td>\n      <td>cta-otc</td>\n    </tr>\n\
-    \    <tr>\n      <td>1031</td>\n      <td>https://tc.canada.ca/en/corporate-services/consultations/canadian-navigable-waters-act-legislative-review</td>\n\
+    \  <td>tbs-sct</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Listed as\
+    \ Open that should be closed</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n\
+    \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
+    \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
+    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
+    \    <tr>\n      <td>CT-2017-0018</td>\n      <td>CBSA Assessment and Revenue\
+    \ Management (CARM) Information sessions on implementation</td>\n      <td>2018-07-18</td>\n\
+    \      <td>2024-05-31</td>\n      <td>O</td>\n      <td>cbsa-asfc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-011125</td>\n      <td>Creating Canada’s 6th  National\
+    \ Action Plan on Open Government</td>\n      <td>2024-03-26</td>\n      <td>2024-05-31</td>\n\
+    \      <td>O</td>\n      <td>tbs-sct</td>\n    </tr>\n    <tr>\n      <td>STC0000061</td>\n\
+    \      <td>Statistics Canada's data products consultative engagement</td>\n  \
+    \    <td>2023-09-22</td>\n      <td>2024-05-31</td>\n      <td>O</td>\n      <td>statcan</td>\n\
+    \    </tr>\n    <tr>\n      <td>C-1235681</td>\n      <td>Amending the Nuclear\
+    \ Exclusions Regulations</td>\n      <td>2024-04-27</td>\n      <td>2024-05-26</td>\n\
+    \      <td>O</td>\n      <td>esdc-edsc</td>\n    </tr>\n    <tr>\n      <td>C-003196</td>\n\
+    \      <td>Consultation on Amending the List of Species under the Species at Risk\
+    \ Act: Terrestrial Species December 2023</td>\n      <td>2023-12-13</td>\n   \
+    \   <td>2024-05-16</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n\
+    \      <td>CT-2024-0001</td>\n      <td>Accessibility Plan</td>\n      <td>2024-03-15</td>\n\
+    \      <td>2024-05-15</td>\n      <td>O</td>\n      <td>cbsa-asfc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-672050</td>\n      <td>Pedestrian pathway - NRC Uplands\
+    \ campus</td>\n      <td>2024-04-12</td>\n      <td>2024-05-11</td>\n      <td>O</td>\n\
+    \      <td>nrc-cnrc</td>\n    </tr>\n    <tr>\n      <td>1027</td>\n      <td>Improving\
+    \ the safety of Pilot Transfer Arrangement</td>\n      <td>2024-04-10</td>\n \
+    \     <td>2024-05-10</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n  \
+    \  <tr>\n      <td>cta-otc-2024-1</td>\n      <td>Consultation on requests for\
+    \ Conditional Exemptions from the tactile requirement related to signage in terminals\
+    \ in the Accessible Transportation for Persons with Disabilities Regulations</td>\n\
+    \      <td>2024-04-11</td>\n      <td>2024-05-09</td>\n      <td>O</td>\n    \
+    \  <td>cta-otc</td>\n    </tr>\n    <tr>\n      <td>1031</td>\n      <td>https://tc.canada.ca/en/corporate-services/consultations/canadian-navigable-waters-act-legislative-review</td>\n\
     \      <td>2024-03-06</td>\n      <td>2024-05-05</td>\n      <td>O</td>\n    \
     \  <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-2024-01</td>\n      <td>Revised\
     \ Event Reporting Guidelines</td>\n      <td>2024-01-29</td>\n      <td>2024-04-27</td>\n\
