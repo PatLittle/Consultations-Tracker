@@ -40,9 +40,6 @@ sites:
   url: N
 - name: 'Share your thoughts: Draft National Potato Wart Response Plan'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/share-your-thoughts-draft-national-potato-wart-response-plan
-- name: 'Share your thoughts: Proposed amendments to fish import inspection fees in
-    the CFIA Fees Notice'
-  url: https://inspection.canada.ca/about-the-cfia/transparency/consultations-and-engagement/fish-import-inspection-fees/eng/1715198066149/1715198066290
 - name: 'Share your thoughts: Proposed changes to the Units of Measurement for the
     Net Quantity Declaration of Certain Foods for fresh fruits or vegetables packaged
     in non-retail containers'
@@ -467,7 +464,7 @@ status-website:
     \      <td>2024-06-13</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-000148</td>\n      <td>Share your thoughts: Proposed amendments\
     \ to fish import inspection fees in the CFIA Fees Notice</td>\n      <td>2024-05-13</td>\n\
-    \      <td>2024-06-12</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n\
+    \      <td>2024-06-12</td>\n      <td>C</td>\n      <td>cfia-acia</td>\n    </tr>\n\
     \    <tr>\n      <td>C-0158</td>\n      <td>Notice No. TIPB-001-2024 — Petition\
     \ to the Governor in Council concerning Telecom Decision CRTC 2023-358</td>\n\
     \      <td>2024-04-27</td>\n      <td>2024-06-11</td>\n      <td>O</td>\n    \
