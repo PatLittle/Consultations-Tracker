@@ -174,9 +174,6 @@ sites:
 - name: 'Proposed Amendments to the Marine Mammal Regulations: Pacific Killer Whale
     approach distance and other amendments'
   url: https://www.dfo-mpo.gc.ca/about-notre-sujet/engagement/2024/marine-mammal-mammiferes-marins-eng.html
-- name: Multi-species Action Plan for the Richelieu River Watershed in Canada [Proposed]
-  url: Multi-species Action Plan for the Richelieu River Watershed in Canada - Document
-    search - Species at risk registry
 - name: Survey to assess Fisheries and Oceans Canada’s aquatic species at risk public
     outreach activities
   url: Survey to Assess Fisheries and Oceans Canada’s (DFO) Aquatic Species at Risk
@@ -197,6 +194,9 @@ sites:
 - name: 'Join the discussion: Canada''s administration of the tariff rate quota for
     peanut butter exports to the United States under the World Trade Organization'
   url: https://www.international.gc.ca/trade-commerce_draft/consultations/TRQ-CT/peanut-butter-wto-beurre-arachide-omc.aspx?lang=eng
+- name: Public consultations on Canada’s administration of the Origin Quota on vehicles
+    to the European Union under the CETA
+  url: https://www.international.gc.ca/trade-commerce/consultations/TRQ-CT/vehicles-exported-vehicules-exportes.aspx?lang=eng
 - name: Engagement on Indigenous Perspectives on Medical Assistance in Dying
   url: https://www.canada.ca/en/health-canada/programs/engagement-indigenous-perspectives-medical-assistance-dying.html
 - name: Consultation on methyl bromide and its associated end-use products, Proposed
@@ -428,8 +428,11 @@ status-website:
     \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-DFO240327</td>\n      <td>Engagement\
     \ on the potential listing of Sei Whale (Atlantic Population) to the Species at\
     \ Risk Act</td>\n      <td>2024-06-20</td>\n      <td>2024-08-08</td>\n      <td>P</td>\n\
-    \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>DFO20240615</td>\n   \
-    \   <td>Construction of a waterfront wharf at Pointe-Basse Harbour in Magdalen\
+    \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C0000578</td>\n      <td>Public\
+    \ consultations on Canada’s administration of the Origin Quota on vehicles to\
+    \ the European Union under the CETA</td>\n      <td>2024-06-17</td>\n      <td>2024-07-12</td>\n\
+    \      <td>O</td>\n      <td>dfatd-maecd</td>\n    </tr>\n    <tr>\n      <td>DFO20240615</td>\n\
+    \      <td>Construction of a waterfront wharf at Pointe-Basse Harbour in Magdalen\
     \ Islands.</td>\n      <td>2024-06-15</td>\n      <td>2024-07-16</td>\n      <td>P</td>\n\
     \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>DFO20230131-06</td>\n\
     \      <td>Canadian Coast Guard Long-term Strategy</td>\n      <td>2024-06-14</td>\n\
