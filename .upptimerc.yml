@@ -83,6 +83,8 @@ sites:
   url: https://www.canada.ca/en/department-finance/programs/consultations/2024/consultation-exempting-indigenous-settlement-community-trusts-alternative-minimum-tax.html
 - name: Consultation on Qualified Investments for Tax-Advantaged Savings Plans
   url: https://www.canada.ca/en/department-finance/programs/consultations/2024/consultation-on-qualified-investments-for-tax-advantaged-savings-plans.html
+- name: Government releases draft regulations on coordinated vaping taxation framework
+  url: https://www.canada.ca/en/department-finance/news/2024/06/government-releases-draft-regulations-on-coordinated-vaping-taxation-framework.html
 - name: Council of Europe Second Additional Protocol to the Convention on Cybercrime
     on Enhanced Cooperation and Disclosure of Electronic EvidenceConsultations, 2023
   url: https://www.justice.gc.ca/eng/cj-jp/cyber/id-di/index.html
@@ -428,7 +430,10 @@ status-website:
     \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-DFO240327</td>\n      <td>Engagement\
     \ on the potential listing of Sei Whale (Atlantic Population) to the Species at\
     \ Risk Act</td>\n      <td>2024-06-20</td>\n      <td>2024-08-08</td>\n      <td>P</td>\n\
-    \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C0000578</td>\n      <td>Public\
+    \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-00000125</td>\n    \
+    \  <td>Government releases draft regulations on coordinated vaping taxation framework</td>\n\
+    \      <td>2024-06-17</td>\n      <td>2024-07-22</td>\n      <td>O</td>\n    \
+    \  <td>fin</td>\n    </tr>\n    <tr>\n      <td>C0000578</td>\n      <td>Public\
     \ consultations on Canada’s administration of the Origin Quota on vehicles to\
     \ the European Union under the CETA</td>\n      <td>2024-06-17</td>\n      <td>2024-07-12</td>\n\
     \      <td>O</td>\n      <td>dfatd-maecd</td>\n    </tr>\n    <tr>\n      <td>DFO20240615</td>\n\
@@ -454,9 +459,6 @@ status-website:
     \ on Lymantria dispar multicapsid nucleopolyhedrovirus strain LDP-67 and BoVir,\
     \ Proposed Registration Decision PRD2024-05</td>\n      <td>2024-04-29</td>\n\
     \      <td>2024-06-13</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-000148</td>\n      <td>Share your thoughts: Proposed amendments\
-    \ to fish import inspection fees in the CFIA Fees Notice</td>\n      <td>2024-05-13</td>\n\
-    \      <td>2024-06-12</td>\n      <td>C</td>\n      <td>cfia-acia</td>\n    </tr>\n\
     \  </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
     \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
     >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
