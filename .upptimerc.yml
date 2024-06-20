@@ -341,6 +341,9 @@ sites:
   url: https://parks.canada.ca/lhn-nhs/mb/prince/info/gestion-management/ebauche-draft
 - name: Visitor Use Management - Jasper National Park
   url: https://www.letstalkmountainparks.ca/visitor-use-management-jasper
+- name: Public consultation on the draft management plan for Fort Langley National
+    Historic Site
+  url: https://parks.canada.ca/lhn-nhs/bc/langley/info/plan/developpement-development
 - name: Consultations on Foreign Interference
   url: https://www.canada.ca/en/services/defence/nationalsecurity/consulting-canadians-countering-foreign-interference.html
 - name: PSPC Controlled Goods Program’s Industry Engagement Committee (IEC)
@@ -439,7 +442,10 @@ status-website:
     1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n \
     \     <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-003226</td>\n      <td>Consultation\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0000128</td>\n      <td>Public\
+    \ consultation on the draft management plan for Fort Langley National Historic\
+    \ Site</td>\n      <td>2024-06-24</td>\n      <td>2024-07-23</td>\n      <td>P</td>\n\
+    \      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-003226</td>\n      <td>Consultation\
     \ on the proposed Emergency Order to protect boreal caribou in the provice of\
     \ Quebec</td>\n      <td>2024-06-20</td>\n      <td>2024-08-18</td>\n      <td>O</td>\n\
     \      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-DFO240327</td>\n      <td>Engagement\
