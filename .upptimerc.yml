@@ -255,6 +255,9 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2024/trifloxystrobin-various-commodities.html
 - name: Consultation on the Youth Mental Health Fund
   url: https://www.canada.ca/en/health-canada/programs/consultation-youth-mental-health-fund.html
+- name: 'Consultation: Notice of intent to amend the regulations to address health
+    product shortages in Canada'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-amend-regulations-address-health-product-shortages.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
@@ -455,19 +458,16 @@ status-website:
     \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>687</td>\n      <td>TBD:\
     \ Adopting Global Technical Regulations 13 and 20 for Zero Emission Vehicle Safety\
     \ (Electric Battery and Hydrogen)</td>\n      <td>2024-06-30</td>\n      <td>2024-08-29</td>\n\
-    \      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0000964</td>\n\
+    \      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0000965</td>\n\
+    \      <td>Consultation: Notice of intent to amend the regulations to address\
+    \ health product shortages in Canada</td>\n      <td>2024-06-25</td>\n      <td>2024-07-25</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000964</td>\n\
     \      <td>Consultation on the Youth Mental Health Fund</td>\n      <td>2024-06-24</td>\n\
     \      <td>2024-07-31</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-0000128</td>\n      <td>Public consultation on the draft\
     \ management plan for Fort Langley National Historic Site</td>\n      <td>2024-06-24</td>\n\
     \      <td>2024-07-23</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-003226</td>\n      <td>Consultation on the proposed Emergency\
-    \ Order to protect boreal caribou in the provice of Quebec</td>\n      <td>2024-06-20</td>\n\
-    \      <td>2024-08-18</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-DFO240327</td>\n      <td>Engagement on the potential listing\
-    \ of Sei Whale (Atlantic Population) to the Species at Risk Act</td>\n      <td>2024-06-20</td>\n\
-    \      <td>2024-08-08</td>\n      <td>P</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \  </tbody>\n</table><h3>Consultations Ending +/- 5 days from today</h3><table\
+    \ </tbody>\n</table><h3>Consultations Ending +/- 5 days from today</h3><table\
     \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
     >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
