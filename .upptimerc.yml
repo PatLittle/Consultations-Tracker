@@ -307,6 +307,8 @@ sites:
 - name: Consultation on a Policy, and Licensing, and Technical Framework for Supplemental
     Mobile Coverage by Satellite
   url: https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/learn-more/key-documents/consultations/consultation-policy-licensing-and-technical-framework-supplemental-mobile-coverage-satellite
+- name: Right to Repair Consultation
+  url: https://ised-isde.canada.ca/site/ised/en/right-repair-consultation
 - name: AI Compute Consultations
   url: https://ised-isde.canada.ca/site/ised/en/public-consultations/consultation-artificial-intelligence-ai-compute
 - name: Indigenous Advisory Circle
@@ -455,15 +457,17 @@ status-website:
     \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>687</td>\n      <td>TBD:\
     \ Adopting Global Technical Regulations 13 and 20 for Zero Emission Vehicle Safety\
     \ (Electric Battery and Hydrogen)</td>\n      <td>2024-06-30</td>\n      <td>2024-08-29</td>\n\
-    \      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>DFO20220511-03</td>\n\
-    \      <td>Restore, Maintain, Thrive:Canada’s national strategy to ensure the\
-    \ future of Atlantic salmon</td>\n      <td>2024-06-27</td>\n      <td>2024-07-30</td>\n\
-    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0000966</td>\n\
-    \      <td>Consultation on abamectin, Proposed Maximum Residue Limit PMRL2024-13</td>\n\
-    \      <td>2024-06-26</td>\n      <td>2024-09-09</td>\n      <td>O</td>\n    \
-    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0236</td>\n      <td>AI Compute\
-    \ Consultations</td>\n      <td>2024-06-26</td>\n      <td>2024-09-06</td>\n \
-    \     <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000965</td>\n\
+    \      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0236</td>\n\
+    \      <td>Right to Repair Consultation</td>\n      <td>2024-06-28</td>\n    \
+    \  <td>2024-09-26</td>\n      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n\
+    \      <td>DFO20220511-03</td>\n      <td>Restore, Maintain, Thrive:Canada’s national\
+    \ strategy to ensure the future of Atlantic salmon</td>\n      <td>2024-06-27</td>\n\
+    \      <td>2024-07-30</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000966</td>\n      <td>Consultation on abamectin, Proposed\
+    \ Maximum Residue Limit PMRL2024-13</td>\n      <td>2024-06-26</td>\n      <td>2024-09-09</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0237</td>\n\
+    \      <td>AI Compute Consultations</td>\n      <td>2024-06-26</td>\n      <td>2024-09-06</td>\n\
+    \      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000965</td>\n\
     \      <td>Consultation: Notice of intent to amend the regulations to address\
     \ health product shortages in Canada</td>\n      <td>2024-06-25</td>\n      <td>2024-07-25</td>\n\
     \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000964</td>\n\
