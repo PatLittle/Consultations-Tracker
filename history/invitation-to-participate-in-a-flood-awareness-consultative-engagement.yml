@@ -1,7 +1,7 @@
 url: https://www.statcan.gc.ca/en/consultation/2024/flood-awareness
-status: down
-code: 404
-responseTime: 44
-lastUpdated: 2024-07-05T08:25:55.264Z
+status: up
+code: 200
+responseTime: 37
+lastUpdated: 2024-07-05T16:26:20.479Z
 startTime: 2024-02-15T12:31:31.318Z
 generator: Upptime <https://github.com/upptime/upptime>
