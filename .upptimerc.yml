@@ -15,6 +15,9 @@ sites:
   url: https://www.cer-rec.gc.ca/en/consultation-engagement/stakeholder-engagement/regulated-industry-engagement/index.html
 - name: Revised Event Reporting Guidelines
   url: https://www.cerdialogue.ca/event-reporting-guidelines
+- name: Predictable and Efficient Processing and Assessment of Negligible-Risk and
+    Low-Risk Activities
+  url: https://www.cerdialogue.ca/efficiency-project
 - name: 'Share your thoughts: Draft National Potato Wart Response Plan'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/share-your-thoughts-draft-national-potato-wart-response-plan
 - name: Consultation on proposed changes to the Plant Breeders' Rights Regulations
@@ -417,6 +420,9 @@ status-website:
     \    <tr>\n      <td>C-0000968</td>\n      <td>Consultation on metsulfuron-methyl,\
     \ Proposed Maximum Residue Limit PMRL2024-15</td>\n      <td>2024-07-11</td>\n\
     \      <td>2024-09-24</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-2024-07</td>\n      <td>Predictable and Efficient Processing\
+    \ and Assessment of Negligible-Risk and Low-Risk Activities</td>\n      <td>2024-07-09</td>\n\
+    \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n\
     \    <tr>\n      <td>C0000579</td>\n      <td>Public consultations on Canada’s\
     \ administration of import quotas for beef and veal products under the World Trade\
     \ Organisation (WTO) Tariff Rate Quota (TRQ)</td>\n      <td>2024-07-08</td>\n\
