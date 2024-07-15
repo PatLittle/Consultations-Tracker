@@ -420,9 +420,6 @@ status-website:
     \    <tr>\n      <td>C-0000968</td>\n      <td>Consultation on metsulfuron-methyl,\
     \ Proposed Maximum Residue Limit PMRL2024-15</td>\n      <td>2024-07-11</td>\n\
     \      <td>2024-09-24</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-2024-07</td>\n      <td>Predictable and Efficient Processing\
-    \ and Assessment of Negligible-Risk and Low-Risk Activities</td>\n      <td>2024-07-09</td>\n\
-    \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n\
     \  </tbody>\n</table><h3>Consultations Ending +/- 5 days from today</h3><table\
     \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
     >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
@@ -451,10 +448,7 @@ status-website:
     \    <tr>\n      <td>C0000578</td>\n      <td>Public consultations on Canada’s\
     \ administration of the Origin Quota on vehicles to the European Union under the\
     \ CETA</td>\n      <td>2024-06-17</td>\n      <td>2024-07-12</td>\n      <td>O</td>\n\
-    \      <td>dfatd-maecd</td>\n    </tr>\n    <tr>\n      <td>DFO20240513-01</td>\n\
-    \      <td>Survey to assess Fisheries and Oceans Canada’s aquatic species at risk\
-    \ public outreach activities</td>\n      <td>2024-04-10</td>\n      <td>2024-07-09</td>\n\
-    \      <td>C</td>\n      <td>dfo-mpo</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \      <td>dfatd-maecd</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
     \ Listed as Open that should be closed</h3><table border=\"1\" class=\"dataframe\"\
     >\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
     \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
