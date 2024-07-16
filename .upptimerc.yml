@@ -49,8 +49,6 @@ sites:
 - name: Exempting Indigenous Settlement and Community Trusts from Alternative Minimum
     Tax
   url: https://www.canada.ca/en/department-finance/programs/consultations/2024/consultation-exempting-indigenous-settlement-community-trusts-alternative-minimum-tax.html
-- name: Consultation on Qualified Investments for Tax-Advantaged Savings Plans
-  url: https://www.canada.ca/en/department-finance/programs/consultations/2024/consultation-on-qualified-investments-for-tax-advantaged-savings-plans.html
 - name: Government releases draft regulations on coordinated vaping taxation framework
   url: https://www.canada.ca/en/department-finance/news/2024/06/government-releases-draft-regulations-on-coordinated-vaping-taxation-framework.html
 - name: Council of Europe Second Additional Protocol to the Convention on Cybercrime
@@ -440,7 +438,7 @@ status-website:
     \      <td>2024-06-15</td>\n      <td>2024-07-16</td>\n      <td>P</td>\n    \
     \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-00000124</td>\n      <td>Consultation\
     \ on Qualified Investments for Tax-Advantaged Savings Plans</td>\n      <td>2024-05-30</td>\n\
-    \      <td>2024-07-15</td>\n      <td>O</td>\n      <td>fin</td>\n    </tr>\n\
+    \      <td>2024-07-15</td>\n      <td>C</td>\n      <td>fin</td>\n    </tr>\n\
     \    <tr>\n      <td>C-003202</td>\n      <td>Dolphin and Union Caribou pre-listing\
     \ consultations</td>\n      <td>2024-05-13</td>\n      <td>2024-07-15</td>\n \
     \     <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000955</td>\n\
@@ -460,23 +458,21 @@ status-website:
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
     \    <tr>\n      <td>C-003202</td>\n      <td>Dolphin and Union Caribou pre-listing\
     \ consultations</td>\n      <td>2024-05-13</td>\n      <td>2024-07-15</td>\n \
-    \     <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-00000124</td>\n\
-    \      <td>Consultation on Qualified Investments for Tax-Advantaged Savings Plans</td>\n\
-    \      <td>2024-05-30</td>\n      <td>2024-07-15</td>\n      <td>O</td>\n    \
-    \  <td>fin</td>\n    </tr>\n    <tr>\n      <td>C-0000955</td>\n      <td>Consultation\
-    \ on didecyl dimethyl ammonium chloride (DDAC), Acticide DDQ 50-E, Proposed Registration\
-    \ Decision PRD2024-06</td>\n      <td>2024-05-31</td>\n      <td>2024-07-15</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-000147</td>\n\
-    \      <td>Consultation on proposed changes to the Plant Breeders' Rights Regulations</td>\n\
-    \      <td>2024-05-29</td>\n      <td>2024-07-12</td>\n      <td>O</td>\n    \
-    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>c-0000125</td>\n      <td>Share\
-    \ your thoughts: Proposed Indigenous Stewardship Policy</td>\n      <td>2024-06-11</td>\n\
-    \      <td>2024-07-03</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
-    \   <tr>\n      <td>675</td>\n      <td>Let’s Talk: Amendments to the Railway\
-    \ Safety Act in Bill C-33</td>\n      <td>2023-05-23</td>\n      <td>2024-06-30</td>\n\
-    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0234</td>\n\
-    \      <td>Informing Potential Legislated Targets for Canadian SMEs to meet Government\
-    \ of Canada Innovation Needs</td>\n      <td>2024-06-03</td>\n      <td>2024-06-30</td>\n\
+    \     <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000955</td>\n\
+    \      <td>Consultation on didecyl dimethyl ammonium chloride (DDAC), Acticide\
+    \ DDQ 50-E, Proposed Registration Decision PRD2024-06</td>\n      <td>2024-05-31</td>\n\
+    \      <td>2024-07-15</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-000147</td>\n      <td>Consultation on proposed changes\
+    \ to the Plant Breeders' Rights Regulations</td>\n      <td>2024-05-29</td>\n\
+    \      <td>2024-07-12</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n\
+    \    <tr>\n      <td>c-0000125</td>\n      <td>Share your thoughts: Proposed Indigenous\
+    \ Stewardship Policy</td>\n      <td>2024-06-11</td>\n      <td>2024-07-03</td>\n\
+    \      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>675</td>\n\
+    \      <td>Let’s Talk: Amendments to the Railway Safety Act in Bill C-33</td>\n\
+    \      <td>2023-05-23</td>\n      <td>2024-06-30</td>\n      <td>O</td>\n    \
+    \  <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0234</td>\n      <td>Informing\
+    \ Potential Legislated Targets for Canadian SMEs to meet Government of Canada\
+    \ Innovation Needs</td>\n      <td>2024-06-03</td>\n      <td>2024-06-30</td>\n\
     \      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-00000123</td>\n\
     \      <td>Exempting Indigenous Settlement and Community Trusts from Alternative\
     \ Minimum Tax</td>\n      <td>2024-05-24</td>\n      <td>2024-06-28</td>\n   \
