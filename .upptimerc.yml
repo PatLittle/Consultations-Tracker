@@ -416,7 +416,10 @@ status-website:
     \ class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n   \
     \   <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-000047</td>\n      <td>Share\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0000128</td>\n      <td>Public\
+    \ consultation on the draft management plan for Fort Langley National Historic\
+    \ Site</td>\n      <td>2024-06-24</td>\n      <td>2024-07-23</td>\n      <td>O</td>\n\
+    \      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-000047</td>\n      <td>Share\
     \ your thoughts about Indigenous programming in Canada</td>\n      <td>2024-03-22</td>\n\
     \      <td>2024-07-22</td>\n      <td>O</td>\n      <td>crtc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-00000125</td>\n      <td>Government releases draft regulations\
@@ -445,17 +448,13 @@ status-website:
     \      <td>Consultation on didecyl dimethyl ammonium chloride (DDAC), Acticide\
     \ DDQ 50-E, Proposed Registration Decision PRD2024-06</td>\n      <td>2024-05-31</td>\n\
     \      <td>2024-07-15</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-000147</td>\n      <td>Consultation on proposed changes\
-    \ to the Plant Breeders' Rights Regulations</td>\n      <td>2024-05-29</td>\n\
-    \      <td>2024-07-12</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n\
-    \    <tr>\n      <td>C0000578</td>\n      <td>Public consultations on Canada’s\
-    \ administration of the Origin Quota on vehicles to the European Union under the\
-    \ CETA</td>\n      <td>2024-06-17</td>\n      <td>2024-07-12</td>\n      <td>C</td>\n\
-    \      <td>dfatd-maecd</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
-    \ Listed as Open that should be closed</h3><table border=\"1\" class=\"dataframe\"\
-    >\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
-    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
-    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
+    \  </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
+    \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
+    >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
+    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-1234695</td>\n      <td>Share\
+    \ your thoughts: Helping 2SLGBTQI+ Older Adults to Age in Place</td>\n      <td>2024-05-01</td>\n\
+    \      <td>2024-07-17</td>\n      <td>O</td>\n      <td>esdc-edsc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-003202</td>\n      <td>Dolphin and Union Caribou pre-listing\
     \ consultations</td>\n      <td>2024-05-13</td>\n      <td>2024-07-15</td>\n \
     \     <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000955</td>\n\
