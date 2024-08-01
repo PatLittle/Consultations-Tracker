@@ -136,9 +136,6 @@ sites:
   url: https://species-registry.canada.ca/index-en.html#/consultations/2965
 - name: Proposed Amendments to the Export Permits Regulations
   url: https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
-- name: 'Join the discussion: The General Review of the Comprehensive and Progressive
-    Agreement for Trans-Pacific Partnership (CPTPP)'
-  url: https://www.international.gc.ca/trade-commerce/consultations/TRQ-CT/transpacific-cptpp-transpacifique-ptpgp.aspx?lang=eng
 - name: Public consultations on Canada’s administration of import quotas for beef
     and veal products under the World Trade Organisation (WTO) Tariff Rate Quota (TRQ)
   url: https://www.international.gc.ca/trade-commerce/consultations/TRQ-CT/wto-beef-veal-omc-boeuf-veau.aspx?lang=eng
@@ -438,7 +435,7 @@ status-website:
     \   <td>P</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C0000576</td>\n\
     \      <td>Join the discussion: The General Review of the Comprehensive and Progressive\
     \ Agreement for Trans-Pacific Partnership (CPTPP)</td>\n      <td>2024-06-03</td>\n\
-    \      <td>2024-07-31</td>\n      <td>O</td>\n      <td>dfatd-maecd</td>\n   \
+    \      <td>2024-07-31</td>\n      <td>C</td>\n      <td>dfatd-maecd</td>\n   \
     \ </tr>\n    <tr>\n      <td>C-0196</td>\n      <td>Consultation on proposed specifications\
     \ and test procedures for the approval of Level 3 electric vehicle charging devices</td>\n\
     \      <td>2024-06-03</td>\n      <td>2024-07-31</td>\n      <td>O</td>\n    \
@@ -502,33 +499,30 @@ status-website:
     \ Theft</td>\n      <td>2024-05-17</td>\n      <td>2024-07-31</td>\n      <td>O</td>\n\
     \      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000964</td>\n      <td>Consultation\
     \ on the Youth Mental Health Fund</td>\n      <td>2024-06-24</td>\n      <td>2024-07-31</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C0000576</td>\n\
-    \      <td>Join the discussion: The General Review of the Comprehensive and Progressive\
-    \ Agreement for Trans-Pacific Partnership (CPTPP)</td>\n      <td>2024-06-03</td>\n\
-    \      <td>2024-07-31</td>\n      <td>O</td>\n      <td>dfatd-maecd</td>\n   \
-    \ </tr>\n    <tr>\n      <td>C-0196</td>\n      <td>Consultation on proposed specifications\
-    \ and test procedures for the approval of Level 3 electric vehicle charging devices</td>\n\
-    \      <td>2024-06-03</td>\n      <td>2024-07-31</td>\n      <td>O</td>\n    \
-    \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000947</td>\n      <td>Consultation\
-    \ on picarbutrazox, Proposed Maximum Residue Limit PMRL2024-06</td>\n      <td>2024-05-16</td>\n\
-    \      <td>2024-07-30</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-00000129</td>\n      <td>Government consults on Budget\
-    \ 2024 commitment to expand opt-in tax jurisdiction for Indigenous governments</td>\n\
-    \      <td>2024-07-12</td>\n      <td>2024-07-30</td>\n      <td>O</td>\n    \
-    \  <td>fin</td>\n    </tr>\n    <tr>\n      <td>C-0000948</td>\n      <td>Consultation\
-    \ on dichlorprop, Proposed Maximum Residue Limit PMRL2024-07</td>\n      <td>2024-05-16</td>\n\
-    \      <td>2024-07-30</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0000949</td>\n      <td>Proposal to remove brominated vegetable\
-    \ oil from the List of permitted food additives with other accepted uses</td>\n\
-    \      <td>2024-05-21</td>\n      <td>2024-07-30</td>\n      <td>O</td>\n    \
-    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-672052</td>\n      <td>Public\
-    \ review on proposed changes to the 2020 National Model Codes – Spring 2024</td>\n\
-    \      <td>2024-05-27</td>\n      <td>2024-07-29</td>\n      <td>O</td>\n    \
-    \  <td>nrc-cnrc</td>\n    </tr>\n    <tr>\n      <td>C-003212</td>\n      <td>Share\
-    \ your ideas: Amendments to the Metal and Diamond Mining Effluent Regulations\
-    \ for the Goldboro Gold Project</td>\n      <td>2024-05-27</td>\n      <td>2024-07-27</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003202</td>\n\
-    \      <td>Dolphin and Union Caribou pre-listing consultations</td>\n      <td>2024-05-13</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0196</td>\n\
+    \      <td>Consultation on proposed specifications and test procedures for the\
+    \ approval of Level 3 electric vehicle charging devices</td>\n      <td>2024-06-03</td>\n\
+    \      <td>2024-07-31</td>\n      <td>O</td>\n      <td>ic</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-0000947</td>\n      <td>Consultation on picarbutrazox, Proposed\
+    \ Maximum Residue Limit PMRL2024-06</td>\n      <td>2024-05-16</td>\n      <td>2024-07-30</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-00000129</td>\n\
+    \      <td>Government consults on Budget 2024 commitment to expand opt-in tax\
+    \ jurisdiction for Indigenous governments</td>\n      <td>2024-07-12</td>\n  \
+    \    <td>2024-07-30</td>\n      <td>O</td>\n      <td>fin</td>\n    </tr>\n  \
+    \  <tr>\n      <td>C-0000948</td>\n      <td>Consultation on dichlorprop, Proposed\
+    \ Maximum Residue Limit PMRL2024-07</td>\n      <td>2024-05-16</td>\n      <td>2024-07-30</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000949</td>\n\
+    \      <td>Proposal to remove brominated vegetable oil from the List of permitted\
+    \ food additives with other accepted uses</td>\n      <td>2024-05-21</td>\n  \
+    \    <td>2024-07-30</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-672052</td>\n      <td>Public review on proposed changes\
+    \ to the 2020 National Model Codes – Spring 2024</td>\n      <td>2024-05-27</td>\n\
+    \      <td>2024-07-29</td>\n      <td>O</td>\n      <td>nrc-cnrc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-003212</td>\n      <td>Share your ideas: Amendments to\
+    \ the Metal and Diamond Mining Effluent Regulations for the Goldboro Gold Project</td>\n\
+    \      <td>2024-05-27</td>\n      <td>2024-07-27</td>\n      <td>O</td>\n    \
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003202</td>\n      <td>Dolphin\
+    \ and Union Caribou pre-listing consultations</td>\n      <td>2024-05-13</td>\n\
     \      <td>2024-07-15</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
     \   <tr>\n      <td>c-0000125</td>\n      <td>Share your thoughts: Proposed Indigenous\
     \ Stewardship Policy</td>\n      <td>2024-06-11</td>\n      <td>2024-07-03</td>\n\
