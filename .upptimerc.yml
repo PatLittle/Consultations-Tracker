@@ -50,9 +50,6 @@ sites:
   url: https://crtc.gc.ca/eng/consultation/descri.htm
 - name: Share your thoughts about the Independent Local News Fund
   url: https://crtc.gc.ca/eng/consultation/independ.htm
-- name: Consultations on potential policy responses to unfair Chinese trade practices
-    in electric vehicles
-  url: https://www.canada.ca/en/department-finance/programs/consultations/2024/consultations-on-potential-policy-responses-to-unfair-chinese-trade-practices-in-electric-vehicles.html
 - name: Government consults on Budget 2024 commitment to expand opt-in tax jurisdiction
     for Indigenous governments
   url: https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.canada.ca%2Fen%2Fdepartment-finance%2Fnews%2F2024%2F07%2Fgovernment-consults-on-budget-2024-commitment-to-expand-opt-in-tax-jurisdiction-for-indigenous-governments.html&data=05%7C02%7CHeather.Mustoe%40fin.gc.ca%7C9a8b6b9ea2b14ed9ff2a08dcab386aaf%7Cc8d186b6faab43fb98c018a0dfa65ac1%7C0%7C0%7C638573505991724649%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=ep1m739RAa2qXTeK14PB%2B2%2Bdk21AvWUcdFGDbFKJ5h4%3D&reserved=0
@@ -176,6 +173,9 @@ sites:
   url: https://www.canada.ca/en/health-canada/programs/consultation-updates-draft-guidance-list-recognized-standards-medical-devices.html
 - name: Consultation on a proposal for a tobacco cost recovery framework
   url: https://www.canada.ca/en/health-canada/programs/consultation-tobacco-cost-recovery-framework.html
+- name: 'Share your ideas: Consultation on draft guidance on expanded access clinical
+    trials'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-draft-guidance-expanded-access-clinical-trials.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
@@ -373,8 +373,11 @@ status-website:
     \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>689</td>\n      <td>TBD:\
     \ Requirements for Advanced Driver Assistance Systems</td>\n      <td>2024-08-05</td>\n\
     \      <td>2024-09-23</td>\n      <td>P</td>\n      <td>tc</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-0000971</td>\n      <td>Consultation on a proposal for a\
-    \ tobacco cost recovery framework</td>\n      <td>2024-08-01</td>\n      <td>2024-10-10</td>\n\
+    \   <tr>\n      <td>C-0000972</td>\n      <td>Share your ideas: Consultation on\
+    \ draft guidance on expanded access clinical trials</td>\n      <td>2024-08-02</td>\n\
+    \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000971</td>\n      <td>Consultation on a proposal for\
+    \ a tobacco cost recovery framework</td>\n      <td>2024-08-01</td>\n      <td>2024-10-10</td>\n\
     \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>0</td>\n\
     \      <td>Review of the Physical Activities Regulations</td>\n      <td>2024-07-30</td>\n\
     \      <td>2024-10-28</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
@@ -427,7 +430,7 @@ status-website:
     \      <td>2024-06-20</td>\n      <td>2024-08-02</td>\n      <td>O</td>\n    \
     \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-00000128</td>\n      <td>Consultations\
     \ on potential policy responses to unfair Chinese trade practices in electric\
-    \ vehicles</td>\n      <td>2024-07-02</td>\n      <td>2024-08-01</td>\n      <td>O</td>\n\
+    \ vehicles</td>\n      <td>2024-07-02</td>\n      <td>2024-08-01</td>\n      <td>C</td>\n\
     \      <td>fin</td>\n    </tr>\n    <tr>\n      <td>C-003246</td>\n      <td>Consultation\
     \ for the Regulatory Review of the Ozone-depleting Substances and Halocarbon Alternatives\
     \ Regulations</td>\n      <td>2024-04-01</td>\n      <td>2024-08-01</td>\n   \
@@ -481,10 +484,7 @@ status-website:
     \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
     >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-00000128</td>\n      <td>Consultations\
-    \ on potential policy responses to unfair Chinese trade practices in electric\
-    \ vehicles</td>\n      <td>2024-07-02</td>\n      <td>2024-08-01</td>\n      <td>O</td>\n\
-    \      <td>fin</td>\n    </tr>\n    <tr>\n      <td>C-0211</td>\n      <td>Consultation\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0211</td>\n      <td>Consultation\
     \ on the Verification Specifications for In-service Level 1 and 2 AC Electric\
     \ Vehicle Supply Equipment (EVSE).</td>\n      <td>2024-06-03</td>\n      <td>2024-07-31</td>\n\
     \      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>STC-0000065</td>\n\
