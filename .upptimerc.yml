@@ -372,16 +372,24 @@ status-website:
     \   <td>2024-09-23</td>\n      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n\
     \      <td>C-0000972</td>\n      <td>Share your ideas: Consultation on draft guidance\
     \ on expanded access clinical trials</td>\n      <td>2024-08-02</td>\n      <td>2024-10-31</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000971</td>\n\
-    \      <td>Consultation on a proposal for a tobacco cost recovery framework</td>\n\
-    \      <td>2024-08-01</td>\n      <td>2024-10-10</td>\n      <td>O</td>\n    \
-    \  <td>hc-sc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Ending +/-\
-    \ 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n\
-    \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
-    \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \ Ending +/- 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n\
+    \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
+    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>C-003229</td>\n      <td>Share your thoughts: Regulatory\
-    \ Review of the Ozone-depleting Substances and Halocarbon Alternatives Regulations</td>\n\
+    \    <tr>\n      <td>C202406</td>\n      <td>Discussion Paper DIS-24-04, Future\
+    \ Amendments the Nuclear Security Regulations: Granting Peace Officer Powers,\
+    \ Initiating a Complaints Investigation Mechanism, and Transferring of Firearm\
+    \ Ownership to Licensees</td>\n      <td>2024-05-15</td>\n      <td>2024-08-12</td>\n\
+    \      <td>O</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>88735</td>\n\
+    \      <td>Big Bear Camp Aerodrome Project\\nPublic Notice\\nPublic Comments Invited\
+    \ on the Summary of the Initial Project Description</td>\n      <td>2024-07-23</td>\n\
+    \      <td>2024-08-12</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0233</td>\n      <td>Consultation Relating to the Use of\
+    \ Radiocommunication Devices in Auto Theft</td>\n      <td>2024-05-17</td>\n \
+    \     <td>2024-08-12</td>\n      <td>O</td>\n      <td>ic</td>\n    </tr>\n  \
+    \  <tr>\n      <td>C-003229</td>\n      <td>Share your thoughts: Regulatory Review\
+    \ of the Ozone-depleting Substances and Halocarbon Alternatives Regulations</td>\n\
     \      <td>2024-04-12</td>\n      <td>2024-08-09</td>\n      <td>O</td>\n    \
     \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003272</td>\n      <td>Share\
     \ your thoughts: Regulatory Review of the Ozone-depleting Substances and Halocarbon\
@@ -412,23 +420,20 @@ status-website:
     \      <td>2024-08-02</td>\n      <td>C</td>\n      <td>ic</td>\n    </tr>\n \
     \   <tr>\n      <td>D00093</td>\n      <td>Consultations on Foreign Interference</td>\n\
     \      <td>2023-11-24</td>\n      <td>2024-08-02</td>\n      <td>O</td>\n    \
-    \  <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>C-00000128</td>\n      <td>Consultations\
-    \ on potential policy responses to unfair Chinese trade practices in electric\
-    \ vehicles</td>\n      <td>2024-07-02</td>\n      <td>2024-08-01</td>\n      <td>C</td>\n\
-    \      <td>fin</td>\n    </tr>\n    <tr>\n      <td>C-003246</td>\n      <td>Consultation\
-    \ for the Regulatory Review of the Ozone-depleting Substances and Halocarbon Alternatives\
-    \ Regulations</td>\n      <td>2024-04-01</td>\n      <td>2024-08-01</td>\n   \
-    \   <td>P</td>\n      <td>ec</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
-    \ Listed as Open that should be closed</h3><table border=\"1\" class=\"dataframe\"\
-    >\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
-    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
+    \  <td>ps-sp</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Listed as\
+    \ Open that should be closed</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n\
+    \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
+    \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>D00093</td>\n      <td>Consultations on Foreign Interference</td>\n\
-    \      <td>2023-11-24</td>\n      <td>2024-08-02</td>\n      <td>O</td>\n    \
-    \  <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>STC-0000065</td>\n      <td>Invitation\
-    \ to participate in the revision of the Classification of Instructional Programs\
-    \ (CIP) Canada</td>\n      <td>2024-04-15</td>\n      <td>2024-07-31</td>\n  \
-    \    <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-00000129</td>\n\
+    \    <tr>\n      <td>C-003227</td>\n      <td>Comment on: Draft Canada-Saskatchewan\
+    \ Equivalency Agreement on coal-fired electricity regulations (2025-2026)</td>\n\
+    \      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n      <td>O</td>\n    \
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>D00093</td>\n      <td>Consultations\
+    \ on Foreign Interference</td>\n      <td>2023-11-24</td>\n      <td>2024-08-02</td>\n\
+    \      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>STC-0000065</td>\n\
+    \      <td>Invitation to participate in the revision of the Classification of\
+    \ Instructional Programs (CIP) Canada</td>\n      <td>2024-04-15</td>\n      <td>2024-07-31</td>\n\
+    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-00000129</td>\n\
     \      <td>Government consults on Budget 2024 commitment to expand opt-in tax\
     \ jurisdiction for Indigenous governments</td>\n      <td>2024-07-12</td>\n  \
     \    <td>2024-07-30</td>\n      <td>O</td>\n      <td>fin</td>\n    </tr>\n  \
