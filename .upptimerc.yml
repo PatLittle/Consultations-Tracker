@@ -366,7 +366,7 @@ status-website:
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
     \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>D00039</td>\n      <td>Targeted\
     \ Stakeholder Engagement to Inform Canada’s Public Safety Broadband Network (PSBN)</td>\n\
-    \      <td>2024-08-06</td>\n      <td>2024-10-08</td>\n      <td>P</td>\n    \
+    \      <td>2024-08-06</td>\n      <td>2024-10-08</td>\n      <td>O</td>\n    \
     \  <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>689</td>\n      <td>TBD: Requirements\
     \ for Advanced Driver Assistance Systems</td>\n      <td>2024-08-05</td>\n   \
     \   <td>2024-09-23</td>\n      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n\
