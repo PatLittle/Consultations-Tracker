@@ -138,6 +138,9 @@ sites:
   url: https://species-registry.canada.ca/index-en.html#/consultations/2965
 - name: Proposed Amendments to the Export Permits Regulations
   url: https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
+- name: Public consultations on potential new measures to advance and defend Canada's
+    economic security interests
+  url: https://www.international.gc.ca/trade-commerce/consultations/TRQ-CT/economic-security-canada-securite-economique.aspx?lang=eng
 - name: Notice of intent to consult on modernization of provisions pertaining to hospitals
     and practitioners in regulations made under the Controlled Drugs and Substances
     Act
@@ -367,10 +370,13 @@ status-website:
     1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n \
     \     <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-000158</td>\n      <td>Share\
-    \ your thoughts:  Introduction of potato wart “viability confirmation” status\
-    \ and “field of concern” classification</td>\n      <td>2024-08-08</td>\n    \
-    \  <td>2024-10-07</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C0000580</td>\n      <td>Public\
+    \ consultations on potential new measures to advance and defend Canada's economic\
+    \ security interests</td>\n      <td>2024-08-09</td>\n      <td>2024-09-05</td>\n\
+    \      <td>O</td>\n      <td>dfatd-maecd</td>\n    </tr>\n    <tr>\n      <td>C-000158</td>\n\
+    \      <td>Share your thoughts:  Introduction of potato wart “viability confirmation”\
+    \ status and “field of concern” classification</td>\n      <td>2024-08-08</td>\n\
+    \      <td>2024-10-07</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n\
     \    <tr>\n      <td>D00039</td>\n      <td>Targeted Stakeholder Engagement to\
     \ Inform Canada’s Public Safety Broadband Network (PSBN)</td>\n      <td>2024-08-06</td>\n\
     \      <td>2024-10-08</td>\n      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n\
