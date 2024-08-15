@@ -116,6 +116,8 @@ sites:
   url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/regulatory-review-ozone-depleting-substances-halocarbon-alternatives-regulations.html
 - name: Eastern Shore Islands Area of Interest Consultations
   url: http://www.dfo-mpo.gc.ca/oceans/consultations/easternshore-ilescoteest/index-eng.html
+- name: Northern Gulf of St. Lawrence Study Area
+  url: https://www.dfo-mpo.gc.ca/oceans/canada-quebec-agreement-entente/index-eng.html
 - name: Fundian Channel- Browns Bank Area of Interest
   url: https://www.dfo-mpo.gc.ca/oceans/aoi-si/fundian-fundy-browns-eng.html
 - name: Let's talk Pacific Salmon
@@ -123,21 +125,36 @@ sites:
 - name: Proposed ticketing for the enforcement of a fisheries offence under the Fisheries
     Act
   url: TBD
+- name: Marine Conservation Network Plan
+  url: https://www.dfo-mpo.gc.ca/oceans/networks-reseaux/development-developpement-eng.html
 - name: Whitby Harbour Remediation Project
-  url: Whitby Harbour Remediation Project (dfo-mpo.gc.ca)
+  url: https://www.dfo-mpo.gc.ca/sch-ppb/whitby/index-eng.html
 - name: Canadian Coast Guard Long-term Strategy
   url: https://www.ccg-gcc.gc.ca/engagement/lts-slt/consultation-eng.html
 - name: Revision of the management plan for Banc-des-Américains Marine Protected Area
     (MPA)
   url: https://www.dfo-mpo.gc.ca/oceans/mpa-zpm/american-americains/index-eng.html
+- name: Elver Fishery Management Review
+  url: https://www.dfo-mpo.gc.ca/fisheries-peches/ifmp-gmp/elver-anguille/index-eng.html
 - name: Management Plan for the Mapleleaf (Quadrula quadrula) Great Lakes – Upper
     St. Lawrence Population, and Rainbow (Villosa iris) in Canada
   url: https://wildlife-species.canada.ca/species-risk-registry/involved/consultation/default_e.cfm
+- name: Banc-des-Américains Oceans Act Marine Protected Area Management Plan
+  url: https://www.dfo-mpo.gc.ca/oceans/mpa-zpm/american-americains/index-eng.html
 - name: 'Proposed Amendments to the Marine Mammal Regulations: Pacific Killer Whale
     approach distance and other amendments'
   url: https://www.dfo-mpo.gc.ca/about-notre-sujet/engagement/2024/marine-mammal-mammiferes-marins-eng.html
+- name: Construction of a waterfront wharf at Pointe-Basse Harbour in Magdalen Islands
+  url: https://aeic-iaac.gc.ca/050/evaluations/proj/88682?culture=en-CA
 - name: Multi-species Action Plan for the Richelieu River Watershed in Canada
   url: https://species-registry.canada.ca/index-en.html#/consultations/2965
+- name: Consultation on the Silver Chub Recovery Strategy & Action Plan under the
+    Species at Risk Act
+  url: https://species-registry.canada.ca/index-en.html#/consultations/448
+- name: Possession and Export of Elvers Regulations
+  url: https://www.gazette.gc.ca/rp-pr/p1/2024/2024-06-29/html/reg6-eng.html
+- name: Ghost Gear Update and Path Forward Meetings
+  url: https://www.dfo-mpo.gc.ca/fisheries-peches/management-gestion/ghostgear-equipementfantome/index-eng.html
 - name: Proposed Amendments to the Export Permits Regulations
   url: https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
 - name: Public consultations on potential new measures to advance and defend Canada's
@@ -391,7 +408,10 @@ status-website:
     \  <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-003226</td>\n      <td>Consultation\
     \ on the proposed Emergency Order to protect boreal caribou in the provice of\
     \ Quebec</td>\n      <td>2024-06-20</td>\n      <td>2024-08-18</td>\n      <td>O</td>\n\
-    \      <td>ec</td>\n    </tr>\n    <tr>\n      <td>88747</td>\n      <td>Black\
+    \      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-20240308</td>\n      <td>Consultation\
+    \ on the Silver Chub Recovery Strategy &amp; Action Plan under the Species at\
+    \ Risk Act</td>\n      <td>2024-06-18</td>\n      <td>2024-08-17</td>\n      <td>O</td>\n\
+    \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>88747</td>\n      <td>Black\
     \ Bear Power Plant Project\\nPublic Notice\\nComments Invited on the Summary of\
     \ the Initial Project Description</td>\n      <td>2024-07-25</td>\n      <td>2024-08-14</td>\n\
     \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-0000953</td>\n\
@@ -404,73 +424,77 @@ status-website:
     \ Future Amendments the Nuclear Security Regulations: Granting Peace Officer Powers,\
     \ Initiating a Complaints Investigation Mechanism, and Transferring of Firearm\
     \ Ownership to Licensees</td>\n      <td>2024-05-15</td>\n      <td>2024-08-12</td>\n\
-    \      <td>O</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>88735</td>\n\
-    \      <td>Big Bear Camp Aerodrome Project\\nPublic Notice\\nPublic Comments Invited\
-    \ on the Summary of the Initial Project Description</td>\n      <td>2024-07-23</td>\n\
-    \      <td>2024-08-12</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0233</td>\n      <td>Consultation Relating to the Use of\
-    \ Radiocommunication Devices in Auto Theft</td>\n      <td>2024-05-17</td>\n \
-    \     <td>2024-08-12</td>\n      <td>C</td>\n      <td>ic</td>\n    </tr>\n  </tbody>\n\
-    </table><h3>Consultations Listed as Open that should be closed</h3><table border=\"\
-    1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n \
-    \     <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
-    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>88747</td>\n      <td>Black\
-    \ Bear Power Plant Project\\nPublic Notice\\nComments Invited on the Summary of\
-    \ the Initial Project Description</td>\n      <td>2024-07-25</td>\n      <td>2024-08-14</td>\n\
-    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-0000954</td>\n\
-    \      <td>Consultation on metsulfuron-methyl, Proposed Maximum Residue Limit\
-    \ PMRL2024-09</td>\n      <td>2024-05-30</td>\n      <td>2024-08-13</td>\n   \
-    \   <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000953</td>\n\
-    \      <td>Consultation on broflanilide, Proposed Maximum Residue Limit PMRL2024-08</td>\n\
-    \      <td>2024-05-30</td>\n      <td>2024-08-13</td>\n      <td>O</td>\n    \
-    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C202406</td>\n      <td>Discussion\
-    \ Paper DIS-24-04, Future Amendments the Nuclear Security Regulations: Granting\
-    \ Peace Officer Powers, Initiating a Complaints Investigation Mechanism, and Transferring\
-    \ of Firearm Ownership to Licensees</td>\n      <td>2024-05-15</td>\n      <td>2024-08-12</td>\n\
-    \      <td>O</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>88735</td>\n\
-    \      <td>Big Bear Camp Aerodrome Project\\nPublic Notice\\nPublic Comments Invited\
-    \ on the Summary of the Initial Project Description</td>\n      <td>2024-07-23</td>\n\
-    \      <td>2024-08-12</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-003272</td>\n      <td>Share your thoughts: Regulatory\
-    \ Review of the Ozone-depleting Substances and Halocarbon Alternatives Regulations</td>\n\
-    \      <td>2024-04-12</td>\n      <td>2024-08-09</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003229</td>\n      <td>Share\
+    \      <td>O</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>DFO20240709-09</td>\n\
+    \      <td>Northern Brook Lamprey Listing Consultations</td>\n      <td>2024-06-24</td>\n\
+    \      <td>2024-08-12</td>\n      <td>C</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
+    \    <tr>\n      <td>88735</td>\n      <td>Big Bear Camp Aerodrome Project\\nPublic\
+    \ Notice\\nPublic Comments Invited on the Summary of the Initial Project Description</td>\n\
+    \      <td>2024-07-23</td>\n      <td>2024-08-12</td>\n      <td>O</td>\n    \
+    \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-0233</td>\n      <td>Consultation\
+    \ Relating to the Use of Radiocommunication Devices in Auto Theft</td>\n     \
+    \ <td>2024-05-17</td>\n      <td>2024-08-12</td>\n      <td>C</td>\n      <td>ic</td>\n\
+    \    </tr>\n  </tbody>\n</table><h3>Consultations Listed as Open that should be\
+    \ closed</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"\
+    text-align: right;\">\n      <th>registration_number</th>\n      <th>title_en</th>\n\
+    \      <th>start_date</th>\n      <th>end_date</th>\n      <th>status</th>\n \
+    \     <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>88747</td>\n\
+    \      <td>Black Bear Power Plant Project\\nPublic Notice\\nComments Invited on\
+    \ the Summary of the Initial Project Description</td>\n      <td>2024-07-25</td>\n\
+    \      <td>2024-08-14</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000954</td>\n      <td>Consultation on metsulfuron-methyl,\
+    \ Proposed Maximum Residue Limit PMRL2024-09</td>\n      <td>2024-05-30</td>\n\
+    \      <td>2024-08-13</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000953</td>\n      <td>Consultation on broflanilide, Proposed\
+    \ Maximum Residue Limit PMRL2024-08</td>\n      <td>2024-05-30</td>\n      <td>2024-08-13</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C202406</td>\n\
+    \      <td>Discussion Paper DIS-24-04, Future Amendments the Nuclear Security\
+    \ Regulations: Granting Peace Officer Powers, Initiating a Complaints Investigation\
+    \ Mechanism, and Transferring of Firearm Ownership to Licensees</td>\n      <td>2024-05-15</td>\n\
+    \      <td>2024-08-12</td>\n      <td>O</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n\
+    \    <tr>\n      <td>88735</td>\n      <td>Big Bear Camp Aerodrome Project\\nPublic\
+    \ Notice\\nPublic Comments Invited on the Summary of the Initial Project Description</td>\n\
+    \      <td>2024-07-23</td>\n      <td>2024-08-12</td>\n      <td>O</td>\n    \
+    \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-003272</td>\n      <td>Share\
     \ your thoughts: Regulatory Review of the Ozone-depleting Substances and Halocarbon\
     \ Alternatives Regulations</td>\n      <td>2024-04-12</td>\n      <td>2024-08-09</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003225</td>\n\
-    \      <td>Share your thoughts:  Proposed Regulations Amending the Storage Tank\
-    \ Systems for Petroleum Products and Allied Petroleum Products Regulations</td>\n\
-    \      <td>2024-06-08</td>\n      <td>2024-08-07</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003227</td>\n      <td>Comment\
-    \ on: Draft Canada-Saskatchewan Equivalency Agreement on coal-fired electricity\
-    \ regulations (2025-2026)</td>\n      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>D00093</td>\n\
-    \      <td>Consultations on Foreign Interference</td>\n      <td>2023-11-24</td>\n\
-    \      <td>2024-08-02</td>\n      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n\
-    \    <tr>\n      <td>STC-0000065</td>\n      <td>Invitation to participate in\
-    \ the revision of the Classification of Instructional Programs (CIP) Canada</td>\n\
-    \      <td>2024-04-15</td>\n      <td>2024-07-31</td>\n      <td>O</td>\n    \
-    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-00000129</td>\n      <td>Government\
-    \ consults on Budget 2024 commitment to expand opt-in tax jurisdiction for Indigenous\
-    \ governments</td>\n      <td>2024-07-12</td>\n      <td>2024-07-30</td>\n   \
-    \   <td>O</td>\n      <td>fin</td>\n    </tr>\n    <tr>\n      <td>C-672052</td>\n\
-    \      <td>Public review on proposed changes to the 2020 National Model Codes\
-    \ – Spring 2024</td>\n      <td>2024-05-27</td>\n      <td>2024-07-29</td>\n \
-    \     <td>O</td>\n      <td>nrc-cnrc</td>\n    </tr>\n    <tr>\n      <td>C-003212</td>\n\
-    \      <td>Share your ideas: Amendments to the Metal and Diamond Mining Effluent\
-    \ Regulations for the Goldboro Gold Project</td>\n      <td>2024-05-27</td>\n\
-    \      <td>2024-07-27</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-003202</td>\n      <td>Dolphin and Union Caribou pre-listing\
-    \ consultations</td>\n      <td>2024-05-13</td>\n      <td>2024-07-15</td>\n \
-    \     <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>c-0000125</td>\n\
-    \      <td>Share your thoughts: Proposed Indigenous Stewardship Policy</td>\n\
-    \      <td>2024-06-11</td>\n      <td>2024-07-03</td>\n      <td>O</td>\n    \
-    \  <td>pc</td>\n    </tr>\n    <tr>\n      <td>DFO20240513-03</td>\n      <td>Multi-species\
-    \ Action Plan for the Richelieu River Watershed in Canada</td>\n      <td>2024-04-25</td>\n\
-    \      <td>2024-06-24</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0158</td>\n      <td>Notice No. TIPB-001-2024 — Petition\
-    \ to the Governor in Council concerning Telecom Decision CRTC 2023-358</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003229</td>\n\
+    \      <td>Share your thoughts: Regulatory Review of the Ozone-depleting Substances\
+    \ and Halocarbon Alternatives Regulations</td>\n      <td>2024-04-12</td>\n  \
+    \    <td>2024-08-09</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n   \
+    \ <tr>\n      <td>C-003225</td>\n      <td>Share your thoughts:  Proposed Regulations\
+    \ Amending the Storage Tank Systems for Petroleum Products and Allied Petroleum\
+    \ Products Regulations</td>\n      <td>2024-06-08</td>\n      <td>2024-08-07</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003227</td>\n\
+    \      <td>Comment on: Draft Canada-Saskatchewan Equivalency Agreement on coal-fired\
+    \ electricity regulations (2025-2026)</td>\n      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20240615</td>\n\
+    \      <td>Construction of a waterfront wharf at Pointe-Basse Harbour in Magdalen\
+    \ Islands</td>\n      <td>2024-07-02</td>\n      <td>2024-08-05</td>\n      <td>O</td>\n\
+    \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>D00093</td>\n      <td>Consultations\
+    \ on Foreign Interference</td>\n      <td>2023-11-24</td>\n      <td>2024-08-02</td>\n\
+    \      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>STC-0000065</td>\n\
+    \      <td>Invitation to participate in the revision of the Classification of\
+    \ Instructional Programs (CIP) Canada</td>\n      <td>2024-04-15</td>\n      <td>2024-07-31</td>\n\
+    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-00000129</td>\n\
+    \      <td>Government consults on Budget 2024 commitment to expand opt-in tax\
+    \ jurisdiction for Indigenous governments</td>\n      <td>2024-07-12</td>\n  \
+    \    <td>2024-07-30</td>\n      <td>O</td>\n      <td>fin</td>\n    </tr>\n  \
+    \  <tr>\n      <td>C-672052</td>\n      <td>Public review on proposed changes\
+    \ to the 2020 National Model Codes – Spring 2024</td>\n      <td>2024-05-27</td>\n\
+    \      <td>2024-07-29</td>\n      <td>O</td>\n      <td>nrc-cnrc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-003212</td>\n      <td>Share your ideas: Amendments to\
+    \ the Metal and Diamond Mining Effluent Regulations for the Goldboro Gold Project</td>\n\
+    \      <td>2024-05-27</td>\n      <td>2024-07-27</td>\n      <td>O</td>\n    \
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003202</td>\n      <td>Dolphin\
+    \ and Union Caribou pre-listing consultations</td>\n      <td>2024-05-13</td>\n\
+    \      <td>2024-07-15</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
+    \   <tr>\n      <td>c-0000125</td>\n      <td>Share your thoughts: Proposed Indigenous\
+    \ Stewardship Policy</td>\n      <td>2024-06-11</td>\n      <td>2024-07-03</td>\n\
+    \      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>DFO20240513-03</td>\n\
+    \      <td>Multi-species Action Plan for the Richelieu River Watershed in Canada</td>\n\
+    \      <td>2024-04-25</td>\n      <td>2024-06-24</td>\n      <td>O</td>\n    \
+    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0158</td>\n      <td>Notice\
+    \ No. TIPB-001-2024 — Petition to the Governor in Council concerning Telecom Decision CRTC 2023-358</td>\n\
     \      <td>2024-04-27</td>\n      <td>2024-06-11</td>\n      <td>O</td>\n    \
     \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000124</td>\n      <td>Fortress\
     \ of Louisbourg National Historic Site Management Plan</td>\n      <td>2024-05-06</td>\n\
