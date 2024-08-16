@@ -77,9 +77,6 @@ sites:
     19 Units of the Prairie National Wildlife Area (NWA) and Designation of Five New
     NWAs
   url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/consultation-regulations-five-new-national-wildlife-areas.html
-- name: 'Share your thoughts:  Proposed Regulations Amending the Storage Tank Systems
-    for Petroleum Products and Allied Petroleum Products Regulations'
-  url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/amending-storage-tank-systems-petroleum-products-allied-products-regulations.html
 - name: Consultation on the proposed Emergency Order to protect boreal caribou in
     the provice of Quebec
   url: https://species-registry.canada.ca/index-en.html#/documents/980
@@ -108,9 +105,6 @@ sites:
 - name: 'Share and view ideas: Consultation addressing plastic waste and pollution
     from the textile and apparel sector'
   url: https://canada.ca/en/environment-climate-change/services/managing-reducing-waste/consultations/roadmap-plastic-waste-pollution-textile-apparel-sector.html
-- name: 'Share your thoughts: Proposed Regulations Respecting the Reduction in the
-    Release of Methane (Waste Sector)'
-  url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/proposed-regulations-respecting-reduction-release-methane-waste-sector.html
 - name: 'Share your thoughts: Regulatory Review of the Ozone-depleting Substances
     and Halocarbon Alternatives Regulations'
   url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/regulatory-review-ozone-depleting-substances-halocarbon-alternatives-regulations.html
@@ -405,10 +399,7 @@ status-website:
     \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-000048</td>\n      <td>Share\
     \ your thoughts about closed captioning of programming from online streaming services</td>\n\
     \      <td>2024-06-25</td>\n      <td>2024-08-19</td>\n      <td>O</td>\n    \
-    \  <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-003226</td>\n      <td>Consultation\
-    \ on the proposed Emergency Order to protect boreal caribou in the provice of\
-    \ Quebec</td>\n      <td>2024-06-20</td>\n      <td>2024-08-18</td>\n      <td>O</td>\n\
-    \      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-20240308</td>\n      <td>Consultation\
+    \  <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-20240308</td>\n      <td>Consultation\
     \ on the Silver Chub Recovery Strategy &amp; Action Plan under the Species at\
     \ Risk Act</td>\n      <td>2024-06-18</td>\n      <td>2024-08-17</td>\n      <td>O</td>\n\
     \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>88747</td>\n      <td>Black\
@@ -461,18 +452,15 @@ status-website:
     \      <td>Share your thoughts: Regulatory Review of the Ozone-depleting Substances\
     \ and Halocarbon Alternatives Regulations</td>\n      <td>2024-04-12</td>\n  \
     \    <td>2024-08-09</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n   \
-    \ <tr>\n      <td>C-003225</td>\n      <td>Share your thoughts:  Proposed Regulations\
-    \ Amending the Storage Tank Systems for Petroleum Products and Allied Petroleum\
-    \ Products Regulations</td>\n      <td>2024-06-08</td>\n      <td>2024-08-07</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003227</td>\n\
-    \      <td>Comment on: Draft Canada-Saskatchewan Equivalency Agreement on coal-fired\
-    \ electricity regulations (2025-2026)</td>\n      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20240615</td>\n\
-    \      <td>Construction of a waterfront wharf at Pointe-Basse Harbour in Magdalen\
-    \ Islands</td>\n      <td>2024-07-02</td>\n      <td>2024-08-05</td>\n      <td>O</td>\n\
-    \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>D00093</td>\n      <td>Consultations\
-    \ on Foreign Interference</td>\n      <td>2023-11-24</td>\n      <td>2024-08-02</td>\n\
-    \      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>STC-0000065</td>\n\
+    \ <tr>\n      <td>C-003227</td>\n      <td>Comment on: Draft Canada-Saskatchewan\
+    \ Equivalency Agreement on coal-fired electricity regulations (2025-2026)</td>\n\
+    \      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n      <td>O</td>\n    \
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20240615</td>\n      <td>Construction\
+    \ of a waterfront wharf at Pointe-Basse Harbour in Magdalen Islands</td>\n   \
+    \   <td>2024-07-02</td>\n      <td>2024-08-05</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n\
+    \    </tr>\n    <tr>\n      <td>D00093</td>\n      <td>Consultations on Foreign\
+    \ Interference</td>\n      <td>2023-11-24</td>\n      <td>2024-08-02</td>\n  \
+    \    <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>STC-0000065</td>\n\
     \      <td>Invitation to participate in the revision of the Classification of\
     \ Instructional Programs (CIP) Canada</td>\n      <td>2024-04-15</td>\n      <td>2024-07-31</td>\n\
     \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-00000129</td>\n\
