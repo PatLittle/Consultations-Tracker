@@ -57,8 +57,6 @@ sites:
   url: https://letstalknuclearsafety.ca/dis-24-04-landing-page
 - name: Co-development of a new Indigenous Broadcasting Policy
   url: https://crtc.gc.ca/eng/archive/2019/2019-217.htm
-- name: Share your thoughts about described video and audio description
-  url: https://crtc.gc.ca/eng/consultation/descri.htm
 - name: Share your thoughts about the Independent Local News Fund
   url: https://crtc.gc.ca/eng/consultation/independ.htm
 - name: Government consults on Budget 2024 commitment to expand opt-in tax jurisdiction
@@ -448,7 +446,7 @@ status-website:
     \ Available</td>\n      <td>2024-07-29</td>\n      <td>2024-08-28</td>\n     \
     \ <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-000049</td>\n\
     \      <td>Share your thoughts about described video and audio description</td>\n\
-    \      <td>2024-06-25</td>\n      <td>2024-08-26</td>\n      <td>O</td>\n    \
+    \      <td>2024-06-25</td>\n      <td>2024-08-26</td>\n      <td>C</td>\n    \
     \  <td>crtc</td>\n    </tr>\n    <tr>\n      <td>88735-1</td>\n      <td>Big Bear\
     \ Camp Aerodrome Project\\nPublic Notice\\nParticipant Funding Available</td>\n\
     \      <td>2024-07-25</td>\n      <td>2024-08-26</td>\n      <td>O</td>\n    \
