@@ -316,8 +316,6 @@ sites:
   url: https://parks.canada.ca/agence-agency/aa-ia/politique-policy
 - name: Visitor Use Management - Jasper National Park
   url: https://www.letstalkmountainparks.ca/visitor-use-management-jasper
-- name: Seal River Watershed Feasibility Assessment Consultation
-  url: https://parks.canada.ca/pn-np/cnpn-cnnp/riviere-seal-river
 - name: Public Engagement on The Lake Minnewanka Area Plan
   url: www.letstalkmountainparks.ca/lake-minnewanka
 - name: Targeted Stakeholder Engagement to Inform Canada’s Public Safety Broadband
@@ -472,7 +470,7 @@ status-website:
     \ in Canada)</td>\n      <td>2024-06-15</td>\n      <td>2024-08-24</td>\n    \
     \  <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000129</td>\n\
     \      <td>Seal River Watershed Feasibility Assessment Consultation</td>\n   \
-    \   <td>2024-07-22</td>\n      <td>2024-08-23</td>\n      <td>O</td>\n      <td>pc</td>\n\
+    \   <td>2024-07-22</td>\n      <td>2024-08-23</td>\n      <td>C</td>\n      <td>pc</td>\n\
     \    </tr>\n  </tbody>\n</table><h3>Consultations Listed as Open that should be\
     \ closed</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"\
     text-align: right;\">\n      <th>registration_number</th>\n      <th>title_en</th>\n\
@@ -486,44 +484,42 @@ status-website:
     \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000960</td>\n      <td>Regulations\
     \ Amending the Pest Control Products Regulations (Strengthening the Regulation\
     \ of Pest Control Products in Canada)</td>\n      <td>2024-06-15</td>\n      <td>2024-08-24</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000129</td>\n\
-    \      <td>Seal River Watershed Feasibility Assessment Consultation</td>\n   \
-    \   <td>2024-07-22</td>\n      <td>2024-08-23</td>\n      <td>O</td>\n      <td>pc</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-20240308</td>\n      <td>Consultation on the\
-    \ Silver Chub Recovery Strategy &amp; Action Plan under the Species at Risk Act</td>\n\
-    \      <td>2024-06-18</td>\n      <td>2024-08-17</td>\n      <td>O</td>\n    \
-    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>88747</td>\n      <td>Black\
-    \ Bear Power Plant Project\\nPublic Notice\\nComments Invited on the Summary of\
-    \ the Initial Project Description</td>\n      <td>2024-07-25</td>\n      <td>2024-08-14</td>\n\
-    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-0000954</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-20240308</td>\n\
+    \      <td>Consultation on the Silver Chub Recovery Strategy &amp; Action Plan\
+    \ under the Species at Risk Act</td>\n      <td>2024-06-18</td>\n      <td>2024-08-17</td>\n\
+    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>88747</td>\n\
+    \      <td>Black Bear Power Plant Project\\nPublic Notice\\nComments Invited on\
+    \ the Summary of the Initial Project Description</td>\n      <td>2024-07-25</td>\n\
+    \      <td>2024-08-14</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000953</td>\n      <td>Consultation on broflanilide, Proposed\
+    \ Maximum Residue Limit PMRL2024-08</td>\n      <td>2024-05-30</td>\n      <td>2024-08-13</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000954</td>\n\
     \      <td>Consultation on metsulfuron-methyl, Proposed Maximum Residue Limit\
     \ PMRL2024-09</td>\n      <td>2024-05-30</td>\n      <td>2024-08-13</td>\n   \
-    \   <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000953</td>\n\
-    \      <td>Consultation on broflanilide, Proposed Maximum Residue Limit PMRL2024-08</td>\n\
-    \      <td>2024-05-30</td>\n      <td>2024-08-13</td>\n      <td>O</td>\n    \
-    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>88735</td>\n      <td>Big Bear\
-    \ Camp Aerodrome Project\\nPublic Notice\\nPublic Comments Invited on the Summary\
-    \ of the Initial Project Description</td>\n      <td>2024-07-23</td>\n      <td>2024-08-12</td>\n\
-    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C202406</td>\n\
+    \   <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C202406</td>\n\
     \      <td>Discussion Paper DIS-24-04, Future Amendments the Nuclear Security\
     \ Regulations: Granting Peace Officer Powers, Initiating a Complaints Investigation\
     \ Mechanism, and Transferring of Firearm Ownership to Licensees</td>\n      <td>2024-05-15</td>\n\
     \      <td>2024-08-12</td>\n      <td>O</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-003229</td>\n      <td>Share your thoughts: Regulatory\
-    \ Review of the Ozone-depleting Substances and Halocarbon Alternatives Regulations</td>\n\
-    \      <td>2024-04-12</td>\n      <td>2024-08-09</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003272</td>\n      <td>Share\
+    \    <tr>\n      <td>88735</td>\n      <td>Big Bear Camp Aerodrome Project\\nPublic\
+    \ Notice\\nPublic Comments Invited on the Summary of the Initial Project Description</td>\n\
+    \      <td>2024-07-23</td>\n      <td>2024-08-12</td>\n      <td>O</td>\n    \
+    \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-003229</td>\n      <td>Share\
     \ your thoughts: Regulatory Review of the Ozone-depleting Substances and Halocarbon\
     \ Alternatives Regulations</td>\n      <td>2024-04-12</td>\n      <td>2024-08-09</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003227</td>\n\
-    \      <td>Comment on: Draft Canada-Saskatchewan Equivalency Agreement on coal-fired\
-    \ electricity regulations (2025-2026)</td>\n      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20240615</td>\n\
-    \      <td>Construction of a waterfront wharf at Pointe-Basse Harbour in Magdalen\
-    \ Islands</td>\n      <td>2024-07-02</td>\n      <td>2024-08-05</td>\n      <td>O</td>\n\
-    \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>D00093</td>\n      <td>Consultations\
-    \ on Foreign Interference</td>\n      <td>2023-11-24</td>\n      <td>2024-08-02</td>\n\
-    \      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>STC-0000065</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003272</td>\n\
+    \      <td>Share your thoughts: Regulatory Review of the Ozone-depleting Substances\
+    \ and Halocarbon Alternatives Regulations</td>\n      <td>2024-04-12</td>\n  \
+    \    <td>2024-08-09</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n   \
+    \ <tr>\n      <td>C-003227</td>\n      <td>Comment on: Draft Canada-Saskatchewan\
+    \ Equivalency Agreement on coal-fired electricity regulations (2025-2026)</td>\n\
+    \      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n      <td>O</td>\n    \
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20240615</td>\n      <td>Construction\
+    \ of a waterfront wharf at Pointe-Basse Harbour in Magdalen Islands</td>\n   \
+    \   <td>2024-07-02</td>\n      <td>2024-08-05</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n\
+    \    </tr>\n    <tr>\n      <td>D00093</td>\n      <td>Consultations on Foreign\
+    \ Interference</td>\n      <td>2023-11-24</td>\n      <td>2024-08-02</td>\n  \
+    \    <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>STC-0000065</td>\n\
     \      <td>Invitation to participate in the revision of the Classification of\
     \ Instructional Programs (CIP) Canada</td>\n      <td>2024-04-15</td>\n      <td>2024-07-31</td>\n\
     \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-00000129</td>\n\
@@ -550,12 +546,12 @@ status-website:
     \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000124</td>\n      <td>Fortress\
     \ of Louisbourg National Historic Site Management Plan</td>\n      <td>2024-05-06</td>\n\
     \      <td>2024-06-07</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
-    \   <tr>\n      <td>CT-2017-0018</td>\n      <td>CBSA Assessment and Revenue Management\
-    \ (CARM) Information sessions on implementation</td>\n      <td>2018-07-18</td>\n\
-    \      <td>2024-05-31</td>\n      <td>O</td>\n      <td>cbsa-asfc</td>\n    </tr>\n\
-    \    <tr>\n      <td>STC0000061</td>\n      <td>Statistics Canada's data products\
+    \   <tr>\n      <td>STC0000061</td>\n      <td>Statistics Canada's data products\
     \ consultative engagement</td>\n      <td>2023-09-22</td>\n      <td>2024-05-31</td>\n\
-    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-003196</td>\n\
+    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>CT-2017-0018</td>\n\
+    \      <td>CBSA Assessment and Revenue Management (CARM) Information sessions\
+    \ on implementation</td>\n      <td>2018-07-18</td>\n      <td>2024-05-31</td>\n\
+    \      <td>O</td>\n      <td>cbsa-asfc</td>\n    </tr>\n    <tr>\n      <td>C-003196</td>\n\
     \      <td>Consultation on Amending the List of Species under the Species at Risk\
     \ Act: Terrestrial Species December 2023</td>\n      <td>2023-12-13</td>\n   \
     \   <td>2024-05-16</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n\
@@ -567,11 +563,11 @@ status-website:
     \      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000119</td>\n      <td>Notice\
     \ of Mooring Restrictions – Ontario Waterways - Trent-Severn Waterway National\
     \ Historic Site</td>\n      <td>2024-03-07</td>\n      <td>2024-04-07</td>\n \
-    \     <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>STC-0000064</td>\n\
-    \      <td>Invitation to participate in a flood awareness consultative engagement</td>\n\
-    \      <td>2024-01-02</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
-    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>STC0000055</td>\n      <td>Census\
-    \ Data on Demand (CDOD) program consultative engagement</td>\n      <td>2023-07-30</td>\n\
+    \     <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>STC0000055</td>\n\
+    \      <td>Census Data on Demand (CDOD) program consultative engagement</td>\n\
+    \      <td>2023-07-30</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
+    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>STC-0000064</td>\n      <td>Invitation\
+    \ to participate in a flood awareness consultative engagement</td>\n      <td>2024-01-02</td>\n\
     \      <td>2024-03-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
     \    <tr>\n      <td>698</td>\n      <td>Digitizing the Travel Journey at Airports</td>\n\
     \      <td>2023-04-01</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
@@ -594,11 +590,11 @@ status-website:
     \      <td>2023-01-01</td>\n      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n   \
     \ </tr>\n    <tr>\n      <td>C-CANSOF-002</td>\n      <td>Social systems professional\
     \ services</td>\n      <td>2022-03-01</td>\n      <td>2022-08-31</td>\n      <td>O</td>\n\
-    \      <td>dnd-mdn</td>\n    </tr>\n    <tr>\n      <td>C-JAG-21Q2-18</td>\n \
+    \      <td>dnd-mdn</td>\n    </tr>\n    <tr>\n      <td>C-JAG-21Q1-11</td>\n \
     \     <td>Consultation to inform the regulatory development to support the implementation\
     \ of An Act to amend the National Defence Act and to make related and consequential\
     \ amendments to other Acts</td>\n      <td>2021-05-13</td>\n      <td>2022-08-03</td>\n\
-    \      <td>O</td>\n      <td>dnd-mdn</td>\n    </tr>\n    <tr>\n      <td>C-JAG-21Q1-11</td>\n\
+    \      <td>O</td>\n      <td>dnd-mdn</td>\n    </tr>\n    <tr>\n      <td>C-JAG-21Q2-18</td>\n\
     \      <td>Consultation to inform the regulatory development to support the implementation\
     \ of An Act to amend the National Defence Act and to make related and consequential\
     \ amendments to other Acts</td>\n      <td>2021-05-13</td>\n      <td>2022-08-03</td>\n\
