@@ -415,60 +415,56 @@ status-website:
     \      <td>2024-10-22</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
     \    <tr>\n      <td>C-0000131</td>\n      <td>Public Engagement on The Lake Minnewanka\
     \ Area Plan</td>\n      <td>2024-08-23</td>\n      <td>2024-10-25</td>\n     \
-    \ <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-000151</td>\n\
-    \      <td>Share your thoughts: Proposed new livestock feed ingredient - Waxy-leaf\
-    \ nightshade leaf powder</td>\n      <td>2024-08-22</td>\n      <td>2024-09-23</td>\n\
-    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-000161</td>\n\
-    \      <td>Share your thoughts: Proposed amended livestock feed ingredient - Kluyveromyces\
-    \ marxianus culture dehydrated</td>\n      <td>2024-08-22</td>\n      <td>2024-09-23</td>\n\
-    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-000162</td>\n\
-    \      <td>Share your thoughts: Proposed new livestock feed ingredient - Lactobacillus\
-    \ acidophilus culture dehydrated</td>\n      <td>2024-08-22</td>\n      <td>2024-09-23</td>\n\
-    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \ <td>O</td>\n      <td>pc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
     \ Ending +/- 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n\
     \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
     \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>C-003230</td>\n      <td>Share and view ideas: Consultation\
+    \    <tr>\n      <td>C-0000962</td>\n      <td>Consultation on bromoxynil, Proposed\
+    \ Maximum Residue Limit PMRL2024-11</td>\n      <td>2024-06-19</td>\n      <td>2024-09-02</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000963</td>\n\
+    \      <td>Consultation on trifloxystrobin, Proposed Maximum Residue Limit PMRL2024-12</td>\n\
+    \      <td>2024-06-19</td>\n      <td>2024-09-02</td>\n      <td>O</td>\n    \
+    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-003230</td>\n      <td>Share\
+    \ and view ideas: Consultation addressing plastic waste and pollution from the\
+    \ textile and apparel sector</td>\n      <td>2024-07-04</td>\n      <td>2024-09-01</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003252</td>\n\
+    \      <td>Draft roadmap for addressing plastic waste and pollution from the textile\
+    \ and apparel sector: consultation document</td>\n      <td>2024-07-08</td>\n\
+    \      <td>2024-09-01</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-003267</td>\n      <td>Share and view ideas: Consultation\
     \ addressing plastic waste and pollution from the textile and apparel sector</td>\n\
     \      <td>2024-07-04</td>\n      <td>2024-09-01</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003252</td>\n      <td>Draft\
-    \ roadmap for addressing plastic waste and pollution from the textile and apparel\
-    \ sector: consultation document</td>\n      <td>2024-07-08</td>\n      <td>2024-09-01</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003267</td>\n\
-    \      <td>Share and view ideas: Consultation addressing plastic waste and pollution\
-    \ from the textile and apparel sector</td>\n      <td>2024-07-04</td>\n      <td>2024-09-01</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000721</td>\n\
-    \      <td>Consultations on Amendment 18 to the Energy Efficiency Regulations</td>\n\
-    \      <td>2024-06-23</td>\n      <td>2024-08-31</td>\n      <td>O</td>\n    \
-    \  <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>C--202303</td>\n     \
-    \ <td>Alexandra Bridge Replacement Project</td>\n      <td>2023-10-01</td>\n \
-    \     <td>2024-08-31</td>\n      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-1235690</td>\n      <td>Modernization of the Employment\
-    \ Equity Act</td>\n      <td>2024-05-03</td>\n      <td>2024-08-30</td>\n    \
-    \  <td>O</td>\n      <td>esdc-edsc</td>\n    </tr>\n    <tr>\n      <td>C-003213</td>\n\
-    \      <td>Proposed Regulations Amending the Wildlife Area Regulations – Delisting\
-    \ of 19 Units of the Prairie National Wildlife Area (NWA) and Designation of Five\
-    \ New NWAs</td>\n      <td>2024-06-01</td>\n      <td>2024-08-30</td>\n      <td>O</td>\n\
-    \      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003228</td>\n      <td>Share\
-    \ your thoughts: Proposed Regulations Respecting the Reduction in the Release\
-    \ of Methane (Waste Sector)</td>\n      <td>2024-06-29</td>\n      <td>2024-08-28</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>88747-1</td>\n\
-    \      <td>Black Bear Power Plant Project\\nPublic Notice\\nParticipant Funding\
-    \ Available</td>\n      <td>2024-07-29</td>\n      <td>2024-08-28</td>\n     \
-    \ <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-000049</td>\n\
-    \      <td>Share your thoughts about described video and audio description</td>\n\
-    \      <td>2024-06-25</td>\n      <td>2024-08-26</td>\n      <td>C</td>\n    \
-    \  <td>crtc</td>\n    </tr>\n    <tr>\n      <td>88735-1</td>\n      <td>Big Bear\
-    \ Camp Aerodrome Project\\nPublic Notice\\nParticipant Funding Available</td>\n\
-    \      <td>2024-07-25</td>\n      <td>2024-08-26</td>\n      <td>O</td>\n    \
-    \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-0000958</td>\n      <td>Consultation\
-    \ on cyflumetofen, Proposed Maximum Residue Limit PMRL2024-10</td>\n      <td>2024-06-11</td>\n\
-    \      <td>2024-08-25</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0000960</td>\n      <td>Regulations Amending the Pest Control\
-    \ Products Regulations (Strengthening the Regulation of Pest Control Products\
-    \ in Canada)</td>\n      <td>2024-06-15</td>\n      <td>2024-08-24</td>\n    \
-    \  <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000129</td>\n\
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000721</td>\n      <td>Consultations\
+    \ on Amendment 18 to the Energy Efficiency Regulations</td>\n      <td>2024-06-23</td>\n\
+    \      <td>2024-08-31</td>\n      <td>O</td>\n      <td>nrcan-rncan</td>\n   \
+    \ </tr>\n    <tr>\n      <td>C--202303</td>\n      <td>Alexandra Bridge Replacement\
+    \ Project</td>\n      <td>2023-10-01</td>\n      <td>2024-08-31</td>\n      <td>O</td>\n\
+    \      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-1235690</td>\n \
+    \     <td>Modernization of the Employment Equity Act</td>\n      <td>2024-05-03</td>\n\
+    \      <td>2024-08-30</td>\n      <td>O</td>\n      <td>esdc-edsc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-003213</td>\n      <td>Proposed Regulations Amending the\
+    \ Wildlife Area Regulations – Delisting of 19 Units of the Prairie National Wildlife\
+    \ Area (NWA) and Designation of Five New NWAs</td>\n      <td>2024-06-01</td>\n\
+    \      <td>2024-08-30</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-003228</td>\n      <td>Share your thoughts: Proposed Regulations\
+    \ Respecting the Reduction in the Release of Methane (Waste Sector)</td>\n   \
+    \   <td>2024-06-29</td>\n      <td>2024-08-28</td>\n      <td>O</td>\n      <td>ec</td>\n\
+    \    </tr>\n    <tr>\n      <td>88747-1</td>\n      <td>Black Bear Power Plant\
+    \ Project\\nPublic Notice\\nParticipant Funding Available</td>\n      <td>2024-07-29</td>\n\
+    \      <td>2024-08-28</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-000049</td>\n      <td>Share your thoughts about described\
+    \ video and audio description</td>\n      <td>2024-06-25</td>\n      <td>2024-08-26</td>\n\
+    \      <td>C</td>\n      <td>crtc</td>\n    </tr>\n    <tr>\n      <td>88735-1</td>\n\
+    \      <td>Big Bear Camp Aerodrome Project\\nPublic Notice\\nParticipant Funding\
+    \ Available</td>\n      <td>2024-07-25</td>\n      <td>2024-08-26</td>\n     \
+    \ <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-0000958</td>\n\
+    \      <td>Consultation on cyflumetofen, Proposed Maximum Residue Limit PMRL2024-10</td>\n\
+    \      <td>2024-06-11</td>\n      <td>2024-08-25</td>\n      <td>O</td>\n    \
+    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000960</td>\n      <td>Regulations\
+    \ Amending the Pest Control Products Regulations (Strengthening the Regulation\
+    \ of Pest Control Products in Canada)</td>\n      <td>2024-06-15</td>\n      <td>2024-08-24</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000129</td>\n\
     \      <td>Seal River Watershed Feasibility Assessment Consultation</td>\n   \
     \   <td>2024-07-22</td>\n      <td>2024-08-23</td>\n      <td>C</td>\n      <td>pc</td>\n\
     \    </tr>\n  </tbody>\n</table><h3>Consultations Listed as Open that should be\
