@@ -94,9 +94,6 @@ sites:
 - name: 'Share your thoughts: Proposed Regulations Respecting the Reduction in the
     Release of Methane (Waste Sector)'
   url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/proposed-regulations-respecting-reduction-release-methane-waste-sector.html
-- name: 'Share your thoughts: Regulatory Review of the Ozone-depleting Substances
-    and Halocarbon Alternatives Regulations'
-  url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/regulatory-review-ozone-depleting-substances-halocarbon-alternatives-regulations.html
 - name: 'Share and view ideas: Consultation addressing plastic waste and pollution
     from the textile and apparel sector'
   url: https://canada.ca/en/environment-climate-change/services/managing-reducing-waste/consultations/roadmap-plastic-waste-pollution-textile-apparel-sector.html
@@ -486,24 +483,21 @@ status-website:
     \    </tr>\n    <tr>\n      <td>88747</td>\n      <td>Black Bear Power Plant Project\\\
     nPublic Notice\\nComments Invited on the Summary of the Initial Project Description</td>\n\
     \      <td>2024-07-25</td>\n      <td>2024-08-14</td>\n      <td>O</td>\n    \
-    \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-0000954</td>\n      <td>Consultation\
-    \ on metsulfuron-methyl, Proposed Maximum Residue Limit PMRL2024-09</td>\n   \
-    \   <td>2024-05-30</td>\n      <td>2024-08-13</td>\n      <td>O</td>\n      <td>hc-sc</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-0000953</td>\n      <td>Consultation on broflanilide,\
-    \ Proposed Maximum Residue Limit PMRL2024-08</td>\n      <td>2024-05-30</td>\n\
+    \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-0000953</td>\n      <td>Consultation\
+    \ on broflanilide, Proposed Maximum Residue Limit PMRL2024-08</td>\n      <td>2024-05-30</td>\n\
     \      <td>2024-08-13</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>88735</td>\n      <td>Big Bear Camp Aerodrome Project\\nPublic\
-    \ Notice\\nPublic Comments Invited on the Summary of the Initial Project Description</td>\n\
-    \      <td>2024-07-23</td>\n      <td>2024-08-12</td>\n      <td>O</td>\n    \
-    \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C202406</td>\n      <td>Discussion\
-    \ Paper DIS-24-04, Future Amendments the Nuclear Security Regulations: Granting\
-    \ Peace Officer Powers, Initiating a Complaints Investigation Mechanism, and Transferring\
-    \ of Firearm Ownership to Licensees</td>\n      <td>2024-05-15</td>\n      <td>2024-08-12</td>\n\
-    \      <td>O</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>C-003229</td>\n\
-    \      <td>Share your thoughts: Regulatory Review of the Ozone-depleting Substances\
-    \ and Halocarbon Alternatives Regulations</td>\n      <td>2024-04-12</td>\n  \
-    \    <td>2024-08-09</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n   \
-    \ <tr>\n      <td>C-003227</td>\n      <td>Comment on: Draft Canada-Saskatchewan\
+    \    <tr>\n      <td>C-0000954</td>\n      <td>Consultation on metsulfuron-methyl,\
+    \ Proposed Maximum Residue Limit PMRL2024-09</td>\n      <td>2024-05-30</td>\n\
+    \      <td>2024-08-13</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C202406</td>\n      <td>Discussion Paper DIS-24-04, Future\
+    \ Amendments the Nuclear Security Regulations: Granting Peace Officer Powers,\
+    \ Initiating a Complaints Investigation Mechanism, and Transferring of Firearm\
+    \ Ownership to Licensees</td>\n      <td>2024-05-15</td>\n      <td>2024-08-12</td>\n\
+    \      <td>O</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>88735</td>\n\
+    \      <td>Big Bear Camp Aerodrome Project\\nPublic Notice\\nPublic Comments Invited\
+    \ on the Summary of the Initial Project Description</td>\n      <td>2024-07-23</td>\n\
+    \      <td>2024-08-12</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-003227</td>\n      <td>Comment on: Draft Canada-Saskatchewan\
     \ Equivalency Agreement on coal-fired electricity regulations (2025-2026)</td>\n\
     \      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n      <td>O</td>\n    \
     \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20240615</td>\n      <td>Construction\
@@ -611,11 +605,11 @@ status-website:
     \      <td>2021-06-30</td>\n      <td>O</td>\n      <td>infc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-ISC0033</td>\n      <td>Indian Oil and Gas Regulations\
     \ - Phase II</td>\n      <td>2013-04-01</td>\n      <td>2021-03-31</td>\n    \
-    \  <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0037</td>\n\
+    \  <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-INA0005</td>\n\
+    \      <td>Indigenous Procurement Modernization (including Procurement Strategy\
+    \ for Aboriginal Business)</td>\n      <td>2017-06-01</td>\n      <td>2021-03-31</td>\n\
+    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0037</td>\n\
     \      <td>Renewal of the Fire Protection Strategy</td>\n      <td>2020-04-01</td>\n\
-    \      <td>2021-03-31</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-INA0005</td>\n      <td>Indigenous Procurement Modernization\
-    \ (including Procurement Strategy for Aboriginal Business)</td>\n      <td>2017-06-01</td>\n\
     \      <td>2021-03-31</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n\
     \    <tr>\n      <td>STC-0000023</td>\n      <td>Multifactor Productivity Application</td>\n\
     \      <td>2019-12-01</td>\n      <td>2020-03-31</td>\n      <td>O</td>\n    \
