@@ -92,9 +92,6 @@ sites:
 - name: 'Comment on: Draft Canada-Saskatchewan Equivalency Agreement on coal-fired
     electricity regulations (2025-2026)'
   url: https://www.canada.ca/en/environment-climate-change/services/canadian-environmental-protection-act-registry/agreements/equivalency/canada-saskatchewan-greenhouse-gas-electricity-producers-2025.html
-- name: 'Share and view ideas: Consultation addressing plastic waste and pollution
-    from the textile and apparel sector'
-  url: https://canada.ca/en/environment-climate-change/services/managing-reducing-waste/consultations/roadmap-plastic-waste-pollution-textile-apparel-sector.html
 - name: 'Share your thoughts: Updated Draft State of Per- and Polyfluoroalkyl Substances
     (PFAS) Report and Revised Risk Management Scope'
   url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/updated-draft-state-pfas-report-consultation.html
@@ -424,29 +421,19 @@ status-website:
     \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000963</td>\n\
     \      <td>Consultation on trifloxystrobin, Proposed Maximum Residue Limit PMRL2024-12</td>\n\
     \      <td>2024-06-19</td>\n      <td>2024-09-02</td>\n      <td>O</td>\n    \
-    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-003230</td>\n      <td>Share\
-    \ and view ideas: Consultation addressing plastic waste and pollution from the\
-    \ textile and apparel sector</td>\n      <td>2024-07-04</td>\n      <td>2024-09-01</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003252</td>\n\
-    \      <td>Draft roadmap for addressing plastic waste and pollution from the textile\
-    \ and apparel sector: consultation document</td>\n      <td>2024-07-08</td>\n\
-    \      <td>2024-09-01</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-003267</td>\n      <td>Share and view ideas: Consultation\
-    \ addressing plastic waste and pollution from the textile and apparel sector</td>\n\
-    \      <td>2024-07-04</td>\n      <td>2024-09-01</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000721</td>\n      <td>Consultations\
-    \ on Amendment 18 to the Energy Efficiency Regulations</td>\n      <td>2024-06-23</td>\n\
-    \      <td>2024-08-31</td>\n      <td>O</td>\n      <td>nrcan-rncan</td>\n   \
-    \ </tr>\n    <tr>\n      <td>C--202303</td>\n      <td>Alexandra Bridge Replacement\
-    \ Project</td>\n      <td>2023-10-01</td>\n      <td>2024-08-31</td>\n      <td>O</td>\n\
-    \      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-1235690</td>\n \
-    \     <td>Modernization of the Employment Equity Act</td>\n      <td>2024-05-03</td>\n\
-    \      <td>2024-08-30</td>\n      <td>C</td>\n      <td>esdc-edsc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-003213</td>\n      <td>Proposed Regulations Amending the\
-    \ Wildlife Area Regulations – Delisting of 19 Units of the Prairie National Wildlife\
-    \ Area (NWA) and Designation of Five New NWAs</td>\n      <td>2024-06-01</td>\n\
-    \      <td>2024-08-30</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
-    \ </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
+    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-003252</td>\n      <td>Draft\
+    \ roadmap for addressing plastic waste and pollution from the textile and apparel\
+    \ sector: consultation document</td>\n      <td>2024-07-08</td>\n      <td>2024-09-01</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003267</td>\n\
+    \      <td>Share and view ideas: Consultation addressing plastic waste and pollution\
+    \ from the textile and apparel sector</td>\n      <td>2024-07-04</td>\n      <td>2024-09-01</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000721</td>\n\
+    \      <td>Consultations on Amendment 18 to the Energy Efficiency Regulations</td>\n\
+    \      <td>2024-06-23</td>\n      <td>2024-08-31</td>\n      <td>O</td>\n    \
+    \  <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>C--202303</td>\n     \
+    \ <td>Alexandra Bridge Replacement Project</td>\n      <td>2023-10-01</td>\n \
+    \     <td>2024-08-31</td>\n      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n\
+    \  </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
     \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
     >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
@@ -455,10 +442,7 @@ status-website:
     \      <td>2024-09-02</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-0000962</td>\n      <td>Consultation on bromoxynil, Proposed\
     \ Maximum Residue Limit PMRL2024-11</td>\n      <td>2024-06-19</td>\n      <td>2024-09-02</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-003230</td>\n\
-    \      <td>Share and view ideas: Consultation addressing plastic waste and pollution\
-    \ from the textile and apparel sector</td>\n      <td>2024-07-04</td>\n      <td>2024-09-01</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003252</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-003252</td>\n\
     \      <td>Draft roadmap for addressing plastic waste and pollution from the textile\
     \ and apparel sector: consultation document</td>\n      <td>2024-07-08</td>\n\
     \      <td>2024-09-01</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
@@ -607,11 +591,11 @@ status-website:
     \      <td>2021-03-16</td>\n      <td>2021-06-30</td>\n      <td>O</td>\n    \
     \  <td>infc</td>\n    </tr>\n    <tr>\n      <td>C-ISC0033</td>\n      <td>Indian\
     \ Oil and Gas Regulations - Phase II</td>\n      <td>2013-04-01</td>\n      <td>2021-03-31</td>\n\
+    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-INA0005</td>\n\
+    \      <td>Indigenous Procurement Modernization (including Procurement Strategy\
+    \ for Aboriginal Business)</td>\n      <td>2017-06-01</td>\n      <td>2021-03-31</td>\n\
     \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0037</td>\n\
     \      <td>Renewal of the Fire Protection Strategy</td>\n      <td>2020-04-01</td>\n\
-    \      <td>2021-03-31</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-INA0005</td>\n      <td>Indigenous Procurement Modernization\
-    \ (including Procurement Strategy for Aboriginal Business)</td>\n      <td>2017-06-01</td>\n\
     \      <td>2021-03-31</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n\
     \    <tr>\n      <td>STC-0000023</td>\n      <td>Multifactor Productivity Application</td>\n\
     \      <td>2019-12-01</td>\n      <td>2020-03-31</td>\n      <td>O</td>\n    \
