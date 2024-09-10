@@ -383,23 +383,34 @@ status-website:
     \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
     \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>DFO20230131-06</td>\n      <td>Canadian Coast Guard Long-term\
-    \ Strategy</td>\n      <td>2024-06-14</td>\n      <td>2024-09-13</td>\n      <td>O</td>\n\
-    \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0242</td>\n      <td>Industrial\
-    \ Strategy for Homebuilding</td>\n      <td>2024-08-19</td>\n      <td>2024-09-13</td>\n\
-    \      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000723</td>\n\
-    \      <td>Pre-consultations on Amendment 19 to the Energy Efficiency Regulations</td>\n\
-    \      <td>2024-05-27</td>\n      <td>2024-09-13</td>\n      <td>O</td>\n    \
-    \  <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>C-0000127</td>\n     \
-    \ <td>Visitor Use Management - Jasper National Park</td>\n      <td>2024-06-18</td>\n\
-    \      <td>2024-09-13</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-0000130</td>\n      <td>Consultation on Proposals to Strengthen\
-    \ Canada’s Financial Sector</td>\n      <td>2024-08-12</td>\n      <td>2024-09-11</td>\n\
-    \      <td>O</td>\n      <td>fin</td>\n    </tr>\n    <tr>\n      <td>C-003231</td>\n\
-    \      <td>Share your thoughts: Updated Draft State of Per- and Polyfluoroalkyl\
-    \ Substances (PFAS) Report and Revised Risk Management Scope</td>\n      <td>2024-07-13</td>\n\
-    \      <td>2024-09-11</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-0000966</td>\n      <td>Consultation on abamectin, Proposed\
+    \    <tr>\n      <td>C-003226</td>\n      <td>Consultation on the proposed Emergency\
+    \ Order to protect boreal caribou in the provice of Quebec</td>\n      <td>2024-06-20</td>\n\
+    \      <td>2024-09-15</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-003232</td>\n      <td>National Freshwater Data Strategy</td>\n\
+    \      <td>2024-07-26</td>\n      <td>2024-09-15</td>\n      <td>O</td>\n    \
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C0000581</td>\n      <td>Canada's\
+    \ approach to partnerships in Africa</td>\n      <td>2024-08-15</td>\n      <td>2024-09-15</td>\n\
+    \      <td>O</td>\n      <td>dfatd-maecd</td>\n    </tr>\n    <tr>\n      <td>C-CMCRB2024</td>\n\
+    \      <td>Canadian Military College Review Board - Public Consultation Research</td>\n\
+    \      <td>2024-06-12</td>\n      <td>2024-09-15</td>\n      <td>O</td>\n    \
+    \  <td>dnd-mdn</td>\n    </tr>\n    <tr>\n      <td>DFO20230131-06</td>\n    \
+    \  <td>Canadian Coast Guard Long-term Strategy</td>\n      <td>2024-06-14</td>\n\
+    \      <td>2024-09-13</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0242</td>\n      <td>Industrial Strategy for Homebuilding</td>\n\
+    \      <td>2024-08-19</td>\n      <td>2024-09-13</td>\n      <td>O</td>\n    \
+    \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000723</td>\n      <td>Pre-consultations\
+    \ on Amendment 19 to the Energy Efficiency Regulations</td>\n      <td>2024-05-27</td>\n\
+    \      <td>2024-09-13</td>\n      <td>O</td>\n      <td>nrcan-rncan</td>\n   \
+    \ </tr>\n    <tr>\n      <td>C-0000127</td>\n      <td>Visitor Use Management\
+    \ - Jasper National Park</td>\n      <td>2024-06-18</td>\n      <td>2024-09-13</td>\n\
+    \      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000130</td>\n\
+    \      <td>Consultation on Proposals to Strengthen Canada’s Financial Sector</td>\n\
+    \      <td>2024-08-12</td>\n      <td>2024-09-11</td>\n      <td>O</td>\n    \
+    \  <td>fin</td>\n    </tr>\n    <tr>\n      <td>C-003231</td>\n      <td>Share\
+    \ your thoughts: Updated Draft State of Per- and Polyfluoroalkyl Substances (PFAS)\
+    \ Report and Revised Risk Management Scope</td>\n      <td>2024-07-13</td>\n \
+    \     <td>2024-09-11</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n  \
+    \  <tr>\n      <td>C-0000966</td>\n      <td>Consultation on abamectin, Proposed\
     \ Maximum Residue Limit PMRL2024-13</td>\n      <td>2024-06-26</td>\n      <td>2024-09-09</td>\n\
     \      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-20240907</td>\n\
     \      <td>Possession and Export of Elvers Regulations</td>\n      <td>2024-06-29</td>\n\
