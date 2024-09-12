@@ -61,8 +61,6 @@ sites:
 - name: Share your thoughts on the guidelines for consultations relating to official
     language minority communities and official languages
   url: https://crtc.gc.ca/eng/consultation/lang.htm
-- name: Consultation on Proposals to Strengthen Canada’s Financial Sector
-  url: https://www.canada.ca/en/department-finance/programs/consultations/2024/consultation-on-proposals-to-strengthen-canadas-financial-sector.html
 - name: Notice of intent to impose surtaxes on Chinese steel and aluminum in response
     to unfair Chinese trade practices
   url: https://www.canada.ca/en/department-finance/programs/consultations/2024/notice-of-intent-to-impose-surtaxes-on-chinese-steel-and-aluminum-in-response-to-unfair-chinese-trade-practices.html
@@ -183,6 +181,17 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2024/clomazone.html
 - name: Consultation on rimsulfuron, Proposed Maximum Residue Limit PMRL2024-16
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2024/rimsulfuron.html
+- name: 'Consultation: Annex 17 to the Good manufacturing practices guide - Real time
+    release testing and parametric release (GUI-0046)'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-annex-17-good-manufacturing-practices-guide-gui-0046.html
+- name: 'Notice: Consultation on the proposed agreement for data compensation under
+    section 66 of the Pest Control Products Act for re-evaluation and special review
+    decisions'
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-agreement-data-compensation-under-section-66-pest-control-products-act-re-evaluation-special-review-decisions.html
+- name: Consultation on guidance for registrants and data holders for use or reliance
+    on test data considered in support of re-evaluation and special review decisions,
+    Regulatory Proposal PRO2024-04
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/regulatory-proposals/2024/guidance-registrants-data-holders-use-reliance-test-data-considered-support-re-evaluation-special-review-decisions.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
@@ -372,7 +381,19 @@ status-website:
     \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0185</td>\n      <td>Amendments\
     \ to Directive No 11R3, Surplus Income Directive</td>\n      <td>2024-09-16</td>\n\
     \      <td>2024-10-16</td>\n      <td>P</td>\n      <td>ic</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-000051</td>\n      <td>Share your thoughts on the guidelines\
+    \   <tr>\n      <td>C-0000976</td>\n      <td>Consultation: Annex 17 to the Good\
+    \ manufacturing practices guide - Real time release testing and parametric release\
+    \ (GUI-0046)</td>\n      <td>2024-09-10</td>\n      <td>2024-10-24</td>\n    \
+    \  <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000977</td>\n\
+    \      <td>Notice: Consultation on the proposed agreement for data compensation\
+    \ under section 66 of the Pest Control Products Act for re-evaluation and special\
+    \ review decisions</td>\n      <td>2024-09-10</td>\n      <td>2024-11-09</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000978</td>\n\
+    \      <td>Consultation on guidance for registrants and data holders for use or\
+    \ reliance on test data considered in support of re-evaluation and special review\
+    \ decisions, Regulatory Proposal PRO2024-04</td>\n      <td>2024-09-10</td>\n\
+    \      <td>2024-11-09</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-000051</td>\n      <td>Share your thoughts on the guidelines\
     \ for consultations relating to official language minority communities and official\
     \ languages</td>\n      <td>2024-09-09</td>\n      <td>2024-11-08</td>\n     \
     \ <td>O</td>\n      <td>crtc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
@@ -405,7 +426,7 @@ status-website:
     \ - Jasper National Park</td>\n      <td>2024-06-18</td>\n      <td>2024-09-13</td>\n\
     \      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000130</td>\n\
     \      <td>Consultation on Proposals to Strengthen Canada’s Financial Sector</td>\n\
-    \      <td>2024-08-12</td>\n      <td>2024-09-11</td>\n      <td>O</td>\n    \
+    \      <td>2024-08-12</td>\n      <td>2024-09-11</td>\n      <td>C</td>\n    \
     \  <td>fin</td>\n    </tr>\n    <tr>\n      <td>C-003231</td>\n      <td>Share\
     \ your thoughts: Updated Draft State of Per- and Polyfluoroalkyl Substances (PFAS)\
     \ Report and Revised Risk Management Scope</td>\n      <td>2024-07-13</td>\n \
@@ -423,42 +444,40 @@ status-website:
     \ your thoughts: Updated Draft State of Per- and Polyfluoroalkyl Substances (PFAS)\
     \ Report and Revised Risk Management Scope</td>\n      <td>2024-07-13</td>\n \
     \     <td>2024-09-11</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n  \
-    \  <tr>\n      <td>C-0000130</td>\n      <td>Consultation on Proposals to Strengthen\
-    \ Canada’s Financial Sector</td>\n      <td>2024-08-12</td>\n      <td>2024-09-11</td>\n\
-    \      <td>O</td>\n      <td>fin</td>\n    </tr>\n    <tr>\n      <td>C-20240907</td>\n\
-    \      <td>Possession and Export of Elvers Regulations</td>\n      <td>2024-06-29</td>\n\
-    \      <td>2024-09-07</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>C0000580</td>\n      <td>Public consultations on potential\
-    \ new measures to advance and defend Canada's economic security interests</td>\n\
-    \      <td>2024-08-09</td>\n      <td>2024-09-05</td>\n      <td>O</td>\n    \
-    \  <td>dfatd-maecd</td>\n    </tr>\n    <tr>\n      <td>C-003267</td>\n      <td>Share\
-    \ and view ideas: Consultation addressing plastic waste and pollution from the\
-    \ textile and apparel sector</td>\n      <td>2024-07-04</td>\n      <td>2024-09-01</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003252</td>\n\
-    \      <td>Draft roadmap for addressing plastic waste and pollution from the textile\
-    \ and apparel sector: consultation document</td>\n      <td>2024-07-08</td>\n\
-    \      <td>2024-09-01</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
-    \   <tr>\n      <td>C--202303</td>\n      <td>Alexandra Bridge Replacement Project</td>\n\
-    \      <td>2023-10-01</td>\n      <td>2024-08-31</td>\n      <td>O</td>\n    \
-    \  <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-003213</td>\n      <td>Proposed\
-    \ Regulations Amending the Wildlife Area Regulations – Delisting of 19 Units of\
-    \ the Prairie National Wildlife Area (NWA) and Designation of Five New NWAs</td>\n\
-    \      <td>2024-06-01</td>\n      <td>2024-08-30</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>88747-1</td>\n      <td>Black Bear\
-    \ Power Plant Project\\nPublic Notice\\nParticipant Funding Available</td>\n \
-    \     <td>2024-07-29</td>\n      <td>2024-08-28</td>\n      <td>O</td>\n     \
-    \ <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>88735-1</td>\n      <td>Big\
-    \ Bear Camp Aerodrome Project\\nPublic Notice\\nParticipant Funding Available</td>\n\
-    \      <td>2024-07-25</td>\n      <td>2024-08-26</td>\n      <td>O</td>\n    \
-    \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-20240308</td>\n      <td>Consultation\
-    \ on the Silver Chub Recovery Strategy &amp; Action Plan under the Species at\
-    \ Risk Act</td>\n      <td>2024-06-18</td>\n      <td>2024-08-17</td>\n      <td>O</td>\n\
-    \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>88747</td>\n      <td>Black\
-    \ Bear Power Plant Project\\nPublic Notice\\nComments Invited on the Summary of\
-    \ the Initial Project Description</td>\n      <td>2024-07-25</td>\n      <td>2024-08-14</td>\n\
-    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>88735</td>\n\
-    \      <td>Big Bear Camp Aerodrome Project\\nPublic Notice\\nPublic Comments Invited\
-    \ on the Summary of the Initial Project Description</td>\n      <td>2024-07-23</td>\n\
+    \  <tr>\n      <td>C-20240907</td>\n      <td>Possession and Export of Elvers\
+    \ Regulations</td>\n      <td>2024-06-29</td>\n      <td>2024-09-07</td>\n   \
+    \   <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C0000580</td>\n\
+    \      <td>Public consultations on potential new measures to advance and defend\
+    \ Canada's economic security interests</td>\n      <td>2024-08-09</td>\n     \
+    \ <td>2024-09-05</td>\n      <td>O</td>\n      <td>dfatd-maecd</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-003267</td>\n      <td>Share and view ideas: Consultation\
+    \ addressing plastic waste and pollution from the textile and apparel sector</td>\n\
+    \      <td>2024-07-04</td>\n      <td>2024-09-01</td>\n      <td>O</td>\n    \
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003252</td>\n      <td>Draft\
+    \ roadmap for addressing plastic waste and pollution from the textile and apparel\
+    \ sector: consultation document</td>\n      <td>2024-07-08</td>\n      <td>2024-09-01</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C--202303</td>\n\
+    \      <td>Alexandra Bridge Replacement Project</td>\n      <td>2023-10-01</td>\n\
+    \      <td>2024-08-31</td>\n      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n   \
+    \ </tr>\n    <tr>\n      <td>C-003213</td>\n      <td>Proposed Regulations Amending\
+    \ the Wildlife Area Regulations – Delisting of 19 Units of the Prairie National\
+    \ Wildlife Area (NWA) and Designation of Five New NWAs</td>\n      <td>2024-06-01</td>\n\
+    \      <td>2024-08-30</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
+    \   <tr>\n      <td>88747-1</td>\n      <td>Black Bear Power Plant Project\\nPublic\
+    \ Notice\\nParticipant Funding Available</td>\n      <td>2024-07-29</td>\n   \
+    \   <td>2024-08-28</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
+    \    <tr>\n      <td>88735-1</td>\n      <td>Big Bear Camp Aerodrome Project\\\
+    nPublic Notice\\nParticipant Funding Available</td>\n      <td>2024-07-25</td>\n\
+    \      <td>2024-08-26</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-20240308</td>\n      <td>Consultation on the Silver Chub\
+    \ Recovery Strategy &amp; Action Plan under the Species at Risk Act</td>\n   \
+    \   <td>2024-06-18</td>\n      <td>2024-08-17</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n\
+    \    </tr>\n    <tr>\n      <td>88747</td>\n      <td>Black Bear Power Plant Project\\\
+    nPublic Notice\\nComments Invited on the Summary of the Initial Project Description</td>\n\
+    \      <td>2024-07-25</td>\n      <td>2024-08-14</td>\n      <td>O</td>\n    \
+    \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>88735</td>\n      <td>Big\
+    \ Bear Camp Aerodrome Project\\nPublic Notice\\nPublic Comments Invited on the\
+    \ Summary of the Initial Project Description</td>\n      <td>2024-07-23</td>\n\
     \      <td>2024-08-12</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
     \    <tr>\n      <td>C-003227</td>\n      <td>Comment on: Draft Canada-Saskatchewan\
     \ Equivalency Agreement on coal-fired electricity regulations (2025-2026)</td>\n\
