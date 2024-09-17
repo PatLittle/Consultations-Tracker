@@ -81,10 +81,6 @@ sites:
 - name: 'Share your ideas: Amendments to the Metal and Diamond Mining Effluent Regulations
     for the Goldboro Gold Project'
   url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/goldboro-mine-project.html
-- name: Proposed Regulations Amending the Wildlife Area Regulations – Delisting of
-    19 Units of the Prairie National Wildlife Area (NWA) and Designation of Five New
-    NWAs
-  url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/consultation-regulations-five-new-national-wildlife-areas.html
 - name: 'Comment on: Draft Canada-Saskatchewan Equivalency Agreement on coal-fired
     electricity regulations (2025-2026)'
   url: https://www.canada.ca/en/environment-climate-change/services/canadian-environmental-protection-act-registry/agreements/equivalency/canada-saskatchewan-greenhouse-gas-electricity-producers-2025.html
@@ -428,36 +424,32 @@ status-website:
     \ <td>2024-09-15</td>\n      <td>O</td>\n      <td>dnd-mdn</td>\n    </tr>\n \
     \   <tr>\n      <td>C-003232</td>\n      <td>National Freshwater Data Strategy</td>\n\
     \      <td>2024-07-26</td>\n      <td>2024-09-15</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000723</td>\n      <td>Pre-consultations\
-    \ on Amendment 19 to the Energy Efficiency Regulations</td>\n      <td>2024-05-27</td>\n\
-    \      <td>2024-09-13</td>\n      <td>O</td>\n      <td>nrcan-rncan</td>\n   \
-    \ </tr>\n    <tr>\n      <td>C-0000127</td>\n      <td>Visitor Use Management\
-    \ - Jasper National Park</td>\n      <td>2024-06-18</td>\n      <td>2024-09-13</td>\n\
-    \      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>DFO20230131-06</td>\n\
-    \      <td>Canadian Coast Guard Long-term Strategy</td>\n      <td>2024-06-14</td>\n\
-    \      <td>2024-09-13</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-20240907</td>\n      <td>Possession and Export of Elvers\
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20230131-06</td>\n      <td>Canadian\
+    \ Coast Guard Long-term Strategy</td>\n      <td>2024-06-14</td>\n      <td>2024-09-13</td>\n\
+    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0000723</td>\n\
+    \      <td>Pre-consultations on Amendment 19 to the Energy Efficiency Regulations</td>\n\
+    \      <td>2024-05-27</td>\n      <td>2024-09-13</td>\n      <td>O</td>\n    \
+    \  <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>C-0000127</td>\n     \
+    \ <td>Visitor Use Management - Jasper National Park</td>\n      <td>2024-06-18</td>\n\
+    \      <td>2024-09-13</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-20240907</td>\n      <td>Possession and Export of Elvers\
     \ Regulations</td>\n      <td>2024-06-29</td>\n      <td>2024-09-07</td>\n   \
     \   <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C0000580</td>\n\
     \      <td>Public consultations on potential new measures to advance and defend\
     \ Canada's economic security interests</td>\n      <td>2024-08-09</td>\n     \
     \ <td>2024-09-05</td>\n      <td>O</td>\n      <td>dfatd-maecd</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-003252</td>\n      <td>Draft roadmap for addressing plastic\
-    \ waste and pollution from the textile and apparel sector: consultation document</td>\n\
-    \      <td>2024-07-08</td>\n      <td>2024-09-01</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003267</td>\n      <td>Share\
-    \ and view ideas: Consultation addressing plastic waste and pollution from the\
-    \ textile and apparel sector</td>\n      <td>2024-07-04</td>\n      <td>2024-09-01</td>\n\
+    \    <tr>\n      <td>C-003267</td>\n      <td>Share and view ideas: Consultation\
+    \ addressing plastic waste and pollution from the textile and apparel sector</td>\n\
+    \      <td>2024-07-04</td>\n      <td>2024-09-01</td>\n      <td>O</td>\n    \
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003252</td>\n      <td>Draft\
+    \ roadmap for addressing plastic waste and pollution from the textile and apparel\
+    \ sector: consultation document</td>\n      <td>2024-07-08</td>\n      <td>2024-09-01</td>\n\
     \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C--202303</td>\n\
     \      <td>Alexandra Bridge Replacement Project</td>\n      <td>2023-10-01</td>\n\
     \      <td>2024-08-31</td>\n      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n   \
-    \ </tr>\n    <tr>\n      <td>C-003213</td>\n      <td>Proposed Regulations Amending\
-    \ the Wildlife Area Regulations – Delisting of 19 Units of the Prairie National\
-    \ Wildlife Area (NWA) and Designation of Five New NWAs</td>\n      <td>2024-06-01</td>\n\
-    \      <td>2024-08-30</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
-    \   <tr>\n      <td>88747-1</td>\n      <td>Black Bear Power Plant Project\\nPublic\
-    \ Notice\\nParticipant Funding Available</td>\n      <td>2024-07-29</td>\n   \
-    \   <td>2024-08-28</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
+    \ </tr>\n    <tr>\n      <td>88747-1</td>\n      <td>Black Bear Power Plant Project\\\
+    nPublic Notice\\nParticipant Funding Available</td>\n      <td>2024-07-29</td>\n\
+    \      <td>2024-08-28</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
     \    <tr>\n      <td>88735-1</td>\n      <td>Big Bear Camp Aerodrome Project\\\
     nPublic Notice\\nParticipant Funding Available</td>\n      <td>2024-07-25</td>\n\
     \      <td>2024-08-26</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
