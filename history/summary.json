@@ -255,7 +255,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-18": 42,
+      "2024-09-18": 102,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -796,7 +796,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-18": 42,
+      "2024-09-18": 103,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -1613,6 +1613,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Consultation on pyridate, Proposed Maximum Residue Limit PMRL2024-18",
+    "url": "https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2024/pyridate.html",
+    "icon": "https://icons.duckduckgo.com/ip3/www.canada.ca.ico",
+    "slug": "consultation-on-pyridate-proposed-maximum-residue-limit-pmrl-2024-18",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3054,
+    "timeDay": 3054,
+    "timeWeek": 3054,
+    "timeMonth": 3054,
+    "timeYear": 3054,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Regulations Amending the Immigration and Refugee Protection Regulations (Temporary Foreign Workers)",
     "url": "https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html",
     "icon": "https://icons.duckduckgo.com/ip3/gazette.gc.ca.ico",
@@ -1644,7 +1662,7 @@
     "time": 637,
     "timeDay": 742,
     "timeWeek": 560,
-    "timeMonth": 634,
+    "timeMonth": 636,
     "timeYear": 637,
     "dailyMinutesDown": {}
   },
@@ -1662,7 +1680,7 @@
     "time": 373,
     "timeDay": 318,
     "timeWeek": 243,
-    "timeMonth": 354,
+    "timeMonth": 355,
     "timeYear": 373,
     "dailyMinutesDown": {}
   },
@@ -1698,7 +1716,7 @@
     "time": 339,
     "timeDay": 254,
     "timeWeek": 228,
-    "timeMonth": 315,
+    "timeMonth": 314,
     "timeYear": 339,
     "dailyMinutesDown": {}
   },
