@@ -394,10 +394,7 @@ status-website:
     \     <td>2024-10-06</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n  \
     \  <tr>\n      <td>C-011126</td>\n      <td>An artificial intelligence strategy\
     \ for the federal public service</td>\n      <td>2024-09-16</td>\n      <td>2024-10-31</td>\n\
-    \      <td>O</td>\n      <td>tbs-sct</td>\n    </tr>\n    <tr>\n      <td>C-0000979</td>\n\
-    \      <td>Consultation: Draft strategy to replace, reduce or refine vertebrate\
-    \ animal testing</td>\n      <td>2024-09-14</td>\n      <td>2024-11-13</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \      <td>O</td>\n      <td>tbs-sct</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
     \ Ending +/- 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n\
     \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
     \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
