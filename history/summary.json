@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rcaanc-cirnac.gc.ca.ico",
     "slug": "white-river-first-nations",
     "status": "up",
-    "uptime": "71.39%",
+    "uptime": "71.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.39%",
+    "uptimeYear": "71.40%",
     "time": 692,
     "timeDay": 1653,
     "timeWeek": 1192,
@@ -273,7 +273,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-19": 1397,
+      "2024-09-20": 42,
+      "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
@@ -833,7 +834,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-19": 1398,
+      "2024-09-20": 43,
+      "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
@@ -1770,7 +1772,7 @@
     "time": 564,
     "timeDay": 578,
     "timeWeek": 564,
-    "timeMonth": 620,
+    "timeMonth": 625,
     "timeYear": 564,
     "dailyMinutesDown": {}
   },
@@ -1788,7 +1790,7 @@
     "time": 2083,
     "timeDay": 1233,
     "timeWeek": 1422,
-    "timeMonth": 2058,
+    "timeMonth": 2048,
     "timeYear": 2083,
     "dailyMinutesDown": {}
   },
@@ -1806,7 +1808,7 @@
     "time": 781,
     "timeDay": 1046,
     "timeWeek": 753,
-    "timeMonth": 760,
+    "timeMonth": 767,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2023-11-27": 224,
@@ -1827,7 +1829,7 @@
     "time": 1427,
     "timeDay": 1403,
     "timeWeek": 2016,
-    "timeMonth": 2206,
+    "timeMonth": 2202,
     "timeYear": 1427,
     "dailyMinutesDown": {}
   },
@@ -1881,7 +1883,7 @@
     "time": 385,
     "timeDay": 743,
     "timeWeek": 527,
-    "timeMonth": 474,
+    "timeMonth": 478,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2023-12-15": 465,
@@ -1903,7 +1905,7 @@
     "time": 2144,
     "timeDay": 2617,
     "timeWeek": 1823,
-    "timeMonth": 1895,
+    "timeMonth": 1897,
     "timeYear": 2144,
     "dailyMinutesDown": {}
   },
@@ -1939,7 +1941,7 @@
     "time": 959,
     "timeDay": 3405,
     "timeWeek": 1282,
-    "timeMonth": 1229,
+    "timeMonth": 1257,
     "timeYear": 959,
     "dailyMinutesDown": {}
   },
@@ -1957,7 +1959,7 @@
     "time": 199,
     "timeDay": 220,
     "timeWeek": 126,
-    "timeMonth": 209,
+    "timeMonth": 213,
     "timeYear": 199,
     "dailyMinutesDown": {}
   },
@@ -2427,18 +2429,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "south-coast-fjords-consultation",
     "status": "down",
-    "uptime": "29.94%",
-    "uptimeDay": "10.00%",
-    "uptimeWeek": "29.94%",
-    "uptimeMonth": "29.94%",
-    "uptimeYear": "29.94%",
+    "uptime": "28.63%",
+    "uptimeDay": "4.11%",
+    "uptimeWeek": "28.63%",
+    "uptimeMonth": "28.63%",
+    "uptimeYear": "28.63%",
     "time": 1505,
     "timeDay": 0,
     "timeWeek": 1505,
     "timeMonth": 1505,
     "timeYear": 1505,
     "dailyMinutesDown": {
-      "2024-09-19": 1296
+      "2024-09-20": 44,
+      "2024-09-19": 1337
     }
   },
   {
