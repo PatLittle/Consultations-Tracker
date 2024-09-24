@@ -1,7 +1,7 @@
 url: www.parks.canada.ca/south-coast-fjords
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-23T23:15:16.853Z
+status: up
+code: 200
+responseTime: 741
+lastUpdated: 2024-09-24T20:25:33.209Z
 startTime: 2024-09-18T16:29:02.179Z
 generator: Upptime <https://github.com/upptime/upptime>
