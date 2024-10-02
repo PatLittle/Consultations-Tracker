@@ -184,6 +184,10 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2024/triallate.html
 - name: Consultation on Spiromesifen, Proposed Maximum Residue Limit PMRL2024-20
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2024/spiromesifen.html
+- name: Notice of Intent to make a ministerial class exemption order for the exceptional
+    importation of certain foods for a special dietary purpose to mitigate a shortage
+    or risk of a shortage
+  url: https://www.canada.ca/en/health-canada/services/food-nutrition/public-involvement-partnerships/notice-of-intent-for-exceptional-importation-certain-foods-to-mitigate-shortage.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
@@ -376,12 +380,16 @@ status-website:
     \      <td>P</td>\n      <td>jus</td>\n    </tr>\n    <tr>\n      <td>C-003263</td>\n\
     \      <td>Proposed Strategy for the Labelling of Substances of Concern in Products</td>\n\
     \      <td>2024-10-01</td>\n      <td>2024-11-30</td>\n      <td>P</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-011125</td>\n      <td>Action\
-    \ Plan for Black Public Servants: Understanding the needs and insights of Black\
-    \ public servants of the Government of Canada on mental health and career and\
-    \ leadership development programs in the workplace.</td>\n      <td>2024-09-30</td>\n\
-    \      <td>2024-11-30</td>\n      <td>P</td>\n      <td>tbs-sct</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-003260</td>\n      <td>Proposed Plan of Priorities</td>\n\
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000984</td>\n      <td>Notice\
+    \ of Intent to make a ministerial class exemption order for the exceptional importation\
+    \ of certain foods for a special dietary purpose to mitigate a shortage or risk\
+    \ of a shortage</td>\n      <td>2024-10-01</td>\n      <td>2024-11-15</td>\n \
+    \     <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-011125</td>\n\
+    \      <td>Action Plan for Black Public Servants: Understanding the needs and\
+    \ insights of Black public servants of the Government of Canada on mental health\
+    \ and career and leadership development programs in the workplace.</td>\n    \
+    \  <td>2024-09-30</td>\n      <td>2024-11-30</td>\n      <td>P</td>\n      <td>tbs-sct</td>\n\
+    \    </tr>\n    <tr>\n      <td>C-003260</td>\n      <td>Proposed Plan of Priorities</td>\n\
     \      <td>2024-09-28</td>\n      <td>2024-11-13</td>\n      <td>P</td>\n    \
     \  <td>ec</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Ending +/- 5\
     \ days from today</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n  \
