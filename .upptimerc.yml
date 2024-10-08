@@ -60,11 +60,17 @@ sites:
   url: https://letstalknuclearsafety.ca/regulatory-framework-plan-1
 - name: Co-development of a new Indigenous Broadcasting Policy
   url: https://crtc.gc.ca/eng/archive/2019/2019-217.htm
+- name: Share your thoughts about closed captioning of programming from online streaming
+    services
+  url: https://crtc.gc.ca/eng/consultation/cc.htm
 - name: Share your thoughts about described video and audio description
   url: https://crtc.gc.ca/eng/consultation/descri.htm
 - name: Share your thoughts on the guidelines for consultations relating to official
     language minority communities and official languages
   url: https://crtc.gc.ca/eng/consultation/lang.htm
+- name: Share your thoughts on the proposed code of conduct for bargaining under the
+    Online News Act
+  url: https://crtc.gc.ca/eng/consultation/code.htm
 - name: Consultation on Proposal for Air Travel Complaints Fee
   url: https://otc-cta.gc.ca/eng/consultation/consultation-proposal-air-travel-complaints-fee
 - name: Notice of intent to impose surtaxes on Chinese steel and aluminum in response
@@ -379,7 +385,10 @@ status-website:
     1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n \
     \     <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-003260</td>\n      <td>Proposed\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-000052</td>\n      <td>Share\
+    \ your thoughts on the proposed code of conduct for bargaining under the Online\
+    \ News Act</td>\n      <td>2024-10-08</td>\n      <td>2024-11-07</td>\n      <td>O</td>\n\
+    \      <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-003260</td>\n      <td>Proposed\
     \ Plan of Priorities</td>\n      <td>2024-10-05</td>\n      <td>2024-12-04</td>\n\
     \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003264</td>\n\
     \      <td>Proposed Watch List Approach</td>\n      <td>2024-10-05</td>\n    \
