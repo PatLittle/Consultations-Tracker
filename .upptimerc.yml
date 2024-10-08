@@ -302,8 +302,6 @@ sites:
 - name: Targeted Stakeholder Engagement to Inform Canada’s Public Safety Broadband
     Network (PSBN)
   url: https://www.canada.ca/en/services/policing/emergencies/consultation-governance-framework-psbn.html
-- name: Consultations on Foreign Interference
-  url: https://www.canada.ca/en/services/defence/nationalsecurity/consulting-canadians-countering-foreign-interference.html
 - name: PSPC Controlled Goods Program’s Industry Engagement Committee (IEC)
   url: https://www.tpsgc-pwgsc.gc.ca/pmc-cgp/pipmc-secgp-eng.html
 - name: Three-year Departmental Accessibility Plan
@@ -493,25 +491,23 @@ status-website:
     \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20240615</td>\n      <td>Construction\
     \ of a waterfront wharf at Pointe-Basse Harbour in Magdalen Islands</td>\n   \
     \   <td>2024-07-02</td>\n      <td>2024-08-05</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n\
-    \    </tr>\n    <tr>\n      <td>D00093</td>\n      <td>Consultations on Foreign\
-    \ Interference</td>\n      <td>2023-11-24</td>\n      <td>2024-08-02</td>\n  \
-    \    <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>STC-0000065</td>\n\
-    \      <td>Invitation to participate in the revision of the Classification of\
-    \ Instructional Programs (CIP) Canada</td>\n      <td>2024-04-15</td>\n      <td>2024-07-31</td>\n\
-    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-672052</td>\n\
-    \      <td>Public review on proposed changes to the 2020 National Model Codes\
-    \ – Spring 2024</td>\n      <td>2024-05-27</td>\n      <td>2024-07-29</td>\n \
-    \     <td>O</td>\n      <td>nrc-cnrc</td>\n    </tr>\n    <tr>\n      <td>C-003212</td>\n\
-    \      <td>Share your ideas: Amendments to the Metal and Diamond Mining Effluent\
-    \ Regulations for the Goldboro Gold Project</td>\n      <td>2024-05-27</td>\n\
-    \      <td>2024-07-27</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-003202</td>\n      <td>Dolphin and Union Caribou pre-listing\
-    \ consultations</td>\n      <td>2024-05-13</td>\n      <td>2024-07-15</td>\n \
-    \     <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20240513-03</td>\n\
-    \      <td>Multi-species Action Plan for the Richelieu River Watershed in Canada</td>\n\
-    \      <td>2024-04-25</td>\n      <td>2024-06-24</td>\n      <td>O</td>\n    \
-    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0158</td>\n      <td>Notice\
-    \ No. TIPB-001-2024 — Petition to the Governor in Council concerning Telecom Decision CRTC 2023-358</td>\n\
+    \    </tr>\n    <tr>\n      <td>STC-0000065</td>\n      <td>Invitation to participate\
+    \ in the revision of the Classification of Instructional Programs (CIP) Canada</td>\n\
+    \      <td>2024-04-15</td>\n      <td>2024-07-31</td>\n      <td>O</td>\n    \
+    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-672052</td>\n      <td>Public\
+    \ review on proposed changes to the 2020 National Model Codes – Spring 2024</td>\n\
+    \      <td>2024-05-27</td>\n      <td>2024-07-29</td>\n      <td>O</td>\n    \
+    \  <td>nrc-cnrc</td>\n    </tr>\n    <tr>\n      <td>C-003212</td>\n      <td>Share\
+    \ your ideas: Amendments to the Metal and Diamond Mining Effluent Regulations\
+    \ for the Goldboro Gold Project</td>\n      <td>2024-05-27</td>\n      <td>2024-07-27</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003202</td>\n\
+    \      <td>Dolphin and Union Caribou pre-listing consultations</td>\n      <td>2024-05-13</td>\n\
+    \      <td>2024-07-15</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
+    \   <tr>\n      <td>DFO20240513-03</td>\n      <td>Multi-species Action Plan for\
+    \ the Richelieu River Watershed in Canada</td>\n      <td>2024-04-25</td>\n  \
+    \    <td>2024-06-24</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0158</td>\n      <td>Notice No. TIPB-001-2024 — Petition\
+    \ to the Governor in Council concerning Telecom Decision CRTC 2023-358</td>\n\
     \      <td>2024-04-27</td>\n      <td>2024-06-11</td>\n      <td>O</td>\n    \
     \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000124</td>\n      <td>Fortress\
     \ of Louisbourg National Historic Site Management Plan</td>\n      <td>2024-05-06</td>\n\
