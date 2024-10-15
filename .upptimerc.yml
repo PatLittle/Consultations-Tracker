@@ -30,9 +30,6 @@ sites:
 - name: 'Share your thoughts: Identifying a new approach for developing and maintaining
     Canadian fresh fruit and vegetable grade standards'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/share-your-thoughts-canadian-fresh-fruit-and-vegetable-grade-standards
-- name: 'Share your thoughts: Proposed new livestock feed ingredient - Waxy-leaf nightshade
-    leaf powder'
-  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/waxy-leaf-nightshade
 - name: International Plant Protection Convention (IPPC) Member consultation on draft
     International Standards for Phytosanitary Measures and Implementation and Capacity
     Development Documents
@@ -46,12 +43,6 @@ sites:
 - name: 'Share your thoughts: A new directive to mitigate the introduction and spread
     of spotted lanternfly'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/spotted-lanternfly-directive
-- name: 'Share your thoughts: Proposed amended livestock feed ingredient - Kluyveromyces
-    marxianus culture dehydrated'
-  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/kluyveromyces-marxianus
-- name: 'Share your thoughts: Proposed new livestock feed ingredient - Lactobacillus
-    acidophilus culture dehydrated'
-  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/lactobacillus-acidophilus
 - name: Changing Narrative Fund
   url: https://www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
 - name: 2022-23 Consultations on renewal of the Museum Policy
@@ -431,29 +422,20 @@ status-website:
     \      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0238</td>\n\
     \      <td>Improving Indigenous Access to Spectrum: Draft Indigenous Priority\
     \ Window Spectrum Policy Framework</td>\n      <td>2024-01-30</td>\n      <td>2024-10-01</td>\n\
-    \      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-000152</td>\n\
-    \      <td>International Plant Protection Convention (IPPC) Member consultation\
-    \ on draft International Standards for Phytosanitary Measures and Implementation\
-    \ and Capacity Development Documents</td>\n      <td>2024-07-01</td>\n      <td>2024-09-30</td>\n\
-    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-0000102</td>\n\
-    \      <td>Council of Europe Second Additional Protocol to the Convention on Cybercrime\
-    \ on Enhanced Cooperation and Disclosure of Electronic Evidence\\nConsultations,\
-    \ 2023</td>\n      <td>2023-10-24</td>\n      <td>2024-09-30</td>\n      <td>O</td>\n\
-    \      <td>jus</td>\n    </tr>\n    <tr>\n      <td>DFO20240627</td>\n      <td>Ghost\
-    \ Gear Update and Path Forward Meetings</td>\n      <td>2024-06-27</td>\n    \
-    \  <td>2024-09-30</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
+    \      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>DFO20240627</td>\n\
+    \      <td>Ghost Gear Update and Path Forward Meetings</td>\n      <td>2024-06-27</td>\n\
+    \      <td>2024-09-30</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-000152</td>\n      <td>International Plant Protection Convention\
+    \ (IPPC) Member consultation on draft International Standards for Phytosanitary\
+    \ Measures and Implementation and Capacity Development Documents</td>\n      <td>2024-07-01</td>\n\
+    \      <td>2024-09-30</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000102</td>\n      <td>Council of Europe Second Additional\
+    \ Protocol to the Convention on Cybercrime on Enhanced Cooperation and Disclosure\
+    \ of Electronic Evidence\\nConsultations, 2023</td>\n      <td>2023-10-24</td>\n\
+    \      <td>2024-09-30</td>\n      <td>O</td>\n      <td>jus</td>\n    </tr>\n\
     \    <tr>\n      <td>00</td>\n      <td>Indigenous Impact Assessment Co-Administration\
     \ Agreement Regulations</td>\n      <td>2024-07-30</td>\n      <td>2024-09-27</td>\n\
-    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-000151</td>\n\
-    \      <td>Share your thoughts: Proposed new livestock feed ingredient - Waxy-leaf\
-    \ nightshade leaf powder</td>\n      <td>2024-08-22</td>\n      <td>2024-09-23</td>\n\
-    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-000161</td>\n\
-    \      <td>Share your thoughts: Proposed amended livestock feed ingredient - Kluyveromyces\
-    \ marxianus culture dehydrated</td>\n      <td>2024-08-22</td>\n      <td>2024-09-23</td>\n\
-    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-000162</td>\n\
-    \      <td>Share your thoughts: Proposed new livestock feed ingredient - Lactobacillus\
-    \ acidophilus culture dehydrated</td>\n      <td>2024-08-22</td>\n      <td>2024-09-23</td>\n\
-    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-000131</td>\n\
+    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-000131</td>\n\
     \      <td>Notice of intent to impose surtaxes on Chinese steel and aluminum in\
     \ response to unfair Chinese trade practices</td>\n      <td>2024-08-26</td>\n\
     \      <td>2024-09-20</td>\n      <td>O</td>\n      <td>fin</td>\n    </tr>\n\
@@ -462,20 +444,20 @@ status-website:
     \ <td>2024-09-15</td>\n      <td>O</td>\n      <td>dnd-mdn</td>\n    </tr>\n \
     \   <tr>\n      <td>C-003232</td>\n      <td>National Freshwater Data Strategy</td>\n\
     \      <td>2024-07-26</td>\n      <td>2024-09-15</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000723</td>\n      <td>Pre-consultations\
-    \ on Amendment 19 to the Energy Efficiency Regulations</td>\n      <td>2024-05-27</td>\n\
-    \      <td>2024-09-13</td>\n      <td>O</td>\n      <td>nrcan-rncan</td>\n   \
-    \ </tr>\n    <tr>\n      <td>C-0000127</td>\n      <td>Visitor Use Management\
-    \ - Jasper National Park</td>\n      <td>2024-06-18</td>\n      <td>2024-09-13</td>\n\
-    \      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-20240907</td>\n\
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000127</td>\n      <td>Visitor\
+    \ Use Management - Jasper National Park</td>\n      <td>2024-06-18</td>\n    \
+    \  <td>2024-09-13</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n\
+    \      <td>C-0000723</td>\n      <td>Pre-consultations on Amendment 19 to the\
+    \ Energy Efficiency Regulations</td>\n      <td>2024-05-27</td>\n      <td>2024-09-13</td>\n\
+    \      <td>O</td>\n      <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>C-20240907</td>\n\
     \      <td>Possession and Export of Elvers Regulations</td>\n      <td>2024-06-29</td>\n\
     \      <td>2024-09-07</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-003267</td>\n      <td>Share and view ideas: Consultation\
-    \ addressing plastic waste and pollution from the textile and apparel sector</td>\n\
-    \      <td>2024-07-04</td>\n      <td>2024-09-01</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003252</td>\n      <td>Draft\
-    \ roadmap for addressing plastic waste and pollution from the textile and apparel\
-    \ sector: consultation document</td>\n      <td>2024-07-08</td>\n      <td>2024-09-01</td>\n\
+    \    <tr>\n      <td>C-003252</td>\n      <td>Draft roadmap for addressing plastic\
+    \ waste and pollution from the textile and apparel sector: consultation document</td>\n\
+    \      <td>2024-07-08</td>\n      <td>2024-09-01</td>\n      <td>O</td>\n    \
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003267</td>\n      <td>Share\
+    \ and view ideas: Consultation addressing plastic waste and pollution from the\
+    \ textile and apparel sector</td>\n      <td>2024-07-04</td>\n      <td>2024-09-01</td>\n\
     \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C--202303</td>\n\
     \      <td>Alexandra Bridge Replacement Project</td>\n      <td>2023-10-01</td>\n\
     \      <td>2024-08-31</td>\n      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n   \
@@ -585,13 +567,13 @@ status-website:
     \      <td>2021-09-30</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
     \   <tr>\n      <td>C-00052</td>\n      <td>National Infrastructure Assessment</td>\n\
     \      <td>2021-03-16</td>\n      <td>2021-06-30</td>\n      <td>O</td>\n    \
-    \  <td>infc</td>\n    </tr>\n    <tr>\n      <td>C-INA0005</td>\n      <td>Indigenous\
-    \ Procurement Modernization (including Procurement Strategy for Aboriginal Business)</td>\n\
-    \      <td>2017-06-01</td>\n      <td>2021-03-31</td>\n      <td>O</td>\n    \
-    \  <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0037</td>\n      <td>Renewal\
-    \ of the Fire Protection Strategy</td>\n      <td>2020-04-01</td>\n      <td>2021-03-31</td>\n\
-    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0033</td>\n\
-    \      <td>Indian Oil and Gas Regulations - Phase II</td>\n      <td>2013-04-01</td>\n\
+    \  <td>infc</td>\n    </tr>\n    <tr>\n      <td>C-ISC0033</td>\n      <td>Indian\
+    \ Oil and Gas Regulations - Phase II</td>\n      <td>2013-04-01</td>\n      <td>2021-03-31</td>\n\
+    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0037</td>\n\
+    \      <td>Renewal of the Fire Protection Strategy</td>\n      <td>2020-04-01</td>\n\
+    \      <td>2021-03-31</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-INA0005</td>\n      <td>Indigenous Procurement Modernization\
+    \ (including Procurement Strategy for Aboriginal Business)</td>\n      <td>2017-06-01</td>\n\
     \      <td>2021-03-31</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n\
     \    <tr>\n      <td>STC-0000023</td>\n      <td>Multifactor Productivity Application</td>\n\
     \      <td>2019-12-01</td>\n      <td>2020-03-31</td>\n      <td>O</td>\n    \
