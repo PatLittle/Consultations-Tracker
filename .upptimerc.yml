@@ -193,6 +193,9 @@ sites:
 - name: 'Consultation on guidelines for Canadian drinking water quality: Radiological
     Parameters'
   url: https://www.canada.ca/en/health-canada/programs/consultation-guidelines-canadian-drinking-water-quality-radiological-parameters.html
+- name: 'Consultation: Draft good manufacturing practices guide for natural health
+    products'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-draft-good-manufacturing-practices-guide-natural-health-products.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
@@ -381,7 +384,10 @@ status-website:
     \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-003224</td>\n      <td>Canada’s\
     \ voice: towards an ambitious new legally binding global agreement on plastic\
     \ pollution</td>\n      <td>2024-10-18</td>\n      <td>2024-11-15</td>\n     \
-    \ <td>P</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000988</td>\n\
+    \ <td>P</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000989</td>\n\
+    \      <td>Consultation: Draft good manufacturing practices guide for natural\
+    \ health products</td>\n      <td>2024-10-15</td>\n      <td>2024-12-16</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000988</td>\n\
     \      <td>Consultation on guidelines for Canadian drinking water quality: Radiological\
     \ Parameters</td>\n      <td>2024-10-11</td>\n      <td>2025-01-10</td>\n    \
     \  <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000987</td>\n\
