@@ -294,8 +294,6 @@ sites:
   url: https://www.letstalkmountainparks.ca/visitor-use-management-jasper
 - name: Public Engagement on The Lake Minnewanka Area Plan
   url: www.letstalkmountainparks.ca/lake-minnewanka
-- name: South Coast Fjords Consultation
-  url: www.parks.canada.ca/south-coast-fjords
 - name: Visitor Use Management - Lake Louise Area
   url: https://www.letstalkmountainparks.ca/lakelouisevum
 - name: Updating the Community Plans for Field, B.C. and Lake Louise, Alberta
@@ -416,12 +414,10 @@ status-website:
     \    <tr>\n      <td>C-000158</td>\n      <td>Share your thoughts:  Introduction\
     \ of potato wart “viability confirmation” status and “field of concern” classification</td>\n\
     \      <td>2024-08-08</td>\n      <td>2024-10-07</td>\n      <td>O</td>\n    \
-    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-0000132</td>\n      <td>South\
-    \ Coast Fjords Consultation</td>\n      <td>2024-09-16</td>\n      <td>2024-10-06</td>\n\
-    \      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0238</td>\n\
-    \      <td>Improving Indigenous Access to Spectrum: Draft Indigenous Priority\
-    \ Window Spectrum Policy Framework</td>\n      <td>2024-01-30</td>\n      <td>2024-10-01</td>\n\
-    \      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>DFO20240627</td>\n\
+    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-0238</td>\n      <td>Improving\
+    \ Indigenous Access to Spectrum: Draft Indigenous Priority Window Spectrum Policy\
+    \ Framework</td>\n      <td>2024-01-30</td>\n      <td>2024-10-01</td>\n     \
+    \ <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>DFO20240627</td>\n\
     \      <td>Ghost Gear Update and Path Forward Meetings</td>\n      <td>2024-06-27</td>\n\
     \      <td>2024-09-30</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
     \    <tr>\n      <td>C-000152</td>\n      <td>International Plant Protection Convention\
@@ -439,13 +435,13 @@ status-website:
     \      <td>2024-06-12</td>\n      <td>2024-09-15</td>\n      <td>O</td>\n    \
     \  <td>dnd-mdn</td>\n    </tr>\n    <tr>\n      <td>C-003232</td>\n      <td>National\
     \ Freshwater Data Strategy</td>\n      <td>2024-07-26</td>\n      <td>2024-09-15</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000723</td>\n\
-    \      <td>Pre-consultations on Amendment 19 to the Energy Efficiency Regulations</td>\n\
-    \      <td>2024-05-27</td>\n      <td>2024-09-13</td>\n      <td>O</td>\n    \
-    \  <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>C-0000127</td>\n     \
-    \ <td>Visitor Use Management - Jasper National Park</td>\n      <td>2024-06-18</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000127</td>\n\
+    \      <td>Visitor Use Management - Jasper National Park</td>\n      <td>2024-06-18</td>\n\
     \      <td>2024-09-13</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-20240907</td>\n      <td>Possession and Export of Elvers\
+    \   <tr>\n      <td>C-0000723</td>\n      <td>Pre-consultations on Amendment 19\
+    \ to the Energy Efficiency Regulations</td>\n      <td>2024-05-27</td>\n     \
+    \ <td>2024-09-13</td>\n      <td>O</td>\n      <td>nrcan-rncan</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-20240907</td>\n      <td>Possession and Export of Elvers\
     \ Regulations</td>\n      <td>2024-06-29</td>\n      <td>2024-09-07</td>\n   \
     \   <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-003252</td>\n\
     \      <td>Draft roadmap for addressing plastic waste and pollution from the textile\
@@ -564,11 +560,11 @@ status-website:
     \      <td>2021-03-16</td>\n      <td>2021-06-30</td>\n      <td>O</td>\n    \
     \  <td>infc</td>\n    </tr>\n    <tr>\n      <td>C-ISC0033</td>\n      <td>Indian\
     \ Oil and Gas Regulations - Phase II</td>\n      <td>2013-04-01</td>\n      <td>2021-03-31</td>\n\
-    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-INA0005</td>\n\
-    \      <td>Indigenous Procurement Modernization (including Procurement Strategy\
-    \ for Aboriginal Business)</td>\n      <td>2017-06-01</td>\n      <td>2021-03-31</td>\n\
     \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0037</td>\n\
     \      <td>Renewal of the Fire Protection Strategy</td>\n      <td>2020-04-01</td>\n\
+    \      <td>2021-03-31</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-INA0005</td>\n      <td>Indigenous Procurement Modernization\
+    \ (including Procurement Strategy for Aboriginal Business)</td>\n      <td>2017-06-01</td>\n\
     \      <td>2021-03-31</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n\
     \    <tr>\n      <td>STC-0000023</td>\n      <td>Multifactor Productivity Application</td>\n\
     \      <td>2019-12-01</td>\n      <td>2020-03-31</td>\n      <td>O</td>\n    \
