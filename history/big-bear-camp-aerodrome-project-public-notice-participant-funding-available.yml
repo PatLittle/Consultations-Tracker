@@ -1,7 +1,7 @@
 url: https://iaac-aeic.gc.ca/050/evaluations/document/158263?culture=en-CA
-status: up
-code: 200
-responseTime: 597
-lastUpdated: 2024-10-17T23:15:39.271Z
+status: down
+code: 503
+responseTime: 146
+lastUpdated: 2024-10-18T16:28:43.794Z
 startTime: 2024-07-29T16:27:31.408Z
 generator: Upptime <https://github.com/upptime/upptime>
