@@ -415,13 +415,7 @@ status-website:
     \      <td>Share your thoughts: Identifying a new approach for developing and\
     \ maintaining Canadian fresh fruit and vegetable grade standards</td>\n      <td>2024-07-22</td>\n\
     \      <td>2024-10-20</td>\n      <td>C</td>\n      <td>cfia-acia</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-003196</td>\n      <td>Consultation on Amending the List\
-    \ of Species under the Species at Risk Act: Terrestrial Species December 2023</td>\n\
-    \      <td>2023-12-13</td>\n      <td>2024-10-16</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0185</td>\n      <td>Amendments\
-    \ to Directive No 11R3, Surplus Income Directive</td>\n      <td>2024-09-16</td>\n\
-    \      <td>2024-10-16</td>\n      <td>P</td>\n      <td>ic</td>\n    </tr>\n \
-    \ </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
+    \  </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
     \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
     >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
