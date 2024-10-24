@@ -35,9 +35,6 @@ sites:
 - name: 'Share your thoughts:  Introduction of potato wart “viability confirmation”
     status and “field of concern” classification'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/potato-wart-viability-status
-- name: 'Share your thoughts: A new directive to mitigate the introduction and spread
-    of spotted lanternfly'
-  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/spotted-lanternfly-directive
 - name: Changing Narrative Fund
   url: https://www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
 - name: 2022-23 Consultations on renewal of the Museum Policy
@@ -148,9 +145,6 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2024/clomazone.html
 - name: Consultation on rimsulfuron, Proposed Maximum Residue Limit PMRL2024-16
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2024/rimsulfuron.html
-- name: 'Consultation: Annex 17 to the Good manufacturing practices guide - Real time
-    release testing and parametric release (GUI-0046)'
-  url: https://www.canada.ca/en/health-canada/programs/consultation-annex-17-good-manufacturing-practices-guide-gui-0046.html
 - name: 'Notice: Consultation on the proposed agreement for data compensation under
     section 66 of the Pest Control Products Act for re-evaluation and special review
     decisions'
@@ -404,7 +398,7 @@ status-website:
     \      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-000160</td>\n\
     \      <td>Share your thoughts: A new directive to mitigate the introduction and\
     \ spread of spotted lanternfly</td>\n      <td>2024-08-29</td>\n      <td>2024-10-25</td>\n\
-    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-0235</td>\n\
+    \      <td>C</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-0235</td>\n\
     \      <td>Consultation on a Policy, and Licensing, and Technical Framework for\
     \ Supplemental Mobile Coverage by Satellite</td>\n      <td>2024-06-17</td>\n\
     \      <td>2024-10-25</td>\n      <td>O</td>\n      <td>ic</td>\n    </tr>\n \
@@ -413,7 +407,7 @@ status-website:
     \ <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000976</td>\n\
     \      <td>Consultation: Annex 17 to the Good manufacturing practices guide -\
     \ Real time release testing and parametric release (GUI-0046)</td>\n      <td>2024-09-10</td>\n\
-    \      <td>2024-10-24</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \      <td>2024-10-24</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
     \    <tr>\n      <td>DFO20230131-09</td>\n      <td>Canada's (Draft) Ocean Noise\
     \ Strategy</td>\n      <td>2024-08-23</td>\n      <td>2024-10-22</td>\n      <td>O</td>\n\
     \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0000969</td>\n     \
