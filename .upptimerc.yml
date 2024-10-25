@@ -285,14 +285,12 @@ sites:
   url: https://www.pc.gc.ca/en/lhn-nhs/ns/louisbourg/info/plan
 - name: Visitor Use Management - Jasper National Park
   url: https://www.letstalkmountainparks.ca/visitor-use-management-jasper
-- name: Public Engagement on The Lake Minnewanka Area Plan
-  url: www.letstalkmountainparks.ca/lake-minnewanka
 - name: Visitor Use Management - Lake Louise Area
   url: https://www.letstalkmountainparks.ca/lakelouisevum
 - name: Updating the Community Plans for Field, B.C. and Lake Louise, Alberta
   url: https://www.letstalkmountainparks.ca/communityplanupdates
 - name: Saguenay-St. Lawrence Marine Park expansion project
-  url: https://parcmarin.qc.ca/consultations/accueil/
+  url: https://parcmarin.qc.ca/consultations/home/
 - name: Targeted Stakeholder Engagement to Inform Canada’s Public Safety Broadband
     Network (PSBN)
   url: https://www.canada.ca/en/services/policing/emergencies/consultation-governance-framework-psbn.html
@@ -408,7 +406,7 @@ status-website:
     \      <td>2024-10-25</td>\n      <td>O</td>\n      <td>ic</td>\n    </tr>\n \
     \   <tr>\n      <td>C-0000131</td>\n      <td>Public Engagement on The Lake Minnewanka\
     \ Area Plan</td>\n      <td>2024-08-23</td>\n      <td>2024-10-25</td>\n     \
-    \ <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000976</td>\n\
+    \ <td>C</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000976</td>\n\
     \      <td>Consultation: Annex 17 to the Good manufacturing practices guide -\
     \ Real time release testing and parametric release (GUI-0046)</td>\n      <td>2024-09-10</td>\n\
     \      <td>2024-10-24</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
