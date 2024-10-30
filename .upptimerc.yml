@@ -384,36 +384,39 @@ status-website:
     \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
     \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>C-2024-07</td>\n      <td>Predictable and Efficient Processing\
-    \ and Assessment of Negligible-Risk and Low-Risk Activities</td>\n      <td>2024-07-09</td>\n\
-    \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-2024-08</td>\n      <td>Canada's Energy Future</td>\n \
-    \     <td>2024-06-20</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n     \
-    \ <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-1235691</td>\n      <td>Building\
-    \ a Modern 21st Century Workforce</td>\n      <td>2024-08-13</td>\n      <td>2024-10-31</td>\n\
-    \      <td>O</td>\n      <td>esdc-edsc</td>\n    </tr>\n    <tr>\n      <td>C-0000972</td>\n\
-    \      <td>Share your ideas: Consultation on draft guidance on expanded access\
-    \ clinical trials</td>\n      <td>2024-08-02</td>\n      <td>2024-10-31</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>D00039</td>\n\
-    \      <td>Targeted Stakeholder Engagement to Inform Canada’s Public Safety Broadband\
-    \ Network (PSBN)</td>\n      <td>2024-07-01</td>\n      <td>2024-10-31</td>\n\
-    \      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>STC-0000067</td>\n\
-    \      <td>Share your feedback on the Labour Force Survey (LFS) Supplements Program</td>\n\
-    \      <td>2024-10-01</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n    \
-    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>STC-0000068</td>\n      <td>Share\
-    \ your input on the Survey of Household Spending (SHS)</td>\n      <td>2024-08-20</td>\n\
-    \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
-    \    <tr>\n      <td>1028</td>\n      <td>Potential legislative measures to support\
-    \ the high-frequency rail project</td>\n      <td>2024-08-26</td>\n      <td>2024-10-31</td>\n\
-    \      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-011126</td>\n\
-    \      <td>An artificial intelligence strategy for the federal public service</td>\n\
-    \      <td>2024-09-16</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n    \
-    \  <td>tbs-sct</td>\n    </tr>\n    <tr>\n      <td>C-000088</td>\n      <td>Share\
-    \ your thoughts: Proposed guidance on how to label and represent plant-based alternatives\
-    \ to egg products</td>\n      <td>2024-07-29</td>\n      <td>2024-10-28</td>\n\
-    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>0</td>\n\
-    \      <td>Review of the Physical Activities Regulations</td>\n      <td>2024-07-30</td>\n\
-    \      <td>2024-10-28</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
+    \    <tr>\n      <td>cta-otc-2024-2</td>\n      <td>Consultation on Proposal for\
+    \ Air Travel Complaints Fee</td>\n      <td>2024-09-18</td>\n      <td>2024-11-04</td>\n\
+    \      <td>O</td>\n      <td>cta-otc</td>\n    </tr>\n    <tr>\n      <td>C-2024-07</td>\n\
+    \      <td>Predictable and Efficient Processing and Assessment of Negligible-Risk\
+    \ and Low-Risk Activities</td>\n      <td>2024-07-09</td>\n      <td>2024-10-31</td>\n\
+    \      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-2024-08</td>\n\
+    \      <td>Canada's Energy Future</td>\n      <td>2024-06-20</td>\n      <td>2024-10-31</td>\n\
+    \      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-1235691</td>\n\
+    \      <td>Building a Modern 21st Century Workforce</td>\n      <td>2024-08-13</td>\n\
+    \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>esdc-edsc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000972</td>\n      <td>Share your ideas: Consultation\
+    \ on draft guidance on expanded access clinical trials</td>\n      <td>2024-08-02</td>\n\
+    \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>D00039</td>\n      <td>Targeted Stakeholder Engagement to\
+    \ Inform Canada’s Public Safety Broadband Network (PSBN)</td>\n      <td>2024-07-01</td>\n\
+    \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n\
+    \    <tr>\n      <td>STC-0000067</td>\n      <td>Share your feedback on the Labour\
+    \ Force Survey (LFS) Supplements Program</td>\n      <td>2024-10-01</td>\n   \
+    \   <td>2024-10-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
+    \    <tr>\n      <td>STC-0000068</td>\n      <td>Share your input on the Survey\
+    \ of Household Spending (SHS)</td>\n      <td>2024-08-20</td>\n      <td>2024-10-31</td>\n\
+    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>1028</td>\n\
+    \      <td>Potential legislative measures to support the high-frequency rail project</td>\n\
+    \      <td>2024-08-26</td>\n      <td>2024-10-31</td>\n      <td>P</td>\n    \
+    \  <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-011126</td>\n      <td>An artificial\
+    \ intelligence strategy for the federal public service</td>\n      <td>2024-09-16</td>\n\
+    \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>tbs-sct</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-000088</td>\n      <td>Share your thoughts: Proposed guidance\
+    \ on how to label and represent plant-based alternatives to egg products</td>\n\
+    \      <td>2024-07-29</td>\n      <td>2024-10-28</td>\n      <td>O</td>\n    \
+    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>0</td>\n      <td>Review\
+    \ of the Physical Activities Regulations</td>\n      <td>2024-07-30</td>\n   \
+    \   <td>2024-10-28</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
     \    <tr>\n      <td>C-202406</td>\n      <td>Updated policy on official languages\
     \ in procurement</td>\n      <td>2024-07-22</td>\n      <td>2024-10-28</td>\n\
     \      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-000160</td>\n\
@@ -425,19 +428,16 @@ status-website:
     \      <td>2024-10-25</td>\n      <td>O</td>\n      <td>ic</td>\n    </tr>\n \
     \   <tr>\n      <td>C-0000131</td>\n      <td>Public Engagement on The Lake Minnewanka\
     \ Area Plan</td>\n      <td>2024-08-23</td>\n      <td>2024-10-25</td>\n     \
-    \ <td>C</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000976</td>\n\
-    \      <td>Consultation: Annex 17 to the Good manufacturing practices guide -\
-    \ Real time release testing and parametric release (GUI-0046)</td>\n      <td>2024-09-10</td>\n\
-    \      <td>2024-10-24</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \  </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
-    \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
-    >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
-    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-000088</td>\n      <td>Share\
-    \ your thoughts: Proposed guidance on how to label and represent plant-based alternatives\
-    \ to egg products</td>\n      <td>2024-07-29</td>\n      <td>2024-10-28</td>\n\
-    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-202406</td>\n\
-    \      <td>Updated policy on official languages in procurement</td>\n      <td>2024-07-22</td>\n\
+    \ <td>C</td>\n      <td>pc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \ Listed as Open that should be closed</h3><table border=\"1\" class=\"dataframe\"\
+    >\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
+    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
+    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
+    \    <tr>\n      <td>C-000088</td>\n      <td>Share your thoughts: Proposed guidance\
+    \ on how to label and represent plant-based alternatives to egg products</td>\n\
+    \      <td>2024-07-29</td>\n      <td>2024-10-28</td>\n      <td>O</td>\n    \
+    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-202406</td>\n      <td>Updated\
+    \ policy on official languages in procurement</td>\n      <td>2024-07-22</td>\n\
     \      <td>2024-10-28</td>\n      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n   \
     \ </tr>\n    <tr>\n      <td>0</td>\n      <td>Review of the Physical Activities\
     \ Regulations</td>\n      <td>2024-07-30</td>\n      <td>2024-10-28</td>\n   \
