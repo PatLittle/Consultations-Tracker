@@ -39,8 +39,11 @@ sites:
   url: https://www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
 - name: 2022-23 Consultations on renewal of the Museum Policy
   url: https://www.canada.ca/en/canadian-heritage/campaigns/renewal-museum-policy.html
-- name: DIS-24-05, Proposals to amend REGDOC-3.2.1, Public Information and Disclosure
+- name: 'REGDOC-1.1.4, Licence Application Guide: Licence to Decommission a Reactor
+    Facility'
   url: https://www.cnsc-ccsn.gc.ca/eng/acts-and-regulations/consultation/
+- name: REGDOC-2.10.1, Nuclear Emergency Preparedness and Response, Version 3
+  url: https://www.cnsc-ccsn.gc.ca/eng/acts-and-regulations/consultation/regdoc2-10-1-v3-consultation/
 - name: Co-development of a new Indigenous Broadcasting Policy
   url: https://crtc.gc.ca/eng/archive/2019/2019-217.htm
 - name: Share your thoughts about closed captioning of programming from online streaming
@@ -139,9 +142,6 @@ sites:
     and practitioners in regulations made under the Controlled Drugs and Substances
     Act
   url: https://www.canada.ca/en/public-health/programs/consultation-updating-provisions-hospitals-practitioners-regulations-controlled-drugs-substances-act.html
-- name: 'Share your ideas: Consultation on draft guidance on expanded access clinical
-    trials'
-  url: https://www.canada.ca/en/health-canada/programs/consultation-draft-guidance-expanded-access-clinical-trials.html
 - name: Consultation on Clomazone, Proposed Maximum Residue Limit PMRL2024-17
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2024/clomazone.html
 - name: Consultation on rimsulfuron, Proposed Maximum Residue Limit PMRL2024-16
@@ -228,8 +228,6 @@ sites:
     Telecom Decision CRTC 2023-358
   url: https://canadagazette.gc.ca/rp-pr/p1/2024/2024-04-27/pdf/g1-15817.pdf
 - name: Amendments to Directive No 11R3, Surplus Income Directive
-  url: https://ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/public-consultations
-- name: Proposed Amendments to Directive No 23, Publication in Local Newspaper
   url: https://ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/public-consultations
 - name: Consultation on a Policy, and Licensing, and Technical Framework for Supplemental
     Mobile Coverage by Satellite
@@ -324,6 +322,8 @@ sites:
   url: https://www.statcan.gc.ca/en/consultation/2024/survey-household-spending
 - name: Watchlist 2020 mid-cycle consultation with industry
   url: https://www.tsb.gc.ca/eng/qui-about/relation.html
+- name: Watchlist 2025 mid-cycle consultations with industry
+  url: https://www.tsb.gc.ca/eng/surveillance-watchlist/2022.html
 - name: Oceans Protection Plan
   url: https://www.letstalktransportation.ca/OPP
 - name: OPP - Understanding the Cumulative Effects of Marine Vessel Activity on Coastal
@@ -373,37 +373,35 @@ status-website:
     \    </tr>\n    <tr>\n      <td>20241028</td>\n      <td>Share and view ideas:\
     \ Ghost Gear Program’s Gear Management Survey</td>\n      <td>2024-10-28</td>\n\
     \      <td>2024-11-30</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0232</td>\n      <td>Consultation on  Alternate Service\
-    \ Delivery Programs, Part II</td>\n      <td>2024-10-28</td>\n      <td>2024-12-23</td>\n\
-    \      <td>P</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-VAC0058</td>\n\
-    \      <td>2025 Women’s Forum</td>\n      <td>2024-10-28</td>\n      <td>2024-11-08</td>\n\
-    \      <td>O</td>\n      <td>vac-acc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
-    \ Ending +/- 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n\
-    \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
-    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
-    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>cta-otc-2024-2</td>\n      <td>Consultation on Proposal for\
-    \ Air Travel Complaints Fee</td>\n      <td>2024-09-18</td>\n      <td>2024-11-04</td>\n\
-    \      <td>O</td>\n      <td>cta-otc</td>\n    </tr>\n    <tr>\n      <td>656</td>\n\
-    \      <td>Options to Address Mandatory Wear of Lifejackets/Personal Floatation\
-    \ Devices on Pleasure Craft</td>\n      <td>2024-09-04</td>\n      <td>2024-11-04</td>\n\
-    \      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-2024-07</td>\n\
-    \      <td>Predictable and Efficient Processing and Assessment of Negligible-Risk\
-    \ and Low-Risk Activities</td>\n      <td>2024-07-09</td>\n      <td>2024-10-31</td>\n\
-    \      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-2024-08</td>\n\
-    \      <td>Canada's Energy Future</td>\n      <td>2024-06-20</td>\n      <td>2024-10-31</td>\n\
-    \      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-0000972</td>\n\
-    \      <td>Share your ideas: Consultation on draft guidance on expanded access\
-    \ clinical trials</td>\n      <td>2024-08-02</td>\n      <td>2024-10-31</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>D00039</td>\n\
-    \      <td>Targeted Stakeholder Engagement to Inform Canada’s Public Safety Broadband\
-    \ Network (PSBN)</td>\n      <td>2024-07-01</td>\n      <td>2024-10-31</td>\n\
-    \      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>STC-0000067</td>\n\
-    \      <td>Share your feedback on the Labour Force Survey (LFS) Supplements Program</td>\n\
-    \      <td>2024-10-01</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n    \
-    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>STC-0000068</td>\n      <td>Share\
-    \ your input on the Survey of Household Spending (SHS)</td>\n      <td>2024-08-20</td>\n\
-    \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-VAC0058</td>\n      <td>2025 Women’s Forum</td>\n     \
+    \ <td>2024-10-28</td>\n      <td>2024-11-08</td>\n      <td>O</td>\n      <td>vac-acc</td>\n\
+    \    </tr>\n  </tbody>\n</table><h3>Consultations Ending +/- 5 days from today</h3><table\
+    \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
+    >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
+    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>cta-otc-2024-2</td>\n   \
+    \   <td>Consultation on Proposal for Air Travel Complaints Fee</td>\n      <td>2024-09-18</td>\n\
+    \      <td>2024-11-04</td>\n      <td>O</td>\n      <td>cta-otc</td>\n    </tr>\n\
+    \    <tr>\n      <td>656</td>\n      <td>Options to Address Mandatory Wear of\
+    \ Lifejackets/Personal Floatation Devices on Pleasure Craft</td>\n      <td>2024-09-04</td>\n\
+    \      <td>2024-11-04</td>\n      <td>P</td>\n      <td>tc</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-2024-07</td>\n      <td>Predictable and Efficient Processing\
+    \ and Assessment of Negligible-Risk and Low-Risk Activities</td>\n      <td>2024-07-09</td>\n\
+    \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-2024-08</td>\n      <td>Canada's Energy Future</td>\n \
+    \     <td>2024-06-20</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n     \
+    \ <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-0000972</td>\n      <td>Share\
+    \ your ideas: Consultation on draft guidance on expanded access clinical trials</td>\n\
+    \      <td>2024-08-02</td>\n      <td>2024-10-31</td>\n      <td>C</td>\n    \
+    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>D00039</td>\n      <td>Targeted\
+    \ Stakeholder Engagement to Inform Canada’s Public Safety Broadband Network (PSBN)</td>\n\
+    \      <td>2024-07-01</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n    \
+    \  <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>STC-0000067</td>\n      <td>Share\
+    \ your feedback on the Labour Force Survey (LFS) Supplements Program</td>\n  \
+    \    <td>2024-10-01</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n      <td>statcan</td>\n\
+    \    </tr>\n    <tr>\n      <td>STC-0000068</td>\n      <td>Share your input on\
+    \ the Survey of Household Spending (SHS)</td>\n      <td>2024-08-20</td>\n   \
+    \   <td>2024-10-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
     \    <tr>\n      <td>C-011126</td>\n      <td>An artificial intelligence strategy\
     \ for the federal public service</td>\n      <td>2024-09-16</td>\n      <td>2024-10-31</td>\n\
     \      <td>O</td>\n      <td>tbs-sct</td>\n    </tr>\n    <tr>\n      <td>C-000088</td>\n\
