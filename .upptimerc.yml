@@ -359,7 +359,10 @@ status-website:
     \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
     >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>88867</td>\n      <td>Public\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-000052</td>\n      <td>Share\
+    \ your thoughts on the proposed code of conduct for bargaining under the Online\
+    \ News Act</td>\n      <td>2024-10-08</td>\n      <td>2024-11-07</td>\n      <td>O</td>\n\
+    \      <td>crtc</td>\n    </tr>\n    <tr>\n      <td>88867</td>\n      <td>Public\
     \ Comments Invited &amp; Information Sessions</td>\n      <td>2024-10-07</td>\n\
     \      <td>2024-11-06</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
     \    <tr>\n      <td>cta-otc-2024-2</td>\n      <td>Consultation on Proposal for\
