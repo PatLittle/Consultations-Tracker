@@ -354,52 +354,60 @@ status-website:
     \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
     >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C202408</td>\n      <td>REGDOC-1.1.4,\
-    \ Licence Application Guide: Licence to Decommission a Reactor Facility</td>\n\
-    \      <td>2024-07-25</td>\n      <td>2024-11-08</td>\n      <td>O</td>\n    \
-    \  <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>C-000051</td>\n      <td>Share\
-    \ your thoughts on the guidelines for consultations relating to official language\
-    \ minority communities and official languages</td>\n      <td>2024-09-09</td>\n\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0000978</td>\n      <td>Consultation\
+    \ on guidance for registrants and data holders for use or reliance on test data\
+    \ considered in support of re-evaluation and special review decisions, Regulatory\
+    \ Proposal PRO2024-04</td>\n      <td>2024-09-10</td>\n      <td>2024-11-09</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000977</td>\n\
+    \      <td>Notice: Consultation on the proposed agreement for data compensation\
+    \ under section 66 of the Pest Control Products Act for re-evaluation and special\
+    \ review decisions</td>\n      <td>2024-09-10</td>\n      <td>2024-11-09</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-DFO240327</td>\n\
+    \      <td>Engagement on the potential listing of Sei Whale (Atlantic Population)\
+    \ to the Species at Risk Act</td>\n      <td>2024-09-20</td>\n      <td>2024-11-08</td>\n\
+    \      <td>P</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>88867-1</td>\n\
+    \      <td>Rocky Creek Metallurgical Coal Project\\nPublic Notice\\nParticipant\
+    \ Funding Available</td>\n      <td>2024-10-09</td>\n      <td>2024-11-08</td>\n\
+    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-VAC0058</td>\n\
+    \      <td>2025 Women’s Forum</td>\n      <td>2024-10-28</td>\n      <td>2024-11-08</td>\n\
+    \      <td>O</td>\n      <td>vac-acc</td>\n    </tr>\n    <tr>\n      <td>C-000051</td>\n\
+    \      <td>Share your thoughts on the guidelines for consultations relating to\
+    \ official language minority communities and official languages</td>\n      <td>2024-09-09</td>\n\
     \      <td>2024-11-08</td>\n      <td>O</td>\n      <td>crtc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-DFO240327</td>\n      <td>Engagement on the potential listing\
-    \ of Sei Whale (Atlantic Population) to the Species at Risk Act</td>\n      <td>2024-09-20</td>\n\
-    \      <td>2024-11-08</td>\n      <td>P</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>88867-1</td>\n      <td>Rocky Creek Metallurgical Coal Project\\\
-    nPublic Notice\\nParticipant Funding Available</td>\n      <td>2024-10-09</td>\n\
-    \      <td>2024-11-08</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-VAC0058</td>\n      <td>2025 Women’s Forum</td>\n     \
-    \ <td>2024-10-28</td>\n      <td>2024-11-08</td>\n      <td>O</td>\n      <td>vac-acc</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-000052</td>\n      <td>Share your thoughts on\
-    \ the proposed code of conduct for bargaining under the Online News Act</td>\n\
-    \      <td>2024-10-08</td>\n      <td>2024-11-07</td>\n      <td>O</td>\n    \
-    \  <td>crtc</td>\n    </tr>\n    <tr>\n      <td>88867</td>\n      <td>Public\
-    \ Comments Invited &amp; Information Sessions</td>\n      <td>2024-10-07</td>\n\
-    \      <td>2024-11-06</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
-    \    <tr>\n      <td>cta-otc-2024-2</td>\n      <td>Consultation on Proposal for\
-    \ Air Travel Complaints Fee</td>\n      <td>2024-09-18</td>\n      <td>2024-11-04</td>\n\
-    \      <td>O</td>\n      <td>cta-otc</td>\n    </tr>\n    <tr>\n      <td>656</td>\n\
-    \      <td>Options to Address Mandatory Wear of Lifejackets/Personal Floatation\
-    \ Devices on Pleasure Craft</td>\n      <td>2024-09-04</td>\n      <td>2024-11-04</td>\n\
-    \      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-2024-07</td>\n\
-    \      <td>Predictable and Efficient Processing and Assessment of Negligible-Risk\
-    \ and Low-Risk Activities</td>\n      <td>2024-07-09</td>\n      <td>2024-10-31</td>\n\
-    \      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-2024-08</td>\n\
-    \      <td>Canada's Energy Future</td>\n      <td>2024-06-20</td>\n      <td>2024-10-31</td>\n\
-    \      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-0000972</td>\n\
-    \      <td>Share your ideas: Consultation on draft guidance on expanded access\
-    \ clinical trials</td>\n      <td>2024-08-02</td>\n      <td>2024-10-31</td>\n\
-    \      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>D00039</td>\n\
-    \      <td>Targeted Stakeholder Engagement to Inform Canada’s Public Safety Broadband\
-    \ Network (PSBN)</td>\n      <td>2024-07-01</td>\n      <td>2024-10-31</td>\n\
-    \      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>STC-0000067</td>\n\
-    \      <td>Share your feedback on the Labour Force Survey (LFS) Supplements Program</td>\n\
-    \      <td>2024-10-01</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n    \
-    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>STC-0000068</td>\n      <td>Share\
-    \ your input on the Survey of Household Spending (SHS)</td>\n      <td>2024-08-20</td>\n\
-    \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
+    \    <tr>\n      <td>C202408</td>\n      <td>REGDOC-1.1.4, Licence Application\
+    \ Guide: Licence to Decommission a Reactor Facility</td>\n      <td>2024-07-25</td>\n\
+    \      <td>2024-11-08</td>\n      <td>O</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-000052</td>\n      <td>Share your thoughts on the proposed\
+    \ code of conduct for bargaining under the Online News Act</td>\n      <td>2024-10-08</td>\n\
+    \      <td>2024-11-07</td>\n      <td>O</td>\n      <td>crtc</td>\n    </tr>\n\
+    \    <tr>\n      <td>88867</td>\n      <td>Public Comments Invited &amp; Information\
+    \ Sessions</td>\n      <td>2024-10-07</td>\n      <td>2024-11-06</td>\n      <td>O</td>\n\
+    \      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>cta-otc-2024-2</td>\n\
+    \      <td>Consultation on Proposal for Air Travel Complaints Fee</td>\n     \
+    \ <td>2024-09-18</td>\n      <td>2024-11-04</td>\n      <td>O</td>\n      <td>cta-otc</td>\n\
+    \    </tr>\n    <tr>\n      <td>656</td>\n      <td>Options to Address Mandatory\
+    \ Wear of Lifejackets/Personal Floatation Devices on Pleasure Craft</td>\n   \
+    \   <td>2024-09-04</td>\n      <td>2024-11-04</td>\n      <td>P</td>\n      <td>tc</td>\n\
+    \    </tr>\n    <tr>\n      <td>C-0000972</td>\n      <td>Share your ideas: Consultation\
+    \ on draft guidance on expanded access clinical trials</td>\n      <td>2024-08-02</td>\n\
+    \      <td>2024-10-31</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-2024-08</td>\n      <td>Canada's Energy Future</td>\n \
+    \     <td>2024-06-20</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n     \
+    \ <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>D00039</td>\n      <td>Targeted\
+    \ Stakeholder Engagement to Inform Canada’s Public Safety Broadband Network (PSBN)</td>\n\
+    \      <td>2024-07-01</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n    \
+    \  <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>STC-0000067</td>\n      <td>Share\
+    \ your feedback on the Labour Force Survey (LFS) Supplements Program</td>\n  \
+    \    <td>2024-10-01</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n      <td>statcan</td>\n\
+    \    </tr>\n    <tr>\n      <td>STC-0000068</td>\n      <td>Share your input on\
+    \ the Survey of Household Spending (SHS)</td>\n      <td>2024-08-20</td>\n   \
+    \   <td>2024-10-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
     \    <tr>\n      <td>C-011126</td>\n      <td>An artificial intelligence strategy\
     \ for the federal public service</td>\n      <td>2024-09-16</td>\n      <td>2024-10-31</td>\n\
-    \      <td>C</td>\n      <td>tbs-sct</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \      <td>C</td>\n      <td>tbs-sct</td>\n    </tr>\n    <tr>\n      <td>C-2024-07</td>\n\
+    \      <td>Predictable and Efficient Processing and Assessment of Negligible-Risk\
+    \ and Low-Risk Activities</td>\n      <td>2024-07-09</td>\n      <td>2024-10-31</td>\n\
+    \      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
     \ Listed as Open that should be closed</h3><table border=\"1\" class=\"dataframe\"\
     >\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
     \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
