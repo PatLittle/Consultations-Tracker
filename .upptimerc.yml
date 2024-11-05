@@ -353,7 +353,7 @@ status-website:
     \      <td>O</td>\n      <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C0000583</td>\n\
     \      <td>Consulting Canadians on the proposed addition of Brazil and Montenegro\
     \ to the Automatic Firearms Country Control List (AFCCL)</td>\n      <td>2024-11-04</td>\n\
-    \      <td>2024-12-03</td>\n      <td>P</td>\n      <td>dfatd-maecd</td>\n   \
+    \      <td>2024-12-03</td>\n      <td>O</td>\n      <td>dfatd-maecd</td>\n   \
     \ </tr>\n  </tbody>\n</table><h3>Consultations Ending +/- 5 days from today</h3><table\
     \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
     >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
