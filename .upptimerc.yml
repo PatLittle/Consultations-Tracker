@@ -19,9 +19,6 @@ sites:
   url: https://www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
 - name: 2022-23 Consultations on renewal of the Museum Policy
   url: https://www.canada.ca/en/canadian-heritage/campaigns/renewal-museum-policy.html
-- name: 'REGDOC-1.1.4, Licence Application Guide: Licence to Decommission a Reactor
-    Facility'
-  url: https://www.cnsc-ccsn.gc.ca/eng/acts-and-regulations/consultation/
 - name: REGDOC-2.10.1, Nuclear Emergency Preparedness and Response, Version 3
   url: https://www.cnsc-ccsn.gc.ca/eng/acts-and-regulations/consultation/regdoc2-10-1-v3-consultation/
 - name: Co-development of a new Indigenous Broadcasting Policy
@@ -390,7 +387,7 @@ status-website:
     \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C202408</td>\n\
     \      <td>REGDOC-1.1.4, Licence Application Guide: Licence to Decommission a\
     \ Reactor Facility</td>\n      <td>2024-07-25</td>\n      <td>2024-11-08</td>\n\
-    \      <td>O</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>C-000051</td>\n\
+    \      <td>C</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>C-000051</td>\n\
     \      <td>Share your thoughts on the guidelines for consultations relating to\
     \ official language minority communities and official languages</td>\n      <td>2024-09-09</td>\n\
     \      <td>2024-11-08</td>\n      <td>C</td>\n      <td>crtc</td>\n    </tr>\n\
@@ -415,10 +412,7 @@ status-website:
     \      <td>Notice: Consultation on the proposed agreement for data compensation\
     \ under section 66 of the Pest Control Products Act for re-evaluation and special\
     \ review decisions</td>\n      <td>2024-09-10</td>\n      <td>2024-11-09</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C202408</td>\n\
-    \      <td>REGDOC-1.1.4, Licence Application Guide: Licence to Decommission a\
-    \ Reactor Facility</td>\n      <td>2024-07-25</td>\n      <td>2024-11-08</td>\n\
-    \      <td>O</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>88867-1</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>88867-1</td>\n\
     \      <td>Rocky Creek Metallurgical Coal Project\\nPublic Notice\\nParticipant\
     \ Funding Available</td>\n      <td>2024-10-09</td>\n      <td>2024-11-08</td>\n\
     \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>88867</td>\n\
@@ -426,13 +420,13 @@ status-website:
     \      <td>2024-11-06</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
     \    <tr>\n      <td>cta-otc-2024-2</td>\n      <td>Consultation on Proposal for\
     \ Air Travel Complaints Fee</td>\n      <td>2024-09-18</td>\n      <td>2024-11-04</td>\n\
-    \      <td>O</td>\n      <td>cta-otc</td>\n    </tr>\n    <tr>\n      <td>D00039</td>\n\
-    \      <td>Targeted Stakeholder Engagement to Inform Canada’s Public Safety Broadband\
-    \ Network (PSBN)</td>\n      <td>2024-07-01</td>\n      <td>2024-10-31</td>\n\
-    \      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>STC-0000067</td>\n\
+    \      <td>O</td>\n      <td>cta-otc</td>\n    </tr>\n    <tr>\n      <td>STC-0000067</td>\n\
     \      <td>Share your feedback on the Labour Force Survey (LFS) Supplements Program</td>\n\
     \      <td>2024-10-01</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n    \
-    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>STC-0000068</td>\n      <td>Share\
+    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>D00039</td>\n      <td>Targeted\
+    \ Stakeholder Engagement to Inform Canada’s Public Safety Broadband Network (PSBN)</td>\n\
+    \      <td>2024-07-01</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n    \
+    \  <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>STC-0000068</td>\n      <td>Share\
     \ your input on the Survey of Household Spending (SHS)</td>\n      <td>2024-08-20</td>\n\
     \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
     \    <tr>\n      <td>C-202406</td>\n      <td>Updated policy on official languages\
@@ -461,13 +455,13 @@ status-website:
     \ 2023</td>\n      <td>2023-10-24</td>\n      <td>2024-09-30</td>\n      <td>O</td>\n\
     \      <td>jus</td>\n    </tr>\n    <tr>\n      <td>C-003232</td>\n      <td>National\
     \ Freshwater Data Strategy</td>\n      <td>2024-07-26</td>\n      <td>2024-09-15</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000127</td>\n\
-    \      <td>Visitor Use Management - Jasper National Park</td>\n      <td>2024-06-18</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000723</td>\n\
+    \      <td>Pre-consultations on Amendment 19 to the Energy Efficiency Regulations</td>\n\
+    \      <td>2024-05-27</td>\n      <td>2024-09-13</td>\n      <td>O</td>\n    \
+    \  <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>C-0000127</td>\n     \
+    \ <td>Visitor Use Management - Jasper National Park</td>\n      <td>2024-06-18</td>\n\
     \      <td>2024-09-13</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-0000723</td>\n      <td>Pre-consultations on Amendment 19\
-    \ to the Energy Efficiency Regulations</td>\n      <td>2024-05-27</td>\n     \
-    \ <td>2024-09-13</td>\n      <td>O</td>\n      <td>nrcan-rncan</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-20240907</td>\n      <td>Possession and Export of Elvers\
+    \   <tr>\n      <td>C-20240907</td>\n      <td>Possession and Export of Elvers\
     \ Regulations</td>\n      <td>2024-06-29</td>\n      <td>2024-09-07</td>\n   \
     \   <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-003267</td>\n\
     \      <td>Share and view ideas: Consultation addressing plastic waste and pollution\
