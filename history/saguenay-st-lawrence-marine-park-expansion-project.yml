@@ -1,7 +1,7 @@
 url: https://parcmarin.qc.ca/consultations/home/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-12T01:43:36.699Z
+status: up
+code: 200
+responseTime: 902
+lastUpdated: 2024-11-12T04:27:30.473Z
 startTime: 2024-10-25T16:29:28.311Z
 generator: Upptime <https://github.com/upptime/upptime>
