@@ -235,8 +235,6 @@ sites:
   url: https://www.canada.ca/en/department-national-defence/services/benefits-military/legal-services/victim-service-offence.html
 - name: Social systems professional services
   url: www.marsdd.com
-- name: Canadian Military College Review Board - Public Consultation Research
-  url: https://www.canada.ca/en/department-national-defence/services/conduct-and-culture/consultation-and-engagement-on-culture/canadian-military-college-review-board-public-consultation-research.html
 - name: Canada Offshore Renewable Energy Regulations
   url: https://www.rncanengagenrcan.ca/en/collections/offshore-renewable-energy-regulations-initiative
 - name: Indigenous Ministerial Arrangements Regulations
@@ -417,13 +415,13 @@ status-website:
     \      <td>Notice: Consultation on the proposed agreement for data compensation\
     \ under section 66 of the Pest Control Products Act for re-evaluation and special\
     \ review decisions</td>\n      <td>2024-09-10</td>\n      <td>2024-11-09</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>88867-1</td>\n\
-    \      <td>Rocky Creek Metallurgical Coal Project\\nPublic Notice\\nParticipant\
-    \ Funding Available</td>\n      <td>2024-10-09</td>\n      <td>2024-11-08</td>\n\
-    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C202408</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C202408</td>\n\
     \      <td>REGDOC-1.1.4, Licence Application Guide: Licence to Decommission a\
     \ Reactor Facility</td>\n      <td>2024-07-25</td>\n      <td>2024-11-08</td>\n\
-    \      <td>O</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>88867</td>\n\
+    \      <td>O</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>88867-1</td>\n\
+    \      <td>Rocky Creek Metallurgical Coal Project\\nPublic Notice\\nParticipant\
+    \ Funding Available</td>\n      <td>2024-10-09</td>\n      <td>2024-11-08</td>\n\
+    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>88867</td>\n\
     \      <td>Public Comments Invited &amp; Information Sessions</td>\n      <td>2024-10-07</td>\n\
     \      <td>2024-11-06</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
     \    <tr>\n      <td>cta-otc-2024-2</td>\n      <td>Consultation on Proposal for\
@@ -461,30 +459,28 @@ status-website:
     \ <td>Council of Europe Second Additional Protocol to the Convention on Cybercrime\
     \ on Enhanced Cooperation and Disclosure of Electronic Evidence\\nConsultations,\
     \ 2023</td>\n      <td>2023-10-24</td>\n      <td>2024-09-30</td>\n      <td>O</td>\n\
-    \      <td>jus</td>\n    </tr>\n    <tr>\n      <td>C-CMCRB2024</td>\n      <td>Canadian\
-    \ Military College Review Board - Public Consultation Research</td>\n      <td>2024-06-12</td>\n\
-    \      <td>2024-09-15</td>\n      <td>O</td>\n      <td>dnd-mdn</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-003232</td>\n      <td>National Freshwater Data Strategy</td>\n\
-    \      <td>2024-07-26</td>\n      <td>2024-09-15</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000723</td>\n      <td>Pre-consultations\
-    \ on Amendment 19 to the Energy Efficiency Regulations</td>\n      <td>2024-05-27</td>\n\
-    \      <td>2024-09-13</td>\n      <td>O</td>\n      <td>nrcan-rncan</td>\n   \
-    \ </tr>\n    <tr>\n      <td>C-0000127</td>\n      <td>Visitor Use Management\
-    \ - Jasper National Park</td>\n      <td>2024-06-18</td>\n      <td>2024-09-13</td>\n\
-    \      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-20240907</td>\n\
-    \      <td>Possession and Export of Elvers Regulations</td>\n      <td>2024-06-29</td>\n\
-    \      <td>2024-09-07</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-003267</td>\n      <td>Share and view ideas: Consultation\
-    \ addressing plastic waste and pollution from the textile and apparel sector</td>\n\
-    \      <td>2024-07-04</td>\n      <td>2024-09-01</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C--202303</td>\n      <td>Alexandra\
-    \ Bridge Replacement Project</td>\n      <td>2023-10-01</td>\n      <td>2024-08-31</td>\n\
-    \      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-20240308</td>\n\
-    \      <td>Consultation on the Silver Chub Recovery Strategy &amp; Action Plan\
-    \ under the Species at Risk Act</td>\n      <td>2024-06-18</td>\n      <td>2024-08-17</td>\n\
-    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-003227</td>\n\
-    \      <td>Comment on: Draft Canada-Saskatchewan Equivalency Agreement on coal-fired\
-    \ electricity regulations (2025-2026)</td>\n      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n\
+    \      <td>jus</td>\n    </tr>\n    <tr>\n      <td>C-003232</td>\n      <td>National\
+    \ Freshwater Data Strategy</td>\n      <td>2024-07-26</td>\n      <td>2024-09-15</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000127</td>\n\
+    \      <td>Visitor Use Management - Jasper National Park</td>\n      <td>2024-06-18</td>\n\
+    \      <td>2024-09-13</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-0000723</td>\n      <td>Pre-consultations on Amendment 19\
+    \ to the Energy Efficiency Regulations</td>\n      <td>2024-05-27</td>\n     \
+    \ <td>2024-09-13</td>\n      <td>O</td>\n      <td>nrcan-rncan</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-20240907</td>\n      <td>Possession and Export of Elvers\
+    \ Regulations</td>\n      <td>2024-06-29</td>\n      <td>2024-09-07</td>\n   \
+    \   <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-003267</td>\n\
+    \      <td>Share and view ideas: Consultation addressing plastic waste and pollution\
+    \ from the textile and apparel sector</td>\n      <td>2024-07-04</td>\n      <td>2024-09-01</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C--202303</td>\n\
+    \      <td>Alexandra Bridge Replacement Project</td>\n      <td>2023-10-01</td>\n\
+    \      <td>2024-08-31</td>\n      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n   \
+    \ </tr>\n    <tr>\n      <td>C-20240308</td>\n      <td>Consultation on the Silver\
+    \ Chub Recovery Strategy &amp; Action Plan under the Species at Risk Act</td>\n\
+    \      <td>2024-06-18</td>\n      <td>2024-08-17</td>\n      <td>O</td>\n    \
+    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-003227</td>\n      <td>Comment\
+    \ on: Draft Canada-Saskatchewan Equivalency Agreement on coal-fired electricity\
+    \ regulations (2025-2026)</td>\n      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n\
     \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20240615</td>\n\
     \      <td>Construction of a waterfront wharf at Pointe-Basse Harbour in Magdalen\
     \ Islands</td>\n      <td>2024-07-02</td>\n      <td>2024-08-05</td>\n      <td>O</td>\n\
