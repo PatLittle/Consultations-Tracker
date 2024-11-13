@@ -31,8 +31,6 @@ sites:
 - name: Share your thoughts on a temporary fund to support local news production by
     commercial radio stations
   url: https://crtc.gc.ca/eng/consultation/local.htm
-- name: Consultation on Proposal for Air Travel Complaints Fee
-  url: https://otc-cta.gc.ca/eng/consultation/consultation-proposal-air-travel-complaints-fee
 - name: Consultations on the Taxation of Vacant Lands
   url: https://www.canada.ca/en/department-finance/programs/consultations/2024/consultations-on-the-taxation-of-vacant-lands.html
 - name: Council of Europe Second Additional Protocol to the Convention on Cybercrime
@@ -412,63 +410,60 @@ status-website:
     \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>88867</td>\n\
     \      <td>Public Comments Invited &amp; Information Sessions</td>\n      <td>2024-10-07</td>\n\
     \      <td>2024-11-06</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
-    \    <tr>\n      <td>cta-otc-2024-2</td>\n      <td>Consultation on Proposal for\
-    \ Air Travel Complaints Fee</td>\n      <td>2024-09-18</td>\n      <td>2024-11-04</td>\n\
-    \      <td>O</td>\n      <td>cta-otc</td>\n    </tr>\n    <tr>\n      <td>STC-0000067</td>\n\
-    \      <td>Share your feedback on the Labour Force Survey (LFS) Supplements Program</td>\n\
-    \      <td>2024-10-01</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n    \
-    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>D00039</td>\n      <td>Targeted\
-    \ Stakeholder Engagement to Inform Canada’s Public Safety Broadband Network (PSBN)</td>\n\
-    \      <td>2024-07-01</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n    \
-    \  <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>STC-0000068</td>\n      <td>Share\
-    \ your input on the Survey of Household Spending (SHS)</td>\n      <td>2024-08-20</td>\n\
-    \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-202406</td>\n      <td>Updated policy on official languages\
-    \ in procurement</td>\n      <td>2024-07-22</td>\n      <td>2024-10-28</td>\n\
-    \      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-0235</td>\n\
-    \      <td>Consultation on a Policy, and Licensing, and Technical Framework for\
-    \ Supplemental Mobile Coverage by Satellite</td>\n      <td>2024-06-17</td>\n\
-    \      <td>2024-10-25</td>\n      <td>O</td>\n      <td>ic</td>\n    </tr>\n \
-    \   <tr>\n      <td>DFO20230131-09</td>\n      <td>Canada's (Draft) Ocean Noise\
-    \ Strategy</td>\n      <td>2024-08-23</td>\n      <td>2024-10-22</td>\n      <td>O</td>\n\
-    \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-003196</td>\n      <td>Consultation\
-    \ on Amending the List of Species under the Species at Risk Act: Terrestrial Species\
-    \ December 2023</td>\n      <td>2023-12-13</td>\n      <td>2024-10-16</td>\n \
-    \     <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0238</td>\n\
-    \      <td>Improving Indigenous Access to Spectrum: Draft Indigenous Priority\
-    \ Window Spectrum Policy Framework</td>\n      <td>2024-01-30</td>\n      <td>2024-10-01</td>\n\
-    \      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>687</td>\n\
-    \      <td>TBD: Adopting Global Technical Regulations 13 and 20 for Zero Emission\
-    \ Vehicle Safety (Electric Battery and Hydrogen)</td>\n      <td>2024-07-29</td>\n\
-    \      <td>2024-09-30</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n \
-    \   <tr>\n      <td>DFO20240627</td>\n      <td>Ghost Gear Update and Path Forward\
+    \    <tr>\n      <td>STC-0000067</td>\n      <td>Share your feedback on the Labour\
+    \ Force Survey (LFS) Supplements Program</td>\n      <td>2024-10-01</td>\n   \
+    \   <td>2024-10-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
+    \    <tr>\n      <td>D00039</td>\n      <td>Targeted Stakeholder Engagement to\
+    \ Inform Canada’s Public Safety Broadband Network (PSBN)</td>\n      <td>2024-07-01</td>\n\
+    \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n\
+    \    <tr>\n      <td>STC-0000068</td>\n      <td>Share your input on the Survey\
+    \ of Household Spending (SHS)</td>\n      <td>2024-08-20</td>\n      <td>2024-10-31</td>\n\
+    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-202406</td>\n\
+    \      <td>Updated policy on official languages in procurement</td>\n      <td>2024-07-22</td>\n\
+    \      <td>2024-10-28</td>\n      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n   \
+    \ </tr>\n    <tr>\n      <td>C-0235</td>\n      <td>Consultation on a Policy,\
+    \ and Licensing, and Technical Framework for Supplemental Mobile Coverage by Satellite</td>\n\
+    \      <td>2024-06-17</td>\n      <td>2024-10-25</td>\n      <td>O</td>\n    \
+    \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>DFO20230131-09</td>\n      <td>Canada's\
+    \ (Draft) Ocean Noise Strategy</td>\n      <td>2024-08-23</td>\n      <td>2024-10-22</td>\n\
+    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-003196</td>\n\
+    \      <td>Consultation on Amending the List of Species under the Species at Risk\
+    \ Act: Terrestrial Species December 2023</td>\n      <td>2023-12-13</td>\n   \
+    \   <td>2024-10-16</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n\
+    \      <td>C-0238</td>\n      <td>Improving Indigenous Access to Spectrum: Draft\
+    \ Indigenous Priority Window Spectrum Policy Framework</td>\n      <td>2024-01-30</td>\n\
+    \      <td>2024-10-01</td>\n      <td>O</td>\n      <td>ic</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-0000102</td>\n      <td>Council of Europe Second Additional\
+    \ Protocol to the Convention on Cybercrime on Enhanced Cooperation and Disclosure\
+    \ of Electronic Evidence\\nConsultations, 2023</td>\n      <td>2023-10-24</td>\n\
+    \      <td>2024-09-30</td>\n      <td>O</td>\n      <td>jus</td>\n    </tr>\n\
+    \    <tr>\n      <td>DFO20240627</td>\n      <td>Ghost Gear Update and Path Forward\
     \ Meetings</td>\n      <td>2024-06-27</td>\n      <td>2024-09-30</td>\n      <td>O</td>\n\
-    \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0000102</td>\n     \
-    \ <td>Council of Europe Second Additional Protocol to the Convention on Cybercrime\
-    \ on Enhanced Cooperation and Disclosure of Electronic Evidence\\nConsultations,\
-    \ 2023</td>\n      <td>2023-10-24</td>\n      <td>2024-09-30</td>\n      <td>O</td>\n\
-    \      <td>jus</td>\n    </tr>\n    <tr>\n      <td>C-003232</td>\n      <td>National\
-    \ Freshwater Data Strategy</td>\n      <td>2024-07-26</td>\n      <td>2024-09-15</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000723</td>\n\
-    \      <td>Pre-consultations on Amendment 19 to the Energy Efficiency Regulations</td>\n\
-    \      <td>2024-05-27</td>\n      <td>2024-09-13</td>\n      <td>O</td>\n    \
-    \  <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>C-0000127</td>\n     \
-    \ <td>Visitor Use Management - Jasper National Park</td>\n      <td>2024-06-18</td>\n\
-    \      <td>2024-09-13</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-20240907</td>\n      <td>Possession and Export of Elvers\
-    \ Regulations</td>\n      <td>2024-06-29</td>\n      <td>2024-09-07</td>\n   \
-    \   <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-003267</td>\n\
-    \      <td>Share and view ideas: Consultation addressing plastic waste and pollution\
-    \ from the textile and apparel sector</td>\n      <td>2024-07-04</td>\n      <td>2024-09-01</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C--202303</td>\n\
-    \      <td>Alexandra Bridge Replacement Project</td>\n      <td>2023-10-01</td>\n\
-    \      <td>2024-08-31</td>\n      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n   \
-    \ </tr>\n    <tr>\n      <td>C-20240308</td>\n      <td>Consultation on the Silver\
-    \ Chub Recovery Strategy &amp; Action Plan under the Species at Risk Act</td>\n\
-    \      <td>2024-06-18</td>\n      <td>2024-08-17</td>\n      <td>O</td>\n    \
-    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-003227</td>\n      <td>Comment\
-    \ on: Draft Canada-Saskatchewan Equivalency Agreement on coal-fired electricity\
-    \ regulations (2025-2026)</td>\n      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n\
+    \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>687</td>\n      <td>TBD:\
+    \ Adopting Global Technical Regulations 13 and 20 for Zero Emission Vehicle Safety\
+    \ (Electric Battery and Hydrogen)</td>\n      <td>2024-07-29</td>\n      <td>2024-09-30</td>\n\
+    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-003232</td>\n\
+    \      <td>National Freshwater Data Strategy</td>\n      <td>2024-07-26</td>\n\
+    \      <td>2024-09-15</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-0000723</td>\n      <td>Pre-consultations on Amendment 19\
+    \ to the Energy Efficiency Regulations</td>\n      <td>2024-05-27</td>\n     \
+    \ <td>2024-09-13</td>\n      <td>O</td>\n      <td>nrcan-rncan</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000127</td>\n      <td>Visitor Use Management - Jasper\
+    \ National Park</td>\n      <td>2024-06-18</td>\n      <td>2024-09-13</td>\n \
+    \     <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-20240907</td>\n\
+    \      <td>Possession and Export of Elvers Regulations</td>\n      <td>2024-06-29</td>\n\
+    \      <td>2024-09-07</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-003267</td>\n      <td>Share and view ideas: Consultation\
+    \ addressing plastic waste and pollution from the textile and apparel sector</td>\n\
+    \      <td>2024-07-04</td>\n      <td>2024-09-01</td>\n      <td>O</td>\n    \
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C--202303</td>\n      <td>Alexandra\
+    \ Bridge Replacement Project</td>\n      <td>2023-10-01</td>\n      <td>2024-08-31</td>\n\
+    \      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-20240308</td>\n\
+    \      <td>Consultation on the Silver Chub Recovery Strategy &amp; Action Plan\
+    \ under the Species at Risk Act</td>\n      <td>2024-06-18</td>\n      <td>2024-08-17</td>\n\
+    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-003227</td>\n\
+    \      <td>Comment on: Draft Canada-Saskatchewan Equivalency Agreement on coal-fired\
+    \ electricity regulations (2025-2026)</td>\n      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n\
     \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20240615</td>\n\
     \      <td>Construction of a waterfront wharf at Pointe-Basse Harbour in Magdalen\
     \ Islands</td>\n      <td>2024-07-02</td>\n      <td>2024-08-05</td>\n      <td>O</td>\n\
