@@ -346,13 +346,10 @@ status-website:
     \      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0000994</td>\n\
     \      <td>Notice of intent — Consultation on modernizing the medical device establishment\
     \ licensing framework (Phase II)</td>\n      <td>2024-11-08</td>\n      <td>2024-12-09</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000993</td>\n\
-    \      <td>Consultation on spinosad, Proposed Maximum Residue Limit PMRL2024-23</td>\n\
-    \      <td>2024-11-07</td>\n      <td>2025-01-21</td>\n      <td>O</td>\n    \
-    \  <td>hc-sc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Ending +/-\
-    \ 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n\
-    \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
-    \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \ Ending +/- 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n\
+    \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
+    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
     \    <tr>\n      <td>C-000048</td>\n      <td>Share your thoughts about closed\
     \ captioning of programming from online streaming services</td>\n      <td>2024-09-10</td>\n\
@@ -397,9 +394,6 @@ status-website:
     \    <tr>\n      <td>88867-1</td>\n      <td>Rocky Creek Metallurgical Coal Project\\\
     nPublic Notice\\nParticipant Funding Available</td>\n      <td>2024-10-09</td>\n\
     \      <td>2024-11-08</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-000052</td>\n      <td>Share your thoughts on the proposed\
-    \ code of conduct for bargaining under the Online News Act</td>\n      <td>2024-10-08</td>\n\
-    \      <td>2024-11-07</td>\n      <td>C</td>\n      <td>crtc</td>\n    </tr>\n\
     \  </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
     \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
     >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
