@@ -46,25 +46,18 @@ sites:
 - name: 'Consultation on Amending the List of Species under the Species at Risk Act:
     Terrestrial Species December 2023'
   url: https://species-registry.canada.ca/index-en.html#/documents/1171
-- name: Dolphin and Union Caribou pre-listing consultations
-  url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/review-environmental-violations-administrative-monetary-penalties-regulations.html
 - name: 'Comment on: Draft Canada-Saskatchewan Equivalency Agreement on coal-fired
     electricity regulations (2025-2026)'
   url: https://www.canada.ca/en/environment-climate-change/services/canadian-environmental-protection-act-registry/agreements/equivalency/canada-saskatchewan-greenhouse-gas-electricity-producers-2025.html
-- name: National Freshwater Data Strategy
-  url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/national-freshwater-data-strategy.html
 - name: Draft implementation framework for a Right to a Healthy Environment in the
     Canadian Environmental Protection Act, 1999
   url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/draft-implementation-framework.html
 - name: Proposed Coal Mining Effluent Regulations
   url: https://www.canada.ca/en/environment-climate-change/services/managing-pollution/sources-industry/mining-effluent/proposed-coal-mining-effluent-regulations.html
 - name: Proposed Plan of Priorities
-  url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/red-lake-mine-project.html
+  url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/proposed-plan-priorities.html
 - name: Proposed Watch List Approach
   url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/proposed-watch-list.html
-- name: 'Share and view ideas: Consultation addressing plastic waste and pollution
-    from the textile and apparel sector'
-  url: https://canada.ca/en/environment-climate-change/services/managing-reducing-waste/consultations/roadmap-plastic-waste-pollution-textile-apparel-sector.html
 - name: Eastern Shore Islands Area of Interest Consultations
   url: http://www.dfo-mpo.gc.ca/oceans/consultations/easternshore-ilescoteest/index-eng.html
 - name: Northern Gulf of St. Lawrence Study Area
@@ -385,16 +378,16 @@ status-website:
     \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>88867</td>\n      <td>Public\
     \ Comments Invited &amp; Information Sessions</td>\n      <td>2024-10-07</td>\n\
     \      <td>2024-11-06</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
-    \    <tr>\n      <td>STC-0000067</td>\n      <td>Share your feedback on the Labour\
-    \ Force Survey (LFS) Supplements Program</td>\n      <td>2024-10-01</td>\n   \
-    \   <td>2024-10-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
-    \    <tr>\n      <td>D00039</td>\n      <td>Targeted Stakeholder Engagement to\
-    \ Inform Canada’s Public Safety Broadband Network (PSBN)</td>\n      <td>2024-07-01</td>\n\
-    \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n\
     \    <tr>\n      <td>STC-0000068</td>\n      <td>Share your input on the Survey\
     \ of Household Spending (SHS)</td>\n      <td>2024-08-20</td>\n      <td>2024-10-31</td>\n\
-    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-202406</td>\n\
-    \      <td>Updated policy on official languages in procurement</td>\n      <td>2024-07-22</td>\n\
+    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>D00039</td>\n\
+    \      <td>Targeted Stakeholder Engagement to Inform Canada’s Public Safety Broadband\
+    \ Network (PSBN)</td>\n      <td>2024-07-01</td>\n      <td>2024-10-31</td>\n\
+    \      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>STC-0000067</td>\n\
+    \      <td>Share your feedback on the Labour Force Survey (LFS) Supplements Program</td>\n\
+    \      <td>2024-10-01</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n    \
+    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-202406</td>\n      <td>Updated\
+    \ policy on official languages in procurement</td>\n      <td>2024-07-22</td>\n\
     \      <td>2024-10-28</td>\n      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n   \
     \ </tr>\n    <tr>\n      <td>C-0235</td>\n      <td>Consultation on a Policy,\
     \ and Licensing, and Technical Framework for Supplemental Mobile Coverage by Satellite</td>\n\
@@ -405,51 +398,43 @@ status-website:
     \      <td>Consultation on Amending the List of Species under the Species at Risk\
     \ Act: Terrestrial Species December 2023</td>\n      <td>2023-12-13</td>\n   \
     \   <td>2024-10-16</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n\
-    \      <td>687</td>\n      <td>TBD: Adopting Global Technical Regulations 13 and\
-    \ 20 for Zero Emission Vehicle Safety (Electric Battery and Hydrogen)</td>\n \
-    \     <td>2024-07-29</td>\n      <td>2024-09-30</td>\n      <td>O</td>\n     \
-    \ <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0000102</td>\n      <td>Council\
+    \      <td>DFO20240627</td>\n      <td>Ghost Gear Update and Path Forward Meetings</td>\n\
+    \      <td>2024-06-27</td>\n      <td>2024-09-30</td>\n      <td>O</td>\n    \
+    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0000102</td>\n      <td>Council\
     \ of Europe Second Additional Protocol to the Convention on Cybercrime on Enhanced\
     \ Cooperation and Disclosure of Electronic Evidence\\nConsultations, 2023</td>\n\
     \      <td>2023-10-24</td>\n      <td>2024-09-30</td>\n      <td>O</td>\n    \
-    \  <td>jus</td>\n    </tr>\n    <tr>\n      <td>DFO20240627</td>\n      <td>Ghost\
-    \ Gear Update and Path Forward Meetings</td>\n      <td>2024-06-27</td>\n    \
-    \  <td>2024-09-30</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-003232</td>\n      <td>National Freshwater Data Strategy</td>\n\
-    \      <td>2024-07-26</td>\n      <td>2024-09-15</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000723</td>\n      <td>Pre-consultations\
-    \ on Amendment 19 to the Energy Efficiency Regulations</td>\n      <td>2024-05-27</td>\n\
-    \      <td>2024-09-13</td>\n      <td>O</td>\n      <td>nrcan-rncan</td>\n   \
-    \ </tr>\n    <tr>\n      <td>C-0000127</td>\n      <td>Visitor Use Management\
-    \ - Jasper National Park</td>\n      <td>2024-06-18</td>\n      <td>2024-09-13</td>\n\
-    \      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-20240907</td>\n\
-    \      <td>Possession and Export of Elvers Regulations</td>\n      <td>2024-06-29</td>\n\
-    \      <td>2024-09-07</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-003267</td>\n      <td>Share and view ideas: Consultation\
-    \ addressing plastic waste and pollution from the textile and apparel sector</td>\n\
-    \      <td>2024-07-04</td>\n      <td>2024-09-01</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C--202303</td>\n      <td>Alexandra\
-    \ Bridge Replacement Project</td>\n      <td>2023-10-01</td>\n      <td>2024-08-31</td>\n\
-    \      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-20240308</td>\n\
-    \      <td>Consultation on the Silver Chub Recovery Strategy &amp; Action Plan\
-    \ under the Species at Risk Act</td>\n      <td>2024-06-18</td>\n      <td>2024-08-17</td>\n\
-    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-003227</td>\n\
-    \      <td>Comment on: Draft Canada-Saskatchewan Equivalency Agreement on coal-fired\
-    \ electricity regulations (2025-2026)</td>\n      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n\
+    \  <td>jus</td>\n    </tr>\n    <tr>\n      <td>687</td>\n      <td>TBD: Adopting\
+    \ Global Technical Regulations 13 and 20 for Zero Emission Vehicle Safety (Electric\
+    \ Battery and Hydrogen)</td>\n      <td>2024-07-29</td>\n      <td>2024-09-30</td>\n\
+    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0000723</td>\n\
+    \      <td>Pre-consultations on Amendment 19 to the Energy Efficiency Regulations</td>\n\
+    \      <td>2024-05-27</td>\n      <td>2024-09-13</td>\n      <td>O</td>\n    \
+    \  <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>C-0000127</td>\n     \
+    \ <td>Visitor Use Management - Jasper National Park</td>\n      <td>2024-06-18</td>\n\
+    \      <td>2024-09-13</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-20240907</td>\n      <td>Possession and Export of Elvers\
+    \ Regulations</td>\n      <td>2024-06-29</td>\n      <td>2024-09-07</td>\n   \
+    \   <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C--202303</td>\n\
+    \      <td>Alexandra Bridge Replacement Project</td>\n      <td>2023-10-01</td>\n\
+    \      <td>2024-08-31</td>\n      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n   \
+    \ </tr>\n    <tr>\n      <td>C-20240308</td>\n      <td>Consultation on the Silver\
+    \ Chub Recovery Strategy &amp; Action Plan under the Species at Risk Act</td>\n\
+    \      <td>2024-06-18</td>\n      <td>2024-08-17</td>\n      <td>O</td>\n    \
+    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-003227</td>\n      <td>Comment\
+    \ on: Draft Canada-Saskatchewan Equivalency Agreement on coal-fired electricity\
+    \ regulations (2025-2026)</td>\n      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n\
     \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20240615</td>\n\
     \      <td>Construction of a waterfront wharf at Pointe-Basse Harbour in Magdalen\
     \ Islands</td>\n      <td>2024-07-02</td>\n      <td>2024-08-05</td>\n      <td>O</td>\n\
     \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>STC-0000065</td>\n   \
     \   <td>Invitation to participate in the revision of the Classification of Instructional\
     \ Programs (CIP) Canada</td>\n      <td>2024-04-15</td>\n      <td>2024-07-31</td>\n\
-    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-003202</td>\n\
-    \      <td>Dolphin and Union Caribou pre-listing consultations</td>\n      <td>2024-05-13</td>\n\
-    \      <td>2024-07-15</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
-    \   <tr>\n      <td>DFO20240513-03</td>\n      <td>Multi-species Action Plan for\
-    \ the Richelieu River Watershed in Canada</td>\n      <td>2024-04-25</td>\n  \
-    \    <td>2024-06-24</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0158</td>\n      <td>Notice No. TIPB-001-2024 — Petition\
-    \ to the Governor in Council concerning Telecom Decision CRTC 2023-358</td>\n\
+    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>DFO20240513-03</td>\n\
+    \      <td>Multi-species Action Plan for the Richelieu River Watershed in Canada</td>\n\
+    \      <td>2024-04-25</td>\n      <td>2024-06-24</td>\n      <td>O</td>\n    \
+    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0158</td>\n      <td>Notice\
+    \ No. TIPB-001-2024 — Petition to the Governor in Council concerning Telecom Decision CRTC 2023-358</td>\n\
     \      <td>2024-04-27</td>\n      <td>2024-06-11</td>\n      <td>O</td>\n    \
     \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000124</td>\n      <td>Fortress\
     \ of Louisbourg National Historic Site Management Plan</td>\n      <td>2024-05-06</td>\n\
@@ -460,29 +445,30 @@ status-website:
     \    </tr>\n    <tr>\n      <td>C-0000120</td>\n      <td>Notice of Mooring Restrictions\
     \ – Ontario Waterways - Rideau Canal National Historic Site</td>\n      <td>2024-03-11</td>\n\
     \      <td>2024-04-07</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
-    \   <tr>\n      <td>STC0000055</td>\n      <td>Census Data on Demand (CDOD) program\
+    \   <tr>\n      <td>STC-0000064</td>\n      <td>Invitation to participate in a\
+    \ flood awareness consultative engagement</td>\n      <td>2024-01-02</td>\n  \
+    \    <td>2024-03-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
+    \    <tr>\n      <td>STC0000055</td>\n      <td>Census Data on Demand (CDOD) program\
     \ consultative engagement</td>\n      <td>2023-07-30</td>\n      <td>2024-03-31</td>\n\
-    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>STC-0000064</td>\n\
-    \      <td>Invitation to participate in a flood awareness consultative engagement</td>\n\
-    \      <td>2024-01-02</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
-    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>698</td>\n      <td>Digitizing\
-    \ the Travel Journey at Airports</td>\n      <td>2023-04-01</td>\n      <td>2024-03-31</td>\n\
-    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-ISC-1020</td>\n\
-    \      <td>Engagement 2023: Updating the Protocol For Centralised Drinking Water\
-    \ Systems in First Nations communities</td>\n      <td>2023-07-12</td>\n     \
-    \ <td>2024-02-29</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-ISC-1018</td>\n      <td>National Outcome-Based Framework</td>\n\
-    \      <td>2023-01-15</td>\n      <td>2024-01-31</td>\n      <td>O</td>\n    \
-    \  <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC - 1018</td>\n      <td>Developing\
-    \ laws and regulations for First Nations drinking water and wastewater: engagement\
-    \ 2022/2023</td>\n      <td>2022-08-01</td>\n      <td>2023-09-08</td>\n     \
-    \ <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-0000108</td>\n\
-    \      <td>2022-23 Consultations on renewal of the Museum Policy</td>\n      <td>2022-10-28</td>\n\
-    \      <td>2023-05-31</td>\n      <td>O</td>\n      <td>pch</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-201901</td>\n      <td>PSPC Controlled Goods Program’s\
-    \ Industry Engagement Committee (IEC)</td>\n      <td>2012-01-01</td>\n      <td>2023-01-01</td>\n\
-    \      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-CANSOF-002</td>\n\
-    \      <td>Social systems professional services</td>\n      <td>2022-03-01</td>\n\
+    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>698</td>\n\
+    \      <td>Digitizing the Travel Journey at Airports</td>\n      <td>2023-04-01</td>\n\
+    \      <td>2024-03-31</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-ISC-1020</td>\n      <td>Engagement 2023: Updating the Protocol\
+    \ For Centralised Drinking Water Systems in First Nations communities</td>\n \
+    \     <td>2023-07-12</td>\n      <td>2024-02-29</td>\n      <td>O</td>\n     \
+    \ <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC-1018</td>\n      <td>National\
+    \ Outcome-Based Framework</td>\n      <td>2023-01-15</td>\n      <td>2024-01-31</td>\n\
+    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC\
+    \ - 1018</td>\n      <td>Developing laws and regulations for First Nations drinking\
+    \ water and wastewater: engagement 2022/2023</td>\n      <td>2022-08-01</td>\n\
+    \      <td>2023-09-08</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000108</td>\n      <td>2022-23 Consultations on renewal\
+    \ of the Museum Policy</td>\n      <td>2022-10-28</td>\n      <td>2023-05-31</td>\n\
+    \      <td>O</td>\n      <td>pch</td>\n    </tr>\n    <tr>\n      <td>C-201901</td>\n\
+    \      <td>PSPC Controlled Goods Program’s Industry Engagement Committee (IEC)</td>\n\
+    \      <td>2012-01-01</td>\n      <td>2023-01-01</td>\n      <td>O</td>\n    \
+    \  <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-CANSOF-002</td>\n  \
+    \    <td>Social systems professional services</td>\n      <td>2022-03-01</td>\n\
     \      <td>2022-08-31</td>\n      <td>O</td>\n      <td>dnd-mdn</td>\n    </tr>\n\
     \    <tr>\n      <td>C-JAG-21Q2-18</td>\n      <td>Consultation to inform the\
     \ regulatory development to support the implementation of An Act to amend the\
