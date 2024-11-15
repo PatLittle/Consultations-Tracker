@@ -105,6 +105,8 @@ sites:
 - name: Consulting Canadians on the proposed addition of Brazil and Montenegro to
     the Automatic Firearms Country Control List (AFCCL)
   url: https://www.international.gc.ca/trade-commerce/consultations/firearms-armes/2024-10-31-consultation.aspx?lang=eng
+- name: Canada’s Strengthened Forced Labour Import Prohibition
+  url: https://www.international.gc.ca/trade-commerce/consultations/forced-labour-travail-force.aspx?lang=eng
 - name: Notice of intent to consult on modernization of provisions pertaining to hospitals
     and practitioners in regulations made under the Controlled Drugs and Substances
     Act
@@ -122,10 +124,6 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2024/triallate.html
 - name: Consultation on Spiromesifen, Proposed Maximum Residue Limit PMRL2024-20
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2024/spiromesifen.html
-- name: Notice of Intent to make a ministerial class exemption order for the exceptional
-    importation of certain foods for a special dietary purpose to mitigate a shortage
-    or risk of a shortage
-  url: https://www.canada.ca/en/health-canada/services/food-nutrition/public-involvement-partnerships/notice-of-intent-for-exceptional-importation-certain-foods-to-mitigate-shortage.html
 - name: Consultation on clethodim, Proposed Maximum Residue Limit PMRL2024-21
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2024/clethodim.html
 - name: Reclassification of the group of formulants Nonylphenol ethoxylates (NPEs)
@@ -356,7 +354,7 @@ status-website:
     \      <td>Notice of Intent to make a ministerial class exemption order for the\
     \ exceptional importation of certain foods for a special dietary purpose to mitigate\
     \ a shortage or risk of a shortage</td>\n      <td>2024-10-01</td>\n      <td>2024-11-15</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>STC-0000066</td>\n\
+    \      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>STC-0000066</td>\n\
     \      <td>Invitation to participate in the revision of the National Occupational\
     \ Classification (NOC)</td>\n      <td>2024-04-09</td>\n      <td>2024-11-15</td>\n\
     \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>80164</td>\n\
