@@ -95,15 +95,14 @@ sites:
   url: https://aeic-iaac.gc.ca/050/evaluations/proj/88682?culture=en-CA
 - name: Multi-species Action Plan for the Richelieu River Watershed in Canada
   url: https://species-registry.canada.ca/index-en.html#/consultations/2965
-- name: Consultation on the Silver Chub Recovery Strategy & Action Plan under the
-    Species at Risk Act
-  url: https://species-registry.canada.ca/index-en.html#/consultations/448
 - name: Possession and Export of Elvers Regulations
   url: https://www.gazette.gc.ca/rp-pr/p1/2024/2024-06-29/html/reg6-eng.html
 - name: Ghost Gear Update and Path Forward Meetings
   url: https://www.dfo-mpo.gc.ca/fisheries-peches/management-gestion/ghostgear-equipementfantome/index-eng.html
 - name: 'Share and view ideas: Ghost Gear Program’s Gear Management Survey'
   url: https://www.dfo-mpo.gc.ca/fisheries-peches/management-gestion/ghostgear-equipementfantome/ghost-gear-survey-engins-fantomes-sondage-eng.html
+- name: Whalesafe Gear Strategy
+  url: https://www.dfo-mpo.gc.ca/species-especes/mammals-mammiferes/whales-baleines/gear-equipement/index-eng.html
 - name: Proposed Amendments to the Export Permits Regulations
   url: https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
 - name: Consulting Canadians on the proposed addition of Brazil and Montenegro to
@@ -432,12 +431,9 @@ status-website:
     \      <td>2024-09-07</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
     \    <tr>\n      <td>C--202303</td>\n      <td>Alexandra Bridge Replacement Project</td>\n\
     \      <td>2023-10-01</td>\n      <td>2024-08-31</td>\n      <td>O</td>\n    \
-    \  <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-20240308</td>\n    \
-    \  <td>Consultation on the Silver Chub Recovery Strategy &amp; Action Plan under\
-    \ the Species at Risk Act</td>\n      <td>2024-06-18</td>\n      <td>2024-08-17</td>\n\
-    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-003227</td>\n\
-    \      <td>Comment on: Draft Canada-Saskatchewan Equivalency Agreement on coal-fired\
-    \ electricity regulations (2025-2026)</td>\n      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n\
+    \  <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-003227</td>\n      <td>Comment\
+    \ on: Draft Canada-Saskatchewan Equivalency Agreement on coal-fired electricity\
+    \ regulations (2025-2026)</td>\n      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n\
     \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20240615</td>\n\
     \      <td>Construction of a waterfront wharf at Pointe-Basse Harbour in Magdalen\
     \ Islands</td>\n      <td>2024-07-02</td>\n      <td>2024-08-05</td>\n      <td>O</td>\n\
