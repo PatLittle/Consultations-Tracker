@@ -44,6 +44,8 @@ sites:
 - name: Council of Europe Second Additional Protocol to the Convention on Cybercrime
     on Enhanced Cooperation and Disclosure of Electronic EvidenceConsultations, 2023
   url: https://www.justice.gc.ca/eng/cj-jp/cyber/id-di/index.html
+- name: Consultation on the Accessible Canada Roadmap
+  url: https://www.canada.ca/en/employment-social-development/programs/accessible-canada/consultation-framework-national-accessibility-action.html
 - name: Consultations for the 2025 Annual Report on the 2030 Agenda and the Sustainable
     Development Goals
   url: https://srv217.services.gc.ca/ihst4/Intro.aspx?cid=2cd15f32-a51c-467a-8f45-18098c4f7cf7&lc=eng
@@ -369,10 +371,7 @@ status-website:
     \      <td>2024-11-14</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
     \    <tr>\n      <td>1018</td>\n      <td>Canadian Marine Advisory Council - Fall\
     \ 2024</td>\n      <td>2024-11-12</td>\n      <td>2024-11-14</td>\n      <td>P</td>\n\
-    \      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0000979</td>\n      <td>Consultation:\
-    \ Draft strategy to replace, reduce or refine vertebrate animal testing</td>\n\
-    \      <td>2024-09-14</td>\n      <td>2024-11-13</td>\n      <td>C</td>\n    \
-    \  <td>hc-sc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Listed as\
+    \      <td>tc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Listed as\
     \ Open that should be closed</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n\
     \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
     \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
