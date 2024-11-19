@@ -220,8 +220,6 @@ sites:
   url: https://www.rncanengagenrcan.ca/en/collections/offshore-renewable-energy-regulations-initiative
 - name: Indigenous Ministerial Arrangements Regulations
   url: https://www.rncanengagenrcan.ca/en/content/development-new-indigenous-ministerial-arrangements-regulations
-- name: Pre-consultations on Amendment 19 to the Energy Efficiency Regulations
-  url: Pre-consultations for Next Amendments (canada.ca) - https://natural-resources.canada.ca/energy-efficiency/energy-efficiency-regulations/pre-consultations-for-next-amendments/24439
 - name: 'Discussion Paper - Home Labelling: Informing Canadians on Home Energy Performance'
   url: TBC - (https://natural-resources.canada.ca/energy-efficiency/homes/20546)
 - name: General Regulations under the Canada National Marine Conservation Areas Act
@@ -413,34 +411,32 @@ status-website:
     \   <td>2024-10-16</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n\
     \      <td>DFO20240627</td>\n      <td>Ghost Gear Update and Path Forward Meetings</td>\n\
     \      <td>2024-06-27</td>\n      <td>2024-09-30</td>\n      <td>O</td>\n    \
-    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>687</td>\n      <td>TBD: Adopting\
+    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0000102</td>\n      <td>Council\
+    \ of Europe Second Additional Protocol to the Convention on Cybercrime on Enhanced\
+    \ Cooperation and Disclosure of Electronic Evidence\\nConsultations, 2023</td>\n\
+    \      <td>2023-10-24</td>\n      <td>2024-09-30</td>\n      <td>O</td>\n    \
+    \  <td>jus</td>\n    </tr>\n    <tr>\n      <td>687</td>\n      <td>TBD: Adopting\
     \ Global Technical Regulations 13 and 20 for Zero Emission Vehicle Safety (Electric\
     \ Battery and Hydrogen)</td>\n      <td>2024-07-29</td>\n      <td>2024-09-30</td>\n\
-    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0000102</td>\n\
-    \      <td>Council of Europe Second Additional Protocol to the Convention on Cybercrime\
-    \ on Enhanced Cooperation and Disclosure of Electronic Evidence\\nConsultations,\
-    \ 2023</td>\n      <td>2023-10-24</td>\n      <td>2024-09-30</td>\n      <td>O</td>\n\
-    \      <td>jus</td>\n    </tr>\n    <tr>\n      <td>C-0000127</td>\n      <td>Visitor\
-    \ Use Management - Jasper National Park</td>\n      <td>2024-06-18</td>\n    \
-    \  <td>2024-09-13</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n\
-    \      <td>C-0000723</td>\n      <td>Pre-consultations on Amendment 19 to the\
-    \ Energy Efficiency Regulations</td>\n      <td>2024-05-27</td>\n      <td>2024-09-13</td>\n\
-    \      <td>O</td>\n      <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>C-20240907</td>\n\
-    \      <td>Possession and Export of Elvers Regulations</td>\n      <td>2024-06-29</td>\n\
-    \      <td>2024-09-07</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>C--202303</td>\n      <td>Alexandra Bridge Replacement Project</td>\n\
-    \      <td>2023-10-01</td>\n      <td>2024-08-31</td>\n      <td>O</td>\n    \
-    \  <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-003227</td>\n      <td>Comment\
-    \ on: Draft Canada-Saskatchewan Equivalency Agreement on coal-fired electricity\
-    \ regulations (2025-2026)</td>\n      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20240615</td>\n\
-    \      <td>Construction of a waterfront wharf at Pointe-Basse Harbour in Magdalen\
-    \ Islands</td>\n      <td>2024-07-02</td>\n      <td>2024-08-05</td>\n      <td>O</td>\n\
-    \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>STC-0000065</td>\n   \
-    \   <td>Invitation to participate in the revision of the Classification of Instructional\
-    \ Programs (CIP) Canada</td>\n      <td>2024-04-15</td>\n      <td>2024-07-31</td>\n\
-    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>DFO20240513-03</td>\n\
-    \      <td>Multi-species Action Plan for the Richelieu River Watershed in Canada</td>\n\
+    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0000127</td>\n\
+    \      <td>Visitor Use Management - Jasper National Park</td>\n      <td>2024-06-18</td>\n\
+    \      <td>2024-09-13</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-20240907</td>\n      <td>Possession and Export of Elvers\
+    \ Regulations</td>\n      <td>2024-06-29</td>\n      <td>2024-09-07</td>\n   \
+    \   <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C--202303</td>\n\
+    \      <td>Alexandra Bridge Replacement Project</td>\n      <td>2023-10-01</td>\n\
+    \      <td>2024-08-31</td>\n      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n   \
+    \ </tr>\n    <tr>\n      <td>C-003227</td>\n      <td>Comment on: Draft Canada-Saskatchewan\
+    \ Equivalency Agreement on coal-fired electricity regulations (2025-2026)</td>\n\
+    \      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n      <td>O</td>\n    \
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20240615</td>\n      <td>Construction\
+    \ of a waterfront wharf at Pointe-Basse Harbour in Magdalen Islands</td>\n   \
+    \   <td>2024-07-02</td>\n      <td>2024-08-05</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n\
+    \    </tr>\n    <tr>\n      <td>STC-0000065</td>\n      <td>Invitation to participate\
+    \ in the revision of the Classification of Instructional Programs (CIP) Canada</td>\n\
+    \      <td>2024-04-15</td>\n      <td>2024-07-31</td>\n      <td>O</td>\n    \
+    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>DFO20240513-03</td>\n    \
+    \  <td>Multi-species Action Plan for the Richelieu River Watershed in Canada</td>\n\
     \      <td>2024-04-25</td>\n      <td>2024-06-24</td>\n      <td>O</td>\n    \
     \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0158</td>\n      <td>Notice\
     \ No. TIPB-001-2024 — Petition to the Governor in Council concerning Telecom Decision CRTC 2023-358</td>\n\
