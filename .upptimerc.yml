@@ -327,42 +327,44 @@ status-website:
     \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
     \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>C-000049</td>\n      <td>Share your thoughts about described\
-    \ video and audio description</td>\n      <td>2024-09-19</td>\n      <td>2024-11-20</td>\n\
-    \      <td>O</td>\n      <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-VAC0058</td>\n\
-    \      <td>2025 Women’s Forum</td>\n      <td>2024-10-28</td>\n      <td>2024-11-20</td>\n\
-    \      <td>O</td>\n      <td>vac-acc</td>\n    </tr>\n    <tr>\n      <td>C-0000974</td>\n\
-    \      <td>Consultation on Clomazone, Proposed Maximum Residue Limit PMRL2024-17</td>\n\
-    \      <td>2024-09-05</td>\n      <td>2024-11-19</td>\n      <td>C</td>\n    \
-    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000975</td>\n      <td>Consultation\
-    \ on rimsulfuron, Proposed Maximum Residue Limit PMRL2024-16</td>\n      <td>2024-09-05</td>\n\
-    \      <td>2024-11-19</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C0000582</td>\n      <td>Canada’s Strengthened Forced Labour\
-    \ Import Prohibition</td>\n      <td>2024-10-17</td>\n      <td>2024-11-18</td>\n\
-    \      <td>C</td>\n      <td>dfatd-maecd</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
-    \ Listed as Open that should be closed</h3><table border=\"1\" class=\"dataframe\"\
-    >\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
-    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
-    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
+    \    <tr>\n      <td>C-2024-01</td>\n      <td>Revised Event Reporting Guidelines</td>\n\
+    \      <td>2024-01-29</td>\n      <td>2024-11-27</td>\n      <td>C</td>\n    \
+    \  <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-000049</td>\n      <td>Share\
+    \ your thoughts about described video and audio description</td>\n      <td>2024-09-19</td>\n\
+    \      <td>2024-11-20</td>\n      <td>O</td>\n      <td>crtc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-VAC0058</td>\n      <td>2025 Women’s Forum</td>\n     \
     \ <td>2024-10-28</td>\n      <td>2024-11-20</td>\n      <td>O</td>\n      <td>vac-acc</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-000049</td>\n      <td>Share your thoughts about\
-    \ described video and audio description</td>\n      <td>2024-09-19</td>\n    \
-    \  <td>2024-11-20</td>\n      <td>O</td>\n      <td>crtc</td>\n    </tr>\n   \
-    \ <tr>\n      <td>STC-0000066</td>\n      <td>Invitation to participate in the\
-    \ revision of the National Occupational Classification (NOC)</td>\n      <td>2024-04-09</td>\n\
-    \      <td>2024-11-15</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-000048</td>\n      <td>Share your thoughts about closed\
-    \ captioning of programming from online streaming services</td>\n      <td>2024-09-10</td>\n\
-    \      <td>2024-11-15</td>\n      <td>O</td>\n      <td>crtc</td>\n    </tr>\n\
-    \    <tr>\n      <td>80164</td>\n      <td>Boat Harbour Remediation Project\\\
-    nPublic Notice\\nPublic Comments Invited on the Draft Report and Potential Conditions</td>\n\
-    \      <td>2024-10-15</td>\n      <td>2024-11-14</td>\n      <td>O</td>\n    \
-    \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>88867-1</td>\n      <td>Rocky\
-    \ Creek Metallurgical Coal Project\\nPublic Notice\\nParticipant Funding Available</td>\n\
-    \      <td>2024-10-09</td>\n      <td>2024-11-08</td>\n      <td>O</td>\n    \
-    \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>88867</td>\n      <td>Public\
-    \ Comments Invited &amp; Information Sessions</td>\n      <td>2024-10-07</td>\n\
+    \    </tr>\n    <tr>\n      <td>C-0000974</td>\n      <td>Consultation on Clomazone,\
+    \ Proposed Maximum Residue Limit PMRL2024-17</td>\n      <td>2024-09-05</td>\n\
+    \      <td>2024-11-19</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000975</td>\n      <td>Consultation on rimsulfuron, Proposed\
+    \ Maximum Residue Limit PMRL2024-16</td>\n      <td>2024-09-05</td>\n      <td>2024-11-19</td>\n\
+    \      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C0000582</td>\n\
+    \      <td>Canada’s Strengthened Forced Labour Import Prohibition</td>\n     \
+    \ <td>2024-10-17</td>\n      <td>2024-11-18</td>\n      <td>C</td>\n      <td>dfatd-maecd</td>\n\
+    \    </tr>\n  </tbody>\n</table><h3>Consultations Listed as Open that should be\
+    \ closed</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"\
+    text-align: right;\">\n      <th>registration_number</th>\n      <th>title_en</th>\n\
+    \      <th>start_date</th>\n      <th>end_date</th>\n      <th>status</th>\n \
+    \     <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-VAC0058</td>\n\
+    \      <td>2025 Women’s Forum</td>\n      <td>2024-10-28</td>\n      <td>2024-11-20</td>\n\
+    \      <td>O</td>\n      <td>vac-acc</td>\n    </tr>\n    <tr>\n      <td>C-000049</td>\n\
+    \      <td>Share your thoughts about described video and audio description</td>\n\
+    \      <td>2024-09-19</td>\n      <td>2024-11-20</td>\n      <td>O</td>\n    \
+    \  <td>crtc</td>\n    </tr>\n    <tr>\n      <td>STC-0000066</td>\n      <td>Invitation\
+    \ to participate in the revision of the National Occupational Classification (NOC)</td>\n\
+    \      <td>2024-04-09</td>\n      <td>2024-11-15</td>\n      <td>O</td>\n    \
+    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-000048</td>\n      <td>Share\
+    \ your thoughts about closed captioning of programming from online streaming services</td>\n\
+    \      <td>2024-09-10</td>\n      <td>2024-11-15</td>\n      <td>O</td>\n    \
+    \  <td>crtc</td>\n    </tr>\n    <tr>\n      <td>80164</td>\n      <td>Boat Harbour\
+    \ Remediation Project\\nPublic Notice\\nPublic Comments Invited on the Draft Report\
+    \ and Potential Conditions</td>\n      <td>2024-10-15</td>\n      <td>2024-11-14</td>\n\
+    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>88867-1</td>\n\
+    \      <td>Rocky Creek Metallurgical Coal Project\\nPublic Notice\\nParticipant\
+    \ Funding Available</td>\n      <td>2024-10-09</td>\n      <td>2024-11-08</td>\n\
+    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>88867</td>\n\
+    \      <td>Public Comments Invited &amp; Information Sessions</td>\n      <td>2024-10-07</td>\n\
     \      <td>2024-11-06</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
     \    <tr>\n      <td>STC-0000068</td>\n      <td>Share your input on the Survey\
     \ of Household Spending (SHS)</td>\n      <td>2024-08-20</td>\n      <td>2024-10-31</td>\n\
