@@ -35,6 +35,12 @@ sites:
   url: https://crtc.gc.ca/eng/consultation/modernradio.htm
 - name: Share your thoughts on Canadian content for TV and online streaming services
   url: https://crtc.gc.ca/eng/consultation/cancon.htm
+- name: Share your thoughts about enhancing customer notification
+  url: https://crtc.gc.ca/eng/consultation/choi/notification.htm
+- name: Share your thoughts about removing barriers to switching plans
+  url: https://crtc.gc.ca/eng/consultation/choi/obstacles.htm
+- name: Share your thoughts on enhancing self-service
+  url: https://crtc.gc.ca/eng/consultation/choi/service.htm
 - name: 2024 Interswitching consultation
   url: https://otc-cta.gc.ca/eng/consultation/2024-interswitching-consultation
 - name: 'TRC Call to Action 66: Moving from Pilot Project to Long-Term Implementation'
@@ -152,9 +158,9 @@ sites:
   url: https://gazette.gc.ca/rp-pr/p1/2024/2024-11-09/html/notice-avis-eng.html#ns4
 - name: Consultation on flonicamid, Proposed Maximum Residue Limit PMRL2024-24
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2024/flonicamid.html
-- name: 'Consultation: Help modernize the development of preventive health care guidelines
-    in Canada'
-  url: https://www.canada.ca/en/public-health/programs/consultation-help-modernize-development-preventive-health-care-guidelines.html
+- name: Consultation on the revised procedure for Category A, B, and L application
+    data deficiencies in science review, Notice of Intent NOI2024-01
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/notice-intent/2024/revised-procedure-category-a-b-l-application-data-deficiencies-science-review.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
@@ -239,6 +245,9 @@ sites:
   url: https://www.letstalkmountainparks.ca/communityplanupdates
 - name: Saguenay-St. Lawrence Marine Park expansion project
   url: https://parcmarin.qc.ca/consultations/home/
+- name: 'Consultation: Help modernize the development of preventive health care guidelines
+    in Canada'
+  url: https://www.canada.ca/en/public-health/programs/consultation-help-modernize-development-preventive-health-care-guidelines.html
 - name: Targeted Stakeholder Engagement to Inform Canada’s Public Safety Broadband
     Network (PSBN)
   url: https://www.canada.ca/en/services/policing/emergencies/consultation-governance-framework-psbn.html
@@ -320,78 +329,86 @@ status-website:
     \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0000720</td>\n      <td>Engagement\
     \ on Intentions Paper for a Carbon Capture, Utilization and Storage Framework\
     \ in Canada's offshore areas.</td>\n      <td>2024-11-25</td>\n      <td>2025-01-25</td>\n\
-    \      <td>P</td>\n      <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>cta-otc-2024-3</td>\n\
-    \      <td>2024 Interswitching consultation</td>\n      <td>2024-11-21</td>\n\
-    \      <td>2025-01-09</td>\n      <td>O</td>\n      <td>cta-otc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0000996</td>\n      <td>Consultation: Help modernize the\
-    \ development of preventive health care guidelines in Canada</td>\n      <td>2024-11-21</td>\n\
-    \      <td>2024-12-21</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-000048</td>\n      <td>Share your thoughts about closed\
-    \ captioning of programming from online streaming services</td>\n      <td>2024-11-18</td>\n\
-    \      <td>2024-12-20</td>\n      <td>O</td>\n      <td>crtc</td>\n    </tr>\n\
-    \    <tr>\n      <td>1054</td>\n      <td>Let’s talk: Environmental reports from\
-    \ the Lac-Mégantic Railway Bypass Project</td>\n      <td>2024-11-17</td>\n  \
-    \    <td>2024-12-16</td>\n      <td>P</td>\n      <td>tc</td>\n    </tr>\n  </tbody>\n\
-    </table><h3>Consultations Ending +/- 5 days from today</h3><table border=\"1\"\
-    \ class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n   \
-    \   <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
-    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-2024-01</td>\n      <td>Revised\
-    \ Event Reporting Guidelines</td>\n      <td>2024-01-29</td>\n      <td>2024-11-27</td>\n\
-    \      <td>C</td>\n      <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-000049</td>\n\
-    \      <td>Share your thoughts about described video and audio description</td>\n\
-    \      <td>2024-09-19</td>\n      <td>2024-11-20</td>\n      <td>C</td>\n    \
-    \  <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-VAC0058</td>\n      <td>2025\
-    \ Women’s Forum</td>\n      <td>2024-10-28</td>\n      <td>2024-11-20</td>\n \
-    \     <td>C</td>\n      <td>vac-acc</td>\n    </tr>\n    <tr>\n      <td>C-0000974</td>\n\
-    \      <td>Consultation on Clomazone, Proposed Maximum Residue Limit PMRL2024-17</td>\n\
-    \      <td>2024-09-05</td>\n      <td>2024-11-19</td>\n      <td>C</td>\n    \
-    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000975</td>\n      <td>Consultation\
-    \ on rimsulfuron, Proposed Maximum Residue Limit PMRL2024-16</td>\n      <td>2024-09-05</td>\n\
-    \      <td>2024-11-19</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C0000582</td>\n      <td>Canada’s Strengthened Forced Labour\
-    \ Import Prohibition</td>\n      <td>2024-10-17</td>\n      <td>2024-11-18</td>\n\
-    \      <td>C</td>\n      <td>dfatd-maecd</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
-    \ Listed as Open that should be closed</h3><table border=\"1\" class=\"dataframe\"\
-    >\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
-    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
+    \      <td>P</td>\n      <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>C-000056</td>\n\
+    \      <td>Share your thoughts about enhancing customer notification</td>\n  \
+    \    <td>2024-11-22</td>\n      <td>2025-01-09</td>\n      <td>O</td>\n      <td>crtc</td>\n\
+    \    </tr>\n    <tr>\n      <td>C-000057</td>\n      <td>Share your thoughts about\
+    \ removing barriers to switching plans</td>\n      <td>2024-11-22</td>\n     \
+    \ <td>2025-01-09</td>\n      <td>O</td>\n      <td>crtc</td>\n    </tr>\n    <tr>\n\
+    \      <td>C-000058</td>\n      <td>Share your thoughts on enhancing self-service</td>\n\
+    \      <td>2024-11-22</td>\n      <td>2025-01-09</td>\n      <td>O</td>\n    \
+    \  <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-0000996</td>\n      <td>Consultation\
+    \ on the revised procedure for Category A, B, and L application data deficiencies\
+    \ in science review, Notice of Intent NOI2024-01</td>\n      <td>2024-11-22</td>\n\
+    \      <td>2024-12-22</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>cta-otc-2024-3</td>\n      <td>2024 Interswitching consultation</td>\n\
+    \      <td>2024-11-21</td>\n      <td>2025-01-09</td>\n      <td>O</td>\n    \
+    \  <td>cta-otc</td>\n    </tr>\n    <tr>\n      <td>C-0000006</td>\n      <td>Consultation:\
+    \ Help modernize the development of preventive health care guidelines in Canada</td>\n\
+    \      <td>2024-11-21</td>\n      <td>2024-12-21</td>\n      <td>O</td>\n    \
+    \  <td>phac-aspc</td>\n    </tr>\n    <tr>\n      <td>C-000048</td>\n      <td>Share\
+    \ your thoughts about closed captioning of programming from online streaming services</td>\n\
+    \      <td>2024-11-18</td>\n      <td>2024-12-20</td>\n      <td>O</td>\n    \
+    \  <td>crtc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Ending +/-\
+    \ 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n\
+    \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
+    \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>STC-0000066</td>\n      <td>Invitation to participate in\
-    \ the revision of the National Occupational Classification (NOC)</td>\n      <td>2024-04-09</td>\n\
-    \      <td>2024-11-15</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
-    \    <tr>\n      <td>80164</td>\n      <td>Boat Harbour Remediation Project\\\
-    nPublic Notice\\nPublic Comments Invited on the Draft Report and Potential Conditions</td>\n\
-    \      <td>2024-10-15</td>\n      <td>2024-11-14</td>\n      <td>O</td>\n    \
-    \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>88867-1</td>\n      <td>Rocky\
-    \ Creek Metallurgical Coal Project\\nPublic Notice\\nParticipant Funding Available</td>\n\
-    \      <td>2024-10-09</td>\n      <td>2024-11-08</td>\n      <td>O</td>\n    \
-    \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>88867</td>\n      <td>Public\
-    \ Comments Invited &amp; Information Sessions</td>\n      <td>2024-10-07</td>\n\
-    \      <td>2024-11-06</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
-    \    <tr>\n      <td>STC-0000068</td>\n      <td>Share your input on the Survey\
-    \ of Household Spending (SHS)</td>\n      <td>2024-08-20</td>\n      <td>2024-10-31</td>\n\
-    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>D00039</td>\n\
-    \      <td>Targeted Stakeholder Engagement to Inform Canada’s Public Safety Broadband\
-    \ Network (PSBN)</td>\n      <td>2024-07-01</td>\n      <td>2024-10-31</td>\n\
-    \      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>STC-0000067</td>\n\
-    \      <td>Share your feedback on the Labour Force Survey (LFS) Supplements Program</td>\n\
-    \      <td>2024-10-01</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n    \
-    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-0235</td>\n      <td>Consultation\
-    \ on a Policy, and Licensing, and Technical Framework for Supplemental Mobile\
-    \ Coverage by Satellite</td>\n      <td>2024-06-17</td>\n      <td>2024-10-25</td>\n\
-    \      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>DFO20230131-09</td>\n\
-    \      <td>Canada's (Draft) Ocean Noise Strategy</td>\n      <td>2024-08-23</td>\n\
-    \      <td>2024-10-22</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-003196</td>\n      <td>Consultation on Amending the List\
-    \ of Species under the Species at Risk Act: Terrestrial Species December 2023</td>\n\
-    \      <td>2023-12-13</td>\n      <td>2024-10-16</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000102</td>\n      <td>Council\
-    \ of Europe Second Additional Protocol to the Convention on Cybercrime on Enhanced\
-    \ Cooperation and Disclosure of Electronic Evidence\\nConsultations, 2023</td>\n\
-    \      <td>2023-10-24</td>\n      <td>2024-09-30</td>\n      <td>O</td>\n    \
-    \  <td>jus</td>\n    </tr>\n    <tr>\n      <td>DFO20240627</td>\n      <td>Ghost\
-    \ Gear Update and Path Forward Meetings</td>\n      <td>2024-06-27</td>\n    \
-    \  <td>2024-09-30</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-2024-01</td>\n      <td>Revised Event Reporting Guidelines</td>\n\
+    \      <td>2024-01-29</td>\n      <td>2024-11-27</td>\n      <td>C</td>\n    \
+    \  <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-000049</td>\n      <td>Share\
+    \ your thoughts about described video and audio description</td>\n      <td>2024-09-19</td>\n\
+    \      <td>2024-11-20</td>\n      <td>C</td>\n      <td>crtc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-VAC0058</td>\n      <td>2025 Women’s Forum</td>\n     \
+    \ <td>2024-10-28</td>\n      <td>2024-11-20</td>\n      <td>C</td>\n      <td>vac-acc</td>\n\
+    \    </tr>\n    <tr>\n      <td>C-0000974</td>\n      <td>Consultation on Clomazone,\
+    \ Proposed Maximum Residue Limit PMRL2024-17</td>\n      <td>2024-09-05</td>\n\
+    \      <td>2024-11-19</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000975</td>\n      <td>Consultation on rimsulfuron, Proposed\
+    \ Maximum Residue Limit PMRL2024-16</td>\n      <td>2024-09-05</td>\n      <td>2024-11-19</td>\n\
+    \      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C0000582</td>\n\
+    \      <td>Canada’s Strengthened Forced Labour Import Prohibition</td>\n     \
+    \ <td>2024-10-17</td>\n      <td>2024-11-18</td>\n      <td>C</td>\n      <td>dfatd-maecd</td>\n\
+    \    </tr>\n  </tbody>\n</table><h3>Consultations Listed as Open that should be\
+    \ closed</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"\
+    text-align: right;\">\n      <th>registration_number</th>\n      <th>title_en</th>\n\
+    \      <th>start_date</th>\n      <th>end_date</th>\n      <th>status</th>\n \
+    \     <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>STC-0000066</td>\n\
+    \      <td>Invitation to participate in the revision of the National Occupational\
+    \ Classification (NOC)</td>\n      <td>2024-04-09</td>\n      <td>2024-11-15</td>\n\
+    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>80164</td>\n\
+    \      <td>Boat Harbour Remediation Project\\nPublic Notice\\nPublic Comments\
+    \ Invited on the Draft Report and Potential Conditions</td>\n      <td>2024-10-15</td>\n\
+    \      <td>2024-11-14</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
+    \    <tr>\n      <td>88867-1</td>\n      <td>Rocky Creek Metallurgical Coal Project\\\
+    nPublic Notice\\nParticipant Funding Available</td>\n      <td>2024-10-09</td>\n\
+    \      <td>2024-11-08</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
+    \    <tr>\n      <td>88867</td>\n      <td>Public Comments Invited &amp; Information\
+    \ Sessions</td>\n      <td>2024-10-07</td>\n      <td>2024-11-06</td>\n      <td>O</td>\n\
+    \      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>STC-0000068</td>\n \
+    \     <td>Share your input on the Survey of Household Spending (SHS)</td>\n  \
+    \    <td>2024-08-20</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n      <td>statcan</td>\n\
+    \    </tr>\n    <tr>\n      <td>D00039</td>\n      <td>Targeted Stakeholder Engagement\
+    \ to Inform Canada’s Public Safety Broadband Network (PSBN)</td>\n      <td>2024-07-01</td>\n\
+    \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n\
+    \    <tr>\n      <td>STC-0000067</td>\n      <td>Share your feedback on the Labour\
+    \ Force Survey (LFS) Supplements Program</td>\n      <td>2024-10-01</td>\n   \
+    \   <td>2024-10-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0235</td>\n      <td>Consultation on a Policy, and Licensing,\
+    \ and Technical Framework for Supplemental Mobile Coverage by Satellite</td>\n\
+    \      <td>2024-06-17</td>\n      <td>2024-10-25</td>\n      <td>O</td>\n    \
+    \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>DFO20230131-09</td>\n      <td>Canada's\
+    \ (Draft) Ocean Noise Strategy</td>\n      <td>2024-08-23</td>\n      <td>2024-10-22</td>\n\
+    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-003196</td>\n\
+    \      <td>Consultation on Amending the List of Species under the Species at Risk\
+    \ Act: Terrestrial Species December 2023</td>\n      <td>2023-12-13</td>\n   \
+    \   <td>2024-10-16</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n\
+    \      <td>C-0000102</td>\n      <td>Council of Europe Second Additional Protocol\
+    \ to the Convention on Cybercrime on Enhanced Cooperation and Disclosure of Electronic\
+    \ Evidence\\nConsultations, 2023</td>\n      <td>2023-10-24</td>\n      <td>2024-09-30</td>\n\
+    \      <td>O</td>\n      <td>jus</td>\n    </tr>\n    <tr>\n      <td>DFO20240627</td>\n\
+    \      <td>Ghost Gear Update and Path Forward Meetings</td>\n      <td>2024-06-27</td>\n\
+    \      <td>2024-09-30</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
     \    <tr>\n      <td>687</td>\n      <td>TBD: Adopting Global Technical Regulations\
     \ 13 and 20 for Zero Emission Vehicle Safety (Electric Battery and Hydrogen)</td>\n\
     \      <td>2024-07-29</td>\n      <td>2024-09-30</td>\n      <td>O</td>\n    \
