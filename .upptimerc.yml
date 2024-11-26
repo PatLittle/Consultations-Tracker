@@ -89,9 +89,6 @@ sites:
   url: https://www.dfo-mpo.gc.ca/sch-ppb/whitby/index-eng.html
 - name: Elver Fishery Management Review
   url: https://www.dfo-mpo.gc.ca/fisheries-peches/ifmp-gmp/elver-anguille/index-eng.html
-- name: Management Plan for the Mapleleaf (Quadrula quadrula) Great Lakes – Upper
-    St. Lawrence Population, and Rainbow (Villosa iris) in Canada
-  url: https://wildlife-species.canada.ca/species-risk-registry/involved/consultation/default_e.cfm
 - name: Banc-des-Américains Oceans Act Marine Protected Area Management Plan
   url: https://www.dfo-mpo.gc.ca/oceans/mpa-zpm/american-americains/index-eng.html
 - name: Multi-species Action Plan for the Richelieu River Watershed in Canada
