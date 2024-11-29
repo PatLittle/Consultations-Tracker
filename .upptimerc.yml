@@ -21,6 +21,8 @@ sites:
   url: https://www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
 - name: 2022-23 Consultations on renewal of the Museum Policy
   url: https://www.canada.ca/en/canadian-heritage/campaigns/renewal-museum-policy.html
+- name: Canada's Second State of Youth Report
+  url: https://pch.research-recherche.ca/f/s.aspx?s=B7B1CE97-1CFC-43E9-9A2C-91173C20C6A4&lang=EN&r=34aa3364-1389-4479-b1ea-427aaaf72eee
 - name: REGDOC-2.10.1, Nuclear Emergency Preparedness and Response, Version 3
   url: https://www.cnsc-ccsn.gc.ca/eng/acts-and-regulations/consultation/regdoc2-10-1-v3-consultation/
 - name: Co-development of a new Indigenous Broadcasting Policy
@@ -321,29 +323,31 @@ status-website:
     \      <td>2025-02-09</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-VAC0059</td>\n      <td>Transition services consultation</td>\n\
     \      <td>2024-11-26</td>\n      <td>2024-12-13</td>\n      <td>O</td>\n    \
-    \  <td>vac-acc</td>\n    </tr>\n    <tr>\n      <td>C-0000720</td>\n      <td>Engagement\
-    \ on Intentions Paper for a Carbon Capture, Utilization and Storage Framework\
-    \ in Canada's offshore areas.</td>\n      <td>2024-11-25</td>\n      <td>2025-01-25</td>\n\
-    \      <td>P</td>\n      <td>nrcan-rncan</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
-    \ Ending +/- 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n\
-    \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
-    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
-    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>C-003251</td>\n      <td>Draft implementation framework for\
-    \ a Right to a Healthy Environment in the Canadian Environmental Protection Act,\
-    \ 1999</td>\n      <td>2024-10-04</td>\n      <td>2024-12-04</td>\n      <td>O</td>\n\
-    \      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003260</td>\n      <td>Proposed\
-    \ Plan of Priorities</td>\n      <td>2024-10-04</td>\n      <td>2024-12-04</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003264</td>\n\
-    \      <td>Proposed Watch List Approach</td>\n      <td>2024-10-04</td>\n    \
-    \  <td>2024-12-04</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n\
-    \      <td>C0000583</td>\n      <td>Consulting Canadians on the proposed addition\
-    \ of Brazil and Montenegro to the Automatic Firearms Country Control List (AFCCL)</td>\n\
-    \      <td>2024-11-04</td>\n      <td>2024-12-03</td>\n      <td>O</td>\n    \
-    \  <td>dfatd-maecd</td>\n    </tr>\n    <tr>\n      <td>C-0000951</td>\n     \
-    \ <td>Notice of intent to consult on modernization of provisions pertaining to\
-    \ hospitals and practitioners in regulations made under the Controlled Drugs and\
-    \ Substances Act</td>\n      <td>2024-06-01</td>\n      <td>2024-12-01</td>\n\
+    \  <td>vac-acc</td>\n    </tr>\n    <tr>\n      <td>C-0000081</td>\n      <td>Canada's\
+    \ Second State of Youth Report</td>\n      <td>2024-11-25</td>\n      <td>2025-02-16</td>\n\
+    \      <td>P</td>\n      <td>pch</td>\n    </tr>\n    <tr>\n      <td>C-0000720</td>\n\
+    \      <td>Engagement on Intentions Paper for a Carbon Capture, Utilization and\
+    \ Storage Framework in Canada's offshore areas.</td>\n      <td>2024-11-25</td>\n\
+    \      <td>2025-01-25</td>\n      <td>P</td>\n      <td>nrcan-rncan</td>\n   \
+    \ </tr>\n  </tbody>\n</table><h3>Consultations Ending +/- 5 days from today</h3><table\
+    \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
+    >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
+    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-003251</td>\n      <td>Draft\
+    \ implementation framework for a Right to a Healthy Environment in the Canadian\
+    \ Environmental Protection Act, 1999</td>\n      <td>2024-10-04</td>\n      <td>2024-12-04</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003260</td>\n\
+    \      <td>Proposed Plan of Priorities</td>\n      <td>2024-10-04</td>\n     \
+    \ <td>2024-12-04</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n\
+    \      <td>C-003264</td>\n      <td>Proposed Watch List Approach</td>\n      <td>2024-10-04</td>\n\
+    \      <td>2024-12-04</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
+    \   <tr>\n      <td>C0000583</td>\n      <td>Consulting Canadians on the proposed\
+    \ addition of Brazil and Montenegro to the Automatic Firearms Country Control\
+    \ List (AFCCL)</td>\n      <td>2024-11-04</td>\n      <td>2024-12-03</td>\n  \
+    \    <td>O</td>\n      <td>dfatd-maecd</td>\n    </tr>\n    <tr>\n      <td>C-0000951</td>\n\
+    \      <td>Notice of intent to consult on modernization of provisions pertaining\
+    \ to hospitals and practitioners in regulations made under the Controlled Drugs\
+    \ and Substances Act</td>\n      <td>2024-06-01</td>\n      <td>2024-12-01</td>\n\
     \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000980</td>\n\
     \      <td>Consultation on pyridate, Proposed Maximum Residue Limit PMRL2024-18</td>\n\
     \      <td>2024-09-17</td>\n      <td>2024-12-01</td>\n      <td>O</td>\n    \
