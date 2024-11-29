@@ -1,7 +1,7 @@
 url: https://ncc-ccn.gc.ca/projects/alexandra-bridge-replacement#
-status: down
-code: 403
-responseTime: 401
-lastUpdated: 2024-11-28T23:16:18.389Z
+status: up
+code: 200
+responseTime: 363
+lastUpdated: 2024-11-29T01:53:23.522Z
 startTime: 2023-11-24T00:07:21.403Z
 generator: Upptime <https://github.com/upptime/upptime>
