@@ -103,9 +103,6 @@ sites:
   url: https://www.dfo-mpo.gc.ca/campaign-campagne/fisheries-act-loi-sur-les-peches/introduction-eng.html
 - name: Proposed Amendments to the Export Permits Regulations
   url: https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
-- name: Consulting Canadians on the proposed addition of Brazil and Montenegro to
-    the Automatic Firearms Country Control List (AFCCL)
-  url: https://www.international.gc.ca/trade-commerce/consultations/firearms-armes/2024-10-31-consultation.aspx?lang=eng
 - name: Consultation on 3-methyl-2-cyclohexen-1-one and its associated end-use products,
     Proposed Re-evaluation Decision PRVD2024-05
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2024/3-methyl-2-cyclohexen-1-one.html
@@ -351,7 +348,7 @@ status-website:
     \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C0000583</td>\n\
     \      <td>Consulting Canadians on the proposed addition of Brazil and Montenegro\
     \ to the Automatic Firearms Country Control List (AFCCL)</td>\n      <td>2024-11-04</td>\n\
-    \      <td>2024-12-03</td>\n      <td>O</td>\n      <td>dfatd-maecd</td>\n   \
+    \      <td>2024-12-03</td>\n      <td>C</td>\n      <td>dfatd-maecd</td>\n   \
     \ </tr>\n    <tr>\n      <td>C-0000951</td>\n      <td>Notice of intent to consult\
     \ on modernization of provisions pertaining to hospitals and practitioners in\
     \ regulations made under the Controlled Drugs and Substances Act</td>\n      <td>2024-06-01</td>\n\
@@ -379,16 +376,13 @@ status-website:
     \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
     \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>C0000583</td>\n      <td>Consulting Canadians on the proposed\
-    \ addition of Brazil and Montenegro to the Automatic Firearms Country Control\
-    \ List (AFCCL)</td>\n      <td>2024-11-04</td>\n      <td>2024-12-03</td>\n  \
-    \    <td>O</td>\n      <td>dfatd-maecd</td>\n    </tr>\n    <tr>\n      <td>c-20241101</td>\n\
-    \      <td>Public Lands for Homes</td>\n      <td>2024-08-26</td>\n      <td>2024-11-29</td>\n\
-    \      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-0000724</td>\n\
-    \      <td>Discussion Paper - Home Labelling: Informing Canadians on Home Energy\
-    \ Performance</td>\n      <td>2024-10-21</td>\n      <td>2024-11-29</td>\n   \
-    \   <td>O</td>\n      <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>STC-0000066</td>\n\
-    \      <td>Invitation to participate in the revision of the National Occupational\
+    \    <tr>\n      <td>c-20241101</td>\n      <td>Public Lands for Homes</td>\n\
+    \      <td>2024-08-26</td>\n      <td>2024-11-29</td>\n      <td>O</td>\n    \
+    \  <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-0000724</td>\n     \
+    \ <td>Discussion Paper - Home Labelling: Informing Canadians on Home Energy Performance</td>\n\
+    \      <td>2024-10-21</td>\n      <td>2024-11-29</td>\n      <td>O</td>\n    \
+    \  <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>STC-0000066</td>\n   \
+    \   <td>Invitation to participate in the revision of the National Occupational\
     \ Classification (NOC)</td>\n      <td>2024-04-09</td>\n      <td>2024-11-15</td>\n\
     \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>80164</td>\n\
     \      <td>Boat Harbour Remediation Project\\nPublic Notice\\nPublic Comments\
@@ -399,15 +393,15 @@ status-website:
     \      <td>2024-11-08</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
     \    <tr>\n      <td>88867</td>\n      <td>Public Comments Invited &amp; Information\
     \ Sessions</td>\n      <td>2024-10-07</td>\n      <td>2024-11-06</td>\n      <td>O</td>\n\
-    \      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>D00039</td>\n      <td>Targeted\
+    \      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>STC-0000067</td>\n \
+    \     <td>Share your feedback on the Labour Force Survey (LFS) Supplements Program</td>\n\
+    \      <td>2024-10-01</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n    \
+    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>D00039</td>\n      <td>Targeted\
     \ Stakeholder Engagement to Inform Canada’s Public Safety Broadband Network (PSBN)</td>\n\
     \      <td>2024-07-01</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n    \
     \  <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>STC-0000068</td>\n      <td>Share\
     \ your input on the Survey of Household Spending (SHS)</td>\n      <td>2024-08-20</td>\n\
     \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
-    \    <tr>\n      <td>STC-0000067</td>\n      <td>Share your feedback on the Labour\
-    \ Force Survey (LFS) Supplements Program</td>\n      <td>2024-10-01</td>\n   \
-    \   <td>2024-10-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
     \    <tr>\n      <td>C-0235</td>\n      <td>Consultation on a Policy, and Licensing,\
     \ and Technical Framework for Supplemental Mobile Coverage by Satellite</td>\n\
     \      <td>2024-06-17</td>\n      <td>2024-10-25</td>\n      <td>O</td>\n    \
@@ -473,11 +467,11 @@ status-website:
     \  <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-CANSOF-002</td>\n  \
     \    <td>Social systems professional services</td>\n      <td>2022-03-01</td>\n\
     \      <td>2022-08-31</td>\n      <td>O</td>\n      <td>dnd-mdn</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-JAG-21Q1-11</td>\n      <td>Consultation to inform the\
+    \    <tr>\n      <td>C-JAG-21Q2-18</td>\n      <td>Consultation to inform the\
     \ regulatory development to support the implementation of An Act to amend the\
     \ National Defence Act and to make related and consequential amendments to other\
     \ Acts</td>\n      <td>2021-05-13</td>\n      <td>2022-08-03</td>\n      <td>O</td>\n\
-    \      <td>dnd-mdn</td>\n    </tr>\n    <tr>\n      <td>C-JAG-21Q2-18</td>\n \
+    \      <td>dnd-mdn</td>\n    </tr>\n    <tr>\n      <td>C-JAG-21Q1-11</td>\n \
     \     <td>Consultation to inform the regulatory development to support the implementation\
     \ of An Act to amend the National Defence Act and to make related and consequential\
     \ amendments to other Acts</td>\n      <td>2021-05-13</td>\n      <td>2022-08-03</td>\n\
