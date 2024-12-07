@@ -368,17 +368,10 @@ status-website:
     \      <td>C0000583</td>\n      <td>Consulting Canadians on the proposed addition\
     \ of Brazil and Montenegro to the Automatic Firearms Country Control List (AFCCL)</td>\n\
     \      <td>2024-11-04</td>\n      <td>2024-12-03</td>\n      <td>C</td>\n    \
-    \  <td>dfatd-maecd</td>\n    </tr>\n    <tr>\n      <td>C-0000951</td>\n     \
-    \ <td>Notice of intent to consult on modernization of provisions pertaining to\
-    \ hospitals and practitioners in regulations made under the Controlled Drugs and\
-    \ Substances Act</td>\n      <td>2024-06-01</td>\n      <td>2024-12-01</td>\n\
-    \      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000980</td>\n\
-    \      <td>Consultation on pyridate, Proposed Maximum Residue Limit PMRL2024-18</td>\n\
-    \      <td>2024-09-17</td>\n      <td>2024-12-01</td>\n      <td>C</td>\n    \
-    \  <td>hc-sc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Listed as\
-    \ Open that should be closed</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n\
-    \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
-    \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
+    \  <td>dfatd-maecd</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Listed\
+    \ as Open that should be closed</h3><table border=\"1\" class=\"dataframe\">\n\
+    \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
+    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
     \    <tr>\n      <td>C-003251</td>\n      <td>Draft implementation framework for\
     \ a Right to a Healthy Environment in the Canadian Environmental Protection Act,\
