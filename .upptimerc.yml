@@ -188,8 +188,6 @@ sites:
 - name: Consultation on a Policy, and Licensing, and Technical Framework for Supplemental
     Mobile Coverage by Satellite
   url: https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/learn-more/key-documents/consultations/consultation-policy-licensing-and-technical-framework-supplemental-mobile-coverage-satellite
-- name: Right to Repair Consultation
-  url: https://ised-isde.canada.ca/site/ised/en/right-repair-consultation
 - name: Indigenous Advisory Circle
   url: https://library-archives.canada.ca/eng/corporate/about-us/our-partners/Pages/indigenous-advisory-circle.aspx
 - name: Stakeholders' Forum
@@ -345,7 +343,7 @@ status-website:
     \ Tax Credits</td>\n      <td>2023-06-06</td>\n      <td>2024-12-13</td>\n   \
     \   <td>C</td>\n      <td>fin</td>\n    </tr>\n    <tr>\n      <td>C-0236</td>\n\
     \      <td>Right to Repair Consultation</td>\n      <td>2024-06-28</td>\n    \
-    \  <td>2024-12-13</td>\n      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n\
+    \  <td>2024-12-13</td>\n      <td>C</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n\
     \      <td>C-0000135</td>\n      <td>Saguenay-St. Lawrence Marine Park expansion\
     \ project</td>\n      <td>2024-10-22</td>\n      <td>2024-12-13</td>\n      <td>O</td>\n\
     \      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-VAC0059</td>\n      <td>Transition\
