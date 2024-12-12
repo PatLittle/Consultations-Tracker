@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rcaanc-cirnac.gc.ca.ico",
     "slug": "white-river-first-nations",
     "status": "up",
-    "uptime": "77.46%",
+    "uptime": "77.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
@@ -464,18 +464,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/otc-cta.gc.ca.ico",
     "slug": "2024-interswitching-consultation",
     "status": "down",
-    "uptime": "5.19%",
-    "uptimeDay": "99.78%",
+    "uptime": "5.17%",
+    "uptimeDay": "93.36%",
     "uptimeWeek": "14.29%",
-    "uptimeMonth": "5.19%",
-    "uptimeYear": "5.19%",
+    "uptimeMonth": "5.17%",
+    "uptimeYear": "5.17%",
     "time": 459,
     "timeDay": 492,
     "timeWeek": 459,
     "timeMonth": 459,
     "timeYear": 459,
     "dailyMinutesDown": {
-      "2024-12-11": 3,
+      "2024-12-12": 50,
+      "2024-12-11": 46,
       "2024-12-10": 1394,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
@@ -665,11 +666,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.canada.ca.ico",
     "slug": "proposed-coal-mining-effluent-regulations",
     "status": "up",
-    "uptime": "30.39%",
+    "uptime": "30.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.45%",
+    "uptimeYear": "30.49%",
     "time": 2085,
     "timeDay": 2205,
     "timeWeek": 2203,
@@ -1747,9 +1748,7 @@
     "timeWeek": 523,
     "timeMonth": 587,
     "timeYear": 535,
-    "dailyMinutesDown": {
-      "2023-12-13": 182
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stakeholders' Forum",
@@ -1767,9 +1766,7 @@
     "timeWeek": 306,
     "timeMonth": 342,
     "timeYear": 322,
-    "dailyMinutesDown": {
-      "2023-12-13": 180
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Services Consultation Committee",
@@ -1787,9 +1784,7 @@
     "timeWeek": 352,
     "timeMonth": 419,
     "timeYear": 375,
-    "dailyMinutesDown": {
-      "2023-12-13": 179
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Youth Advisory Council",
@@ -1807,9 +1802,7 @@
     "timeWeek": 304,
     "timeMonth": 348,
     "timeYear": 330,
-    "dailyMinutesDown": {
-      "2023-12-13": 177
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Consultation to inform the regulatory development to support the implementation of An Act to amend the National Defence Act and to make related and consequential amendments to other Acts",
@@ -1921,8 +1914,7 @@
       "2023-12-31": 1440,
       "2023-12-30": 939,
       "2023-12-22": 249,
-      "2023-12-20": 194,
-      "2023-12-13": 236
+      "2023-12-20": 194
     }
   },
   {
