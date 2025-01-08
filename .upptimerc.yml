@@ -151,9 +151,13 @@ sites:
 - name: Regulations Amending the Pest Control Products Fees and Charges Regulations
     (Annual Charge)
   url: https://gazette.gc.ca/rp-pr/p1/2024/2024-12-21/html/reg8-eng.html
-- name: Regulations Amending Certain Regulations Made Under the Food and Drugs Act
-    (Shortages and Discontinuation of Sale of Drugs and Medical Devices)
-  url: https://gazette.gc.ca/rp-pr/p1/2024/2024-12-28/html/reg1-eng.html
+- name: 'Share your views: Consultation on proposed amendments to regulations to address
+    health product shortages in Canada'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-proposed-amendments-regulations-health-product-shortages.html
+- name: 'Release of draft (Step 2) ICH Guideline E6(R3) Annex 2: Good Clinical Practice'
+  url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
+- name: 'Release of draft (Step 2) ICH Guideline M15: Model Informed Drug Development'
+  url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
