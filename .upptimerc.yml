@@ -124,9 +124,6 @@ sites:
 - name: Consulting Canadians on a possible bilateral free trade agreement with the
     Philippines
   url: https://international.canada.ca/en/global-affairs/consultations/2024-12-07-philippines-free-trade-agreement
-- name: 'Consultation on guidelines for Canadian drinking water quality: Radiological
-    Parameters'
-  url: https://www.canada.ca/en/health-canada/programs/consultation-guidelines-canadian-drinking-water-quality-radiological-parameters.html
 - name: Consultation on spinosad, Proposed Maximum Residue Limit PMRL2024-23
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2024/spinosad.html
 - name: Consultation on flonicamid, Proposed Maximum Residue Limit PMRL2024-24
@@ -160,6 +157,8 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
 - name: 'Release of draft (Step 2) ICH Guideline M15: Model Informed Drug Development'
   url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
+- name: 'Consultation: Draft Guidelines for Canadian Drinking Water Quality, Trihalomethanes'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-draft-guidelines-canadian-drinking-water-quality-trihalomethanes.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
@@ -332,7 +331,10 @@ status-website:
     \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0232</td>\n      <td>Consultation\
     \ on  Alternate Service Delivery Programs, Part II</td>\n      <td>2025-01-13</td>\n\
     \      <td>2025-03-17</td>\n      <td>P</td>\n      <td>ic</td>\n    </tr>\n \
-    \ </tbody>\n</table><h3>Consultations Ending +/- 5 days from today</h3><table\
+    \   <tr>\n      <td>C-0001008</td>\n      <td>Consultation: Draft Guidelines for\
+    \ Canadian Drinking Water Quality, Trihalomethanes</td>\n      <td>2025-01-10</td>\n\
+    \      <td>2025-04-04</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \  </tbody>\n</table><h3>Consultations Ending +/- 5 days from today</h3><table\
     \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
     >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
@@ -348,7 +350,7 @@ status-website:
     \      <td>2025-01-12</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-0000988</td>\n      <td>Consultation on guidelines for\
     \ Canadian drinking water quality: Radiological Parameters</td>\n      <td>2024-10-11</td>\n\
-    \      <td>2025-01-10</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \      <td>2025-01-10</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-000182</td>\n      <td>Share your thoughts: Risk mitigation\
     \ options for the importation of honey bee packages from the United States</td>\n\
     \      <td>2024-11-07</td>\n      <td>2025-01-09</td>\n      <td>O</td>\n    \
