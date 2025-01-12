@@ -359,12 +359,9 @@ status-website:
     \    <td>2025-01-09</td>\n      <td>O</td>\n      <td>cta-otc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-1235703</td>\n      <td>Consultation on the Accessible\
     \ Canada Roadmap</td>\n      <td>2024-09-27</td>\n      <td>2025-01-08</td>\n\
-    \      <td>O</td>\n      <td>esdc-edsc</td>\n    </tr>\n    <tr>\n      <td>C-000183</td>\n\
-    \      <td>Share your thoughts: proposed new National Potato Wart Response Plan</td>\n\
-    \      <td>2024-11-05</td>\n      <td>2025-01-06</td>\n      <td>O</td>\n    \
-    \  <td>cfia-acia</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Listed\
-    \ as Open that should be closed</h3><table border=\"1\" class=\"dataframe\">\n\
-    \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
+    \      <td>O</td>\n      <td>esdc-edsc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \ Listed as Open that should be closed</h3><table border=\"1\" class=\"dataframe\"\
+    >\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
     \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
     \    <tr>\n      <td>C-000182</td>\n      <td>Share your thoughts: Risk mitigation\
