@@ -1,7 +1,7 @@
 url: https://www.statcan.gc.ca/en/consultation/2024/noc
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-24T01:47:50.432Z
+status: up
+code: 200
+responseTime: 77
+lastUpdated: 2025-01-24T04:26:10.218Z
 startTime: 2024-07-15T20:22:14.512Z
 generator: Upptime <https://github.com/upptime/upptime>
