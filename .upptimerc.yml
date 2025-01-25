@@ -327,14 +327,23 @@ status-website:
     \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
     >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0000995</td>\n      <td>Consultation\
-    \ on flonicamid, Proposed Maximum Residue Limit PMRL2024-24</td>\n      <td>2024-11-14</td>\n\
-    \      <td>2025-01-28</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0000720</td>\n      <td>Engagement on Intentions Paper\
-    \ for a Carbon Capture, Utilization and Storage Framework in Canada's offshore\
-    \ areas.</td>\n      <td>2024-11-25</td>\n      <td>2025-01-25</td>\n      <td>P</td>\n\
-    \      <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>C-0000993</td>\n \
-    \     <td>Consultation on spinosad, Proposed Maximum Residue Limit PMRL2024-23</td>\n\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-100133</td>\n      <td>Mortgage\
+    \ Industry Consultations on Income Verification Tool</td>\n      <td>2024-11-11</td>\n\
+    \      <td>2025-01-30</td>\n      <td>O</td>\n      <td>cra-arc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0001002</td>\n      <td>Consultation on fluopyram, Luna\
+    \ Privilege Greenhouse Fungicide, Proposed Registration Decision PRD2024-10</td>\n\
+    \      <td>2024-12-16</td>\n      <td>2025-01-30</td>\n      <td>O</td>\n    \
+    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000137</td>\n      <td>Town\
+    \ of Banff Railways Lands Area Redevelopment Plan - Term of Reference for Strategic\
+    \ Environmental Assessment</td>\n      <td>2024-12-18</td>\n      <td>2025-01-30</td>\n\
+    \      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000995</td>\n\
+    \      <td>Consultation on flonicamid, Proposed Maximum Residue Limit PMRL2024-24</td>\n\
+    \      <td>2024-11-14</td>\n      <td>2025-01-28</td>\n      <td>O</td>\n    \
+    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000720</td>\n      <td>Engagement\
+    \ on Intentions Paper for a Carbon Capture, Utilization and Storage Framework\
+    \ in Canada's offshore areas.</td>\n      <td>2024-11-25</td>\n      <td>2025-01-25</td>\n\
+    \      <td>P</td>\n      <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>C-0000993</td>\n\
+    \      <td>Consultation on spinosad, Proposed Maximum Residue Limit PMRL2024-23</td>\n\
     \      <td>2024-11-07</td>\n      <td>2025-01-21</td>\n      <td>C</td>\n    \
     \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C202409</td>\n      <td>REGDOC-2.10.1,\
     \ Nuclear Emergency Preparedness and Response, Version 3</td>\n      <td>2024-10-08</td>\n\
@@ -347,30 +356,27 @@ status-website:
     \      <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-000133</td>\n      <td>Consultation\
     \ on Removing the GST on Student Residences</td>\n      <td>2024-11-19</td>\n\
     \      <td>2025-01-20</td>\n      <td>C</td>\n      <td>fin</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0001000</td>\n      <td>Consultation on Beauveria bassiana\
-    \ strain ANT-03 and BioTitan WP, Proposed Registration Decision PRD2024-09</td>\n\
-    \      <td>2024-12-05</td>\n      <td>2025-01-19</td>\n      <td>C</td>\n    \
-    \  <td>hc-sc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Listed as\
-    \ Open that should be closed</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n\
-    \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
-    \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
-    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>cta-otc-2024-3</td>\n      <td>2024 Interswitching consultation</td>\n\
-    \      <td>2024-11-21</td>\n      <td>2025-01-09</td>\n      <td>O</td>\n    \
-    \  <td>cta-otc</td>\n    </tr>\n    <tr>\n      <td>C-000182</td>\n      <td>Share\
-    \ your thoughts: Risk mitigation options for the importation of honey bee packages\
-    \ from the United States</td>\n      <td>2024-11-07</td>\n      <td>2025-01-09</td>\n\
-    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-000183</td>\n\
-    \      <td>Share your thoughts: proposed new National Potato Wart Response Plan</td>\n\
-    \      <td>2024-11-05</td>\n      <td>2025-01-06</td>\n      <td>O</td>\n    \
-    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-2021-02</td>\n      <td>Regulatory\
-    \ Framework Plan</td>\n      <td>2021-06-16</td>\n      <td>2024-12-31</td>\n\
-    \      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>STC-0000052</td>\n\
-    \      <td>Missing persons data standards consultative engagement</td>\n     \
-    \ <td>2023-06-22</td>\n      <td>2024-12-31</td>\n      <td>O</td>\n      <td>statcan</td>\n\
-    \    </tr>\n    <tr>\n      <td>C0000193</td>\n      <td>Consultations on IRCC’s\
-    \ Crisis Response Framework</td>\n      <td>2024-06-05</td>\n      <td>2024-12-31</td>\n\
-    \      <td>O</td>\n      <td>cic</td>\n    </tr>\n    <tr>\n      <td>DFO20240130-01</td>\n\
+    \  </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
+    \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
+    >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
+    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>cta-otc-2024-3</td>\n   \
+    \   <td>2024 Interswitching consultation</td>\n      <td>2024-11-21</td>\n   \
+    \   <td>2025-01-09</td>\n      <td>O</td>\n      <td>cta-otc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-000182</td>\n      <td>Share your thoughts: Risk mitigation\
+    \ options for the importation of honey bee packages from the United States</td>\n\
+    \      <td>2024-11-07</td>\n      <td>2025-01-09</td>\n      <td>O</td>\n    \
+    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-000183</td>\n      <td>Share\
+    \ your thoughts: proposed new National Potato Wart Response Plan</td>\n      <td>2024-11-05</td>\n\
+    \      <td>2025-01-06</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-2021-02</td>\n      <td>Regulatory Framework Plan</td>\n\
+    \      <td>2021-06-16</td>\n      <td>2024-12-31</td>\n      <td>O</td>\n    \
+    \  <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>STC-0000052</td>\n      <td>Missing\
+    \ persons data standards consultative engagement</td>\n      <td>2023-06-22</td>\n\
+    \      <td>2024-12-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
+    \    <tr>\n      <td>C0000193</td>\n      <td>Consultations on IRCC’s Crisis Response\
+    \ Framework</td>\n      <td>2024-06-05</td>\n      <td>2024-12-31</td>\n     \
+    \ <td>O</td>\n      <td>cic</td>\n    </tr>\n    <tr>\n      <td>DFO20240130-01</td>\n\
     \      <td>Banc-des-Américains Oceans Act Marine Protected Area Management Plan</td>\n\
     \      <td>2023-01-11</td>\n      <td>2024-12-31</td>\n      <td>O</td>\n    \
     \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C - 20230721</td>\n      <td>Elver\
