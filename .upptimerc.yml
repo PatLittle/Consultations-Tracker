@@ -352,10 +352,7 @@ status-website:
     \      <td>Engagement on Intentions Paper for a Carbon Capture, Utilization and\
     \ Storage Framework in Canada's offshore areas.</td>\n      <td>2024-11-25</td>\n\
     \      <td>2025-01-25</td>\n      <td>P</td>\n      <td>nrcan-rncan</td>\n   \
-    \ </tr>\n    <tr>\n      <td>C-0000993</td>\n      <td>Consultation on spinosad,\
-    \ Proposed Maximum Residue Limit PMRL2024-23</td>\n      <td>2024-11-07</td>\n\
-    \      <td>2025-01-21</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \  </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
+    \ </tr>\n  </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
     \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
     >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
