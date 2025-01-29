@@ -149,13 +149,14 @@ sites:
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
-- name: Public Comments Invited & Information Sessions
-  url: https://iaac-aeic.gc.ca/050/evaluations/document/159254?culture=en-CA
-- name: Rocky Creek Metallurgical Coal ProjectPublic NoticeParticipant Funding Available
-  url: https://iaac-aeic.gc.ca/050/evaluations/document/159264?culture=en-CA
-- name: Boat Harbour Remediation ProjectPublic NoticePublic Comments Invited on the
-    Draft Report and Potential Conditions
-  url: https://iaac-aeic.gc.ca/050/evaluations/document/159328?culture=en-CA
+- name: Crawford Nickel ProjectPublic NoticeComments Invited on the Summary of the
+    Impact Statement
+  url: https://iaac-aeic.gc.ca/050/evaluations/document/159905?culture=en-CA
+- name: Sussex Region Flood Diversion ProjectPublic NoticeComments Invited on the
+    Summary of the Initial Project Description
+  url: https://iaac-aeic.gc.ca/050/evaluations/document/160494?culture=en-CA
+- name: Sussex Region Flood Diversion ProjectPublic NoticeParticipant Funding Available
+  url: https://iaac-aeic.gc.ca/050/evaluations/document/160558?culture=en-CA
 - name: Indian Oil and Gas Regulations - Phase II
   url: http://www.pgic-iogc.gc.ca/eng/1471964522302/1471964567990
 - name: Indigenous Procurement Modernization (including Procurement Strategy for Aboriginal
@@ -394,76 +395,67 @@ status-website:
     \   <td>2024-12-13</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n\
     \      <td>C-2024-09</td>\n      <td>Rules of Practice and Procedure Review</td>\n\
     \      <td>2024-09-09</td>\n      <td>2024-12-09</td>\n      <td>O</td>\n    \
-    \  <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-003264</td>\n      <td>Proposed\
-    \ Watch List Approach</td>\n      <td>2024-10-04</td>\n      <td>2024-12-04</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003251</td>\n\
-    \      <td>Draft implementation framework for a Right to a Healthy Environment\
-    \ in the Canadian Environmental Protection Act, 1999</td>\n      <td>2024-10-04</td>\n\
-    \      <td>2024-12-04</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-003260</td>\n      <td>Proposed Plan of Priorities</td>\n\
+    \  <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-003260</td>\n      <td>Proposed\
+    \ Plan of Priorities</td>\n      <td>2024-10-04</td>\n      <td>2024-12-04</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003264</td>\n\
+    \      <td>Proposed Watch List Approach</td>\n      <td>2024-10-04</td>\n    \
+    \  <td>2024-12-04</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n\
+    \      <td>C-003251</td>\n      <td>Draft implementation framework for a Right\
+    \ to a Healthy Environment in the Canadian Environmental Protection Act, 1999</td>\n\
     \      <td>2024-10-04</td>\n      <td>2024-12-04</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000724</td>\n      <td>Discussion\
-    \ Paper - Home Labelling: Informing Canadians on Home Energy Performance</td>\n\
-    \      <td>2024-10-21</td>\n      <td>2024-11-29</td>\n      <td>O</td>\n    \
-    \  <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>c-20241101</td>\n    \
-    \  <td>Public Lands for Homes</td>\n      <td>2024-08-26</td>\n      <td>2024-11-29</td>\n\
-    \      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>STC-0000066</td>\n\
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>c-20241101</td>\n      <td>Public\
+    \ Lands for Homes</td>\n      <td>2024-08-26</td>\n      <td>2024-11-29</td>\n\
+    \      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-0000724</td>\n\
+    \      <td>Discussion Paper - Home Labelling: Informing Canadians on Home Energy\
+    \ Performance</td>\n      <td>2024-10-21</td>\n      <td>2024-11-29</td>\n   \
+    \   <td>O</td>\n      <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>STC-0000066</td>\n\
     \      <td>Invitation to participate in the revision of the National Occupational\
     \ Classification (NOC)</td>\n      <td>2024-04-09</td>\n      <td>2024-11-15</td>\n\
-    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>80164</td>\n\
-    \      <td>Boat Harbour Remediation Project\\nPublic Notice\\nPublic Comments\
-    \ Invited on the Draft Report and Potential Conditions</td>\n      <td>2024-10-15</td>\n\
-    \      <td>2024-11-14</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
-    \    <tr>\n      <td>88867-1</td>\n      <td>Rocky Creek Metallurgical Coal Project\\\
-    nPublic Notice\\nParticipant Funding Available</td>\n      <td>2024-10-09</td>\n\
-    \      <td>2024-11-08</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
-    \    <tr>\n      <td>88867</td>\n      <td>Public Comments Invited &amp; Information\
-    \ Sessions</td>\n      <td>2024-10-07</td>\n      <td>2024-11-06</td>\n      <td>O</td>\n\
-    \      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>D00039</td>\n      <td>Targeted\
-    \ Stakeholder Engagement to Inform Canada’s Public Safety Broadband Network (PSBN)</td>\n\
-    \      <td>2024-07-01</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n    \
-    \  <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>C-0235</td>\n      <td>Consultation\
-    \ on a Policy, and Licensing, and Technical Framework for Supplemental Mobile\
-    \ Coverage by Satellite</td>\n      <td>2024-06-17</td>\n      <td>2024-10-25</td>\n\
-    \      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-003196</td>\n\
-    \      <td>Consultation on Amending the List of Species under the Species at Risk\
-    \ Act: Terrestrial Species December 2023</td>\n      <td>2023-12-13</td>\n   \
-    \   <td>2024-10-16</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n\
-    \      <td>C-0000102</td>\n      <td>Council of Europe Second Additional Protocol\
-    \ to the Convention on Cybercrime on Enhanced Cooperation and Disclosure of Electronic\
-    \ Evidence\\nConsultations, 2023</td>\n      <td>2023-10-24</td>\n      <td>2024-09-30</td>\n\
-    \      <td>O</td>\n      <td>jus</td>\n    </tr>\n    <tr>\n      <td>687</td>\n\
-    \      <td>TBD: Adopting Global Technical Regulations 13 and 20 for Zero Emission\
-    \ Vehicle Safety (Electric Battery and Hydrogen)</td>\n      <td>2024-07-29</td>\n\
-    \      <td>2024-09-30</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-0000127</td>\n      <td>Visitor Use Management - Jasper\
-    \ National Park</td>\n      <td>2024-06-18</td>\n      <td>2024-09-13</td>\n \
-    \     <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C--202303</td>\n\
-    \      <td>Alexandra Bridge Replacement Project</td>\n      <td>2023-10-01</td>\n\
-    \      <td>2024-08-31</td>\n      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n   \
-    \ </tr>\n    <tr>\n      <td>C-003227</td>\n      <td>Comment on: Draft Canada-Saskatchewan\
-    \ Equivalency Agreement on coal-fired electricity regulations (2025-2026)</td>\n\
-    \      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>STC-0000065</td>\n      <td>Invitation\
-    \ to participate in the revision of the Classification of Instructional Programs\
-    \ (CIP) Canada</td>\n      <td>2024-04-15</td>\n      <td>2024-07-31</td>\n  \
-    \    <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-0158</td>\n\
+    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>D00039</td>\n\
+    \      <td>Targeted Stakeholder Engagement to Inform Canada’s Public Safety Broadband\
+    \ Network (PSBN)</td>\n      <td>2024-07-01</td>\n      <td>2024-10-31</td>\n\
+    \      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>C-0235</td>\n\
+    \      <td>Consultation on a Policy, and Licensing, and Technical Framework for\
+    \ Supplemental Mobile Coverage by Satellite</td>\n      <td>2024-06-17</td>\n\
+    \      <td>2024-10-25</td>\n      <td>O</td>\n      <td>ic</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-003196</td>\n      <td>Consultation on Amending the List\
+    \ of Species under the Species at Risk Act: Terrestrial Species December 2023</td>\n\
+    \      <td>2023-12-13</td>\n      <td>2024-10-16</td>\n      <td>O</td>\n    \
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000102</td>\n      <td>Council\
+    \ of Europe Second Additional Protocol to the Convention on Cybercrime on Enhanced\
+    \ Cooperation and Disclosure of Electronic Evidence\\nConsultations, 2023</td>\n\
+    \      <td>2023-10-24</td>\n      <td>2024-09-30</td>\n      <td>O</td>\n    \
+    \  <td>jus</td>\n    </tr>\n    <tr>\n      <td>687</td>\n      <td>TBD: Adopting\
+    \ Global Technical Regulations 13 and 20 for Zero Emission Vehicle Safety (Electric\
+    \ Battery and Hydrogen)</td>\n      <td>2024-07-29</td>\n      <td>2024-09-30</td>\n\
+    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0000127</td>\n\
+    \      <td>Visitor Use Management - Jasper National Park</td>\n      <td>2024-06-18</td>\n\
+    \      <td>2024-09-13</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
+    \   <tr>\n      <td>C--202303</td>\n      <td>Alexandra Bridge Replacement Project</td>\n\
+    \      <td>2023-10-01</td>\n      <td>2024-08-31</td>\n      <td>O</td>\n    \
+    \  <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-003227</td>\n      <td>Comment\
+    \ on: Draft Canada-Saskatchewan Equivalency Agreement on coal-fired electricity\
+    \ regulations (2025-2026)</td>\n      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>STC-0000065</td>\n\
+    \      <td>Invitation to participate in the revision of the Classification of\
+    \ Instructional Programs (CIP) Canada</td>\n      <td>2024-04-15</td>\n      <td>2024-07-31</td>\n\
+    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-0158</td>\n\
     \      <td>Notice No. TIPB-001-2024 — Petition to the Governor in Council concerning\
     \ Telecom Decision CRTC 2023-358</td>\n      <td>2024-04-27</td>\n      <td>2024-06-11</td>\n\
     \      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000124</td>\n\
     \      <td>Fortress of Louisbourg National Historic Site Management Plan</td>\n\
     \      <td>2024-05-06</td>\n      <td>2024-06-07</td>\n      <td>O</td>\n    \
-    \  <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000119</td>\n      <td>Notice\
+    \  <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000120</td>\n      <td>Notice\
+    \ of Mooring Restrictions – Ontario Waterways - Rideau Canal National Historic\
+    \ Site</td>\n      <td>2024-03-11</td>\n      <td>2024-04-07</td>\n      <td>O</td>\n\
+    \      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000119</td>\n      <td>Notice\
     \ of Mooring Restrictions – Ontario Waterways - Trent-Severn Waterway National\
     \ Historic Site</td>\n      <td>2024-03-07</td>\n      <td>2024-04-07</td>\n \
-    \     <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000120</td>\n\
-    \      <td>Notice of Mooring Restrictions – Ontario Waterways - Rideau Canal National\
-    \ Historic Site</td>\n      <td>2024-03-11</td>\n      <td>2024-04-07</td>\n \
-    \     <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>STC-0000064</td>\n\
-    \      <td>Invitation to participate in a flood awareness consultative engagement</td>\n\
-    \      <td>2024-01-02</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
-    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>STC0000055</td>\n      <td>Census\
-    \ Data on Demand (CDOD) program consultative engagement</td>\n      <td>2023-07-30</td>\n\
+    \     <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>STC0000055</td>\n\
+    \      <td>Census Data on Demand (CDOD) program consultative engagement</td>\n\
+    \      <td>2023-07-30</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
+    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>STC-0000064</td>\n      <td>Invitation\
+    \ to participate in a flood awareness consultative engagement</td>\n      <td>2024-01-02</td>\n\
     \      <td>2024-03-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
     \    <tr>\n      <td>698</td>\n      <td>Digitizing the Travel Journey at Airports</td>\n\
     \      <td>2023-04-01</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
