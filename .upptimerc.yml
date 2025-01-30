@@ -97,6 +97,12 @@ sites:
   url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/proposed-watch-list.html
 - name: Roadmap to Extend the Life of Plastics in End-of-Use Electronics
   url: https://canada.ca/en/environment-climate-change/services/managing-reducing-waste/consultations/roadmap-plastics-end-use-electronics.html
+- name: Draft Assessment for the Fourteen Terpene and Terpenoid Substances Group and
+    the Risk Management Scope
+  url: https://canadagazette.gc.ca/rp-pr/p1/2025/2025-01-25/html/notice-avis-eng.html#nl3
+- name: The Additional Risk Characterization Document for human health and the Risk
+    Management Scope for melamine
+  url: https://gazette.gc.ca/rp-pr/p1/2025/2025-01-25/html/notice-avis-eng.html#nl4
 - name: Eastern Shore Islands Area of Interest Consultations
   url: http://www.dfo-mpo.gc.ca/oceans/consultations/easternshore-ilescoteest/index-eng.html
 - name: Northern Gulf of St. Lawrence Study Area
@@ -341,24 +347,30 @@ status-website:
     \    <tr>\n      <td>STC-0000072</td>\n      <td>Participate in the permanent\
     \ consultation for the revision of the Canadian Research and Development Classification\
     \ (CRDC)</td>\n      <td>2025-01-27</td>\n      <td>2030-01-27</td>\n      <td>O</td>\n\
-    \      <td>statcan</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Ending\
-    \ +/- 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n\
-    \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
-    \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
-    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>C-0001003</td>\n      <td>Consultation on copper (metallic),\
-    \ Intelligent Sink Trap, Proposed Registration Decision PRD2024-11</td>\n    \
-    \  <td>2024-12-19</td>\n      <td>2025-02-02</td>\n      <td>O</td>\n      <td>hc-sc</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-1235702</td>\n      <td>Consultations for the\
-    \ 2025 Annual Report on the 2030 Agenda and the Sustainable Development Goals</td>\n\
-    \      <td>2024-10-30</td>\n      <td>2025-01-31</td>\n      <td>O</td>\n    \
-    \  <td>esdc-edsc</td>\n    </tr>\n    <tr>\n      <td>C-0000205</td>\n      <td>Canada\
-    \ Offshore Renewable Energy Regulations</td>\n      <td>2020-10-02</td>\n    \
-    \  <td>2025-01-31</td>\n      <td>O</td>\n      <td>nrcan-rncan</td>\n    </tr>\n\
-    \    <tr>\n      <td>1023</td>\n      <td>Discussion Paper: Potential regulations\
-    \ to increase access to marine emergency services and to improve response to pollution\
-    \ incidents</td>\n      <td>2024-10-02</td>\n      <td>2025-01-31</td>\n     \
-    \ <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-100133</td>\n\
+    \      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-0033265</td>\n     \
+    \ <td>Draft Assessment for the Fourteen Terpene and Terpenoid Substances Group\
+    \ and the Risk Management Scope</td>\n      <td>2025-01-25</td>\n      <td>2025-03-26</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0033266</td>\n\
+    \      <td>The Additional Risk Characterization Document for human health and\
+    \ the Risk Management Scope for melamine</td>\n      <td>2025-01-25</td>\n   \
+    \   <td>2025-03-26</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n  </tbody>\n\
+    </table><h3>Consultations Ending +/- 5 days from today</h3><table border=\"1\"\
+    \ class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n   \
+    \   <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
+    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0001003</td>\n      <td>Consultation\
+    \ on copper (metallic), Intelligent Sink Trap, Proposed Registration Decision\
+    \ PRD2024-11</td>\n      <td>2024-12-19</td>\n      <td>2025-02-02</td>\n    \
+    \  <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-1235702</td>\n\
+    \      <td>Consultations for the 2025 Annual Report on the 2030 Agenda and the\
+    \ Sustainable Development Goals</td>\n      <td>2024-10-30</td>\n      <td>2025-01-31</td>\n\
+    \      <td>O</td>\n      <td>esdc-edsc</td>\n    </tr>\n    <tr>\n      <td>C-0000205</td>\n\
+    \      <td>Canada Offshore Renewable Energy Regulations</td>\n      <td>2020-10-02</td>\n\
+    \      <td>2025-01-31</td>\n      <td>O</td>\n      <td>nrcan-rncan</td>\n   \
+    \ </tr>\n    <tr>\n      <td>1023</td>\n      <td>Discussion Paper: Potential\
+    \ regulations to increase access to marine emergency services and to improve response\
+    \ to pollution incidents</td>\n      <td>2024-10-02</td>\n      <td>2025-01-31</td>\n\
+    \      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-100133</td>\n\
     \      <td>Mortgage Industry Consultations on Income Verification Tool</td>\n\
     \      <td>2024-11-11</td>\n      <td>2025-01-30</td>\n      <td>O</td>\n    \
     \  <td>cra-arc</td>\n    </tr>\n    <tr>\n      <td>C-0001002</td>\n      <td>Consultation\
