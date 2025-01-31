@@ -131,9 +131,6 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2024/florylpicoxamid.html
 - name: 'Share your thoughts: Advance requests and medical assistance in dying'
   url: https://www.canada.ca/en/health-canada/programs/consultation-advance-requests-medical-assistance-dying.html
-- name: Consultation on fluopyram, Luna Privilege Greenhouse Fungicide, Proposed Registration
-    Decision PRD2024-10
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2024/fluopyram-luna-privilege-greenhouse-fungicide.html
 - name: Consultation on copper (metallic), Intelligent Sink Trap, Proposed Registration
     Decision PRD2024-11
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2024/copper-metallic-intelligent-sink-trap.html
@@ -159,6 +156,9 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/food-nutrition/legislation-guidelines/acts-regulations/notices-proposal-notices-modification/table-permitted-nutrient-content-statements-claims-free-of-sugars.html
 - name: Consultation on tebuconazole, Proposed Maximum Residue Limit PMRL2025-02
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/tebuconazole.html
+- name: Consultation on Streptomyces lydicus Strain WYEC 108 and its associated end-use
+    products, Proposed Re-evaluation Decision PRVD2025-01
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/streptomyces-lydicus-strain-wyec-108.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
@@ -223,8 +223,6 @@ sites:
   url: https://www.rncanengagenrcan.ca/en/collections/offshore-renewable-energy-regulations-initiative
 - name: Indigenous Ministerial Arrangements Regulations
   url: https://www.rncanengagenrcan.ca/en/content/development-new-indigenous-ministerial-arrangements-regulations
-- name: 'Discussion Paper - Home Labelling: Informing Canadians on Home Energy Performance'
-  url: TBC - (https://natural-resources.canada.ca/energy-efficiency/homes/20546)
 - name: General Regulations under the Canada National Marine Conservation Areas Act
   url: https://www.letstalknmcas.ca/
 - name: Notice of Mooring Restrictions – Ontario Waterways - Trent-Severn Waterway
@@ -259,8 +257,6 @@ sites:
   url: https://www.tpsgc-pwgsc.gc.ca/pmc-cgp/pipmc-secgp-eng.html
 - name: Three-year Departmental Accessibility Plan
   url: https://www.canada.ca/en/public-services-procurement/corporate/accessibility.html
-- name: Alexandra Bridge Replacement Project
-  url: https://ncc-ccn.gc.ca/projects/alexandra-bridge-replacement#
 - name: Public Lands for Homes
   url: https://www.canada.ca/en/public-services-procurement/services/infrastructure-buildings/public-lands-homes.html
 - name: Multifactor Productivity Application
@@ -347,42 +343,40 @@ status-website:
     \      <td>2025-05-31</td>\n      <td>P</td>\n      <td>tbs-sct</td>\n    </tr>\n\
     \    <tr>\n      <td>C-1235705</td>\n      <td>Canadian School Food Data and Research\
     \ Priorities</td>\n      <td>2025-01-30</td>\n      <td>2025-02-28</td>\n    \
-    \  <td>P</td>\n      <td>esdc-edsc</td>\n    </tr>\n    <tr>\n      <td>80005</td>\n\
-    \      <td>Rose Lithium-Tantalum Mining Project\\nPublic Notice\\nPublic Comments\
-    \ Invited on Proposed Amendments to the Decision Statement</td>\n      <td>2025-01-30</td>\n\
-    \      <td>2025-03-01</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
-    \    <tr>\n      <td>1071</td>\n      <td>Updating the Saskatoon John G Diefenbaker\
-    \ International Airport Zoning Regulations</td>\n      <td>2025-01-30</td>\n \
-    \     <td>2025-03-31</td>\n      <td>P</td>\n      <td>tc</td>\n    </tr>\n  \
-    \  <tr>\n      <td>C202501</td>\n      <td>REGDOC-2.6.4, Chemistry Control for\
-    \ Reactor Facilities</td>\n      <td>2025-01-29</td>\n      <td>2025-04-05</td>\n\
-    \      <td>O</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>C-0001012</td>\n\
-    \      <td>Consultation on tebuconazole, Proposed Maximum Residue Limit PMRL2025-02</td>\n\
-    \      <td>2025-01-28</td>\n      <td>2025-04-13</td>\n      <td>O</td>\n    \
-    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>STC-0000072</td>\n      <td>Participate\
-    \ in the permanent consultation for the revision of the Canadian Research and\
-    \ Development Classification (CRDC)</td>\n      <td>2025-01-27</td>\n      <td>2030-01-27</td>\n\
-    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-0033265</td>\n\
-    \      <td>Draft Assessment for the Fourteen Terpene and Terpenoid Substances\
-    \ Group and the Risk Management Scope</td>\n      <td>2025-01-25</td>\n      <td>2025-03-26</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0033266</td>\n\
-    \      <td>The Additional Risk Characterization Document for human health and\
-    \ the Risk Management Scope for melamine</td>\n      <td>2025-01-25</td>\n   \
-    \   <td>2025-03-26</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n  </tbody>\n\
-    </table><h3>Consultations Ending +/- 5 days from today</h3><table border=\"1\"\
-    \ class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n   \
-    \   <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
-    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0001003</td>\n      <td>Consultation\
-    \ on copper (metallic), Intelligent Sink Trap, Proposed Registration Decision\
-    \ PRD2024-11</td>\n      <td>2024-12-19</td>\n      <td>2025-02-02</td>\n    \
-    \  <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-1235702</td>\n\
-    \      <td>Consultations for the 2025 Annual Report on the 2030 Agenda and the\
-    \ Sustainable Development Goals</td>\n      <td>2024-10-30</td>\n      <td>2025-01-31</td>\n\
-    \      <td>O</td>\n      <td>esdc-edsc</td>\n    </tr>\n    <tr>\n      <td>C-0000205</td>\n\
-    \      <td>Canada Offshore Renewable Energy Regulations</td>\n      <td>2020-10-02</td>\n\
-    \      <td>2025-01-31</td>\n      <td>O</td>\n      <td>nrcan-rncan</td>\n   \
-    \ </tr>\n    <tr>\n      <td>687</td>\n      <td>Adopting Global Technical Regulations\
+    \  <td>P</td>\n      <td>esdc-edsc</td>\n    </tr>\n    <tr>\n      <td>C-0001013</td>\n\
+    \      <td>Consultation on Streptomyces lydicus Strain WYEC 108 and its associated\
+    \ end-use products, Proposed Re-evaluation Decision PRVD2025-01</td>\n      <td>2025-01-30</td>\n\
+    \      <td>2025-04-30</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>80005</td>\n      <td>Rose Lithium-Tantalum Mining Project\\\
+    nPublic Notice\\nPublic Comments Invited on Proposed Amendments to the Decision\
+    \ Statement</td>\n      <td>2025-01-30</td>\n      <td>2025-03-01</td>\n     \
+    \ <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>1071</td>\n\
+    \      <td>Updating the Saskatoon John G Diefenbaker International Airport Zoning\
+    \ Regulations</td>\n      <td>2025-01-30</td>\n      <td>2025-03-31</td>\n   \
+    \   <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C202501</td>\n\
+    \      <td>REGDOC-2.6.4, Chemistry Control for Reactor Facilities</td>\n     \
+    \ <td>2025-01-29</td>\n      <td>2025-04-05</td>\n      <td>O</td>\n      <td>cnsc-ccsn</td>\n\
+    \    </tr>\n    <tr>\n      <td>C-0001012</td>\n      <td>Consultation on tebuconazole,\
+    \ Proposed Maximum Residue Limit PMRL2025-02</td>\n      <td>2025-01-28</td>\n\
+    \      <td>2025-04-13</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>STC-0000072</td>\n      <td>Participate in the permanent\
+    \ consultation for the revision of the Canadian Research and Development Classification\
+    \ (CRDC)</td>\n      <td>2025-01-27</td>\n      <td>2030-01-27</td>\n      <td>O</td>\n\
+    \      <td>statcan</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Ending\
+    \ +/- 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n\
+    \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
+    \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
+    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
+    \    <tr>\n      <td>C-0001003</td>\n      <td>Consultation on copper (metallic),\
+    \ Intelligent Sink Trap, Proposed Registration Decision PRD2024-11</td>\n    \
+    \  <td>2024-12-19</td>\n      <td>2025-02-02</td>\n      <td>O</td>\n      <td>hc-sc</td>\n\
+    \    </tr>\n    <tr>\n      <td>C-1235702</td>\n      <td>Consultations for the\
+    \ 2025 Annual Report on the 2030 Agenda and the Sustainable Development Goals</td>\n\
+    \      <td>2024-10-30</td>\n      <td>2025-01-31</td>\n      <td>O</td>\n    \
+    \  <td>esdc-edsc</td>\n    </tr>\n    <tr>\n      <td>C-0000205</td>\n      <td>Canada\
+    \ Offshore Renewable Energy Regulations</td>\n      <td>2020-10-02</td>\n    \
+    \  <td>2025-01-31</td>\n      <td>O</td>\n      <td>nrcan-rncan</td>\n    </tr>\n\
+    \    <tr>\n      <td>687</td>\n      <td>Adopting Global Technical Regulations\
     \ 13 and 20 for Zero Emission Vehicle Safety (Electric Battery and Hydrogen)</td>\n\
     \      <td>2024-07-29</td>\n      <td>2025-01-31</td>\n      <td>O</td>\n    \
     \  <td>tc</td>\n    </tr>\n    <tr>\n      <td>1023</td>\n      <td>Discussion\
@@ -394,47 +388,49 @@ status-website:
     \      <td>O</td>\n      <td>cra-arc</td>\n    </tr>\n    <tr>\n      <td>C-0001002</td>\n\
     \      <td>Consultation on fluopyram, Luna Privilege Greenhouse Fungicide, Proposed\
     \ Registration Decision PRD2024-10</td>\n      <td>2024-12-16</td>\n      <td>2025-01-30</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000137</td>\n\
+    \      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000137</td>\n\
     \      <td>Town of Banff Railways Lands Area Redevelopment Plan - Term of Reference\
     \ for Strategic Environmental Assessment</td>\n      <td>2024-12-18</td>\n   \
     \   <td>2025-01-30</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n\
     \      <td>C-0000995</td>\n      <td>Consultation on flonicamid, Proposed Maximum\
     \ Residue Limit PMRL2024-24</td>\n      <td>2024-11-14</td>\n      <td>2025-01-28</td>\n\
-    \      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0000720</td>\n\
-    \      <td>Engagement on Intentions Paper for a Carbon Capture, Utilization and\
-    \ Storage Framework in Canada's offshore areas.</td>\n      <td>2024-11-25</td>\n\
-    \      <td>2025-01-25</td>\n      <td>P</td>\n      <td>nrcan-rncan</td>\n   \
-    \ </tr>\n  </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
-    \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
-    >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
-    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>1069</td>\n      <td>Proposed\
-    \ regulatory project on administrative monetary penalties under the Marine Liability\
-    \ Act and parts of the Wrecked, Abandoned or Hazardous Vessels Act</td>\n    \
-    \  <td>2024-11-20</td>\n      <td>2025-01-20</td>\n      <td>O</td>\n      <td>tc</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-000182</td>\n      <td>Share your thoughts:\
-    \ Risk mitigation options for the importation of honey bee packages from the United\
-    \ States</td>\n      <td>2024-11-07</td>\n      <td>2025-01-09</td>\n      <td>O</td>\n\
-    \      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-000183</td>\n    \
-    \  <td>Share your thoughts: proposed new National Potato Wart Response Plan</td>\n\
-    \      <td>2024-11-05</td>\n      <td>2025-01-06</td>\n      <td>O</td>\n    \
-    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>STC-0000052</td>\n     \
-    \ <td>Missing persons data standards consultative engagement</td>\n      <td>2023-06-22</td>\n\
-    \      <td>2024-12-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
-    \    <tr>\n      <td>C0000193</td>\n      <td>Consultations on IRCC’s Crisis Response\
-    \ Framework</td>\n      <td>2024-06-05</td>\n      <td>2024-12-31</td>\n     \
-    \ <td>O</td>\n      <td>cic</td>\n    </tr>\n    <tr>\n      <td>C-0000136</td>\n\
+    \      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \ Listed as Open that should be closed</h3><table border=\"1\" class=\"dataframe\"\
+    >\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
+    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
+    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
+    \    <tr>\n      <td>C-100133</td>\n      <td>Mortgage Industry Consultations\
+    \ on Income Verification Tool</td>\n      <td>2024-11-11</td>\n      <td>2025-01-30</td>\n\
+    \      <td>O</td>\n      <td>cra-arc</td>\n    </tr>\n    <tr>\n      <td>C-0000137</td>\n\
+    \      <td>Town of Banff Railways Lands Area Redevelopment Plan - Term of Reference\
+    \ for Strategic Environmental Assessment</td>\n      <td>2024-12-18</td>\n   \
+    \   <td>2025-01-30</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n\
+    \      <td>1069</td>\n      <td>Proposed regulatory project on administrative\
+    \ monetary penalties under the Marine Liability Act and parts of the Wrecked,\
+    \ Abandoned or Hazardous Vessels Act</td>\n      <td>2024-11-20</td>\n      <td>2025-01-20</td>\n\
+    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-000182</td>\n\
+    \      <td>Share your thoughts: Risk mitigation options for the importation of\
+    \ honey bee packages from the United States</td>\n      <td>2024-11-07</td>\n\
+    \      <td>2025-01-09</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-000183</td>\n      <td>Share your thoughts: proposed new\
+    \ National Potato Wart Response Plan</td>\n      <td>2024-11-05</td>\n      <td>2025-01-06</td>\n\
+    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C0000193</td>\n\
+    \      <td>Consultations on IRCC’s Crisis Response Framework</td>\n      <td>2024-06-05</td>\n\
+    \      <td>2024-12-31</td>\n      <td>O</td>\n      <td>cic</td>\n    </tr>\n\
+    \    <tr>\n      <td>STC-0000052</td>\n      <td>Missing persons data standards\
+    \ consultative engagement</td>\n      <td>2023-06-22</td>\n      <td>2024-12-31</td>\n\
+    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-0000136</td>\n\
     \      <td>Public Engagement on the Strategic Environmental Assessment for the\
     \ Town of Banff railway lands area redevelopment plan</td>\n      <td>2024-12-16</td>\n\
     \      <td>2024-12-30</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-000172</td>\n      <td>Share your thoughts: Proposed new\
-    \ livestock feed ingredient - Recycled maple syrup</td>\n      <td>2024-11-28</td>\n\
+    \   <tr>\n      <td>C-000170</td>\n      <td>Share your thoughts: Proposed new\
+    \ livestock feed ingredient –  Dactic tuff breccia</td>\n      <td>2024-11-28</td>\n\
     \      <td>2024-12-28</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n\
     \    <tr>\n      <td>C-000171</td>\n      <td>Share your thoughts: Proposed amended\
     \ livestock feed ingredients - Corn gluten meal and corn gluten with bran</td>\n\
     \      <td>2024-11-28</td>\n      <td>2024-12-28</td>\n      <td>O</td>\n    \
-    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-000170</td>\n      <td>Share\
-    \ your thoughts: Proposed new livestock feed ingredient –  Dactic tuff breccia</td>\n\
+    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-000172</td>\n      <td>Share\
+    \ your thoughts: Proposed new livestock feed ingredient - Recycled maple syrup</td>\n\
     \      <td>2024-11-28</td>\n      <td>2024-12-28</td>\n      <td>O</td>\n    \
     \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-000048</td>\n      <td>Share\
     \ your thoughts about closed captioning of programming from online streaming services</td>\n\
@@ -452,86 +448,79 @@ status-website:
     \ <td>2024-12-04</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n\
     \      <td>C-003264</td>\n      <td>Proposed Watch List Approach</td>\n      <td>2024-10-04</td>\n\
     \      <td>2024-12-04</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
-    \   <tr>\n      <td>c-20241101</td>\n      <td>Public Lands for Homes</td>\n \
-    \     <td>2024-08-26</td>\n      <td>2024-11-29</td>\n      <td>O</td>\n     \
-    \ <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-0000724</td>\n      <td>Discussion\
-    \ Paper - Home Labelling: Informing Canadians on Home Energy Performance</td>\n\
-    \      <td>2024-10-21</td>\n      <td>2024-11-29</td>\n      <td>O</td>\n    \
-    \  <td>nrcan-rncan</td>\n    </tr>\n    <tr>\n      <td>STC-0000066</td>\n   \
-    \   <td>Invitation to participate in the revision of the National Occupational\
-    \ Classification (NOC)</td>\n      <td>2024-04-09</td>\n      <td>2024-11-15</td>\n\
-    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>D00039</td>\n\
-    \      <td>Targeted Stakeholder Engagement to Inform Canada’s Public Safety Broadband\
-    \ Network (PSBN)</td>\n      <td>2024-07-01</td>\n      <td>2024-10-31</td>\n\
-    \      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>C-011126</td>\n\
-    \      <td>Artificial Intelligence Strategy for the Government of Canada</td>\n\
-    \      <td>2024-09-16</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n    \
-    \  <td>tbs-sct</td>\n    </tr>\n    <tr>\n      <td>C-0235</td>\n      <td>Consultation\
-    \ on a Policy, and Licensing, and Technical Framework for Supplemental Mobile\
-    \ Coverage by Satellite</td>\n      <td>2024-06-17</td>\n      <td>2024-10-25</td>\n\
-    \      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-003196</td>\n\
-    \      <td>Consultation on Amending the List of Species under the Species at Risk\
-    \ Act: Terrestrial Species December 2023</td>\n      <td>2023-12-13</td>\n   \
-    \   <td>2024-10-16</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n\
-    \      <td>C-0000102</td>\n      <td>Council of Europe Second Additional Protocol\
-    \ to the Convention on Cybercrime on Enhanced Cooperation and Disclosure of Electronic\
-    \ Evidence\\nConsultations, 2023</td>\n      <td>2023-10-24</td>\n      <td>2024-09-30</td>\n\
-    \      <td>O</td>\n      <td>jus</td>\n    </tr>\n    <tr>\n      <td>C-0000127</td>\n\
-    \      <td>Visitor Use Management - Jasper National Park</td>\n      <td>2024-06-18</td>\n\
-    \      <td>2024-09-13</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
-    \   <tr>\n      <td>C--202303</td>\n      <td>Alexandra Bridge Replacement Project</td>\n\
-    \      <td>2023-10-01</td>\n      <td>2024-08-31</td>\n      <td>O</td>\n    \
-    \  <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-003227</td>\n      <td>Comment\
-    \ on: Draft Canada-Saskatchewan Equivalency Agreement on coal-fired electricity\
-    \ regulations (2025-2026)</td>\n      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>STC-0000065</td>\n\
-    \      <td>Invitation to participate in the revision of the Classification of\
-    \ Instructional Programs (CIP) Canada</td>\n      <td>2024-04-15</td>\n      <td>2024-07-31</td>\n\
-    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-0158</td>\n\
-    \      <td>Notice No. TIPB-001-2024 — Petition to the Governor in Council concerning\
-    \ Telecom Decision CRTC 2023-358</td>\n      <td>2024-04-27</td>\n      <td>2024-06-11</td>\n\
-    \      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000124</td>\n\
-    \      <td>Fortress of Louisbourg National Historic Site Management Plan</td>\n\
-    \      <td>2024-05-06</td>\n      <td>2024-06-07</td>\n      <td>O</td>\n    \
-    \  <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000119</td>\n      <td>Notice\
-    \ of Mooring Restrictions – Ontario Waterways - Trent-Severn Waterway National\
-    \ Historic Site</td>\n      <td>2024-03-07</td>\n      <td>2024-04-07</td>\n \
-    \     <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000120</td>\n\
-    \      <td>Notice of Mooring Restrictions – Ontario Waterways - Rideau Canal National\
-    \ Historic Site</td>\n      <td>2024-03-11</td>\n      <td>2024-04-07</td>\n \
-    \     <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>698</td>\n\
-    \      <td>Digitizing the Travel Journey at Airports</td>\n      <td>2023-04-01</td>\n\
-    \      <td>2024-03-31</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n \
+    \   <tr>\n      <td>STC-0000066</td>\n      <td>Invitation to participate in the\
+    \ revision of the National Occupational Classification (NOC)</td>\n      <td>2024-04-09</td>\n\
+    \      <td>2024-11-15</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
+    \    <tr>\n      <td>D00039</td>\n      <td>Targeted Stakeholder Engagement to\
+    \ Inform Canada’s Public Safety Broadband Network (PSBN)</td>\n      <td>2024-07-01</td>\n\
+    \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-011126</td>\n      <td>Artificial Intelligence Strategy\
+    \ for the Government of Canada</td>\n      <td>2024-09-16</td>\n      <td>2024-10-31</td>\n\
+    \      <td>O</td>\n      <td>tbs-sct</td>\n    </tr>\n    <tr>\n      <td>C-0235</td>\n\
+    \      <td>Consultation on a Policy, and Licensing, and Technical Framework for\
+    \ Supplemental Mobile Coverage by Satellite</td>\n      <td>2024-06-17</td>\n\
+    \      <td>2024-10-25</td>\n      <td>O</td>\n      <td>ic</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-003196</td>\n      <td>Consultation on Amending the List\
+    \ of Species under the Species at Risk Act: Terrestrial Species December 2023</td>\n\
+    \      <td>2023-12-13</td>\n      <td>2024-10-16</td>\n      <td>O</td>\n    \
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000102</td>\n      <td>Council\
+    \ of Europe Second Additional Protocol to the Convention on Cybercrime on Enhanced\
+    \ Cooperation and Disclosure of Electronic Evidence\\nConsultations, 2023</td>\n\
+    \      <td>2023-10-24</td>\n      <td>2024-09-30</td>\n      <td>O</td>\n    \
+    \  <td>jus</td>\n    </tr>\n    <tr>\n      <td>C-0000127</td>\n      <td>Visitor\
+    \ Use Management - Jasper National Park</td>\n      <td>2024-06-18</td>\n    \
+    \  <td>2024-09-13</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n\
+    \      <td>C-003227</td>\n      <td>Comment on: Draft Canada-Saskatchewan Equivalency\
+    \ Agreement on coal-fired electricity regulations (2025-2026)</td>\n      <td>2024-06-07</td>\n\
+    \      <td>2024-08-06</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
+    \   <tr>\n      <td>STC-0000065</td>\n      <td>Invitation to participate in the\
+    \ revision of the Classification of Instructional Programs (CIP) Canada</td>\n\
+    \      <td>2024-04-15</td>\n      <td>2024-07-31</td>\n      <td>O</td>\n    \
+    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-0158</td>\n      <td>Notice\
+    \ No. TIPB-001-2024 — Petition to the Governor in Council concerning Telecom Decision CRTC 2023-358</td>\n\
+    \      <td>2024-04-27</td>\n      <td>2024-06-11</td>\n      <td>O</td>\n    \
+    \  <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000124</td>\n      <td>Fortress\
+    \ of Louisbourg National Historic Site Management Plan</td>\n      <td>2024-05-06</td>\n\
+    \      <td>2024-06-07</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-0000119</td>\n      <td>Notice of Mooring Restrictions –\
+    \ Ontario Waterways - Trent-Severn Waterway National Historic Site</td>\n    \
+    \  <td>2024-03-07</td>\n      <td>2024-04-07</td>\n      <td>O</td>\n      <td>pc</td>\n\
+    \    </tr>\n    <tr>\n      <td>C-0000120</td>\n      <td>Notice of Mooring Restrictions\
+    \ – Ontario Waterways - Rideau Canal National Historic Site</td>\n      <td>2024-03-11</td>\n\
+    \      <td>2024-04-07</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
     \   <tr>\n      <td>STC-0000064</td>\n      <td>Invitation to participate in a\
     \ flood awareness consultative engagement</td>\n      <td>2024-01-02</td>\n  \
     \    <td>2024-03-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
-    \    <tr>\n      <td>STC0000055</td>\n      <td>Census Data on Demand (CDOD) program\
-    \ consultative engagement</td>\n      <td>2023-07-30</td>\n      <td>2024-03-31</td>\n\
-    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C0000584</td>\n\
-    \      <td>Consulting Canadians on a possible bilateral free trade agreement with\
-    \ the Philippines</td>\n      <td>2024-12-07</td>\n      <td>2024-03-07</td>\n\
-    \      <td>O</td>\n      <td>dfatd-maecd</td>\n    </tr>\n    <tr>\n      <td>C-ISC-1020</td>\n\
-    \      <td>Engagement 2023: Updating the Protocol For Centralised Drinking Water\
-    \ Systems in First Nations communities</td>\n      <td>2023-07-12</td>\n     \
-    \ <td>2024-02-29</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-ISC-1018</td>\n      <td>National Outcome-Based Framework</td>\n\
-    \      <td>2023-01-15</td>\n      <td>2024-01-31</td>\n      <td>O</td>\n    \
-    \  <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC - 1018</td>\n      <td>Developing\
-    \ laws and regulations for First Nations drinking water and wastewater: engagement\
-    \ 2022/2023</td>\n      <td>2022-08-01</td>\n      <td>2023-09-08</td>\n     \
-    \ <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-0000108</td>\n\
-    \      <td>2022-23 Consultations on renewal of the Museum Policy</td>\n      <td>2022-10-28</td>\n\
-    \      <td>2023-05-31</td>\n      <td>O</td>\n      <td>pch</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-201901</td>\n      <td>PSPC Controlled Goods Program’s\
-    \ Industry Engagement Committee (IEC)</td>\n      <td>2012-01-01</td>\n      <td>2023-01-01</td>\n\
-    \      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-CANSOF-002</td>\n\
-    \      <td>Social systems professional services</td>\n      <td>2022-03-01</td>\n\
+    \    <tr>\n      <td>698</td>\n      <td>Digitizing the Travel Journey at Airports</td>\n\
+    \      <td>2023-04-01</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
+    \  <td>tc</td>\n    </tr>\n    <tr>\n      <td>STC0000055</td>\n      <td>Census\
+    \ Data on Demand (CDOD) program consultative engagement</td>\n      <td>2023-07-30</td>\n\
+    \      <td>2024-03-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
+    \    <tr>\n      <td>C0000584</td>\n      <td>Consulting Canadians on a possible\
+    \ bilateral free trade agreement with the Philippines</td>\n      <td>2024-12-07</td>\n\
+    \      <td>2024-03-07</td>\n      <td>O</td>\n      <td>dfatd-maecd</td>\n   \
+    \ </tr>\n    <tr>\n      <td>C-ISC-1020</td>\n      <td>Engagement 2023: Updating\
+    \ the Protocol For Centralised Drinking Water Systems in First Nations communities</td>\n\
+    \      <td>2023-07-12</td>\n      <td>2024-02-29</td>\n      <td>O</td>\n    \
+    \  <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC-1018</td>\n      <td>National\
+    \ Outcome-Based Framework</td>\n      <td>2023-01-15</td>\n      <td>2024-01-31</td>\n\
+    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC\
+    \ - 1018</td>\n      <td>Developing laws and regulations for First Nations drinking\
+    \ water and wastewater: engagement 2022/2023</td>\n      <td>2022-08-01</td>\n\
+    \      <td>2023-09-08</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0000108</td>\n      <td>2022-23 Consultations on renewal\
+    \ of the Museum Policy</td>\n      <td>2022-10-28</td>\n      <td>2023-05-31</td>\n\
+    \      <td>O</td>\n      <td>pch</td>\n    </tr>\n    <tr>\n      <td>C-201901</td>\n\
+    \      <td>PSPC Controlled Goods Program’s Industry Engagement Committee (IEC)</td>\n\
+    \      <td>2012-01-01</td>\n      <td>2023-01-01</td>\n      <td>O</td>\n    \
+    \  <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-CANSOF-002</td>\n  \
+    \    <td>Social systems professional services</td>\n      <td>2022-03-01</td>\n\
     \      <td>2022-08-31</td>\n      <td>O</td>\n      <td>dnd-mdn</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-JAG-21Q1-11</td>\n      <td>Consultation to inform the\
+    \    <tr>\n      <td>C-JAG-21Q2-18</td>\n      <td>Consultation to inform the\
     \ regulatory development to support the implementation of An Act to amend the\
     \ National Defence Act and to make related and consequential amendments to other\
     \ Acts</td>\n      <td>2021-05-13</td>\n      <td>2022-08-03</td>\n      <td>O</td>\n\
-    \      <td>dnd-mdn</td>\n    </tr>\n    <tr>\n      <td>C-JAG-21Q2-18</td>\n \
+    \      <td>dnd-mdn</td>\n    </tr>\n    <tr>\n      <td>C-JAG-21Q1-11</td>\n \
     \     <td>Consultation to inform the regulatory development to support the implementation\
     \ of An Act to amend the National Defence Act and to make related and consequential\
     \ amendments to other Acts</td>\n      <td>2021-05-13</td>\n      <td>2022-08-03</td>\n\
@@ -548,13 +537,13 @@ status-website:
     \      <td>2021-09-30</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
     \   <tr>\n      <td>C-00052</td>\n      <td>National Infrastructure Assessment</td>\n\
     \      <td>2021-03-16</td>\n      <td>2021-06-30</td>\n      <td>O</td>\n    \
-    \  <td>infc</td>\n    </tr>\n    <tr>\n      <td>C-ISC0033</td>\n      <td>Indian\
-    \ Oil and Gas Regulations - Phase II</td>\n      <td>2013-04-01</td>\n      <td>2021-03-31</td>\n\
-    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0037</td>\n\
-    \      <td>Renewal of the Fire Protection Strategy</td>\n      <td>2020-04-01</td>\n\
-    \      <td>2021-03-31</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-INA0005</td>\n      <td>Indigenous Procurement Modernization\
-    \ (including Procurement Strategy for Aboriginal Business)</td>\n      <td>2017-06-01</td>\n\
+    \  <td>infc</td>\n    </tr>\n    <tr>\n      <td>C-INA0005</td>\n      <td>Indigenous\
+    \ Procurement Modernization (including Procurement Strategy for Aboriginal Business)</td>\n\
+    \      <td>2017-06-01</td>\n      <td>2021-03-31</td>\n      <td>O</td>\n    \
+    \  <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0037</td>\n      <td>Renewal\
+    \ of the Fire Protection Strategy</td>\n      <td>2020-04-01</td>\n      <td>2021-03-31</td>\n\
+    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0033</td>\n\
+    \      <td>Indian Oil and Gas Regulations - Phase II</td>\n      <td>2013-04-01</td>\n\
     \      <td>2021-03-31</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n\
     \    <tr>\n      <td>STC-0000023</td>\n      <td>Multifactor Productivity Application</td>\n\
     \      <td>2019-12-01</td>\n      <td>2020-03-31</td>\n      <td>O</td>\n    \
