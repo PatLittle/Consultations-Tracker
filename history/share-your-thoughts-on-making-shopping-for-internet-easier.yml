@@ -1,7 +1,7 @@
 url: https://crtc.gc.ca/eng/consultation/transp.htm
-status: up
-code: 200
-responseTime: 37
-lastUpdated: 2025-01-30T23:13:50.845Z
+status: down
+code: 500
+responseTime: 31
+lastUpdated: 2025-01-31T08:26:44.994Z
 startTime: 2024-12-05T20:26:22.392Z
 generator: Upptime <https://github.com/upptime/upptime>
