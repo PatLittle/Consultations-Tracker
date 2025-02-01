@@ -1,7 +1,7 @@
 url: https://www.dfo-mpo.gc.ca/sch-ppb/whitby/index-eng.html
-status: up
-code: 200
-responseTime: 366
-lastUpdated: 2025-01-31T23:12:49.292Z
+status: down
+code: 503
+responseTime: 88
+lastUpdated: 2025-02-01T12:37:55.451Z
 startTime: 2023-11-24T00:05:06.053Z
 generator: Upptime <https://github.com/upptime/upptime>
