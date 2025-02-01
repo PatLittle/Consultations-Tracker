@@ -1,7 +1,7 @@
 url: https://www.dfo-mpo.gc.ca/about-notre-sujet/engagement/2021/shipping-corridors-navigation-eng.html
-status: up
-code: 200
+status: down
+code: 503
 responseTime: 295
-lastUpdated: 2025-01-31T23:13:41.425Z
+lastUpdated: 2025-02-01T12:38:35.797Z
 startTime: 2023-11-24T00:07:37.454Z
 generator: Upptime <https://github.com/upptime/upptime>
