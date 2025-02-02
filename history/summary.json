@@ -144,7 +144,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-01": 1393,
+      "2025-02-02": 46,
+      "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -504,11 +505,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/otc-cta.gc.ca.ico",
     "slug": "2024-interswitching-consultation",
     "status": "up",
-    "uptime": "74.02%",
+    "uptime": "74.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "74.02%",
+    "uptimeYear": "74.05%",
     "time": 527,
     "timeDay": 696,
     "timeWeek": 687,
@@ -640,11 +641,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.canada.ca.ico",
     "slug": "canadian-school-food-data-and-research-priorities",
     "status": "up",
-    "uptime": "73.18%",
+    "uptime": "73.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "73.18%",
-    "uptimeMonth": "73.18%",
-    "uptimeYear": "73.18%",
+    "uptimeWeek": "73.72%",
+    "uptimeMonth": "73.72%",
+    "uptimeYear": "73.72%",
     "time": 268,
     "timeDay": 411,
     "timeWeek": 268,
@@ -733,11 +734,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.canada.ca.ico",
     "slug": "proposed-coal-mining-effluent-regulations",
     "status": "up",
-    "uptime": "50.03%",
+    "uptime": "50.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.08%",
+    "uptimeYear": "50.09%",
     "time": 1143,
     "timeDay": 181,
     "timeWeek": 113,
@@ -2254,8 +2255,7 @@
       "2025-01-18": 992,
       "2025-01-17": 43,
       "2024-06-20": 243,
-      "2024-02-29": 483,
-      "2024-02-03": 173
+      "2024-02-29": 483
     }
   },
   {
@@ -2279,8 +2279,7 @@
       "2025-01-18": 992,
       "2025-01-17": 42,
       "2024-06-20": 242,
-      "2024-02-29": 483,
-      "2024-02-03": 173
+      "2024-02-29": 483
     }
   },
   {
