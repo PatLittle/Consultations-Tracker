@@ -354,33 +354,34 @@ status-website:
     \ <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>1071</td>\n\
     \      <td>Updating the Saskatoon John G Diefenbaker International Airport Zoning\
     \ Regulations</td>\n      <td>2025-01-30</td>\n      <td>2025-03-31</td>\n   \
-    \   <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C202501</td>\n\
-    \      <td>REGDOC-2.6.4, Chemistry Control for Reactor Facilities</td>\n     \
-    \ <td>2025-01-29</td>\n      <td>2025-04-05</td>\n      <td>O</td>\n      <td>cnsc-ccsn</td>\n\
-    \    </tr>\n  </tbody>\n</table><h3>Consultations Ending +/- 5 days from today</h3><table\
-    \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
-    >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
-    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>83857-2</td>\n      <td>Crawford\
-    \ Nickel Project\\nPublic Notice\\nComments Invited on the Summary of the Impact\
-    \ Statement</td>\n      <td>2024-12-09</td>\n      <td>2025-02-07</td>\n     \
-    \ <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-0001003</td>\n\
-    \      <td>Consultation on copper (metallic), Intelligent Sink Trap, Proposed\
-    \ Registration Decision PRD2024-11</td>\n      <td>2024-12-19</td>\n      <td>2025-02-02</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-2024-09</td>\n\
-    \      <td>Rules of Practice and Procedure Review</td>\n      <td>2024-09-09</td>\n\
-    \      <td>2025-01-31</td>\n      <td>C</td>\n      <td>cer-rec</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-000182</td>\n      <td>Share your thoughts: Risk mitigation\
-    \ options for the importation of honey bee packages from the United States</td>\n\
-    \      <td>2024-11-07</td>\n      <td>2025-01-31</td>\n      <td>O</td>\n    \
-    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-1235702</td>\n      <td>Consultations\
-    \ for the 2025 Annual Report on the 2030 Agenda and the Sustainable Development\
-    \ Goals</td>\n      <td>2024-10-30</td>\n      <td>2025-01-31</td>\n      <td>O</td>\n\
-    \      <td>esdc-edsc</td>\n    </tr>\n    <tr>\n      <td>687</td>\n      <td>Adopting\
-    \ Global Technical Regulations 13 and 20 for Zero Emission Vehicle Safety (Electric\
-    \ Battery and Hydrogen)</td>\n      <td>2024-07-29</td>\n      <td>2025-01-31</td>\n\
-    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>1023</td>\n\
-    \      <td>Discussion Paper: Potential regulations to increase access to marine\
+    \   <td>P</td>\n      <td>tc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \ Ending +/- 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n\
+    \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
+    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
+    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
+    \    <tr>\n      <td>C-0000997</td>\n      <td>Consultation on florylpicoxamid,\
+    \ Proposed Maximum Residue Limit PMRL2024-25</td>\n      <td>2024-11-26</td>\n\
+    \      <td>2025-02-09</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>83857-2</td>\n      <td>Crawford Nickel Project\\nPublic\
+    \ Notice\\nComments Invited on the Summary of the Impact Statement</td>\n    \
+    \  <td>2024-12-09</td>\n      <td>2025-02-07</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n\
+    \    </tr>\n    <tr>\n      <td>C-0001003</td>\n      <td>Consultation on copper\
+    \ (metallic), Intelligent Sink Trap, Proposed Registration Decision PRD2024-11</td>\n\
+    \      <td>2024-12-19</td>\n      <td>2025-02-02</td>\n      <td>O</td>\n    \
+    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-2024-09</td>\n      <td>Rules\
+    \ of Practice and Procedure Review</td>\n      <td>2024-09-09</td>\n      <td>2025-01-31</td>\n\
+    \      <td>C</td>\n      <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-000182</td>\n\
+    \      <td>Share your thoughts: Risk mitigation options for the importation of\
+    \ honey bee packages from the United States</td>\n      <td>2024-11-07</td>\n\
+    \      <td>2025-01-31</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-1235702</td>\n      <td>Consultations for the 2025 Annual\
+    \ Report on the 2030 Agenda and the Sustainable Development Goals</td>\n     \
+    \ <td>2024-10-30</td>\n      <td>2025-01-31</td>\n      <td>O</td>\n      <td>esdc-edsc</td>\n\
+    \    </tr>\n    <tr>\n      <td>687</td>\n      <td>Adopting Global Technical\
+    \ Regulations 13 and 20 for Zero Emission Vehicle Safety (Electric Battery and\
+    \ Hydrogen)</td>\n      <td>2024-07-29</td>\n      <td>2025-01-31</td>\n     \
+    \ <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>1023</td>\n  \
+    \    <td>Discussion Paper: Potential regulations to increase access to marine\
     \ emergency services and to improve response to pollution incidents</td>\n   \
     \   <td>2024-10-02</td>\n      <td>2025-01-31</td>\n      <td>O</td>\n      <td>tc</td>\n\
     \    </tr>\n    <tr>\n      <td>C-100133</td>\n      <td>Mortgage Industry Consultations\
