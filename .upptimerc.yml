@@ -360,6 +360,9 @@ status-website:
     >\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
     \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
+    \    <tr>\n      <td>C-0000997</td>\n      <td>Consultation on florylpicoxamid,\
+    \ Proposed Maximum Residue Limit PMRL2024-25</td>\n      <td>2024-11-26</td>\n\
+    \      <td>2025-02-09</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
     \    <tr>\n      <td>83857-2</td>\n      <td>Crawford Nickel Project\\nPublic\
     \ Notice\\nComments Invited on the Summary of the Impact Statement</td>\n    \
     \  <td>2024-12-09</td>\n      <td>2025-02-07</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n\
@@ -397,14 +400,14 @@ status-website:
     \      <td>2024-12-20</td>\n      <td>O</td>\n      <td>crtc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-0000135</td>\n      <td>Saguenay-St. Lawrence Marine Park\
     \ expansion project</td>\n      <td>2024-10-22</td>\n      <td>2024-12-13</td>\n\
-    \      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-003264</td>\n\
-    \      <td>Proposed Watch List Approach</td>\n      <td>2024-10-04</td>\n    \
-    \  <td>2024-12-04</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n\
+    \      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-003260</td>\n\
+    \      <td>Proposed Plan of Priorities</td>\n      <td>2024-10-04</td>\n     \
+    \ <td>2024-12-04</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n\
     \      <td>C-003251</td>\n      <td>Draft implementation framework for a Right\
     \ to a Healthy Environment in the Canadian Environmental Protection Act, 1999</td>\n\
     \      <td>2024-10-04</td>\n      <td>2024-12-04</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003260</td>\n      <td>Proposed\
-    \ Plan of Priorities</td>\n      <td>2024-10-04</td>\n      <td>2024-12-04</td>\n\
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-003264</td>\n      <td>Proposed\
+    \ Watch List Approach</td>\n      <td>2024-10-04</td>\n      <td>2024-12-04</td>\n\
     \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>STC-0000066</td>\n\
     \      <td>Invitation to participate in the revision of the National Occupational\
     \ Classification (NOC)</td>\n      <td>2024-04-09</td>\n      <td>2024-11-15</td>\n\
