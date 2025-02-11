@@ -213,7 +213,7 @@ sites:
 - name: Indigenous Ministerial Arrangements Regulations
   url: https://www.rncanengagenrcan.ca/en/content/development-new-indigenous-ministerial-arrangements-regulations
 - name: Collaborative Geospatial Data Strategy for Canada
-  url: https://www.letstalknaturalresources.ca/
+  url: https://www.letstalknaturalresources.ca/geospatial-data-strategy
 - name: General Regulations under the Canada National Marine Conservation Areas Act
   url: https://www.letstalknmcas.ca/
 - name: Notice of Mooring Restrictions – Ontario Waterways - Trent-Severn Waterway
@@ -337,7 +337,7 @@ status-website:
     \  <td>2025-02-08</td>\n      <td>2025-03-11</td>\n      <td>O</td>\n      <td>ec</td>\n\
     \    </tr>\n    <tr>\n      <td>C-311024</td>\n      <td>Creating Canada’s 6th\
     \  National Action Plan on Open Government</td>\n      <td>2025-02-06</td>\n \
-    \     <td>2025-05-31</td>\n      <td>P</td>\n      <td>tbs-sct</td>\n    </tr>\n\
+    \     <td>2025-05-31</td>\n      <td>O</td>\n      <td>tbs-sct</td>\n    </tr>\n\
     \  </tbody>\n</table><h3>Consultations Ending +/- 5 days from today</h3><table\
     \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
     >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
