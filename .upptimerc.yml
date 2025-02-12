@@ -283,6 +283,11 @@ sites:
 - name: Participate in the permanent consultation for the revision of the Canadian
     Research and Development Classification (CRDC)
   url: https://www.statcan.gc.ca/en/consultation/2025/crdc
+- name: Share your input on Statistics Canada’s Direct Health Measures Programs
+  url: https://www.statcan.gc.ca/en/consultation/2025/direct-health-measures
+- name: Share your input on Measures to Collect Health Information with the Centre
+    for Direct Health Measures
+  url: https://www.statcan.gc.ca/en/consultation/2025/measures-collect-health-information
 - name: Watchlist 2020 mid-cycle consultation with industry
   url: https://www.tsb.gc.ca/eng/qui-about/relation.html
 - name: Watchlist 2025 mid-cycle consultations with industry
