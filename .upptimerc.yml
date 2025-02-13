@@ -150,6 +150,9 @@ sites:
 - name: 'Consultation: Proposal to amend the list of maximum residue limits for veterinary
     drugs in foods - Proposed MRL 2025-1'
   url: https://www.canada.ca/en/health-canada/programs/consultation-proposal-amend-list-maximum-residue-limits-veterinary-drugs-foods-mrl-2025-1.html
+- name: Proposed Registration Decision PRD2025-01, Flg22-Bt Peptide, Vismax Seed Treatment,
+    and Vismax Row Crop
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2025/flg22-bt-peptide-vismax-seed-treatment-row-crop.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
@@ -340,7 +343,10 @@ status-website:
     \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-0185</td>\n      <td>Amendments\
     \ to Directive No 11R3, Surplus Income Directive</td>\n      <td>2025-02-17</td>\n\
     \      <td>2025-03-18</td>\n      <td>P</td>\n      <td>ic</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-0033280</td>\n      <td>Proposed Amendments to the Antarctic\
+    \   <tr>\n      <td>C-0001017</td>\n      <td>Proposed Registration Decision PRD2025-01,\
+    \ Flg22-Bt Peptide, Vismax Seed Treatment, and Vismax Row Crop</td>\n      <td>2025-02-12</td>\n\
+    \      <td>2025-03-29</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0033280</td>\n      <td>Proposed Amendments to the Antarctic\
     \ Environmental Protection Regulations</td>\n      <td>2025-02-08</td>\n     \
     \ <td>2025-03-11</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n  </tbody>\n\
     </table><h3>Consultations Ending +/- 5 days from today</h3><table border=\"1\"\
