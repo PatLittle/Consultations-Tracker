@@ -155,6 +155,14 @@ sites:
 - name: Proposed Registration Decision PRD2025-01, Flg22-Bt Peptide, Vismax Seed Treatment,
     and Vismax Row Crop
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2025/flg22-bt-peptide-vismax-seed-treatment-row-crop.html
+- name: 'Notice of Consultation on the Prescription Drug List (PDL): Nicotine Tablets'
+  url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/consultation-nicotine-tablets.html
+- name: 'Notice of Consultation on the Prescription Drug List (PDL): Nicotine Buccal
+    Pouches'
+  url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/consultation-nicotine-buccal-pouches.html
+- name: 'Consultation: Proposal to control certain fentanyl precursor chemicals and
+    carisoprodol under the Controlled Drugs and Substances Act'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-proposal-control-fentanyl-precursor-chemicals-carisoprodol-under-controlled-drugs-substances-act.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
@@ -347,9 +355,18 @@ status-website:
     \      <td>2025-03-18</td>\n      <td>P</td>\n      <td>ic</td>\n    </tr>\n \
     \   <tr>\n      <td>C-000136</td>\n      <td>Pre-budget Consultations 2025</td>\n\
     \      <td>2025-02-14</td>\n      <td>2025-03-10</td>\n      <td>O</td>\n    \
-    \  <td>fin</td>\n    </tr>\n    <tr>\n      <td>C-0001017</td>\n      <td>Proposed\
-    \ Registration Decision PRD2025-01, Flg22-Bt Peptide, Vismax Seed Treatment, and\
-    \ Vismax Row Crop</td>\n      <td>2025-02-12</td>\n      <td>2025-03-29</td>\n\
+    \  <td>fin</td>\n    </tr>\n    <tr>\n      <td>C-0001020</td>\n      <td>Consultation:\
+    \ Proposal to control certain fentanyl precursor chemicals and carisoprodol under\
+    \ the Controlled Drugs and Substances Act</td>\n      <td>2025-02-14</td>\n  \
+    \    <td>2025-02-24</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0001018</td>\n      <td>Notice of Consultation on the Prescription\
+    \ Drug List (PDL): Nicotine Tablets</td>\n      <td>2025-02-13</td>\n      <td>2025-04-29</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0001019</td>\n\
+    \      <td>Notice of Consultation on the Prescription Drug List (PDL): Nicotine\
+    \ Buccal Pouches</td>\n      <td>2025-02-13</td>\n      <td>2025-04-29</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0001017</td>\n\
+    \      <td>Proposed Registration Decision PRD2025-01, Flg22-Bt Peptide, Vismax\
+    \ Seed Treatment, and Vismax Row Crop</td>\n      <td>2025-02-12</td>\n      <td>2025-03-29</td>\n\
     \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
     \ Ending +/- 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n\
     \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
