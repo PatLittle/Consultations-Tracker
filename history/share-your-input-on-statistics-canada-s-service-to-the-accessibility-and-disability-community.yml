@@ -1,7 +1,7 @@
 url: https://www.statcan.gc.ca/en/consultation/2024/accessibility-disability
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-15T16:31:12.753Z
+status: up
+code: 200
+responseTime: 49
+lastUpdated: 2025-02-15T20:21:42.604Z
 startTime: 2025-01-03T20:23:32.073Z
 generator: Upptime <https://github.com/upptime/upptime>
