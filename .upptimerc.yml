@@ -388,26 +388,23 @@ status-website:
     \      <td>2025-02-14</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
     \   <tr>\n      <td>C-0001001</td>\n      <td>Share your thoughts: Advance requests\
     \ and medical assistance in dying</td>\n      <td>2024-12-12</td>\n      <td>2025-02-14</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>89179</td>\n\
-    \      <td>Sussex Region Flood Diversion Project\\nPublic Notice\\nComments Invited\
-    \ on the Summary of the Initial Project Description</td>\n      <td>2025-01-21</td>\n\
-    \      <td>2025-02-10</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
-    \  </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
-    \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
-    >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
-    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-000056</td>\n      <td>Share\
-    \ your thoughts about enhancing customer notification</td>\n      <td>2024-11-22</td>\n\
-    \      <td>2025-02-14</td>\n      <td>O</td>\n      <td>crtc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0033258</td>\n      <td>Roadmap to Extend the Life of Plastics\
-    \ in End-of-Use Electronics</td>\n      <td>2024-12-02</td>\n      <td>2025-02-14</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0001001</td>\n\
-    \      <td>Share your thoughts: Advance requests and medical assistance in dying</td>\n\
-    \      <td>2024-12-12</td>\n      <td>2025-02-14</td>\n      <td>O</td>\n    \
-    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>89179</td>\n      <td>Sussex\
-    \ Region Flood Diversion Project\\nPublic Notice\\nComments Invited on the Summary\
-    \ of the Initial Project Description</td>\n      <td>2025-01-21</td>\n      <td>2025-02-10</td>\n\
-    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>83857-2</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \ Listed as Open that should be closed</h3><table border=\"1\" class=\"dataframe\"\
+    >\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
+    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
+    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
+    \    <tr>\n      <td>C-000056</td>\n      <td>Share your thoughts about enhancing\
+    \ customer notification</td>\n      <td>2024-11-22</td>\n      <td>2025-02-14</td>\n\
+    \      <td>O</td>\n      <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-0033258</td>\n\
+    \      <td>Roadmap to Extend the Life of Plastics in End-of-Use Electronics</td>\n\
+    \      <td>2024-12-02</td>\n      <td>2025-02-14</td>\n      <td>O</td>\n    \
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0001001</td>\n      <td>Share\
+    \ your thoughts: Advance requests and medical assistance in dying</td>\n     \
+    \ <td>2024-12-12</td>\n      <td>2025-02-14</td>\n      <td>O</td>\n      <td>hc-sc</td>\n\
+    \    </tr>\n    <tr>\n      <td>89179</td>\n      <td>Sussex Region Flood Diversion\
+    \ Project\\nPublic Notice\\nComments Invited on the Summary of the Initial Project\
+    \ Description</td>\n      <td>2025-01-21</td>\n      <td>2025-02-10</td>\n   \
+    \   <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>83857-2</td>\n\
     \      <td>Crawford Nickel Project\\nPublic Notice\\nComments Invited on the Summary\
     \ of the Impact Statement</td>\n      <td>2024-12-09</td>\n      <td>2025-02-07</td>\n\
     \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-000182</td>\n\
