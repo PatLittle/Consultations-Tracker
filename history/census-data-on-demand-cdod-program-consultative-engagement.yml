@@ -1,7 +1,7 @@
 url: https://www.statcan.gc.ca/en/consultation/2023/census-data-on-demand
-status: up
-code: 200
-responseTime: 68
-lastUpdated: 2025-02-16T12:41:27.636Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-02-16T20:25:02.045Z
 startTime: 2023-11-24T00:07:29.535Z
 generator: Upptime <https://github.com/upptime/upptime>
