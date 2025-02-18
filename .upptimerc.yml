@@ -16,6 +16,9 @@ sites:
 - name: 'Share your thoughts: Risk mitigation options for the importation of honey
     bee packages from the United States'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/honey-bee-packages-united-states
+- name: 'Share your thoughts: Proposed new livestock feed ingredient –Propionibacterium
+    freudenreichii culture dehydrated'
+  url: N
 - name: 'Share your thoughts: Proposed amendments to the Tables of Permissible Claims
     for Feed Labels'
   url: N
@@ -354,7 +357,10 @@ status-website:
     \   <td>2025-02-17</td>\n      <td>2025-03-16</td>\n      <td>O</td>\n      <td>dfatd-maecd</td>\n\
     \    </tr>\n    <tr>\n      <td>C-0185</td>\n      <td>Amendments to Directive\
     \ No 11R3, Surplus Income Directive</td>\n      <td>2025-02-17</td>\n      <td>2025-03-18</td>\n\
-    \      <td>P</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-000136</td>\n\
+    \      <td>P</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-000184</td>\n\
+    \      <td>Share your thoughts: Proposed new livestock feed ingredient –Propionibacterium\
+    \ freudenreichii culture dehydrated</td>\n      <td>2025-02-14</td>\n      <td>2025-03-14</td>\n\
+    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-000136</td>\n\
     \      <td>Pre-budget Consultations 2025</td>\n      <td>2025-02-14</td>\n   \
     \   <td>2025-03-10</td>\n      <td>O</td>\n      <td>fin</td>\n    </tr>\n   \
     \ <tr>\n      <td>C-0001020</td>\n      <td>Consultation: Proposal to control\
