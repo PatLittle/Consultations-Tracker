@@ -275,6 +275,9 @@ sites:
 - name: Consultation – Proposed national park in the Teetł’it Gwinjik (Peel River)
     Watershed
   url: https://parks.canada.ca/pn-np/cnpn-cnnp/teetlit-gwinjik-peel
+- name: Consultation on Wiinipaakw Indigenous Protected Area and National Marine Conservation
+    Area
+  url: https://parks.canada.ca/amnc-nmca/cnamnc-cnnmca/jamesest-easternjames
 - name: National Strategy to Combat Human Trafficking (HT) Targeted Engagement Annual
     Engagement
   url: https://www.canada.ca/en/services/policing/police/crime-and-crime-prevention/human-trafficking-smuggling/nggmnt-rnwd-hmntrffckng.html
@@ -377,6 +380,9 @@ status-website:
     \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>697</td>\n      <td>Fee Modernisation\
     \ Initiative for Transport Canada's Owned and Operated Ports</td>\n      <td>2025-03-01</td>\n\
     \      <td>2025-06-01</td>\n      <td>P</td>\n      <td>tc</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-0000139</td>\n      <td>Consultation on Wiinipaakw Indigenous\
+    \ Protected Area and National Marine Conservation Area</td>\n      <td>2025-02-25</td>\n\
+    \      <td>2025-03-09</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
     \ </tbody>\n</table><h3>Consultations Ending +/- 5 days from today</h3><table\
     \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
     >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
