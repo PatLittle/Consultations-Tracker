@@ -378,7 +378,10 @@ status-website:
     1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n \
     \     <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>697</td>\n      <td>Fee Modernisation\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>DFO20241016-04</td>\n   \
+    \   <td>Development of a service area - Kegaska Fishing Harbour - Basse-Côte-Nord</td>\n\
+    \      <td>2025-03-05</td>\n      <td>2025-04-05</td>\n      <td>P</td>\n    \
+    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>697</td>\n      <td>Fee Modernisation\
     \ Initiative for Transport Canada's Owned and Operated Ports</td>\n      <td>2025-03-01</td>\n\
     \      <td>2025-06-01</td>\n      <td>P</td>\n      <td>tc</td>\n    </tr>\n \
     \   <tr>\n      <td>C-0001025</td>\n      <td>Consultation on ethalfluralin, Proposed\
