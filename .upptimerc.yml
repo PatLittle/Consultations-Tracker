@@ -418,38 +418,33 @@ status-website:
     \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>DFO20250210-02</td>\n\
     \      <td>Potential 2025 general vessel management measures to address key threats\
     \ to Southern Resident Killer Whales</td>\n      <td>2025-01-10</td>\n      <td>2025-02-26</td>\n\
-    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-000060</td>\n\
-    \      <td>Share your thoughts on market dynamics and sustainability of Canada’s\
-    \ broadcasting system</td>\n      <td>2025-01-09</td>\n      <td>2025-02-24</td>\n\
-    \      <td>C</td>\n      <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-0001020</td>\n\
-    \      <td>Consultation: Proposal to control certain fentanyl precursor chemicals\
-    \ and carisoprodol under the Controlled Drugs and Substances Act</td>\n      <td>2025-02-14</td>\n\
-    \      <td>2025-02-24</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0001022</td>\n      <td>Notice of consultation: Removing\
-    \ carisoprodol from the Prescription Drug List</td>\n      <td>2025-02-18</td>\n\
-    \      <td>2025-02-24</td>\n      <td>C</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>89179-1</td>\n      <td>Sussex Region Flood Diversion Project\\\
-    nPublic Notice\\nParticipant Funding Available</td>\n      <td>2025-01-23</td>\n\
-    \      <td>2025-02-24</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
-    \  </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
-    \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
-    >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
-    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-000057</td>\n      <td>Share\
-    \ your thoughts about removing barriers to switching plans</td>\n      <td>2024-11-22</td>\n\
-    \      <td>2025-02-28</td>\n      <td>O</td>\n      <td>crtc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-1235705</td>\n      <td>Canadian School Food Data and Research\
-    \ Priorities</td>\n      <td>2025-01-30</td>\n      <td>2025-02-28</td>\n    \
-    \  <td>O</td>\n      <td>esdc-edsc</td>\n    </tr>\n    <tr>\n      <td>DFO20241105</td>\n\
+    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
+    \ Listed as Open that should be closed</h3><table border=\"1\" class=\"dataframe\"\
+    >\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
+    \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
+    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
+    \    <tr>\n      <td>80005</td>\n      <td>Rose Lithium-Tantalum Mining Project\\\
+    nPublic Notice\\nPublic Comments Invited on Proposed Amendments to the Decision\
+    \ Statement</td>\n      <td>2025-01-30</td>\n      <td>2025-03-01</td>\n     \
+    \ <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-003247</td>\n\
+    \      <td>Consultation on Proposed Amendments to the Export of Substances on\
+    \ the Export Control List Regulations</td>\n      <td>2024-12-16</td>\n      <td>2025-03-01</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>DFO20241105</td>\n\
     \      <td>Whalesafe Gear Strategy</td>\n      <td>2024-09-25</td>\n      <td>2025-02-28</td>\n\
-    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>DFO20250210-02</td>\n\
-    \      <td>Potential 2025 general vessel management measures to address key threats\
-    \ to Southern Resident Killer Whales</td>\n      <td>2025-01-10</td>\n      <td>2025-02-26</td>\n\
-    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>89179-1</td>\n\
-    \      <td>Sussex Region Flood Diversion Project\\nPublic Notice\\nParticipant\
-    \ Funding Available</td>\n      <td>2025-01-23</td>\n      <td>2025-02-24</td>\n\
-    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>DFO20241016-02</td>\n\
-    \      <td>Development of a new line of floating pontoons at the port of Grande-Entrée\
+    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-000057</td>\n\
+    \      <td>Share your thoughts about removing barriers to switching plans</td>\n\
+    \      <td>2024-11-22</td>\n      <td>2025-02-28</td>\n      <td>O</td>\n    \
+    \  <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-1235705</td>\n      <td>Canadian\
+    \ School Food Data and Research Priorities</td>\n      <td>2025-01-30</td>\n \
+    \     <td>2025-02-28</td>\n      <td>O</td>\n      <td>esdc-edsc</td>\n    </tr>\n\
+    \    <tr>\n      <td>DFO20250210-02</td>\n      <td>Potential 2025 general vessel\
+    \ management measures to address key threats to Southern Resident Killer Whales</td>\n\
+    \      <td>2025-01-10</td>\n      <td>2025-02-26</td>\n      <td>O</td>\n    \
+    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>89179-1</td>\n      <td>Sussex\
+    \ Region Flood Diversion Project\\nPublic Notice\\nParticipant Funding Available</td>\n\
+    \      <td>2025-01-23</td>\n      <td>2025-02-24</td>\n      <td>O</td>\n    \
+    \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>DFO20241016-02</td>\n  \
+    \    <td>Development of a new line of floating pontoons at the port of Grande-Entrée\
     \ in the Magdalen Islands</td>\n      <td>2024-11-15</td>\n      <td>2025-02-15</td>\n\
     \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>89179</td>\n\
     \      <td>Sussex Region Flood Diversion Project\\nPublic Notice\\nComments Invited\
@@ -463,18 +458,18 @@ status-website:
     \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-000182</td>\n      <td>Share\
     \ your thoughts: Risk mitigation options for the importation of honey bee packages\
     \ from the United States</td>\n      <td>2024-11-07</td>\n      <td>2025-01-31</td>\n\
-    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>1023</td>\n\
-    \      <td>Discussion Paper: Potential regulations to increase access to marine\
-    \ emergency services and to improve response to pollution incidents</td>\n   \
-    \   <td>2024-10-02</td>\n      <td>2025-01-31</td>\n      <td>O</td>\n      <td>tc</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-1235702</td>\n      <td>Consultations for the\
-    \ 2025 Annual Report on the 2030 Agenda and the Sustainable Development Goals</td>\n\
-    \      <td>2024-10-30</td>\n      <td>2025-01-31</td>\n      <td>O</td>\n    \
-    \  <td>esdc-edsc</td>\n    </tr>\n    <tr>\n      <td>687</td>\n      <td>Adopting\
-    \ Global Technical Regulations 13 and 20 for Zero Emission Vehicle Safety (Electric\
-    \ Battery and Hydrogen)</td>\n      <td>2024-07-29</td>\n      <td>2025-01-31</td>\n\
-    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0000137</td>\n\
-    \      <td>Town of Banff Railways Lands Area Redevelopment Plan - Term of Reference\
+    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>687</td>\n\
+    \      <td>Adopting Global Technical Regulations 13 and 20 for Zero Emission Vehicle\
+    \ Safety (Electric Battery and Hydrogen)</td>\n      <td>2024-07-29</td>\n   \
+    \   <td>2025-01-31</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n\
+    \      <td>1023</td>\n      <td>Discussion Paper: Potential regulations to increase\
+    \ access to marine emergency services and to improve response to pollution incidents</td>\n\
+    \      <td>2024-10-02</td>\n      <td>2025-01-31</td>\n      <td>O</td>\n    \
+    \  <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-1235702</td>\n      <td>Consultations\
+    \ for the 2025 Annual Report on the 2030 Agenda and the Sustainable Development\
+    \ Goals</td>\n      <td>2024-10-30</td>\n      <td>2025-01-31</td>\n      <td>O</td>\n\
+    \      <td>esdc-edsc</td>\n    </tr>\n    <tr>\n      <td>C-0000137</td>\n   \
+    \   <td>Town of Banff Railways Lands Area Redevelopment Plan - Term of Reference\
     \ for Strategic Environmental Assessment</td>\n      <td>2024-12-18</td>\n   \
     \   <td>2025-01-30</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n\
     \      <td>1069</td>\n      <td>Proposed regulatory project on administrative\
@@ -500,12 +495,12 @@ status-website:
     \   <tr>\n      <td>STC-0000066</td>\n      <td>Invitation to participate in the\
     \ revision of the National Occupational Classification (NOC)</td>\n      <td>2024-04-09</td>\n\
     \      <td>2024-11-15</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
+    \    <tr>\n      <td>D00039</td>\n      <td>Targeted Stakeholder Engagement to\
+    \ Inform Canada’s Public Safety Broadband Network (PSBN)</td>\n      <td>2024-07-01</td>\n\
+    \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n\
     \    <tr>\n      <td>C-011126</td>\n      <td>Artificial Intelligence Strategy\
     \ for the Government of Canada</td>\n      <td>2024-09-16</td>\n      <td>2024-10-31</td>\n\
-    \      <td>O</td>\n      <td>tbs-sct</td>\n    </tr>\n    <tr>\n      <td>D00039</td>\n\
-    \      <td>Targeted Stakeholder Engagement to Inform Canada’s Public Safety Broadband\
-    \ Network (PSBN)</td>\n      <td>2024-07-01</td>\n      <td>2024-10-31</td>\n\
-    \      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>C-0235</td>\n\
+    \      <td>O</td>\n      <td>tbs-sct</td>\n    </tr>\n    <tr>\n      <td>C-0235</td>\n\
     \      <td>Consultation on a Policy, and Licensing, and Technical Framework for\
     \ Supplemental Mobile Coverage by Satellite</td>\n      <td>2024-06-17</td>\n\
     \      <td>2024-10-25</td>\n      <td>O</td>\n      <td>ic</td>\n    </tr>\n \
@@ -529,25 +524,25 @@ status-website:
     \     <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000120</td>\n\
     \      <td>Notice of Mooring Restrictions – Ontario Waterways - Rideau Canal National\
     \ Historic Site</td>\n      <td>2024-03-11</td>\n      <td>2024-04-07</td>\n \
-    \     <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>STC0000055</td>\n\
-    \      <td>Census Data on Demand (CDOD) program consultative engagement</td>\n\
-    \      <td>2023-07-30</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
-    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>698</td>\n      <td>Digitizing\
-    \ the Travel Journey at Airports</td>\n      <td>2023-04-01</td>\n      <td>2024-03-31</td>\n\
-    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>STC-0000064</td>\n\
-    \      <td>Invitation to participate in a flood awareness consultative engagement</td>\n\
-    \      <td>2024-01-02</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
-    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-ISC-1020</td>\n      <td>Engagement\
-    \ 2023: Updating the Protocol For Centralised Drinking Water Systems in First\
-    \ Nations communities</td>\n      <td>2023-07-12</td>\n      <td>2024-02-29</td>\n\
-    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC-1018</td>\n\
-    \      <td>National Outcome-Based Framework</td>\n      <td>2023-01-15</td>\n\
-    \      <td>2024-01-31</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-ISC - 1018</td>\n      <td>Developing laws and regulations\
-    \ for First Nations drinking water and wastewater: engagement 2022/2023</td>\n\
-    \      <td>2022-08-01</td>\n      <td>2023-09-08</td>\n      <td>O</td>\n    \
-    \  <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-0000108</td>\n      <td>2022-23\
-    \ Consultations on renewal of the Museum Policy</td>\n      <td>2022-10-28</td>\n\
+    \     <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>698</td>\n\
+    \      <td>Digitizing the Travel Journey at Airports</td>\n      <td>2023-04-01</td>\n\
+    \      <td>2024-03-31</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n \
+    \   <tr>\n      <td>STC-0000064</td>\n      <td>Invitation to participate in a\
+    \ flood awareness consultative engagement</td>\n      <td>2024-01-02</td>\n  \
+    \    <td>2024-03-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
+    \    <tr>\n      <td>STC0000055</td>\n      <td>Census Data on Demand (CDOD) program\
+    \ consultative engagement</td>\n      <td>2023-07-30</td>\n      <td>2024-03-31</td>\n\
+    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-ISC-1020</td>\n\
+    \      <td>Engagement 2023: Updating the Protocol For Centralised Drinking Water\
+    \ Systems in First Nations communities</td>\n      <td>2023-07-12</td>\n     \
+    \ <td>2024-02-29</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-ISC-1018</td>\n      <td>National Outcome-Based Framework</td>\n\
+    \      <td>2023-01-15</td>\n      <td>2024-01-31</td>\n      <td>O</td>\n    \
+    \  <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC - 1018</td>\n      <td>Developing\
+    \ laws and regulations for First Nations drinking water and wastewater: engagement\
+    \ 2022/2023</td>\n      <td>2022-08-01</td>\n      <td>2023-09-08</td>\n     \
+    \ <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-0000108</td>\n\
+    \      <td>2022-23 Consultations on renewal of the Museum Policy</td>\n      <td>2022-10-28</td>\n\
     \      <td>2023-05-31</td>\n      <td>O</td>\n      <td>pch</td>\n    </tr>\n\
     \    <tr>\n      <td>C-201901</td>\n      <td>PSPC Controlled Goods Program’s\
     \ Industry Engagement Committee (IEC)</td>\n      <td>2012-01-01</td>\n      <td>2023-01-01</td>\n\
@@ -575,13 +570,13 @@ status-website:
     \      <td>2021-09-30</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
     \   <tr>\n      <td>C-00052</td>\n      <td>National Infrastructure Assessment</td>\n\
     \      <td>2021-03-16</td>\n      <td>2021-06-30</td>\n      <td>O</td>\n    \
-    \  <td>infc</td>\n    </tr>\n    <tr>\n      <td>C-INA0005</td>\n      <td>Indigenous\
-    \ Procurement Modernization (including Procurement Strategy for Aboriginal Business)</td>\n\
-    \      <td>2017-06-01</td>\n      <td>2021-03-31</td>\n      <td>O</td>\n    \
-    \  <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0037</td>\n      <td>Renewal\
-    \ of the Fire Protection Strategy</td>\n      <td>2020-04-01</td>\n      <td>2021-03-31</td>\n\
-    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0033</td>\n\
-    \      <td>Indian Oil and Gas Regulations - Phase II</td>\n      <td>2013-04-01</td>\n\
+    \  <td>infc</td>\n    </tr>\n    <tr>\n      <td>C-ISC0033</td>\n      <td>Indian\
+    \ Oil and Gas Regulations - Phase II</td>\n      <td>2013-04-01</td>\n      <td>2021-03-31</td>\n\
+    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-INA0005</td>\n\
+    \      <td>Indigenous Procurement Modernization (including Procurement Strategy\
+    \ for Aboriginal Business)</td>\n      <td>2017-06-01</td>\n      <td>2021-03-31</td>\n\
+    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0037</td>\n\
+    \      <td>Renewal of the Fire Protection Strategy</td>\n      <td>2020-04-01</td>\n\
     \      <td>2021-03-31</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n\
     \    <tr>\n      <td>STC-0000023</td>\n      <td>Multifactor Productivity Application</td>\n\
     \      <td>2019-12-01</td>\n      <td>2020-03-31</td>\n      <td>O</td>\n    \
