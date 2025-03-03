@@ -1,7 +1,7 @@
 url: https://ised-isde.canada.ca/site/ised/en/salmon-aquaculture-transition-british-columbia
-status: up
-code: 200
-responseTime: 827
-lastUpdated: 2025-03-02T23:13:55.845Z
+status: down
+code: 503
+responseTime: 41
+lastUpdated: 2025-03-03T20:25:35.496Z
 startTime: 2025-02-21T16:28:07.766Z
 generator: Upptime <https://github.com/upptime/upptime>
