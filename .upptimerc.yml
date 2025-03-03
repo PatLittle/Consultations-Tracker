@@ -56,8 +56,6 @@ sites:
 - name: Consultations for the 2025 Annual Report on the 2030 Agenda and the Sustainable
     Development Goals
   url: https://srv217.services.gc.ca/ihst4/Intro.aspx?cid=2cd15f32-a51c-467a-8f45-18098c4f7cf7&lc=eng
-- name: Canadian School Food Data and Research Priorities
-  url: https://www.canada.ca/en/employment-social-development/programs/school-food/consultation-data-research-priorities.html
 - name: 'Share your ideas: Blackwater Project'
   url: https://www.canada.ca/en/environment-climate-change/services/managing-pollution/sources-industry/mining/metal-diamond-mining-effluent-regulation/blackwater-consultation.html
 - name: 'Comment on: Draft Canada-Saskatchewan Equivalency Agreement on coal-fired
@@ -82,6 +80,9 @@ sites:
   url: https://gazette.gc.ca/rp-pr/p1/2025/2025-01-25/html/notice-avis-eng.html#nl4
 - name: Proposed Amendments to the Antarctic Environmental Protection Regulations
   url: https://canadagazette.gc.ca/rp-pr/p1/2025/2025-02-08/html/reg1-eng.html
+- name: Draft Assessment of 14 substances in the Tricylcic Sesquiterpenes and Triterpeniods
+    Group and the Risk Management Scope
+  url: https://canadagazette.gc.ca/rp-pr/p1/2025/2025-03-01/html/notice-avis-eng.html#nb1
 - name: Eastern Shore Islands Area of Interest Consultations
   url: http://www.dfo-mpo.gc.ca/oceans/consultations/easternshore-ilescoteest/index-eng.html
 - name: Northern Gulf of St. Lawrence Study Area
@@ -380,11 +381,14 @@ status-website:
     \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>DFO20241016-04</td>\n   \
     \   <td>Development of a service area - Kegaska Fishing Harbour - Basse-Côte-Nord</td>\n\
     \      <td>2025-03-05</td>\n      <td>2025-04-05</td>\n      <td>P</td>\n    \
-    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0001027</td>\n      <td>Notice\
-    \ of intent to make a Ministerial Exemption Order to permit continued supply of\
-    \ naloxone kits on the Canadian market</td>\n      <td>2025-03-01</td>\n     \
-    \ <td>2025-03-31</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n   \
-    \ <tr>\n      <td>697</td>\n      <td>Fee Modernisation Initiative for Transport\
+    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-0033292</td>\n      <td>Draft\
+    \ Assessment of 14 substances in the Tricylcic Sesquiterpenes and Triterpeniods\
+    \ Group and the Risk Management Scope</td>\n      <td>2025-03-01</td>\n      <td>2025-04-30</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0001027</td>\n\
+    \      <td>Notice of intent to make a Ministerial Exemption Order to permit continued\
+    \ supply of naloxone kits on the Canadian market</td>\n      <td>2025-03-01</td>\n\
+    \      <td>2025-03-31</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
+    \    <tr>\n      <td>697</td>\n      <td>Fee Modernisation Initiative for Transport\
     \ Canada's Owned and Operated Ports</td>\n      <td>2025-03-01</td>\n      <td>2025-06-01</td>\n\
     \      <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0001028</td>\n\
     \      <td>Consultation on Carbon Dioxide and its associated end-use products,\
@@ -416,15 +420,13 @@ status-website:
     \      <td>2025-03-01</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
     \    <tr>\n      <td>C-000057</td>\n      <td>Share your thoughts about removing\
     \ barriers to switching plans</td>\n      <td>2024-11-22</td>\n      <td>2025-02-28</td>\n\
-    \      <td>O</td>\n      <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-1235705</td>\n\
-    \      <td>Canadian School Food Data and Research Priorities</td>\n      <td>2025-01-30</td>\n\
-    \      <td>2025-02-28</td>\n      <td>O</td>\n      <td>esdc-edsc</td>\n    </tr>\n\
-    \    <tr>\n      <td>DFO20240627</td>\n      <td>Ghost Gear Update and Path Forward\
-    \ Meetings</td>\n      <td>2024-06-27</td>\n      <td>2025-02-28</td>\n      <td>C</td>\n\
-    \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>DFO20241105</td>\n   \
-    \   <td>Whalesafe Gear Strategy</td>\n      <td>2024-09-25</td>\n      <td>2025-02-28</td>\n\
-    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>DFO20250210-02</td>\n\
-    \      <td>Potential 2025 general vessel management measures to address key threats\
+    \      <td>O</td>\n      <td>crtc</td>\n    </tr>\n    <tr>\n      <td>DFO20240627</td>\n\
+    \      <td>Ghost Gear Update and Path Forward Meetings</td>\n      <td>2024-06-27</td>\n\
+    \      <td>2025-02-28</td>\n      <td>C</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
+    \    <tr>\n      <td>DFO20241105</td>\n      <td>Whalesafe Gear Strategy</td>\n\
+    \      <td>2024-09-25</td>\n      <td>2025-02-28</td>\n      <td>O</td>\n    \
+    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>DFO20250210-02</td>\n    \
+    \  <td>Potential 2025 general vessel management measures to address key threats\
     \ to Southern Resident Killer Whales</td>\n      <td>2025-01-10</td>\n      <td>2025-02-26</td>\n\
     \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
     \ Listed as Open that should be closed</h3><table border=\"1\" class=\"dataframe\"\
@@ -442,17 +444,14 @@ status-website:
     \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-000057</td>\n\
     \      <td>Share your thoughts about removing barriers to switching plans</td>\n\
     \      <td>2024-11-22</td>\n      <td>2025-02-28</td>\n      <td>O</td>\n    \
-    \  <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-1235705</td>\n      <td>Canadian\
-    \ School Food Data and Research Priorities</td>\n      <td>2025-01-30</td>\n \
-    \     <td>2025-02-28</td>\n      <td>O</td>\n      <td>esdc-edsc</td>\n    </tr>\n\
-    \    <tr>\n      <td>DFO20250210-02</td>\n      <td>Potential 2025 general vessel\
-    \ management measures to address key threats to Southern Resident Killer Whales</td>\n\
-    \      <td>2025-01-10</td>\n      <td>2025-02-26</td>\n      <td>O</td>\n    \
-    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>89179-1</td>\n      <td>Sussex\
-    \ Region Flood Diversion Project\\nPublic Notice\\nParticipant Funding Available</td>\n\
-    \      <td>2025-01-23</td>\n      <td>2025-02-24</td>\n      <td>O</td>\n    \
-    \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>DFO20241016-02</td>\n  \
-    \    <td>Development of a new line of floating pontoons at the port of Grande-Entrée\
+    \  <td>crtc</td>\n    </tr>\n    <tr>\n      <td>DFO20250210-02</td>\n      <td>Potential\
+    \ 2025 general vessel management measures to address key threats to Southern Resident\
+    \ Killer Whales</td>\n      <td>2025-01-10</td>\n      <td>2025-02-26</td>\n \
+    \     <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>89179-1</td>\n\
+    \      <td>Sussex Region Flood Diversion Project\\nPublic Notice\\nParticipant\
+    \ Funding Available</td>\n      <td>2025-01-23</td>\n      <td>2025-02-24</td>\n\
+    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>DFO20241016-02</td>\n\
+    \      <td>Development of a new line of floating pontoons at the port of Grande-Entrée\
     \ in the Magdalen Islands</td>\n      <td>2024-11-15</td>\n      <td>2025-02-15</td>\n\
     \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>89179</td>\n\
     \      <td>Sussex Region Flood Diversion Project\\nPublic Notice\\nComments Invited\
