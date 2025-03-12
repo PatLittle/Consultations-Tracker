@@ -51,8 +51,6 @@ sites:
   url: https://otc-cta.gc.ca/eng/consultation/consultation-proposed-amendments-air-passenger-protection-regulations-appr
 - name: 'TRC Call to Action 66: Moving from Pilot Project to Long-Term Implementation'
   url: Not available
-- name: Pre-budget Consultations 2025
-  url: https://www.canada.ca/en/department-finance/programs/consultations/2025/pre-budget-consultations-2025.html
 - name: National Infrastructure Assessment
   url: https://www.infrastructure.gc.ca/nia-eni/index-eng.html
 - name: Consultations for the 2025 Annual Report on the 2030 Agenda and the Sustainable
@@ -426,7 +424,7 @@ status-website:
     \ Environmental Protection Regulations</td>\n      <td>2025-02-08</td>\n     \
     \ <td>2025-03-11</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n\
     \      <td>C-000136</td>\n      <td>Pre-budget Consultations 2025</td>\n     \
-    \ <td>2025-02-14</td>\n      <td>2025-03-10</td>\n      <td>O</td>\n      <td>fin</td>\n\
+    \ <td>2025-02-14</td>\n      <td>2025-03-10</td>\n      <td>C</td>\n      <td>fin</td>\n\
     \    </tr>\n    <tr>\n      <td>C-0000139</td>\n      <td>Consultation on Wiinipaakw\
     \ Indigenous Protected Area and National Marine Conservation Area</td>\n     \
     \ <td>2025-02-25</td>\n      <td>2025-03-09</td>\n      <td>C</td>\n      <td>pc</td>\n\
@@ -441,56 +439,53 @@ status-website:
     \    <tr>\n      <td>C-0033280</td>\n      <td>Proposed Amendments to the Antarctic\
     \ Environmental Protection Regulations</td>\n      <td>2025-02-08</td>\n     \
     \ <td>2025-03-11</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n\
-    \      <td>C-000136</td>\n      <td>Pre-budget Consultations 2025</td>\n     \
-    \ <td>2025-02-14</td>\n      <td>2025-03-10</td>\n      <td>O</td>\n      <td>fin</td>\n\
-    \    </tr>\n    <tr>\n      <td>cta-otc-2024-4</td>\n      <td>Consultation on\
-    \ proposed amendments to the Air Passenger Protection Regulations (APPR)</td>\n\
-    \      <td>2024-12-21</td>\n      <td>2025-03-06</td>\n      <td>O</td>\n    \
-    \  <td>cta-otc</td>\n    </tr>\n    <tr>\n      <td>C-003247</td>\n      <td>Consultation\
-    \ on Proposed Amendments to the Export of Substances on the Export Control List\
-    \ Regulations</td>\n      <td>2024-12-16</td>\n      <td>2025-03-01</td>\n   \
-    \   <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>80005</td>\n\
-    \      <td>Rose Lithium-Tantalum Mining Project\\nPublic Notice\\nPublic Comments\
-    \ Invited on Proposed Amendments to the Decision Statement</td>\n      <td>2025-01-30</td>\n\
-    \      <td>2025-03-01</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-000057</td>\n      <td>Share your thoughts about removing\
-    \ barriers to switching plans</td>\n      <td>2024-11-22</td>\n      <td>2025-02-28</td>\n\
-    \      <td>O</td>\n      <td>crtc</td>\n    </tr>\n    <tr>\n      <td>89179-1</td>\n\
-    \      <td>Sussex Region Flood Diversion Project\\nPublic Notice\\nParticipant\
-    \ Funding Available</td>\n      <td>2025-01-23</td>\n      <td>2025-02-24</td>\n\
-    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>89179</td>\n\
-    \      <td>Sussex Region Flood Diversion Project\\nPublic Notice\\nComments Invited\
-    \ on the Summary of the Initial Project Description</td>\n      <td>2025-01-21</td>\n\
-    \      <td>2025-02-10</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
-    \    <tr>\n      <td>83857-2</td>\n      <td>Crawford Nickel Project\\nPublic\
-    \ Notice\\nComments Invited on the Summary of the Impact Statement</td>\n    \
-    \  <td>2024-12-09</td>\n      <td>2025-02-07</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-000182</td>\n      <td>Share your thoughts:\
-    \ Risk mitigation options for the importation of honey bee packages from the United\
-    \ States</td>\n      <td>2024-11-07</td>\n      <td>2025-01-31</td>\n      <td>O</td>\n\
-    \      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>1023</td>\n      <td>Discussion\
-    \ Paper: Potential regulations to increase access to marine emergency services\
-    \ and to improve response to pollution incidents</td>\n      <td>2024-10-02</td>\n\
-    \      <td>2025-01-31</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-1235702</td>\n      <td>Consultations for the 2025 Annual\
-    \ Report on the 2030 Agenda and the Sustainable Development Goals</td>\n     \
-    \ <td>2024-10-30</td>\n      <td>2025-01-31</td>\n      <td>O</td>\n      <td>esdc-edsc</td>\n\
-    \    </tr>\n    <tr>\n      <td>687</td>\n      <td>Adopting Global Technical\
-    \ Regulations 13 and 20 for Zero Emission Vehicle Safety (Electric Battery and\
-    \ Hydrogen)</td>\n      <td>2024-07-29</td>\n      <td>2025-01-31</td>\n     \
-    \ <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0000137</td>\n\
-    \      <td>Town of Banff Railways Lands Area Redevelopment Plan - Term of Reference\
-    \ for Strategic Environmental Assessment</td>\n      <td>2024-12-18</td>\n   \
-    \   <td>2025-01-30</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n\
-    \      <td>1069</td>\n      <td>Proposed regulatory project on administrative\
-    \ monetary penalties under the Marine Liability Act and parts of the Wrecked,\
-    \ Abandoned or Hazardous Vessels Act</td>\n      <td>2024-11-20</td>\n      <td>2025-01-20</td>\n\
-    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-0253</td>\n\
-    \      <td>Salmon aquaculture transition in British Columbia</td>\n      <td>2024-10-21</td>\n\
-    \      <td>2025-01-17</td>\n      <td>O</td>\n      <td>ic</td>\n    </tr>\n \
-    \   <tr>\n      <td>C0000193</td>\n      <td>Consultations on IRCC’s Crisis Response\
-    \ Framework</td>\n      <td>2024-06-05</td>\n      <td>2024-12-31</td>\n     \
-    \ <td>O</td>\n      <td>cic</td>\n    </tr>\n    <tr>\n      <td>STC-0000052</td>\n\
+    \      <td>cta-otc-2024-4</td>\n      <td>Consultation on proposed amendments\
+    \ to the Air Passenger Protection Regulations (APPR)</td>\n      <td>2024-12-21</td>\n\
+    \      <td>2025-03-06</td>\n      <td>O</td>\n      <td>cta-otc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-003247</td>\n      <td>Consultation on Proposed Amendments\
+    \ to the Export of Substances on the Export Control List Regulations</td>\n  \
+    \    <td>2024-12-16</td>\n      <td>2025-03-01</td>\n      <td>O</td>\n      <td>ec</td>\n\
+    \    </tr>\n    <tr>\n      <td>80005</td>\n      <td>Rose Lithium-Tantalum Mining\
+    \ Project\\nPublic Notice\\nPublic Comments Invited on Proposed Amendments to\
+    \ the Decision Statement</td>\n      <td>2025-01-30</td>\n      <td>2025-03-01</td>\n\
+    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-000057</td>\n\
+    \      <td>Share your thoughts about removing barriers to switching plans</td>\n\
+    \      <td>2024-11-22</td>\n      <td>2025-02-28</td>\n      <td>O</td>\n    \
+    \  <td>crtc</td>\n    </tr>\n    <tr>\n      <td>89179-1</td>\n      <td>Sussex\
+    \ Region Flood Diversion Project\\nPublic Notice\\nParticipant Funding Available</td>\n\
+    \      <td>2025-01-23</td>\n      <td>2025-02-24</td>\n      <td>O</td>\n    \
+    \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>89179</td>\n      <td>Sussex\
+    \ Region Flood Diversion Project\\nPublic Notice\\nComments Invited on the Summary\
+    \ of the Initial Project Description</td>\n      <td>2025-01-21</td>\n      <td>2025-02-10</td>\n\
+    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>83857-2</td>\n\
+    \      <td>Crawford Nickel Project\\nPublic Notice\\nComments Invited on the Summary\
+    \ of the Impact Statement</td>\n      <td>2024-12-09</td>\n      <td>2025-02-07</td>\n\
+    \      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-000182</td>\n\
+    \      <td>Share your thoughts: Risk mitigation options for the importation of\
+    \ honey bee packages from the United States</td>\n      <td>2024-11-07</td>\n\
+    \      <td>2025-01-31</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n\
+    \    <tr>\n      <td>1023</td>\n      <td>Discussion Paper: Potential regulations\
+    \ to increase access to marine emergency services and to improve response to pollution\
+    \ incidents</td>\n      <td>2024-10-02</td>\n      <td>2025-01-31</td>\n     \
+    \ <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-1235702</td>\n\
+    \      <td>Consultations for the 2025 Annual Report on the 2030 Agenda and the\
+    \ Sustainable Development Goals</td>\n      <td>2024-10-30</td>\n      <td>2025-01-31</td>\n\
+    \      <td>O</td>\n      <td>esdc-edsc</td>\n    </tr>\n    <tr>\n      <td>687</td>\n\
+    \      <td>Adopting Global Technical Regulations 13 and 20 for Zero Emission Vehicle\
+    \ Safety (Electric Battery and Hydrogen)</td>\n      <td>2024-07-29</td>\n   \
+    \   <td>2025-01-31</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n\
+    \      <td>C-0000137</td>\n      <td>Town of Banff Railways Lands Area Redevelopment\
+    \ Plan - Term of Reference for Strategic Environmental Assessment</td>\n     \
+    \ <td>2024-12-18</td>\n      <td>2025-01-30</td>\n      <td>O</td>\n      <td>pc</td>\n\
+    \    </tr>\n    <tr>\n      <td>1069</td>\n      <td>Proposed regulatory project\
+    \ on administrative monetary penalties under the Marine Liability Act and parts\
+    \ of the Wrecked, Abandoned or Hazardous Vessels Act</td>\n      <td>2024-11-20</td>\n\
+    \      <td>2025-01-20</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-0253</td>\n      <td>Salmon aquaculture transition in British\
+    \ Columbia</td>\n      <td>2024-10-21</td>\n      <td>2025-01-17</td>\n      <td>O</td>\n\
+    \      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C0000193</td>\n      <td>Consultations\
+    \ on IRCC’s Crisis Response Framework</td>\n      <td>2024-06-05</td>\n      <td>2024-12-31</td>\n\
+    \      <td>O</td>\n      <td>cic</td>\n    </tr>\n    <tr>\n      <td>STC-0000052</td>\n\
     \      <td>Missing persons data standards consultative engagement</td>\n     \
     \ <td>2023-06-22</td>\n      <td>2024-12-31</td>\n      <td>O</td>\n      <td>statcan</td>\n\
     \    </tr>\n    <tr>\n      <td>C-0000136</td>\n      <td>Public Engagement on\
