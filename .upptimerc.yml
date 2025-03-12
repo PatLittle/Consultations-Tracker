@@ -83,6 +83,16 @@ sites:
 - name: Draft Assessment of 14 substances in the Tricylcic Sesquiterpenes and Triterpeniods
     Group and the Risk Management Scope
   url: https://canadagazette.gc.ca/rp-pr/p1/2025/2025-03-01/html/notice-avis-eng.html#nb1
+- name: Updated Draft Assessment of Boric Acid, its salts and its precursors and the
+    Revised Risk Management Scope.
+  url: https://canadagazette.gc.ca/rp-pr/p1/2025/2025-03-08/html/notice-avis-eng.html#nl1
+- name: Risk Management Approach for the Benzotriazoles and Benzothiazoles Group
+  url: https://canadagazette.gc.ca/rp-pr/p1/2025/2025-03-08/html/notice-avis-eng.html#nl2
+- name: Risk Management Approach for PFAS, excluding fluoropolymers
+  url: https://canadagazette.gc.ca/rp-pr/p1/2025/2025-03-08/html/notice-avis-eng.html#nl3
+- name: 'Share your thoughts: Participate in the risk assessment process for GloFish®
+    Corydoras'
+  url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/risk-assessment-process-glofish-corydoras.html
 - name: Eastern Shore Islands Area of Interest Consultations
   url: http://www.dfo-mpo.gc.ca/oceans/consultations/easternshore-ilescoteest/index-eng.html
 - name: Northern Gulf of St. Lawrence Study Area
@@ -114,6 +124,9 @@ sites:
 - name: 'Public Consultations: Call for submissions regarding Canada’s Annual Report
     on Human Rights and Free Trade Between Canada and the Republic of Colombia'
   url: https://international.canada.ca/en/global-affairs/consultations/trade/2025-02-17-colombia-human-rights
+- name: Consulting Canadians on the potential accession of Costa Rica to the Comprehensive
+    and Progressive Agreement for Trans-Pacific Partnership (CPTPP)
+  url: https://international.canada.ca/en/global-affairs/consultations/trade/2025-02-15-costa-rica
 - name: 'Release of draft (Step 2) ICH Guideline E6(R3) Annex 2: Good Clinical Practice'
   url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
 - name: 'Release of draft (Step 2) ICH Guideline M15: Model Informed Drug Development'
@@ -384,10 +397,22 @@ status-website:
     \      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C202409</td>\n     \
     \ <td>REGDOC-2.10.1, Nuclear Emergency Preparedness and Response, Version 3</td>\n\
     \      <td>2025-03-11</td>\n      <td>2025-03-24</td>\n      <td>O</td>\n    \
-    \  <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>C-0001032</td>\n      <td>Consultation\
-    \ on proposed amendments to the Pest Control Products Regulations (Product Exemptions)\
-    \ - Pre-consultation, PRO2025-01</td>\n      <td>2025-03-07</td>\n      <td>2025-05-06</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0001033</td>\n\
+    \  <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>C-0033293</td>\n      <td>Updated\
+    \ Draft Assessment of Boric Acid, its salts and its precursors and the Revised\
+    \ Risk Management Scope.</td>\n      <td>2025-03-08</td>\n      <td>2025-05-07</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0033294</td>\n\
+    \      <td>Risk Management Approach for the Benzotriazoles and Benzothiazoles\
+    \ Group</td>\n      <td>2025-03-08</td>\n      <td>2025-05-07</td>\n      <td>O</td>\n\
+    \      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0033295</td>\n      <td>Risk\
+    \ Management Approach for PFAS, excluding fluoropolymers</td>\n      <td>2025-03-08</td>\n\
+    \      <td>2025-05-07</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-0033296</td>\n      <td>Share your thoughts: Participate\
+    \ in the risk assessment process for GloFish® Corydoras</td>\n      <td>2025-03-08</td>\n\
+    \      <td>2025-04-06</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-0001032</td>\n      <td>Consultation on proposed amendments\
+    \ to the Pest Control Products Regulations (Product Exemptions) - Pre-consultation,\
+    \ PRO2025-01</td>\n      <td>2025-03-07</td>\n      <td>2025-05-06</td>\n    \
+    \  <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0001033</td>\n\
     \      <td>Consultation: Towards a pathway for health products containing cannabidiol</td>\n\
     \      <td>2025-03-07</td>\n      <td>2025-06-06</td>\n      <td>O</td>\n    \
     \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0001034</td>\n      <td>Consultation:\
@@ -414,13 +439,17 @@ status-website:
     \ Consultations: Call for submissions regarding Canada’s Annual Report on Human\
     \ Rights and Free Trade Between Canada and the Republic of Colombia</td>\n   \
     \   <td>2025-02-17</td>\n      <td>2025-03-16</td>\n      <td>O</td>\n      <td>dfatd-maecd</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-000184</td>\n      <td>Share your thoughts:\
-    \ Proposed new livestock feed ingredient –Propionibacterium freudenreichii culture\
-    \ dehydrated</td>\n      <td>2025-02-14</td>\n      <td>2025-03-14</td>\n    \
-    \  <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-000058</td>\n\
-    \      <td>Share your thoughts on enhancing self-service</td>\n      <td>2024-11-22</td>\n\
-    \      <td>2025-03-12</td>\n      <td>O</td>\n      <td>crtc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0033280</td>\n      <td>Proposed Amendments to the Antarctic\
+    \    </tr>\n    <tr>\n      <td>C0000586</td>\n      <td>Consulting Canadians\
+    \ on the potential accession of Costa Rica to the Comprehensive and Progressive\
+    \ Agreement for Trans-Pacific Partnership (CPTPP)</td>\n      <td>2025-02-15</td>\n\
+    \      <td>2025-03-16</td>\n      <td>O</td>\n      <td>dfatd-maecd</td>\n   \
+    \ </tr>\n    <tr>\n      <td>C-000184</td>\n      <td>Share your thoughts: Proposed\
+    \ new livestock feed ingredient –Propionibacterium freudenreichii culture dehydrated</td>\n\
+    \      <td>2025-02-14</td>\n      <td>2025-03-14</td>\n      <td>O</td>\n    \
+    \  <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-000058</td>\n      <td>Share\
+    \ your thoughts on enhancing self-service</td>\n      <td>2024-11-22</td>\n  \
+    \    <td>2025-03-12</td>\n      <td>O</td>\n      <td>crtc</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-0033280</td>\n      <td>Proposed Amendments to the Antarctic\
     \ Environmental Protection Regulations</td>\n      <td>2025-02-08</td>\n     \
     \ <td>2025-03-11</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n\
     \      <td>C-000136</td>\n      <td>Pre-budget Consultations 2025</td>\n     \
