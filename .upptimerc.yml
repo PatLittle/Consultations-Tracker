@@ -120,9 +120,6 @@ sites:
   url: https://www.iaac-aeic.gc.ca/050/evaluations/proj/89048?culture=en-CA
 - name: Proposed Amendments to the Export Permits Regulations
   url: https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
-- name: 'Public Consultations: Call for submissions regarding Canada’s Annual Report
-    on Human Rights and Free Trade Between Canada and the Republic of Colombia'
-  url: https://international.canada.ca/en/global-affairs/consultations/trade/2025-02-17-colombia-human-rights
 - name: 'Release of draft (Step 2) ICH Guideline E6(R3) Annex 2: Good Clinical Practice'
   url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
 - name: 'Release of draft (Step 2) ICH Guideline M15: Model Informed Drug Development'
@@ -419,7 +416,7 @@ status-website:
     \   <tr>\n      <td>C0000584</td>\n      <td>Public Consultations: Call for submissions\
     \ regarding Canada’s Annual Report on Human Rights and Free Trade Between Canada\
     \ and the Republic of Colombia</td>\n      <td>2025-02-17</td>\n      <td>2025-03-16</td>\n\
-    \      <td>O</td>\n      <td>dfatd-maecd</td>\n    </tr>\n    <tr>\n      <td>C0000586</td>\n\
+    \      <td>C</td>\n      <td>dfatd-maecd</td>\n    </tr>\n    <tr>\n      <td>C0000586</td>\n\
     \      <td>Consulting Canadians on the potential accession of Costa Rica to the\
     \ Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)</td>\n\
     \      <td>2025-02-15</td>\n      <td>2025-03-16</td>\n      <td>C</td>\n    \
@@ -433,14 +430,10 @@ status-website:
     \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
     >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C0000584</td>\n      <td>Public\
-    \ Consultations: Call for submissions regarding Canada’s Annual Report on Human\
-    \ Rights and Free Trade Between Canada and the Republic of Colombia</td>\n   \
-    \   <td>2025-02-17</td>\n      <td>2025-03-16</td>\n      <td>O</td>\n      <td>dfatd-maecd</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-000184</td>\n      <td>Share your thoughts:\
-    \ Proposed new livestock feed ingredient –Propionibacterium freudenreichii culture\
-    \ dehydrated</td>\n      <td>2025-02-14</td>\n      <td>2025-03-14</td>\n    \
-    \  <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-0033280</td>\n\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-000184</td>\n      <td>Share\
+    \ your thoughts: Proposed new livestock feed ingredient –Propionibacterium freudenreichii\
+    \ culture dehydrated</td>\n      <td>2025-02-14</td>\n      <td>2025-03-14</td>\n\
+    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-0033280</td>\n\
     \      <td>Proposed Amendments to the Antarctic Environmental Protection Regulations</td>\n\
     \      <td>2025-02-08</td>\n      <td>2025-03-11</td>\n      <td>O</td>\n    \
     \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>cta-otc-2024-4</td>\n      <td>Consultation\
