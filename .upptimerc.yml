@@ -429,12 +429,9 @@ status-website:
     \      <td>Consulting Canadians on the potential accession of Costa Rica to the\
     \ Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)</td>\n\
     \      <td>2025-02-15</td>\n      <td>2025-03-16</td>\n      <td>C</td>\n    \
-    \  <td>dfatd-maecd</td>\n    </tr>\n    <tr>\n      <td>C-000184</td>\n      <td>Share\
-    \ your thoughts: Proposed new livestock feed ingredient –Propionibacterium freudenreichii\
-    \ culture dehydrated</td>\n      <td>2025-02-14</td>\n      <td>2025-03-14</td>\n\
-    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
-    \ Listed as Open that should be closed</h3><table border=\"1\" class=\"dataframe\"\
-    >\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
+    \  <td>dfatd-maecd</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Listed\
+    \ as Open that should be closed</h3><table border=\"1\" class=\"dataframe\">\n\
+    \  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
     \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
     \    <tr>\n      <td>C-0000138</td>\n      <td>Consultation – Proposed national\
