@@ -1,6 +1,38 @@
 owner: PatLittle
 repo: Consultations-Tracker
 sites:
+- name: White River First Nations
+  url: https://www.rcaanc-cirnac.gc.ca/eng/1511969222951/1529103469169
+- name: Use of digital tools at the border
+  url: https://www.cbsa-asfc.gc.ca/services/border-tech-frontiere/modern-eng.html
+- name: Administrative Monetary Penalty System Review
+  url: TBD
+- name: Onshore Pipeline Regulations and Filing Manuals Review Project
+  url: https://www.cerdialogue.ca/opr
+- name: Regulatory Framework Plan
+  url: https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cer-rec.gc.ca%2Fen%2Fabout%2Fhow-we-regulate%2Fplans-for-regulatory-framework%2F&data=05%7C02%7CMichelle.Shabits%40cer-rec.gc.ca%7Cec1c386ebea64452821d08dc41ebb1b9%7C56e9b8d38a3549abbdfc27de59608f01%7C0%7C0%7C638457728797041411%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=tKxvqtPetzkvcXlETiyyf51rWnRpUftsM2o2U5IySO4%3D&reserved=0
+- name: Regulated Industry Engagement
+  url: https://www.cer-rec.gc.ca/en/consultation-engagement/stakeholder-engagement/regulated-industry-engagement/index.html
+- name: 'Share your thoughts: Risk mitigation options for the importation of honey
+    bee packages from the United States'
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/honey-bee-packages-united-states
+- name: 'Share your thoughts: Proposed new livestock feed ingredient –Propionibacterium
+    freudenreichii culture dehydrated'
+  url: N
+- name: 'Share your thoughts: Proposed amendments to the Tables of Permissible Claims
+    for Feed Labels'
+  url: N
+- name: Public consultation on proposed regulatory changes in Canada Gazette Part
+    I amending the Plant Breeders' Rights Regulations
+  url: N
+- name: Changing Narrative Fund
+  url: https://www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
+- name: 2022-23 Consultations on renewal of the Museum Policy
+  url: https://www.canada.ca/en/canadian-heritage/campaigns/renewal-museum-policy.html
+- name: REGDOC-2.10.1, Nuclear Emergency Preparedness and Response, Version 3
+  url: https://www.cnsc-ccsn.gc.ca/eng/acts-and-regulations/regulatory-documents/history/regdoc2-10-1/
+- name: REGDOC-2.6.4, Chemistry Control for Reactor Facilities
+  url: https://www.cnsc-ccsn.gc.ca/eng/acts-and-regulations/consultation/profile/2-6-4-2025/
 - name: Co-development of a new Indigenous Broadcasting Policy
   url: https://crtc.gc.ca/eng/archive/2019/2019-217.htm
 - name: Share your thoughts about closed captioning of programming from online streaming
@@ -8,8 +40,211 @@ sites:
   url: https://crtc.gc.ca/eng/consultation/cc.htm
 - name: Share your thoughts on Canadian content for audio services
   url: https://crtc.gc.ca/eng/consultation/audio.htm
+- name: 2024 Interswitching consultation
+  url: https://otc-cta.gc.ca/eng/consultation/2024-interswitching-consultation
+- name: Consultation on proposed amendments to the Air Passenger Protection Regulations
+    (APPR)
+  url: https://otc-cta.gc.ca/eng/consultation/consultation-proposed-amendments-air-passenger-protection-regulations-appr
+- name: 'TRC Call to Action 66: Moving from Pilot Project to Long-Term Implementation'
+  url: Not available
+- name: National Infrastructure Assessment
+  url: https://www.infrastructure.gc.ca/nia-eni/index-eng.html
+- name: Consultations for the 2025 Annual Report on the 2030 Agenda and the Sustainable
+    Development Goals
+  url: https://srv217.services.gc.ca/ihst4/Intro.aspx?cid=2cd15f32-a51c-467a-8f45-18098c4f7cf7&lc=eng
+- name: 'Share your ideas: Blackwater Project'
+  url: https://www.canada.ca/en/environment-climate-change/services/managing-pollution/sources-industry/mining/metal-diamond-mining-effluent-regulation/blackwater-consultation.html
+- name: 'Comment on: Draft Canada-Saskatchewan Equivalency Agreement on coal-fired
+    electricity regulations (2025-2026)'
+  url: https://www.canada.ca/en/environment-climate-change/services/canadian-environmental-protection-act-registry/agreements/equivalency/canada-saskatchewan-greenhouse-gas-electricity-producers-2025.html
+- name: Consultation Document on the Risk Management of Short-chain, Medium-chain
+    and Long-chain chlorinated alkanes
+  url: https://canada.ca/en/environment-climate-change/corporate/transparency/consultations/risk-management-chlorinated-alkanes.html
+- name: Consultation on Proposed Amendments to the Export of Substances on the Export
+    Control List Regulations
+  url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/export-control-list-amendments.html
+- name: Proposed Coal Mining Effluent Regulations
+  url: https://www.canada.ca/en/environment-climate-change/services/managing-pollution/sources-industry/mining-effluent/proposed-coal-mining-effluent-regulations.html
+- name: 'Consultation on Amending the List of Species under the Species at Risk Act:
+    Terrestrial Species January 2025'
+  url: https://canada-preview.adobecqms.net/en/environment-climate-change/services/species-risk-public-registry/consultation-documents/part-3-consultation-amending-terrestrial-species-list-sara-summary-jan-2025.html
+- name: Draft Assessment for the Fourteen Terpene and Terpenoid Substances Group and
+    the Risk Management Scope
+  url: https://canadagazette.gc.ca/rp-pr/p1/2025/2025-01-25/html/notice-avis-eng.html#nl3
+- name: The Additional Risk Characterization Document for human health and the Risk
+    Management Scope for melamine
+  url: https://gazette.gc.ca/rp-pr/p1/2025/2025-01-25/html/notice-avis-eng.html#nl4
+- name: Proposed Amendments to the Antarctic Environmental Protection Regulations
+  url: https://canadagazette.gc.ca/rp-pr/p1/2025/2025-02-08/html/reg1-eng.html
+- name: Draft Assessment of 14 substances in the Tricylcic Sesquiterpenes and Triterpeniods
+    Group and the Risk Management Scope
+  url: https://canadagazette.gc.ca/rp-pr/p1/2025/2025-03-01/html/notice-avis-eng.html#nb1
+- name: Updated Draft Assessment of Boric Acid, its salts and its precursors and the
+    Revised Risk Management Scope.
+  url: https://canadagazette.gc.ca/rp-pr/p1/2025/2025-03-08/html/notice-avis-eng.html#nl1
+- name: Risk Management Approach for the Benzotriazoles and Benzothiazoles Group
+  url: https://canadagazette.gc.ca/rp-pr/p1/2025/2025-03-08/html/notice-avis-eng.html#nl2
+- name: Risk Management Approach for PFAS, excluding fluoropolymers
+  url: https://canadagazette.gc.ca/rp-pr/p1/2025/2025-03-08/html/notice-avis-eng.html#nl3
+- name: 'Share your thoughts: Participate in the risk assessment process for GloFish®
+    Corydoras'
+  url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/risk-assessment-process-glofish-corydoras.html
+- name: Path forward for evaluating policy options for managing the accumulation of
+    oil sands mine water in tailings ponds
+  url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/discussion-paper-crown-indigenous-working-group-2025.html
+- name: Eastern Shore Islands Area of Interest Consultations
+  url: http://www.dfo-mpo.gc.ca/oceans/consultations/easternshore-ilescoteest/index-eng.html
+- name: Northern Gulf of St. Lawrence Study Area
+  url: https://www.dfo-mpo.gc.ca/oceans/canada-quebec-agreement-entente/index-eng.html
+- name: Fundian Channel- Browns Bank Area of Interest
+  url: https://www.dfo-mpo.gc.ca/oceans/aoi-si/fundian-fundy-browns-eng.html
+- name: Let's talk Pacific Salmon
+  url: https://letstalkpacificsalmon.ca/
+- name: Proposed ticketing for the enforcement of a fisheries offence under the Fisheries
+    Act
+  url: TBD
+- name: Whitby Harbour Remediation Project
+  url: https://www.dfo-mpo.gc.ca/sch-ppb/whitby/index-eng.html
+- name: Fish and Fish Habitat Restoration Priorities for Lake Erie
+  url: https://www.talkfishhabitat.ca/wave-2/news_feed/announcing-ffhpp-framework-to-identify-fish-habitat-restoration-priorities
+- name: Fish and Fish Habitat Restoration Priorities for East Slopes, Alberta
+  url: https://www.talkfishhabitat.ca/wave-2/news_feed/announcing-ffhpp-framework-to-identify-fish-habitat-restoration-priorities
+- name: Fish and Fish Habitat Restoration Priorities for Manitoba
+  url: https://www.talkfishhabitat.ca/wave-2/news_feed/announcing-ffhpp-framework-to-identify-fish-habitat-restoration-priorities
+- name: Engagement to modernize or develop new policies, frameworks, instruments and
+    guidance to further implement the fish and fish habitat protection provisions
+    of the modernized Fisheries Act
+  url: https://www.dfo-mpo.gc.ca/campaign-campagne/fisheries-act-loi-sur-les-peches/introduction-eng.html
+- name: Construction  of a sediment storage area at the Millerand fishing harbour
+    in the Magdalen Islands
+  url: https://www.iaac-aeic.gc.ca/050/evaluations/proj/89048?culture=en-CA
 - name: Proposed Amendments to the Export Permits Regulations
   url: https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
+- name: 'Consultation: Draft Guidelines for Canadian Drinking Water Quality, Trihalomethanes'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-draft-guidelines-canadian-drinking-water-quality-trihalomethanes.html
+- name: Consultation on benzovindiflupyr, Proposed Maximum Residue Limit PMRL2025-01
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/benzovindiflupyr.html
+- name: Proposal to modify the Table of Permitted Nutrient Content Statements and
+    Claims (free of sugars)
+  url: https://www.canada.ca/en/health-canada/services/food-nutrition/legislation-guidelines/acts-regulations/notices-proposal-notices-modification/table-permitted-nutrient-content-statements-claims-free-of-sugars.html
+- name: Consultation on tebuconazole, Proposed Maximum Residue Limit PMRL2025-02
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/tebuconazole.html
+- name: Consultation on Streptomyces lydicus Strain WYEC 108 and its associated end-use
+    products, Proposed Re-evaluation Decision PRVD2025-01
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/streptomyces-lydicus-strain-wyec-108.html
+- name: Consultation on lambda-cyhalothrin, Proposed Maximum Residue Limit PMRL2025-03
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/lambda-cyhalothrin.html
+- name: 'Consultation: Proposal to amend the list of maximum residue limits for veterinary
+    drugs in foods - Proposed MRL 2025-1'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-proposal-amend-list-maximum-residue-limits-veterinary-drugs-foods-mrl-2025-1.html
+- name: Proposed Registration Decision PRD2025-01, Flg22-Bt Peptide, Vismax Seed Treatment,
+    and Vismax Row Crop
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2025/flg22-bt-peptide-vismax-seed-treatment-row-crop.html
+- name: 'Notice of Consultation on the Prescription Drug List (PDL): Nicotine Tablets'
+  url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/consultation-nicotine-tablets.html
+- name: 'Notice of Consultation on the Prescription Drug List (PDL): Nicotine Buccal
+    Pouches'
+  url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/consultation-nicotine-buccal-pouches.html
+- name: Consultation on German Cockroach Extract and its associated end-use products,
+    Proposed Re-evaluation Decision PRVD2025-02
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/german-cockroach-extract.html
+- name: 'Share your views: Consultation on the draft guidance on managing applications
+    for medical device licences'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-draft-guidance-managing-applications-medical-device-licences.html
+- name: Proposal to transfer the maximum levels for ethyl carbamate in alcoholic beverages
+    to the List of Contaminants and Other Adulterating Substances in Foods
+  url: https://www.canada.ca/en/health-canada/services/food-nutrition/legislation-guidelines/acts-regulations/notices-proposal-notices-modification/maximum-levels-ethyl-carbamate-alcoholic-beverages-list-contaminants-other-adulterating-substances.html
+- name: Consultation on ethalfluralin, Proposed Maximum Residue Limit PMRL2025-04
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/ethalfluralin.html
+- name: Consultation on pendimethalin, Proposed Maximum Residue Limit PMRL2025-05
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/pendimethalin.html
+- name: Notice of intent to make a Ministerial Exemption Order to permit continued
+    supply of naloxone kits on the Canadian market
+  url: https://gazette.gc.ca/rp-pr/p1/2025/2025-03-01/html/notice-avis-eng.html#nb3
+- name: Consultation on Carbon Dioxide and its associated end-use products, Proposed
+    Re-evaluation Decision PRVD2025-03
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/carbon-dioxide.html
+- name: 'Consultation: Health Canada and the Public Health Agency of Canada Accessibility
+    Plans'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-health-canada-public-health-agency-canada-accessibility-plans.html
+- name: Consultation on pelargonic acid and Beloukha Herbicide, Proposed Registration
+    Decision PRD2025-02
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2025/pelargonic-acid-beloukha-herbicide.html
+- name: Consultation on Cellulose (from powdered corn cobs) and its associated end-use
+    products, Proposed Re-evaluation Decision PRVD2025-04
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/cellulose-powdered-corn-cobs.html
+- name: Consultation on proposed amendments to the Pest Control Products Regulations
+    (Product Exemptions) - Pre-consultation, PRO2025-01
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/regulatory-proposals/2025/proposed-amendments-pest-control-products-regulations-product-exemptions.html
+- name: 'Consultation: Towards a pathway for health products containing cannabidiol'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-towards-pathway-products-containing-cannabidiol.html
+- name: 'Consultation: Draft Guidelines for Canadian Drinking Water Quality, Arsenic'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-draft-guidelines-canadian-drinking-water-quality-arsenic.html
+- name: Consultation on fatty acid cluster and its associated end-use products, Proposed
+    Re-evaluation Decision PRVD2025-05
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/fatty-acid-cluster.html
+- name: Consultation on Proposed Amendments to the Pest Control Products Regulations
+    (Pest Control Product Devices) - Pre-consultation, PRO2025-02
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/regulatory-proposals/2025/proposed-amendments-pest-control-products-regulations-pest-control-product-devices.html
+- name: Proposal to modify the use of caffeine as a supplemental ingredient
+  url: https://www.canada.ca/en/health-canada/services/food-nutrition/legislation-guidelines/acts-regulations/notices-proposal-notices-modification/proposal-modify-use-caffeine-supplemental-ingredient.html
+- name: Consultation on draft guidance on co-packaged drug products
+  url: https://www.canada.ca/en/health-canada/programs/consultation-draft-guidance-co-packaged-drug-products.html
+- name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
+    Foreign Workers)
+  url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
+- name: Crawford Nickel ProjectPublic NoticeComments Invited on the Summary of the
+    Impact Statement
+  url: https://iaac-aeic.gc.ca/050/evaluations/document/159905?culture=en-CA
+- name: Sussex Region Flood Diversion ProjectPublic NoticeComments Invited on the
+    Summary of the Initial Project Description
+  url: https://iaac-aeic.gc.ca/050/evaluations/document/160494?culture=en-CA
+- name: Sussex Region Flood Diversion ProjectPublic NoticeParticipant Funding Available
+  url: https://iaac-aeic.gc.ca/050/evaluations/document/160558?culture=en-CA
+- name: Rose Lithium-Tantalum Mining ProjectPublic NoticePublic Comments Invited on
+    Proposed Amendments to the Decision Statement
+  url: https://iaac-aeic.gc.ca/050/evaluations/document/160584?culture=en-CA
+- name: Indian Oil and Gas Regulations - Phase II
+  url: http://www.pgic-iogc.gc.ca/eng/1471964522302/1471964567990
+- name: Indigenous Procurement Modernization (including Procurement Strategy for Aboriginal
+    Business)
+  url: https://www.aadnc-aandc.gc.ca/eng/1554218527634/1554218554486
+- name: 'Developing laws and regulations for First Nations drinking water and wastewater:
+    engagement 2022/2023'
+  url: Developing laws and regulations for First Nations drinking water and wastewaterengagement
+    2022/2023 (sac-isc.gc.ca)
+- name: 'Engagement 2023: Updating the Protocol For Centralised Drinking Water Systems
+    in First Nations communities'
+  url: https://www.sac-isc.gc.ca/eng/1689939603075/1689939693020
+- name: Competition Bureau invites feedback on changes to the Textile Labelling and
+    Advertising Regulations
+  url: https://www.ic.gc.ca/eic/site/cb-bc.nsf/eng/h_00142.html
+- name: 'Canada Gazette, Part I: Public Consultations on proposed changes to the Patent
+    Rules and Trademark Regulations in regards to the creation of the College of Patent
+    Agents and Trademark Agents , as part of Budget Implementation Act, 2018, No.
+    2.'
+  url: Not yet available
+- name: Notice No. TIPB-001-2024 — Petition to the Governor in Council concerning
+    Telecom Decision CRTC 2023-358
+  url: https://canadagazette.gc.ca/rp-pr/p1/2024/2024-04-27/pdf/g1-15817.pdf
+- name: Amendments to Directive No 11R3, Surplus Income Directive
+  url: https://ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/public-consultations
+- name: Consultation on a Policy, and Licensing, and Technical Framework for Supplemental
+    Mobile Coverage by Satellite
+  url: https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/learn-more/key-documents/consultations/consultation-policy-licensing-and-technical-framework-supplemental-mobile-coverage-satellite
+- name: Salmon aquaculture transition in British Columbia
+  url: https://ised-isde.canada.ca/site/ised/en/salmon-aquaculture-transition-british-columbia
+- name: Consultation on the implementation of the Global Cross-Border Privacy Rules
+    (CBPR) Forum certifications in Canada
+  url: https://ised-isde.canada.ca/site/ised/en/public-consultations/consultation-implementation-global-cross-border-privacy-rules-cbpr-forum-certifications-canada
+- name: Indigenous Advisory Circle
+  url: https://library-archives.canada.ca/eng/corporate/about-us/our-partners/Pages/indigenous-advisory-circle.aspx
+- name: Stakeholders' Forum
+  url: https://library-archives.canada.ca/eng/corporate/about-us/our-partners/pages/stakeholders-forum.aspx
+- name: Services Consultation Committee
+  url: https://library-archives.canada.ca/eng/corporate/about-us/our-partners/Pages/services-consultation-group.aspx
+- name: Youth Advisory Council
+  url: https://library-archives.canada.ca/eng/corporate/about-us/our-partners/Pages/youth-advisory-council.aspx
 - name: Consultation to inform the regulatory development to support the implementation
     of An Act to amend the National Defence Act and to make related and consequential
     amendments to other Acts
@@ -20,14 +255,88 @@ sites:
   url: https://www.canada.ca/en/department-national-defence/services/benefits-military/legal-services/victim-service-offence.html
 - name: Social systems professional services
   url: www.marsdd.com
+- name: Indigenous Ministerial Arrangements Regulations
+  url: https://www.rncanengagenrcan.ca/en/content/development-new-indigenous-ministerial-arrangements-regulations
 - name: Draft Capital Adequacy Requirements (CAR) Guideline
   url: https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/consultation-draft-capital-adequacy-requirements-car-guideline?utm_medium=email&utm_source=web&utm_campaign=qr&utm_term=2025-02
+- name: General Regulations under the Canada National Marine Conservation Areas Act
+  url: https://www.letstalknmcas.ca/
+- name: Notice of Mooring Restrictions – Ontario Waterways - Trent-Severn Waterway
+    National Historic Site
+  url: https://parks.canada.ca/lhn-nhs/on/trentsevern/info/avis-restrictions-amarrage-notice-mooring-restrictions/
+- name: Notice of Mooring Restrictions – Ontario Waterways - Rideau Canal National
+    Historic Site
+  url: https://parks.canada.ca/lhn-nhs/on/rideau/info/avis-restrictions-amarrage-notice-mooring-restrictions/
+- name: Fortress of Louisbourg National Historic Site Management Plan
+  url: https://www.pc.gc.ca/en/lhn-nhs/ns/louisbourg/info/plan
+- name: Visitor Use Management - Jasper National Park
+  url: https://www.letstalkmountainparks.ca/visitor-use-management-jasper
+- name: Visitor Use Management - Lake Louise Area
+  url: https://www.letstalkmountainparks.ca/lakelouisevum
+- name: Updating the Community Plans for Field, B.C. and Lake Louise, Alberta
+  url: https://www.letstalkmountainparks.ca/communityplanupdates
+- name: Saguenay-St. Lawrence Marine Park expansion project
+  url: https://parcmarin.qc.ca/consultations/home/
+- name: Public Engagement on the Strategic Environmental Assessment for the Town of
+    Banff railway lands area redevelopment plan
+  url: www.letstalkmountainparks.ca/town-of-banff-area-redevelopment-plan-strategic-environmental-assessment
+- name: Town of Banff Railways Lands Area Redevelopment Plan - Term of Reference for
+    Strategic Environmental Assessment
+  url: https://www.letstalkmountainparks.ca/town-of-banff-area-redevelopment-plan-strategic-environmental-assessment/widgets/194782/documents
+- name: Consultation – Proposed national park in the Teetł’it Gwinjik (Peel River)
+    Watershed
+  url: https://parks.canada.ca/pn-np/cnpn-cnnp/teetlit-gwinjik-peel
 - name: National Strategy to Combat Human Trafficking (HT) Targeted Engagement Annual
     Engagement
   url: https://www.canada.ca/en/services/policing/police/crime-and-crime-prevention/human-trafficking-smuggling/nggmnt-rnwd-hmntrffckng.html
 - name: Targeted Stakeholder Engagement to Inform Canada’s Public Safety Broadband
     Network (PSBN)
   url: https://www.canada.ca/en/services/policing/emergencies/consultation-governance-framework-psbn.html
+- name: PSPC Controlled Goods Program’s Industry Engagement Committee (IEC)
+  url: https://www.tpsgc-pwgsc.gc.ca/pmc-cgp/pipmc-secgp-eng.html
+- name: Three-year Departmental Accessibility Plan
+  url: https://www.canada.ca/en/public-services-procurement/corporate/accessibility.html
+- name: Public Lands for Homes
+  url: https://www.canada.ca/en/public-services-procurement/services/infrastructure-buildings/public-lands-homes.html
+- name: Multifactor Productivity Application
+  url: https://www.statcan.gc.ca/eng/consultation/2019/mpa
+- name: Statistics Canada Client Survey 2022
+  url: https://www.statcan.gc.ca/en/consultation/2022/sccs2022
+- name: Census of the Environment Program
+  url: https://www.statcan.gc.ca/en/consultation/2022/coep
+- name: Missing persons data standards consultative engagement
+  url: https://www.statcan.gc.ca/en/consultation/2023/missing-persons-data-standards
+- name: Census Data on Demand (CDOD) program consultative engagement
+  url: https://www.statcan.gc.ca/en/consultation/2023/census-data-on-demand
+- name: Invitation to participate in the revision of the North American Industry Classification
+    System (NAICS) Canada
+  url: https://www.statcan.gc.ca/en/consultation/2023/naics
+- name: Invitation to participate in the revision of the North American Product Classification
+    System (NAPCS) Canada
+  url: https://www.statcan.gc.ca/en/consultation/2023/napcs
+- name: Invitation to participate in a flood awareness consultative engagement
+  url: https://www.statcan.gc.ca/en/consultation/2024/flood-awareness
+- name: Invitation to participate in the revision of the Classification of Instructional
+    Programs (CIP) Canada
+  url: https://www.statcan.gc.ca/en/consultation/2024/cip
+- name: Invitation to participate in the revision of the National Occupational Classification
+    (NOC)
+  url: https://www.statcan.gc.ca/en/consultation/2024/noc
+- name: Share your input on Statistics Canada’s service to the accessibility and disability
+    community
+  url: https://www.statcan.gc.ca/en/consultation/2024/accessibility-disability
+- name: Participate in the permanent consultation for the revision of the Canadian
+    Research and Development Classification (CRDC)
+  url: https://www.statcan.gc.ca/en/consultation/2025/crdc
+- name: Share your input on Statistics Canada’s Direct Health Measures Programs
+  url: https://www.statcan.gc.ca/en/consultation/2025/direct-health-measures
+- name: Share your input on Measures to Collect Health Information with the Centre
+    for Direct Health Measures
+  url: https://www.statcan.gc.ca/en/consultation/2025/measures-collect-health-information
+- name: Watchlist 2020 mid-cycle consultation with industry
+  url: https://www.tsb.gc.ca/eng/qui-about/relation.html
+- name: Watchlist 2025 mid-cycle consultations with industry
+  url: https://www.tsb.gc.ca/eng/surveillance-watchlist/2022.html
 - name: Oceans Protection Plan
   url: https://www.letstalktransportation.ca/OPP
 - name: OPP - Understanding the Cumulative Effects of Marine Vessel Activity on Coastal
@@ -53,6 +362,13 @@ sites:
   url: https://tc.canada.ca/en/corporate-services/consultations/proposed-regulatory-project-administrative-monetary-penalties-under-marine-liability-act-parts-wrecked-abandoned-hazardous-vessels-act
 - name: Updating the Saskatoon John G Diefenbaker International Airport Zoning Regulations
   url: https://N/A
+- name: Creating Canada’s 6th  National Action Plan on Open Government
+  url: https://letstalkopengovernment.ca/
+- name: Artificial Intelligence Strategy for the Government of Canada
+  url: https://forms.office.com/r/4FqMrh8U43
+- name: Ministerial Advisory Groups • Recognition  •  Families  • Care and Support
+    • Policy •  Health and Well-being • Service Excellence and Transition
+  url: https://www.veterans.gc.ca/en/about-vac/public-engagement/ministerial-advisory-groups
 status-website:
   theme: night
   baseUrl: /Consultations-Tracker
@@ -69,51 +385,212 @@ status-website:
     1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n \
     \     <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
     \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n  </tbody>\n</table><h3>Consultations Ending\
+    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-000188</td>\n      <td>Public\
+    \ consultation on proposed regulatory changes in Canada Gazette Part I amending\
+    \ the Plant Breeders' Rights Regulations</td>\n      <td>2025-03-29</td>\n   \
+    \   <td>2025-06-07</td>\n      <td>P</td>\n      <td>cfia-acia</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0033250</td>\n      <td>Consultation on the proposed Release\
+    \ Guidelines for Chemicals Used in the Rubber Products Manufacturing Sector (BENPAT\
+    \ and TMTD)</td>\n      <td>2025-03-29</td>\n      <td>2025-05-28</td>\n     \
+    \ <td>P</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-1235706</td>\n\
+    \      <td>Amending various regulations under the Canada Labour Code – Leave Related\
+    \ to Pregnancy Loss, Bereavement Leave and Leave for Placement of Child</td>\n\
+    \      <td>2025-03-28</td>\n      <td>2025-04-25</td>\n      <td>P</td>\n    \
+    \  <td>esdc-edsc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Ending\
     \ +/- 5 days from today</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n\
     \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
     \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \  </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
-    \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
-    >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
-    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>687</td>\n      <td>Adopting\
-    \ Global Technical Regulations 13 and 20 for Zero Emission Vehicle Safety (Electric\
-    \ Battery and Hydrogen)</td>\n      <td>2024-07-29</td>\n      <td>2025-01-31</td>\n\
-    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>1023</td>\n\
-    \      <td>Discussion Paper: Potential regulations to increase access to marine\
-    \ emergency services and to improve response to pollution incidents</td>\n   \
-    \   <td>2024-10-02</td>\n      <td>2025-01-31</td>\n      <td>O</td>\n      <td>tc</td>\n\
-    \    </tr>\n    <tr>\n      <td>1069</td>\n      <td>Proposed regulatory project\
-    \ on administrative monetary penalties under the Marine Liability Act and parts\
-    \ of the Wrecked, Abandoned or Hazardous Vessels Act</td>\n      <td>2024-11-20</td>\n\
+    \    <tr>\n      <td>C-0001017</td>\n      <td>Proposed Registration Decision\
+    \ PRD2025-01, Flg22-Bt Peptide, Vismax Seed Treatment, and Vismax Row Crop</td>\n\
+    \      <td>2025-02-12</td>\n      <td>2025-03-29</td>\n      <td>O</td>\n    \
+    \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0033265</td>\n      <td>Draft\
+    \ Assessment for the Fourteen Terpene and Terpenoid Substances Group and the Risk\
+    \ Management Scope</td>\n      <td>2025-01-25</td>\n      <td>2025-03-26</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0033266</td>\n\
+    \      <td>The Additional Risk Characterization Document for human health and\
+    \ the Risk Management Scope for melamine</td>\n      <td>2025-01-25</td>\n   \
+    \   <td>2025-03-26</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n\
+    \      <td>C202409</td>\n      <td>REGDOC-2.10.1, Nuclear Emergency Preparedness\
+    \ and Response, Version 3</td>\n      <td>2025-03-11</td>\n      <td>2025-03-24</td>\n\
+    \      <td>O</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n    <tr>\n      <td>STC0000073</td>\n\
+    \      <td>Share your input on Statistics Canada’s Direct Health Measures Programs</td>\n\
+    \      <td>2025-01-09</td>\n      <td>2025-03-21</td>\n      <td>O</td>\n    \
+    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>STC0000074</td>\n      <td>Share\
+    \ your input on Measures to Collect Health Information with the Centre for Direct\
+    \ Health Measures</td>\n      <td>2025-01-31</td>\n      <td>2025-03-21</td>\n\
+    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-0001006</td>\n\
+    \      <td>Release of draft (Step 2) ICH Guideline E6(R3) Annex 2: Good Clinical\
+    \ Practice</td>\n      <td>2024-12-20</td>\n      <td>2025-03-20</td>\n      <td>C</td>\n\
+    \      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>C-0001007</td>\n      <td>Release\
+    \ of draft (Step 2) ICH Guideline M15: Model Informed Drug Development</td>\n\
+    \      <td>2024-12-20</td>\n      <td>2025-03-20</td>\n      <td>C</td>\n    \
+    \  <td>hc-sc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Listed as\
+    \ Open that should be closed</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n\
+    \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
+    \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
+    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
+    \    <tr>\n      <td>STC0000073</td>\n      <td>Share your input on Statistics\
+    \ Canada’s Direct Health Measures Programs</td>\n      <td>2025-01-09</td>\n \
+    \     <td>2025-03-21</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
+    \    <tr>\n      <td>STC0000074</td>\n      <td>Share your input on Measures to\
+    \ Collect Health Information with the Centre for Direct Health Measures</td>\n\
+    \      <td>2025-01-31</td>\n      <td>2025-03-21</td>\n      <td>O</td>\n    \
+    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-0000138</td>\n      <td>Consultation\
+    \ – Proposed national park in the Teetł’it Gwinjik (Peel River) Watershed</td>\n\
+    \      <td>2025-02-03</td>\n      <td>2025-03-17</td>\n      <td>O</td>\n    \
+    \  <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-000184</td>\n      <td>Share\
+    \ your thoughts: Proposed new livestock feed ingredient –Propionibacterium freudenreichii\
+    \ culture dehydrated</td>\n      <td>2025-02-14</td>\n      <td>2025-03-14</td>\n\
+    \      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n    <tr>\n      <td>C-0033280</td>\n\
+    \      <td>Proposed Amendments to the Antarctic Environmental Protection Regulations</td>\n\
+    \      <td>2025-02-08</td>\n      <td>2025-03-11</td>\n      <td>O</td>\n    \
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>cta-otc-2024-4</td>\n      <td>Consultation\
+    \ on proposed amendments to the Air Passenger Protection Regulations (APPR)</td>\n\
+    \      <td>2024-12-21</td>\n      <td>2025-03-06</td>\n      <td>O</td>\n    \
+    \  <td>cta-otc</td>\n    </tr>\n    <tr>\n      <td>80005</td>\n      <td>Rose\
+    \ Lithium-Tantalum Mining Project\\nPublic Notice\\nPublic Comments Invited on\
+    \ Proposed Amendments to the Decision Statement</td>\n      <td>2025-01-30</td>\n\
+    \      <td>2025-03-01</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-003247</td>\n      <td>Consultation on Proposed Amendments\
+    \ to the Export of Substances on the Export Control List Regulations</td>\n  \
+    \    <td>2024-12-16</td>\n      <td>2025-03-01</td>\n      <td>O</td>\n      <td>ec</td>\n\
+    \    </tr>\n    <tr>\n      <td>89179-1</td>\n      <td>Sussex Region Flood Diversion\
+    \ Project\\nPublic Notice\\nParticipant Funding Available</td>\n      <td>2025-01-23</td>\n\
+    \      <td>2025-02-24</td>\n      <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n\
+    \    <tr>\n      <td>89179</td>\n      <td>Sussex Region Flood Diversion Project\\\
+    nPublic Notice\\nComments Invited on the Summary of the Initial Project Description</td>\n\
+    \      <td>2025-01-21</td>\n      <td>2025-02-10</td>\n      <td>O</td>\n    \
+    \  <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>83857-2</td>\n      <td>Crawford\
+    \ Nickel Project\\nPublic Notice\\nComments Invited on the Summary of the Impact\
+    \ Statement</td>\n      <td>2024-12-09</td>\n      <td>2025-02-07</td>\n     \
+    \ <td>O</td>\n      <td>iaac-aeic</td>\n    </tr>\n    <tr>\n      <td>C-000182</td>\n\
+    \      <td>Share your thoughts: Risk mitigation options for the importation of\
+    \ honey bee packages from the United States</td>\n      <td>2024-11-07</td>\n\
+    \      <td>2025-01-31</td>\n      <td>O</td>\n      <td>cfia-acia</td>\n    </tr>\n\
+    \    <tr>\n      <td>687</td>\n      <td>Adopting Global Technical Regulations\
+    \ 13 and 20 for Zero Emission Vehicle Safety (Electric Battery and Hydrogen)</td>\n\
+    \      <td>2024-07-29</td>\n      <td>2025-01-31</td>\n      <td>O</td>\n    \
+    \  <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-1235702</td>\n      <td>Consultations\
+    \ for the 2025 Annual Report on the 2030 Agenda and the Sustainable Development\
+    \ Goals</td>\n      <td>2024-10-30</td>\n      <td>2025-01-31</td>\n      <td>O</td>\n\
+    \      <td>esdc-edsc</td>\n    </tr>\n    <tr>\n      <td>1023</td>\n      <td>Discussion\
+    \ Paper: Potential regulations to increase access to marine emergency services\
+    \ and to improve response to pollution incidents</td>\n      <td>2024-10-02</td>\n\
+    \      <td>2025-01-31</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-0000137</td>\n      <td>Town of Banff Railways Lands Area\
+    \ Redevelopment Plan - Term of Reference for Strategic Environmental Assessment</td>\n\
+    \      <td>2024-12-18</td>\n      <td>2025-01-30</td>\n      <td>O</td>\n    \
+    \  <td>pc</td>\n    </tr>\n    <tr>\n      <td>1069</td>\n      <td>Proposed regulatory\
+    \ project on administrative monetary penalties under the Marine Liability Act\
+    \ and parts of the Wrecked, Abandoned or Hazardous Vessels Act</td>\n      <td>2024-11-20</td>\n\
     \      <td>2025-01-20</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-0253</td>\n      <td>Salmon aquaculture transition in British\
+    \ Columbia</td>\n      <td>2024-10-21</td>\n      <td>2025-01-17</td>\n      <td>O</td>\n\
+    \      <td>ic</td>\n    </tr>\n    <tr>\n      <td>STC-0000052</td>\n      <td>Missing\
+    \ persons data standards consultative engagement</td>\n      <td>2023-06-22</td>\n\
+    \      <td>2024-12-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
+    \    <tr>\n      <td>C0000193</td>\n      <td>Consultations on IRCC’s Crisis Response\
+    \ Framework</td>\n      <td>2024-06-05</td>\n      <td>2024-12-31</td>\n     \
+    \ <td>O</td>\n      <td>cic</td>\n    </tr>\n    <tr>\n      <td>C-0000136</td>\n\
+    \      <td>Public Engagement on the Strategic Environmental Assessment for the\
+    \ Town of Banff railway lands area redevelopment plan</td>\n      <td>2024-12-16</td>\n\
+    \      <td>2024-12-30</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
     \   <tr>\n      <td>C-000048</td>\n      <td>Share your thoughts about closed\
     \ captioning of programming from online streaming services</td>\n      <td>2024-11-18</td>\n\
     \      <td>2024-12-20</td>\n      <td>O</td>\n      <td>crtc</td>\n    </tr>\n\
-    \    <tr>\n      <td>D00039</td>\n      <td>Targeted Stakeholder Engagement to\
-    \ Inform Canada’s Public Safety Broadband Network (PSBN)</td>\n      <td>2024-07-01</td>\n\
-    \      <td>2024-10-31</td>\n      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n\
-    \    <tr>\n      <td>698</td>\n      <td>Digitizing the Travel Journey at Airports</td>\n\
-    \      <td>2023-04-01</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
-    \  <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-CANSOF-002</td>\n      <td>Social\
-    \ systems professional services</td>\n      <td>2022-03-01</td>\n      <td>2022-08-31</td>\n\
-    \      <td>O</td>\n      <td>dnd-mdn</td>\n    </tr>\n    <tr>\n      <td>C-JAG-21Q1-11</td>\n\
-    \      <td>Consultation to inform the regulatory development to support the implementation\
-    \ of An Act to amend the National Defence Act and to make related and consequential\
-    \ amendments to other Acts</td>\n      <td>2021-05-13</td>\n      <td>2022-08-03</td>\n\
-    \      <td>O</td>\n      <td>dnd-mdn</td>\n    </tr>\n    <tr>\n      <td>C-JAG-21Q2-18</td>\n\
-    \      <td>Consultation to inform the regulatory development to support the implementation\
+    \    <tr>\n      <td>C-0000135</td>\n      <td>Saguenay-St. Lawrence Marine Park\
+    \ expansion project</td>\n      <td>2024-10-22</td>\n      <td>2024-12-13</td>\n\
+    \      <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>STC-0000066</td>\n\
+    \      <td>Invitation to participate in the revision of the National Occupational\
+    \ Classification (NOC)</td>\n      <td>2024-04-09</td>\n      <td>2024-11-15</td>\n\
+    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>D00039</td>\n\
+    \      <td>Targeted Stakeholder Engagement to Inform Canada’s Public Safety Broadband\
+    \ Network (PSBN)</td>\n      <td>2024-07-01</td>\n      <td>2024-10-31</td>\n\
+    \      <td>O</td>\n      <td>ps-sp</td>\n    </tr>\n    <tr>\n      <td>C-011126</td>\n\
+    \      <td>Artificial Intelligence Strategy for the Government of Canada</td>\n\
+    \      <td>2024-09-16</td>\n      <td>2024-10-31</td>\n      <td>O</td>\n    \
+    \  <td>tbs-sct</td>\n    </tr>\n    <tr>\n      <td>C-0235</td>\n      <td>Consultation\
+    \ on a Policy, and Licensing, and Technical Framework for Supplemental Mobile\
+    \ Coverage by Satellite</td>\n      <td>2024-06-17</td>\n      <td>2024-10-25</td>\n\
+    \      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000127</td>\n\
+    \      <td>Visitor Use Management - Jasper National Park</td>\n      <td>2024-06-18</td>\n\
+    \      <td>2024-09-13</td>\n      <td>O</td>\n      <td>pc</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-003227</td>\n      <td>Comment on: Draft Canada-Saskatchewan\
+    \ Equivalency Agreement on coal-fired electricity regulations (2025-2026)</td>\n\
+    \      <td>2024-06-07</td>\n      <td>2024-08-06</td>\n      <td>O</td>\n    \
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>STC-0000065</td>\n      <td>Invitation\
+    \ to participate in the revision of the Classification of Instructional Programs\
+    \ (CIP) Canada</td>\n      <td>2024-04-15</td>\n      <td>2024-07-31</td>\n  \
+    \    <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-0158</td>\n\
+    \      <td>Notice No. TIPB-001-2024 — Petition to the Governor in Council concerning\
+    \ Telecom Decision CRTC 2023-358</td>\n      <td>2024-04-27</td>\n      <td>2024-06-11</td>\n\
+    \      <td>O</td>\n      <td>ic</td>\n    </tr>\n    <tr>\n      <td>C-0000124</td>\n\
+    \      <td>Fortress of Louisbourg National Historic Site Management Plan</td>\n\
+    \      <td>2024-05-06</td>\n      <td>2024-06-07</td>\n      <td>O</td>\n    \
+    \  <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000119</td>\n      <td>Notice\
+    \ of Mooring Restrictions – Ontario Waterways - Trent-Severn Waterway National\
+    \ Historic Site</td>\n      <td>2024-03-07</td>\n      <td>2024-04-07</td>\n \
+    \     <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000120</td>\n\
+    \      <td>Notice of Mooring Restrictions – Ontario Waterways - Rideau Canal National\
+    \ Historic Site</td>\n      <td>2024-03-11</td>\n      <td>2024-04-07</td>\n \
+    \     <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>STC-0000064</td>\n\
+    \      <td>Invitation to participate in a flood awareness consultative engagement</td>\n\
+    \      <td>2024-01-02</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
+    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>698</td>\n      <td>Digitizing\
+    \ the Travel Journey at Airports</td>\n      <td>2023-04-01</td>\n      <td>2024-03-31</td>\n\
+    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>STC0000055</td>\n\
+    \      <td>Census Data on Demand (CDOD) program consultative engagement</td>\n\
+    \      <td>2023-07-30</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
+    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-ISC-1020</td>\n      <td>Engagement\
+    \ 2023: Updating the Protocol For Centralised Drinking Water Systems in First\
+    \ Nations communities</td>\n      <td>2023-07-12</td>\n      <td>2024-02-29</td>\n\
+    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC-1018</td>\n\
+    \      <td>National Outcome-Based Framework</td>\n      <td>2023-01-15</td>\n\
+    \      <td>2024-01-31</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-ISC - 1018</td>\n      <td>Developing laws and regulations\
+    \ for First Nations drinking water and wastewater: engagement 2022/2023</td>\n\
+    \      <td>2022-08-01</td>\n      <td>2023-09-08</td>\n      <td>O</td>\n    \
+    \  <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-0000108</td>\n      <td>2022-23\
+    \ Consultations on renewal of the Museum Policy</td>\n      <td>2022-10-28</td>\n\
+    \      <td>2023-05-31</td>\n      <td>O</td>\n      <td>pch</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-201901</td>\n      <td>PSPC Controlled Goods Program’s\
+    \ Industry Engagement Committee (IEC)</td>\n      <td>2012-01-01</td>\n      <td>2023-01-01</td>\n\
+    \      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-CANSOF-002</td>\n\
+    \      <td>Social systems professional services</td>\n      <td>2022-03-01</td>\n\
+    \      <td>2022-08-31</td>\n      <td>O</td>\n      <td>dnd-mdn</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-JAG-21Q1-11</td>\n      <td>Consultation to inform the\
+    \ regulatory development to support the implementation of An Act to amend the\
+    \ National Defence Act and to make related and consequential amendments to other\
+    \ Acts</td>\n      <td>2021-05-13</td>\n      <td>2022-08-03</td>\n      <td>O</td>\n\
+    \      <td>dnd-mdn</td>\n    </tr>\n    <tr>\n      <td>C-JAG-21Q2-18</td>\n \
+    \     <td>Consultation to inform the regulatory development to support the implementation\
     \ of An Act to amend the National Defence Act and to make related and consequential\
     \ amendments to other Acts</td>\n      <td>2021-05-13</td>\n      <td>2022-08-03</td>\n\
     \      <td>O</td>\n      <td>dnd-mdn</td>\n    </tr>\n    <tr>\n      <td>C-0000558</td>\n\
     \      <td>Proposed Amendments to the Export Permits Regulations</td>\n      <td>2022-06-18</td>\n\
     \      <td>2022-07-18</td>\n      <td>O</td>\n      <td>dfatd-maecd</td>\n   \
-    \ </tr>\n    <tr>\n      <td>530</td>\n      <td>OPP - Understanding the Cumulative\
-    \ Effects of Marine Vessel Activity on Coastal and Marine Environments</td>\n\
-    \      <td>2017-09-20</td>\n      <td>2022-01-10</td>\n      <td>O</td>\n    \
-    \  <td>tc</td>\n    </tr>\n  </tbody>\n</table>"
+    \ </tr>\n    <tr>\n      <td>SCCS-2021</td>\n      <td>Statistics Canada Client\
+    \ Survey 2022</td>\n      <td>2022-03-01</td>\n      <td>2022-04-25</td>\n   \
+    \   <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>530</td>\n\
+    \      <td>OPP - Understanding the Cumulative Effects of Marine Vessel Activity\
+    \ on Coastal and Marine Environments</td>\n      <td>2017-09-20</td>\n      <td>2022-01-10</td>\n\
+    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>C-003124</td>\n\
+    \      <td>Share your ideas: Blackwater Project</td>\n      <td>2021-06-08</td>\n\
+    \      <td>2021-09-30</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-00052</td>\n      <td>National Infrastructure Assessment</td>\n\
+    \      <td>2021-03-16</td>\n      <td>2021-06-30</td>\n      <td>O</td>\n    \
+    \  <td>infc</td>\n    </tr>\n    <tr>\n      <td>C-ISC0033</td>\n      <td>Indian\
+    \ Oil and Gas Regulations - Phase II</td>\n      <td>2013-04-01</td>\n      <td>2021-03-31</td>\n\
+    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-INA0005</td>\n\
+    \      <td>Indigenous Procurement Modernization (including Procurement Strategy\
+    \ for Aboriginal Business)</td>\n      <td>2017-06-01</td>\n      <td>2021-03-31</td>\n\
+    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0037</td>\n\
+    \      <td>Renewal of the Fire Protection Strategy</td>\n      <td>2020-04-01</td>\n\
+    \      <td>2021-03-31</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n\
+    \    <tr>\n      <td>STC-0000023</td>\n      <td>Multifactor Productivity Application</td>\n\
+    \      <td>2019-12-01</td>\n      <td>2020-03-31</td>\n      <td>O</td>\n    \
+    \  <td>statcan</td>\n    </tr>\n  </tbody>\n</table>"
   navbar:
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
