@@ -401,6 +401,9 @@ status-website:
     \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
     \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
+    \    <tr>\n      <td>C-0001009</td>\n      <td>Consultation on benzovindiflupyr,\
+    \ Proposed Maximum Residue Limit PMRL2025-01</td>\n      <td>2025-01-14</td>\n\
+    \      <td>2025-03-30</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
     \    <tr>\n      <td>C-0001017</td>\n      <td>Proposed Registration Decision\
     \ PRD2025-01, Flg22-Bt Peptide, Vismax Seed Treatment, and Vismax Row Crop</td>\n\
     \      <td>2025-02-12</td>\n      <td>2025-03-29</td>\n      <td>O</td>\n    \
@@ -430,6 +433,9 @@ status-website:
     \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
     \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
+    \    <tr>\n      <td>C202409</td>\n      <td>REGDOC-2.10.1, Nuclear Emergency\
+    \ Preparedness and Response, Version 3</td>\n      <td>2025-03-11</td>\n     \
+    \ <td>2025-03-24</td>\n      <td>O</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n\
     \    <tr>\n      <td>STC0000073</td>\n      <td>Share your input on Statistics\
     \ Canada’s Direct Health Measures Programs</td>\n      <td>2025-01-09</td>\n \
     \     <td>2025-03-21</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
@@ -534,14 +540,14 @@ status-website:
     \     <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>C-0000120</td>\n\
     \      <td>Notice of Mooring Restrictions – Ontario Waterways - Rideau Canal National\
     \ Historic Site</td>\n      <td>2024-03-11</td>\n      <td>2024-04-07</td>\n \
-    \     <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>STC-0000064</td>\n\
+    \     <td>O</td>\n      <td>pc</td>\n    </tr>\n    <tr>\n      <td>698</td>\n\
+    \      <td>Digitizing the Travel Journey at Airports</td>\n      <td>2023-04-01</td>\n\
+    \      <td>2024-03-31</td>\n      <td>O</td>\n      <td>tc</td>\n    </tr>\n \
+    \   <tr>\n      <td>STC0000055</td>\n      <td>Census Data on Demand (CDOD) program\
+    \ consultative engagement</td>\n      <td>2023-07-30</td>\n      <td>2024-03-31</td>\n\
+    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>STC-0000064</td>\n\
     \      <td>Invitation to participate in a flood awareness consultative engagement</td>\n\
     \      <td>2024-01-02</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
-    \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>698</td>\n      <td>Digitizing\
-    \ the Travel Journey at Airports</td>\n      <td>2023-04-01</td>\n      <td>2024-03-31</td>\n\
-    \      <td>O</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>STC0000055</td>\n\
-    \      <td>Census Data on Demand (CDOD) program consultative engagement</td>\n\
-    \      <td>2023-07-30</td>\n      <td>2024-03-31</td>\n      <td>O</td>\n    \
     \  <td>statcan</td>\n    </tr>\n    <tr>\n      <td>C-ISC-1020</td>\n      <td>Engagement\
     \ 2023: Updating the Protocol For Centralised Drinking Water Systems in First\
     \ Nations communities</td>\n      <td>2023-07-12</td>\n      <td>2024-02-29</td>\n\
@@ -580,11 +586,11 @@ status-website:
     \      <td>2021-09-30</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
     \   <tr>\n      <td>C-00052</td>\n      <td>National Infrastructure Assessment</td>\n\
     \      <td>2021-03-16</td>\n      <td>2021-06-30</td>\n      <td>O</td>\n    \
-    \  <td>infc</td>\n    </tr>\n    <tr>\n      <td>C-ISC0033</td>\n      <td>Indian\
+    \  <td>infc</td>\n    </tr>\n    <tr>\n      <td>C-INA0005</td>\n      <td>Indigenous\
+    \ Procurement Modernization (including Procurement Strategy for Aboriginal Business)</td>\n\
+    \      <td>2017-06-01</td>\n      <td>2021-03-31</td>\n      <td>O</td>\n    \
+    \  <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0033</td>\n      <td>Indian\
     \ Oil and Gas Regulations - Phase II</td>\n      <td>2013-04-01</td>\n      <td>2021-03-31</td>\n\
-    \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-INA0005</td>\n\
-    \      <td>Indigenous Procurement Modernization (including Procurement Strategy\
-    \ for Aboriginal Business)</td>\n      <td>2017-06-01</td>\n      <td>2021-03-31</td>\n\
     \      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n    <tr>\n      <td>C-ISC0037</td>\n\
     \      <td>Renewal of the Fire Protection Strategy</td>\n      <td>2020-04-01</td>\n\
     \      <td>2021-03-31</td>\n      <td>O</td>\n      <td>isc-sac</td>\n    </tr>\n\
