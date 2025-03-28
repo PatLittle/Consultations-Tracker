@@ -98,23 +98,11 @@ sites:
   url: https://www.dfo-mpo.gc.ca/oceans/canada-quebec-agreement-entente/index-eng.html
 - name: Fundian Channel- Browns Bank Area of Interest
   url: https://www.dfo-mpo.gc.ca/oceans/aoi-si/fundian-fundy-browns-eng.html
-- name: Let's talk Pacific Salmon
-  url: https://letstalkpacificsalmon.ca/
 - name: Proposed ticketing for the enforcement of a fisheries offence under the Fisheries
     Act
   url: TBD
 - name: Whitby Harbour Remediation Project
   url: https://www.dfo-mpo.gc.ca/sch-ppb/whitby/index-eng.html
-- name: Fish and Fish Habitat Restoration Priorities for Lake Erie
-  url: https://www.talkfishhabitat.ca/wave-2/news_feed/announcing-ffhpp-framework-to-identify-fish-habitat-restoration-priorities
-- name: Fish and Fish Habitat Restoration Priorities for East Slopes, Alberta
-  url: https://www.talkfishhabitat.ca/wave-2/news_feed/announcing-ffhpp-framework-to-identify-fish-habitat-restoration-priorities
-- name: Fish and Fish Habitat Restoration Priorities for Manitoba
-  url: https://www.talkfishhabitat.ca/wave-2/news_feed/announcing-ffhpp-framework-to-identify-fish-habitat-restoration-priorities
-- name: Engagement to modernize or develop new policies, frameworks, instruments and
-    guidance to further implement the fish and fish habitat protection provisions
-    of the modernized Fisheries Act
-  url: https://www.dfo-mpo.gc.ca/campaign-campagne/fisheries-act-loi-sur-les-peches/introduction-eng.html
 - name: Construction  of a sediment storage area at the Millerand fishing harbour
     in the Magdalen Islands
   url: https://www.iaac-aeic.gc.ca/050/evaluations/proj/89048?culture=en-CA
@@ -415,64 +403,43 @@ status-website:
     \   <td>2025-01-17</td>\n      <td>2025-04-02</td>\n      <td>O</td>\n      <td>hc-sc</td>\n\
     \    </tr>\n    <tr>\n      <td>C-2021-01</td>\n      <td>Onshore Pipeline Regulations\
     \ and Filing Manuals Review Project</td>\n      <td>2021-02-01</td>\n      <td>2025-03-31</td>\n\
-    \      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>REG202212-3</td>\n\
-    \      <td>Regulated Industry Engagement</td>\n      <td>2023-04-01</td>\n   \
-    \   <td>2025-03-31</td>\n      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n\
-    \    <tr>\n      <td>1071</td>\n      <td>Updating the Saskatoon John G Diefenbaker\
-    \ International Airport Zoning Regulations</td>\n      <td>2025-01-30</td>\n \
-    \     <td>2025-03-31</td>\n      <td>P</td>\n      <td>tc</td>\n    </tr>\n  \
-    \  <tr>\n      <td>STC-0000071</td>\n      <td>Share your input on Statistics\
-    \ Canada’s service to the accessibility and disability community</td>\n      <td>2024-12-04</td>\n\
-    \      <td>2025-03-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
-    \    <tr>\n      <td>c-20241101</td>\n      <td>Public Lands for Homes</td>\n\
-    \      <td>2024-08-26</td>\n      <td>2025-03-31</td>\n      <td>O</td>\n    \
-    \  <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-2024041</td>\n     \
-    \ <td>Judicial Precinct Master Plan (JPMP)</td>\n      <td>2024-04-01</td>\n \
-    \     <td>2025-03-31</td>\n      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C--20230529</td>\n      <td>The Parliamentary Precinct Campus</td>\n\
-    \      <td>2024-05-01</td>\n      <td>2025-03-31</td>\n      <td>P</td>\n    \
-    \  <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-0000008</td>\n     \
-    \ <td>Youth Advisory Council</td>\n      <td>2019-04-01</td>\n      <td>2025-03-31</td>\n\
+    \      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>C-0000004</td>\n\
+    \      <td>Indigenous Advisory Circle</td>\n      <td>2019-04-01</td>\n      <td>2025-03-31</td>\n\
+    \      <td>O</td>\n      <td>lac-bac</td>\n    </tr>\n    <tr>\n      <td>1071</td>\n\
+    \      <td>Updating the Saskatoon John G Diefenbaker International Airport Zoning\
+    \ Regulations</td>\n      <td>2025-01-30</td>\n      <td>2025-03-31</td>\n   \
+    \   <td>P</td>\n      <td>tc</td>\n    </tr>\n    <tr>\n      <td>STC-0000071</td>\n\
+    \      <td>Share your input on Statistics Canada’s service to the accessibility\
+    \ and disability community</td>\n      <td>2024-12-04</td>\n      <td>2025-03-31</td>\n\
+    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>c-20241101</td>\n\
+    \      <td>Public Lands for Homes</td>\n      <td>2024-08-26</td>\n      <td>2025-03-31</td>\n\
+    \      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-2024041</td>\n\
+    \      <td>Judicial Precinct Master Plan (JPMP)</td>\n      <td>2024-04-01</td>\n\
+    \      <td>2025-03-31</td>\n      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n   \
+    \ </tr>\n    <tr>\n      <td>C--20230529</td>\n      <td>The Parliamentary Precinct\
+    \ Campus</td>\n      <td>2024-05-01</td>\n      <td>2025-03-31</td>\n      <td>P</td>\n\
+    \      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-0000008</td>\n \
+    \     <td>Youth Advisory Council</td>\n      <td>2019-04-01</td>\n      <td>2025-03-31</td>\n\
     \      <td>O</td>\n      <td>lac-bac</td>\n    </tr>\n    <tr>\n      <td>C-0000006</td>\n\
     \      <td>Services Consultation Committee</td>\n      <td>2019-04-01</td>\n \
     \     <td>2025-03-31</td>\n      <td>O</td>\n      <td>lac-bac</td>\n    </tr>\n\
     \    <tr>\n      <td>C-0000005</td>\n      <td>Stakeholders' Forum</td>\n    \
     \  <td>2019-04-01</td>\n      <td>2025-03-31</td>\n      <td>O</td>\n      <td>lac-bac</td>\n\
-    \    </tr>\n    <tr>\n      <td>C-0000004</td>\n      <td>Indigenous Advisory\
-    \ Circle</td>\n      <td>2019-04-01</td>\n      <td>2025-03-31</td>\n      <td>O</td>\n\
-    \      <td>lac-bac</td>\n    </tr>\n    <tr>\n      <td>C-0001027</td>\n     \
-    \ <td>Notice of intent to make a Ministerial Exemption Order to permit continued\
-    \ supply of naloxone kits on the Canadian market</td>\n      <td>2025-03-01</td>\n\
-    \      <td>2025-03-31</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0000001</td>\n      <td>Review of the 2016 Policy on Results\
-    \ - Engagements with National Indigenous Organizations</td>\n      <td>2024-06-27</td>\n\
-    \      <td>2025-03-31</td>\n      <td>O</td>\n      <td>tbs-sct</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-GLF20220205</td>\n      <td>Engagement to modernize or\
-    \ develop new policies, frameworks, instruments and guidance to further implement\
-    \ the fish and fish habitat protection provisions of the modernized Fisheries\
-    \ Act</td>\n      <td>2021-04-01</td>\n      <td>2025-03-31</td>\n      <td>O</td>\n\
-    \      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>DFO2025-30</td>\n    \
-    \  <td>Engagement on potential new marine conservation areas in NL by 2030</td>\n\
-    \      <td>2024-07-22</td>\n      <td>2025-03-31</td>\n      <td>O</td>\n    \
-    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>DFO20240724-03</td>\n    \
-    \  <td>Fish and Fish Habitat Restoration Priorities for Manitoba</td>\n      <td>2024-08-01</td>\n\
-    \      <td>2025-03-31</td>\n      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n\
-    \    <tr>\n      <td>DFO20240724-02</td>\n      <td>Fish and Fish Habitat Restoration\
-    \ Priorities for East Slopes, Alberta</td>\n      <td>2024-05-29</td>\n      <td>2025-03-31</td>\n\
-    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>DFO20240724-01</td>\n\
-    \      <td>Fish and Fish Habitat Restoration Priorities for Lake Erie</td>\n \
-    \     <td>2025-01-07</td>\n      <td>2025-03-31</td>\n      <td>O</td>\n     \
-    \ <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>DFO202210-13</td>\n      <td>Progress\
-    \ of DFO's  Marine Spatial Planning Process and Regional Strategy, Quebec Region</td>\n\
-    \      <td>2022-09-12</td>\n      <td>2025-03-31</td>\n      <td>O</td>\n    \
-    \  <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>DFO20210511-05</td>\n    \
-    \  <td>Let's talk Pacific Salmon</td>\n      <td>2022-07-15</td>\n      <td>2025-03-31</td>\n\
-    \      <td>O</td>\n      <td>dfo-mpo</td>\n    </tr>\n    <tr>\n      <td>C-00000117</td>\n\
-    \      <td>Consultation on Efficiencies, Legislative Amendments, and the Ongoing\
-    \ Impact of the COVID-19 Pandemic</td>\n      <td>2025-06-01</td>\n      <td>2025-03-31</td>\n\
-    \      <td>P</td>\n      <td>jus</td>\n    </tr>\n    <tr>\n      <td>C-00000104</td>\n\
-    \      <td>National Restorative Justice Research Network</td>\n      <td>2024-01-01</td>\n\
-    \      <td>2025-03-31</td>\n      <td>O</td>\n      <td>jus</td>\n    </tr>\n\
+    \    </tr>\n    <tr>\n      <td>C-0001027</td>\n      <td>Notice of intent to\
+    \ make a Ministerial Exemption Order to permit continued supply of naloxone kits\
+    \ on the Canadian market</td>\n      <td>2025-03-01</td>\n      <td>2025-03-31</td>\n\
+    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>REG202212-3</td>\n\
+    \      <td>Regulated Industry Engagement</td>\n      <td>2023-04-01</td>\n   \
+    \   <td>2025-03-31</td>\n      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-00000117</td>\n      <td>Consultation on Efficiencies,\
+    \ Legislative Amendments, and the Ongoing Impact of the COVID-19 Pandemic</td>\n\
+    \      <td>2025-06-01</td>\n      <td>2025-03-31</td>\n      <td>P</td>\n    \
+    \  <td>jus</td>\n    </tr>\n    <tr>\n      <td>C-00000104</td>\n      <td>National\
+    \ Restorative Justice Research Network</td>\n      <td>2024-01-01</td>\n     \
+    \ <td>2025-03-31</td>\n      <td>O</td>\n      <td>jus</td>\n    </tr>\n    <tr>\n\
+    \      <td>C-0000001</td>\n      <td>Review of the 2016 Policy on Results - Engagements\
+    \ with National Indigenous Organizations</td>\n      <td>2024-06-27</td>\n   \
+    \   <td>2025-03-31</td>\n      <td>O</td>\n      <td>tbs-sct</td>\n    </tr>\n\
     \    <tr>\n      <td>C-0001009</td>\n      <td>Consultation on benzovindiflupyr,\
     \ Proposed Maximum Residue Limit PMRL2025-01</td>\n      <td>2025-01-14</td>\n\
     \      <td>2025-03-30</td>\n      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n\
