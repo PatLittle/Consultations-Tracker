@@ -376,25 +376,23 @@ status-website:
     \ <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-0033296</td>\n      <td>Share\
     \ your thoughts: Participate in the risk assessment process for GloFish® Corydoras</td>\n\
     \      <td>2025-03-08</td>\n      <td>2025-04-06</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C202501</td>\n      <td>REGDOC-2.6.4,\
-    \ Chemistry Control for Reactor Facilities</td>\n      <td>2025-01-29</td>\n \
-    \     <td>2025-04-05</td>\n      <td>C</td>\n      <td>cnsc-ccsn</td>\n    </tr>\n\
-    \  </tbody>\n</table><h3>Consultations Listed as Open that should be closed</h3><table\
-    \ border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\"\
-    >\n      <th>registration_number</th>\n      <th>title_en</th>\n      <th>start_date</th>\n\
-    \      <th>end_date</th>\n      <th>status</th>\n      <th>owner_org</th>\n  \
-    \  </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>C-000062</td>\n      <td>Share\
-    \ your thoughts on Canadian content for audio services</td>\n      <td>2025-02-20</td>\n\
-    \      <td>2025-04-07</td>\n      <td>O</td>\n      <td>crtc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0033296</td>\n      <td>Share your thoughts: Participate\
-    \ in the risk assessment process for GloFish® Corydoras</td>\n      <td>2025-03-08</td>\n\
-    \      <td>2025-04-06</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
-    \   <tr>\n      <td>C-2021-01</td>\n      <td>Onshore Pipeline Regulations and\
-    \ Filing Manuals Review Project</td>\n      <td>2021-02-01</td>\n      <td>2025-03-31</td>\n\
-    \      <td>O</td>\n      <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>STC-0000071</td>\n\
-    \      <td>Share your input on Statistics Canada’s service to the accessibility\
-    \ and disability community</td>\n      <td>2024-12-04</td>\n      <td>2025-03-31</td>\n\
-    \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>c-20241101</td>\n\
+    \  <td>ec</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations Listed as Open\
+    \ that should be closed</h3><table border=\"1\" class=\"dataframe\">\n  <thead>\n\
+    \    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n \
+    \     <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
+    \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
+    \    <tr>\n      <td>C-000062</td>\n      <td>Share your thoughts on Canadian\
+    \ content for audio services</td>\n      <td>2025-02-20</td>\n      <td>2025-04-07</td>\n\
+    \      <td>O</td>\n      <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-0033296</td>\n\
+    \      <td>Share your thoughts: Participate in the risk assessment process for\
+    \ GloFish® Corydoras</td>\n      <td>2025-03-08</td>\n      <td>2025-04-06</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-2021-01</td>\n\
+    \      <td>Onshore Pipeline Regulations and Filing Manuals Review Project</td>\n\
+    \      <td>2021-02-01</td>\n      <td>2025-03-31</td>\n      <td>O</td>\n    \
+    \  <td>cer-rec</td>\n    </tr>\n    <tr>\n      <td>STC-0000071</td>\n      <td>Share\
+    \ your input on Statistics Canada’s service to the accessibility and disability\
+    \ community</td>\n      <td>2024-12-04</td>\n      <td>2025-03-31</td>\n     \
+    \ <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>c-20241101</td>\n\
     \      <td>Public Lands for Homes</td>\n      <td>2024-08-26</td>\n      <td>2025-03-31</td>\n\
     \      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-2024041</td>\n\
     \      <td>Judicial Precinct Master Plan (JPMP)</td>\n      <td>2024-04-01</td>\n\
