@@ -92,8 +92,6 @@ sites:
   url: https://www.dfo-mpo.gc.ca/sch-ppb/whitby/index-eng.html
 - name: Proposed Amendments to the Export Permits Regulations
   url: https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
-- name: Consultation on tebuconazole, Proposed Maximum Residue Limit PMRL2025-02
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/tebuconazole.html
 - name: Consultation on Streptomyces lydicus Strain WYEC 108 and its associated end-use
     products, Proposed Re-evaluation Decision PRVD2025-01
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/streptomyces-lydicus-strain-wyec-108.html
@@ -365,7 +363,7 @@ status-website:
     \ chlorinated alkanes</td>\n      <td>2025-02-13</td>\n      <td>2025-04-14</td>\n\
     \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0001012</td>\n\
     \      <td>Consultation on tebuconazole, Proposed Maximum Residue Limit PMRL2025-02</td>\n\
-    \      <td>2025-01-28</td>\n      <td>2025-04-13</td>\n      <td>O</td>\n    \
+    \      <td>2025-01-28</td>\n      <td>2025-04-13</td>\n      <td>C</td>\n    \
     \  <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>cta-otc-2024-3</td>\n      <td>2024\
     \ Interswitching consultation</td>\n      <td>2024-11-21</td>\n      <td>2025-04-11</td>\n\
     \      <td>O</td>\n      <td>cta-otc</td>\n    </tr>\n  </tbody>\n</table><h3>Consultations\
@@ -373,30 +371,27 @@ status-website:
     >\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th>registration_number</th>\n\
     \      <th>title_en</th>\n      <th>start_date</th>\n      <th>end_date</th>\n\
     \      <th>status</th>\n      <th>owner_org</th>\n    </tr>\n  </thead>\n  <tbody>\n\
-    \    <tr>\n      <td>C-0001012</td>\n      <td>Consultation on tebuconazole, Proposed\
-    \ Maximum Residue Limit PMRL2025-02</td>\n      <td>2025-01-28</td>\n      <td>2025-04-13</td>\n\
-    \      <td>O</td>\n      <td>hc-sc</td>\n    </tr>\n    <tr>\n      <td>cta-otc-2024-3</td>\n\
-    \      <td>2024 Interswitching consultation</td>\n      <td>2024-11-21</td>\n\
-    \      <td>2025-04-11</td>\n      <td>O</td>\n      <td>cta-otc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-000062</td>\n      <td>Share your thoughts on Canadian\
-    \ content for audio services</td>\n      <td>2025-02-20</td>\n      <td>2025-04-07</td>\n\
-    \      <td>O</td>\n      <td>crtc</td>\n    </tr>\n    <tr>\n      <td>C-0033296</td>\n\
-    \      <td>Share your thoughts: Participate in the risk assessment process for\
-    \ GloFish® Corydoras</td>\n      <td>2025-03-08</td>\n      <td>2025-04-06</td>\n\
-    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0000006</td>\n\
-    \      <td>Services Consultation Committee</td>\n      <td>2019-04-01</td>\n \
-    \     <td>2025-03-31</td>\n      <td>O</td>\n      <td>lac-bac</td>\n    </tr>\n\
-    \    <tr>\n      <td>STC-0000071</td>\n      <td>Share your input on Statistics\
-    \ Canada’s service to the accessibility and disability community</td>\n      <td>2024-12-04</td>\n\
-    \      <td>2025-03-31</td>\n      <td>O</td>\n      <td>statcan</td>\n    </tr>\n\
-    \    <tr>\n      <td>c-20241101</td>\n      <td>Public Lands for Homes</td>\n\
-    \      <td>2024-08-26</td>\n      <td>2025-03-31</td>\n      <td>O</td>\n    \
-    \  <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-2024041</td>\n     \
-    \ <td>Judicial Precinct Master Plan (JPMP)</td>\n      <td>2024-04-01</td>\n \
-    \     <td>2025-03-31</td>\n      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0000008</td>\n      <td>Youth Advisory Council</td>\n \
-    \     <td>2019-04-01</td>\n      <td>2025-03-31</td>\n      <td>O</td>\n     \
-    \ <td>lac-bac</td>\n    </tr>\n    <tr>\n      <td>C-0000005</td>\n      <td>Stakeholders'\
+    \    <tr>\n      <td>cta-otc-2024-3</td>\n      <td>2024 Interswitching consultation</td>\n\
+    \      <td>2024-11-21</td>\n      <td>2025-04-11</td>\n      <td>O</td>\n    \
+    \  <td>cta-otc</td>\n    </tr>\n    <tr>\n      <td>C-000062</td>\n      <td>Share\
+    \ your thoughts on Canadian content for audio services</td>\n      <td>2025-02-20</td>\n\
+    \      <td>2025-04-07</td>\n      <td>O</td>\n      <td>crtc</td>\n    </tr>\n\
+    \    <tr>\n      <td>C-0033296</td>\n      <td>Share your thoughts: Participate\
+    \ in the risk assessment process for GloFish® Corydoras</td>\n      <td>2025-03-08</td>\n\
+    \      <td>2025-04-06</td>\n      <td>O</td>\n      <td>ec</td>\n    </tr>\n \
+    \   <tr>\n      <td>C-0000006</td>\n      <td>Services Consultation Committee</td>\n\
+    \      <td>2019-04-01</td>\n      <td>2025-03-31</td>\n      <td>O</td>\n    \
+    \  <td>lac-bac</td>\n    </tr>\n    <tr>\n      <td>STC-0000071</td>\n      <td>Share\
+    \ your input on Statistics Canada’s service to the accessibility and disability\
+    \ community</td>\n      <td>2024-12-04</td>\n      <td>2025-03-31</td>\n     \
+    \ <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>c-20241101</td>\n\
+    \      <td>Public Lands for Homes</td>\n      <td>2024-08-26</td>\n      <td>2025-03-31</td>\n\
+    \      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n    </tr>\n    <tr>\n      <td>C-2024041</td>\n\
+    \      <td>Judicial Precinct Master Plan (JPMP)</td>\n      <td>2024-04-01</td>\n\
+    \      <td>2025-03-31</td>\n      <td>O</td>\n      <td>pwgsc-tpsgc</td>\n   \
+    \ </tr>\n    <tr>\n      <td>C-0000008</td>\n      <td>Youth Advisory Council</td>\n\
+    \      <td>2019-04-01</td>\n      <td>2025-03-31</td>\n      <td>O</td>\n    \
+    \  <td>lac-bac</td>\n    </tr>\n    <tr>\n      <td>C-0000005</td>\n      <td>Stakeholders'\
     \ Forum</td>\n      <td>2019-04-01</td>\n      <td>2025-03-31</td>\n      <td>O</td>\n\
     \      <td>lac-bac</td>\n    </tr>\n    <tr>\n      <td>C-0000004</td>\n     \
     \ <td>Indigenous Advisory Circle</td>\n      <td>2019-04-01</td>\n      <td>2025-03-31</td>\n\
@@ -406,13 +401,13 @@ status-website:
     \     <td>O</td>\n      <td>tbs-sct</td>\n    </tr>\n    <tr>\n      <td>C-00000104</td>\n\
     \      <td>National Restorative Justice Research Network</td>\n      <td>2024-01-01</td>\n\
     \      <td>2025-03-31</td>\n      <td>O</td>\n      <td>jus</td>\n    </tr>\n\
-    \    <tr>\n      <td>C-0033265</td>\n      <td>Draft Assessment for the Fourteen\
-    \ Terpene and Terpenoid Substances Group and the Risk Management Scope</td>\n\
+    \    <tr>\n      <td>C-0033266</td>\n      <td>The Additional Risk Characterization\
+    \ Document for human health and the Risk Management Scope for melamine</td>\n\
     \      <td>2025-01-25</td>\n      <td>2025-03-26</td>\n      <td>O</td>\n    \
-    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0033266</td>\n      <td>The Additional\
-    \ Risk Characterization Document for human health and the Risk Management Scope\
-    \ for melamine</td>\n      <td>2025-01-25</td>\n      <td>2025-03-26</td>\n  \
-    \    <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>STC0000074</td>\n\
+    \  <td>ec</td>\n    </tr>\n    <tr>\n      <td>C-0033265</td>\n      <td>Draft\
+    \ Assessment for the Fourteen Terpene and Terpenoid Substances Group and the Risk\
+    \ Management Scope</td>\n      <td>2025-01-25</td>\n      <td>2025-03-26</td>\n\
+    \      <td>O</td>\n      <td>ec</td>\n    </tr>\n    <tr>\n      <td>STC0000074</td>\n\
     \      <td>Share your input on Measures to Collect Health Information with the\
     \ Centre for Direct Health Measures</td>\n      <td>2025-01-31</td>\n      <td>2025-03-21</td>\n\
     \      <td>O</td>\n      <td>statcan</td>\n    </tr>\n    <tr>\n      <td>STC0000073</td>\n\
