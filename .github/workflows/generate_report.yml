@@ -17,7 +17,7 @@ jobs:
       - name: Checkout Main Branch
         uses: actions/checkout@v3
         with:
-          ref: main
+          ref: master
           fetch-depth: 0
 
       # 2. Set up Python.
@@ -45,7 +45,7 @@ jobs:
           git add p5m5_start.csv p5m5_close.csv late_close.csv early_close.csv late_start.csv
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "Update CSV tables [skip ci]"
-            git push origin main
+            git push origin master
           else
             echo "No CSV changes to commit."
           fi
