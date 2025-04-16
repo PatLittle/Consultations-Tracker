@@ -19,30 +19,35 @@ m5 = today - timedelta(days=5)
 # Select a subset of columns for our report.
 subset_df = df[['registration_number', 'title_en', 'start_date', 'end_date', 'status', 'owner_org']]
 
-# Consultations starting within 5 days before/after today.
+# 1. Consultations starting between m5 and p5.
 p5m5_start_df = subset_df[subset_df['start_date'].dt.date.between(m5, p5)]
 p5m5_start_df = p5m5_start_df.sort_values(by='start_date', ascending=False)
 html_p5m5_start = p5m5_start_df.to_html(index=False, classes="table table-striped")
+p5m5_start_df.to_csv("p5m5_start.csv", index=False)
 
-# Consultations ending within 5 days before/after today.
+# 2. Consultations ending between m5 and p5.
 p5m5_close_df = subset_df[subset_df['end_date'].dt.date.between(m5, p5)]
 p5m5_close_df = p5m5_close_df.sort_values(by='end_date', ascending=False)
 html_p5m5_close = p5m5_close_df.to_html(index=False, classes="table table-striped")
+p5m5_close_df.to_csv("p5m5_close.csv", index=False)
 
-# Consultations with status 'O' whose end_date is in the past (late closing).
+# 3. Late closing consultations (status 'O' and end_date before today).
 late_close_df = subset_df[(subset_df['status'] == 'O') & (subset_df['end_date'].dt.date < today)]
 late_close_df = late_close_df.sort_values(by='end_date', ascending=False)
 html_late_close = late_close_df.to_html(index=False, classes="table table-striped")
+late_close_df.to_csv("late_close.csv", index=False)
 
-# Consultations with status 'C' that have an end_date in the future (early closing).
+# 4. Early closing consultations (status 'C' and end_date after today).
 early_close_df = subset_df[(subset_df['status'] == 'C') & (subset_df['end_date'].dt.date > today)]
 early_close_df = early_close_df.sort_values(by='end_date', ascending=False)
 html_early_close = early_close_df.to_html(index=False, classes="table table-striped")
+early_close_df.to_csv("early_close.csv", index=False)
 
-# Consultations with status 'P' that have a start_date in the past (late starting).
+# 5. Late starting consultations (status 'P' and start_date before today).
 late_start_df = subset_df[(subset_df['status'] == 'P') & (subset_df['start_date'].dt.date < today)]
 late_start_df = late_start_df.sort_values(by='start_date', ascending=False)
 html_late_start = late_start_df.to_html(index=False, classes="table table-striped")
+late_start_df.to_csv("late_start.csv", index=False)
 
 # Create the final HTML page by injecting the tables into a template.
 html_template = f"""
@@ -60,7 +65,7 @@ html_template = f"""
       body {{ padding: 20px; font-family: Arial, sans-serif; }}
       table {{ width: 100%; border-collapse: collapse; margin-bottom: 20px; }}
       th, td {{ padding: 8px; border: 1px solid #ddd; text-align: left; }}
-      th {{ background-color: #f2f2f2; }}
+      th {{ background-color: #7ec2a7; }}
       h2 {{ margin-top: 40px; }}
       header, footer {{ text-align: center; margin-bottom: 40px; }}
     </style>
@@ -101,10 +106,10 @@ html_template = f"""
         <div class="license" data-license-id="OGL-Canada-2.0">
     <div class="">
       <h3>
-        <a href="https://licenses.opendefinition.org/licenses/OGL-Canada-2.0.json" class="tmpl-title">Open Government License 2.0 (Canada)</a>
+        <a href="https://open.canada.ca/en/open-government-licence-canada" class="tmpl-title">Open Government License 2.0 (Canada)</a> <a href="https://licenses.opendefinition.org/licenses/OGL-Canada-2.0.json" class="tmpl-title">🤖</a>
         <div class="icons"><a href="https://opendefinition.org/od/" title="Open Data" class="open-icon"><img src="https://assets.okfn.org/images/ok_buttons/od_80x15_blue.png" alt="Open Data"></a><a href="https://opendefinition.org/od/" title="Open Data" class="open-icon"><img src="https://assets.okfn.org/images/ok_buttons/oc_80x15_red_green.png" alt="Open Data"></a></div>
       </h3>
-      <p><a href="https://open.canada.ca/en/open-government-licence-canada" class="tmpl-url">https://open.canada.ca/en/open-government-licence-canada</a></p>
+      
       
     </div>
   </div>
