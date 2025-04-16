@@ -40,17 +40,21 @@ jobs:
       - name: Save Report Temporary
         run: cp report.html /tmp/report.html
 
-      # 6. Switch to gh-pages branch.
+      # 6. Clean working directory to discard local changes.
+      - name: Clean Working Directory
+        run: git reset --hard
+
+      # 7. Switch to gh-pages branch.
       - name: Checkout gh-pages branch
         run: |
           git fetch origin gh-pages
           git checkout gh-pages
 
-      # 7. Copy the generated file from temp back to report.html.
+      # 8. Copy the generated file from temp back to report.html.
       - name: Update report.html on gh-pages
         run: cp /tmp/report.html report.html
 
-      # 8. Commit and push changes if report.html was updated.
+      # 9. Commit and push changes if report.html was updated.
       - name: Commit and Push Changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
