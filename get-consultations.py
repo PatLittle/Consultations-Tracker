@@ -42,7 +42,7 @@ late_start_df = subset_df[(subset_df['status'] == 'P') & (pd.to_datetime(subset_
 late_start_df = late_start_df.sort_values(by='start_date', ascending=False)
 html_late_start = late_start_df.to_html(index=False)
 
-yaml_content['status-website']['customBodyHtml'] = ''.join("<h3>Consultations Starting +/- 5 days from today</h3>"+html_p5m5_start+"<h3>Consultations Ending +/- 5 days from today</h3>"+html_p5m5_close+"<h3>Consultations Listed as Open that should be closed</h3>"+html_late_close)
+#yaml_content['status-website']['customBodyHtml'] = ''.join("<h3>Consultations Starting +/- 5 days from today</h3>"+html_p5m5_start+"<h3>Consultations Ending +/- 5 days from today</h3>"+html_p5m5_close+"<h3>Consultations Listed as Open that should be closed</h3>"+html_late_close)
 
 # Filter out rows where 'status' column equals 'C'
 df_filtered = df[df['status'] != 'C']
