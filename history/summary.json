@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.63%",
+    "uptimeYear": "87.65%",
     "time": 1024,
     "timeDay": 1631,
     "timeWeek": 1332,
@@ -63,8 +63,7 @@
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
-      "2024-04-30": 1440,
-      "2024-04-29": 1440
+      "2024-04-30": 1440
     }
   },
   {
@@ -108,7 +107,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-28": 1397,
+      "2025-04-29": 51,
+      "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -598,11 +598,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.canada.ca.ico",
     "slug": "proposed-coal-mining-effluent-regulations",
     "status": "up",
-    "uptime": "65.93%",
+    "uptime": "65.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.96%",
+    "uptimeYear": "65.97%",
     "time": 1211,
     "timeDay": 3026,
     "timeWeek": 2421,
@@ -1737,7 +1737,7 @@
     "uptime": "97.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.25%",
+    "uptimeMonth": "81.46%",
     "uptimeYear": "97.63%",
     "time": 464,
     "timeDay": 691,
