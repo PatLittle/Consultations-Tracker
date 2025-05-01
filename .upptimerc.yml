@@ -79,9 +79,6 @@ sites:
   url: https://www.dfo-mpo.gc.ca/sch-ppb/whitby/index-eng.html
 - name: Proposed Amendments to the Export Permits Regulations
   url: https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
-- name: Consultation on Streptomyces lydicus Strain WYEC 108 and its associated end-use
-    products, Proposed Re-evaluation Decision PRVD2025-01
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/streptomyces-lydicus-strain-wyec-108.html
 - name: Consultation on German Cockroach Extract and its associated end-use products,
     Proposed Re-evaluation Decision PRVD2025-02
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/german-cockroach-extract.html
