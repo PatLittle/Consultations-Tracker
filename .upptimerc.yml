@@ -32,8 +32,6 @@ sites:
 - name: Share your thoughts about closed captioning of programming from online streaming
     services
   url: https://crtc.gc.ca/eng/consultation/cc.htm
-- name: Share your thoughts on Canadian content for audio services
-  url: https://crtc.gc.ca/eng/consultation/audio.htm
 - name: 2024 Interswitching consultation
   url: https://otc-cta.gc.ca/eng/consultation/2024-interswitching-consultation
 - name: Consultation on proposed amendments to the Air Passenger Protection Regulations
@@ -82,9 +80,6 @@ sites:
 - name: Consultation on German Cockroach Extract and its associated end-use products,
     Proposed Re-evaluation Decision PRVD2025-02
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/german-cockroach-extract.html
-- name: Proposal to transfer the maximum levels for ethyl carbamate in alcoholic beverages
-    to the List of Contaminants and Other Adulterating Substances in Foods
-  url: https://www.canada.ca/en/health-canada/services/food-nutrition/legislation-guidelines/acts-regulations/notices-proposal-notices-modification/maximum-levels-ethyl-carbamate-alcoholic-beverages-list-contaminants-other-adulterating-substances.html
 - name: Consultation on ethalfluralin, Proposed Maximum Residue Limit PMRL2025-04
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/ethalfluralin.html
 - name: Consultation on pendimethalin, Proposed Maximum Residue Limit PMRL2025-05
