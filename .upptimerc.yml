@@ -32,6 +32,8 @@ sites:
 - name: Share your thoughts about closed captioning of programming from online streaming
     services
   url: https://crtc.gc.ca/eng/consultation/cc.htm
+- name: Share your thoughts on improving public interest participation
+  url: https://crtc.gc.ca/eng/consultation/public.htm
 - name: 2024 Interswitching consultation
   url: https://otc-cta.gc.ca/eng/consultation/2024-interswitching-consultation
 - name: Consultation on proposed amendments to the Air Passenger Protection Regulations
