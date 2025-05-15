@@ -34,11 +34,8 @@ sites:
   url: https://crtc.gc.ca/eng/consultation/cc.htm
 - name: Share your thoughts on improving public interest participation
   url: https://crtc.gc.ca/eng/consultation/public.htm
-- name: 2024 Interswitching consultation
-  url: https://otc-cta.gc.ca/eng/consultation/2024-interswitching-consultation
-- name: Consultation on proposed amendments to the Air Passenger Protection Regulations
-    (APPR)
-  url: https://otc-cta.gc.ca/eng/consultation/consultation-proposed-amendments-air-passenger-protection-regulations-appr
+- name: Baffinland Steensby Railway Consultation
+  url: https://otc-cta.gc.ca/eng/consultation/baffinland-steensby-railway-consultation
 - name: 'TRC Call to Action 66: Moving from Pilot Project to Long-Term Implementation'
   url: Not available
 - name: National Infrastructure Assessment
@@ -89,17 +86,14 @@ sites:
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
-- name: Crawford Nickel ProjectPublic NoticeComments Invited on the Summary of the
-    Impact Statement
-  url: https://iaac-aeic.gc.ca/050/evaluations/document/159905?culture=en-CA
-- name: Sussex Region Flood Diversion ProjectPublic NoticeComments Invited on the
-    Summary of the Initial Project Description
-  url: https://iaac-aeic.gc.ca/050/evaluations/document/160494?culture=en-CA
-- name: Sussex Region Flood Diversion ProjectPublic NoticeParticipant Funding Available
-  url: https://iaac-aeic.gc.ca/050/evaluations/document/160558?culture=en-CA
-- name: Rose Lithium-Tantalum Mining ProjectPublic NoticePublic Comments Invited on
-    Proposed Amendments to the Decision Statement
-  url: https://iaac-aeic.gc.ca/050/evaluations/document/160584?culture=en-CA
+- name: York Factory First Nation Ten Shilling Aerodrome Project Public NoticeComments
+    Invited on the Summary of the Initial Project Description
+  url: https://iaac-aeic.gc.ca/050/evaluations/proj/89488?culture=en-CA
+- name: York Factory First Nation Ten Shilling Aerodrome ProjectPublic noticeParticipant
+    Funding Available
+  url: https://iaac-aeic.gc.ca/050/evaluations/document/161560?culture=en-CA
+- name: Peace River Nuclear Power ProjectPublic NoticeParticipant Funding Available
+  url: https://iaac-aeic.gc.ca/050/evaluations/document/161377?culture=en-CA
 - name: Indian Oil and Gas Regulations - Phase II
   url: http://www.pgic-iogc.gc.ca/eng/1471964522302/1471964567990
 - name: Indigenous Procurement Modernization (including Procurement Strategy for Aboriginal
