@@ -1,6 +1,8 @@
 owner: PatLittle
 repo: Consultations-Tracker
 sites:
+- name: 'Accessibility Standards Canada: 2026 to 2028 Accessibility Plan'
+  url: https://accessible.canada.ca/consultations/accessibility-plan-and-progress-report
 - name: White River First Nations
   url: https://www.rcaanc-cirnac.gc.ca/eng/1511969222951/1529103469169
 - name: Use of digital tools at the border
