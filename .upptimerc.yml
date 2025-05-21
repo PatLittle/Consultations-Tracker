@@ -261,16 +261,21 @@ status-website:
     is Canada''s one stop shop for finding Consultations.'
   introMessage: This tool scans all Consultations from [Consulting with Canadians](https://www.canada.ca/en/government/system/consultations/consultingcanadians.html)
     which are listed as either Open or Planned and checks to ensure the profile page
-    is an active link. No server required — This tool automatically get's the list
+    is an active link. Broken links or website outages are tracked as [issues in the GitHub Repo](https://github.com/PatLittle/Consultations-Tracker/issues?q=is%3Aissue). 
+
+    No server required — This tool automatically get's the list
     of consultations from [Open Government](https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d/resource/92bec4b7-6feb-4215-a5f7-61da342b2354)
     and tries each link every 4 hours.
-  navbar:
+
+    In addition to uptime monitoring, several handy reports are generated such as Consultations starting and ending soon, consultations overdue to start, consulations open beyond their end date, etc.
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
   - title: Consulting with Canadians
     href: https://www.canada.ca/en/government/system/consultations/consultingcanadians.html
   - title: Consultations Open Data
     href: https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d
+  - title: Consultations Tracker Reports
+    href: https://patlittle.github.io/Consultations-Tracker/report.html
 workflowSchedule:
   graphs: 0 0 * * *
   responseTime: 0 23 * * *
