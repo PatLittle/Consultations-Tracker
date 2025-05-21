@@ -43,7 +43,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           # Add the CSV files (do not add report.html here).
-          git add p5m5_start.csv p5m5_close.csv late_close.csv early_close.csv late_start.csv
+          git add p5m5_start.csv p5m5_close.csv late_close.csv early_close.csv late_start.csv consultations_chng_log.csv
           # Try to commit tracked changes; if nothing to commit, create an empty commit
           # The final '|| true' ensures the script doesn't exit on error
           git commit -m "Update CSV tables [skip ci]" \
