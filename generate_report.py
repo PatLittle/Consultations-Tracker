@@ -1,3 +1,4 @@
+import hashlib
 import pandas as pd
 from datetime import datetime, timedelta
 
@@ -6,6 +7,52 @@ csv_url = 'https://open.canada.ca/data/en/datastore/dump/92bec4b7-6feb-4215-a5f7
 
 # Read the CSV file into a DataFrame.
 df = pd.read_csv(csv_url)
+
+
+# Calculate the hash of each row (excluding the hash and timestamp columns if they already exist)
+# and add it to a new 'hash' column.
+# Convert the output of pd.util.hash_pandas_object to a string before encoding
+df['hash'] = df.apply(lambda row: hashlib.sha256(str(pd.util.hash_pandas_object(row.drop(['hash', 'datetime'], errors='ignore'))).encode('utf-8')).hexdigest(), axis=1)
+
+# Add current datetime
+df['row_chng_datetime'] = datetime.now()
+
+# Create the 'composite_key' column
+df['composite_key'] = df['owner_org'].astype(str) + "-" + df['registration_number'].astype(str)
+
+# Move 'composite_key' to the first column position
+cols = ['composite_key'] + [col for col in df.columns if col != 'composite_key']
+df = df[cols]
+
+# Check if the log file exists. If not, create it with the current data.
+try:
+    existing_df = pd.read_csv('consultations_chng_log.csv')
+except FileNotFoundError:
+    df.to_csv('consultations_chng_log.csv', index=False)
+    print("Log file created.")
+    # No need to append if the file didn't exist
+    newly_appended_rows = pd.DataFrame()
+    appended_count = 0
+else:
+    # Identify rows in the new DataFrame that are not present in the existing log file
+    # using the 'hash' and 'composite_key' columns
+    merged_df = df.merge(existing_df[['composite_key', 'hash']], on=['composite_key', 'hash'], how='left', indicator=True)
+    rows_to_append = merged_df[merged_df['_merge'] == 'left_only'].drop(columns='_merge')
+
+    # Append the new rows to the existing log file
+    if not rows_to_append.empty:
+        rows_to_append.to_csv('consultations_chng_log.csv', mode='a', header=False, index=False)
+        print(f"{len(rows_to_append)} new rows appended to consultations_chng_log.csv")
+        newly_appended_rows = rows_to_append
+        appended_count = len(rows_to_append)
+    else:
+        print("No new rows to append.")
+        newly_appended_rows = pd.DataFrame()
+        appended_count = 0
+
+print("\nNewly appended rows (if any):")
+print(newly_appended_rows)
+print(f"\nTotal rows appended in this run: {appended_count}")
 
 # Convert date columns to datetime objects.
 df['start_date'] = pd.to_datetime(df['start_date'])
