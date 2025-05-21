@@ -1,6 +1,7 @@
 name: Generate Report and CSVs
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'  # Runs daily at midnight UTC; adjust as needed.
   push:
