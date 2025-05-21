@@ -65,9 +65,11 @@ html_template = f"""
       body {{ padding: 20px; font-family: Arial, sans-serif; }}
       table {{ width: 100%; border-collapse: collapse; margin-bottom: 20px; }}
       th, td {{ padding: 8px; border: 1px solid #ddd; text-align: left; }}
-      th {{ background-color: #7ec2a7; }}
+      th {{ padding-top: 12px; padding-bottom: 12px; text-align: left; background-color: #04AA6D; color: white; }}
+      tr:nth-child(even) {{ background-color: #f2f2f2; }}
       h2 {{ margin-top: 40px; }}
       header, footer {{ text-align: center; margin-bottom: 40px; }}
+      .anchor-link {{ text-decoration: none; margin-left: 8px; color: #555; }}
     </style>
 </head>
 <body>
@@ -76,43 +78,70 @@ html_template = f"""
         <p>Report generated on {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}</p>
     </header>
 
-    <section>
-        <h2>🆕🔜Consultations Starting Between {m5} and {p5}</h2>
+    <!-- Table of Contents -->
+    <nav>
+      <ul>
+        <li><a href="#consultations-starting">Consultations Starting Between {m5} and {p5}</a></li>
+        <li><a href="#consultations-ending">Consultations Ending Between {m5} and {p5}</a></li>
+        <li><a href="#late-closing">Late Closing Consultations (Status 'O')</a></li>
+        <li><a href="#early-closing">Early Closing Consultations (Status 'C')</a></li>
+        <li><a href="#late-starting">Late Starting Consultations (Status 'P')</a></li>
+      </ul>
+    </nav>
+
+    <section id="consultations-starting">
+        <h2>🆕🔜Consultations Starting Between {m5} and {p5}
+          <a href="#consultations-starting" class="anchor-link">🔗</a>
+        </h2>
         {html_p5m5_start}
     </section>
 
-    <section>
-        <h2>⌛🔚Consultations Ending Between {m5} and {p5}</h2>
+    <section id="consultations-ending">
+        <h2>⌛🔚Consultations Ending Between {m5} and {p5}
+          <a href="#consultations-ending" class="anchor-link">🔗</a>
+        </h2>
         {html_p5m5_close}
     </section>
 
-    <section>
-        <h2>😴Late Closing Consultations (Status 'O')</h2>
+    <section id="late-closing">
+        <h2>😴Late Closing Consultations (Status 'O')
+          <a href="#late-closing" class="anchor-link">🔗</a>
+        </h2>
         {html_late_close}
     </section>
 
-    <section>
-        <h2>🏎️Early Closing Consultations (Status 'C')</h2>
+    <section id="early-closing">
+        <h2>🏎️Early Closing Consultations (Status 'C')
+          <a href="#early-closing" class="anchor-link">🔗</a>
+        </h2>
         {html_early_close}
     </section>
 
-    <section>
-        <h2>🐌Late Starting Consultations (Status 'P')</h2>
+    <section id="late-starting">
+        <h2>🐌Late Starting Consultations (Status 'P')
+          <a href="#late-starting" class="anchor-link">🔗</a>
+        </h2>
         {html_late_start}
     </section>
 
     <footer>
         <p>Consultations Tracker Report</p>
         <div class="license" data-license-id="OGL-Canada-2.0">
-    <div class="">
-      <h3>
-        <a href="https://open.canada.ca/en/open-government-licence-canada" class="tmpl-title">Open Government License 2.0 (Canada)</a> <a href="https://licenses.opendefinition.org/licenses/OGL-Canada-2.0.json" class="tmpl-title">🤖</a>
-        <div class="icons"><a href="https://opendefinition.org/od/" title="Open Data" class="open-icon"><img src="https://assets.okfn.org/images/ok_buttons/od_80x15_blue.png" alt="Open Data"></a><a href="https://opendefinition.org/od/" title="Open Data" class="open-icon"><img src="https://assets.okfn.org/images/ok_buttons/oc_80x15_red_green.png" alt="Open Data"></a></div>
-      </h3>
-      
-      
-    </div>
-  </div>
+            <div class="">
+                <h3>
+                    <a href="https://open.canada.ca/en/open-government-licence-canada" class="tmpl-title">Open Government License 2.0 (Canada)</a>
+                    <a href="https://licenses.opendefinition.org/licenses/OGL-Canada-2.0.json" class="tmpl-title">🤖</a>
+                    <div class="icons">
+                        <a href="https://opendefinition.org/od/" title="Open Data" class="open-icon">
+                          <img src="https://assets.okfn.org/images/ok_buttons/od_80x15_blue.png" alt="Open Data">
+                        </a>
+                        <a href="https://opendefinition.org/od/" title="Open Data" class="open-icon">
+                          <img src="https://assets.okfn.org/images/ok_buttons/oc_80x15_red_green.png" alt="Open Data">
+                        </a>
+                    </div>
+                </h3>
+            </div>
+        </div>
     </footer>
 </body>
 </html>
