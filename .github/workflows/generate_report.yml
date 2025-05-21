@@ -48,6 +48,8 @@ jobs:
             git push origin master
           else
             echo "No CSV changes to commit."
+            git commit --allow-empty -m "Empty CSV Commit"
+            git push origin master
           fi
 
       # 6. Save a temporary copy of the generated report.html.
@@ -79,4 +81,6 @@ jobs:
             git push origin gh-pages
           else
             echo "No changes to report.html on gh-pages."
+            git commit --allow-empty -m "Empty Report HTML Commit"
+            git push origin master
           fi
