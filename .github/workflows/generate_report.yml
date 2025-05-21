@@ -43,15 +43,18 @@ jobs:
           git config --local user.name "github-actions[bot]"
           # Add the CSV files (do not add report.html here).
           git add p5m5_start.csv p5m5_close.csv late_close.csv early_close.csv late_start.csv
-          if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Update CSV tables [skip ci]"
-            git push origin master
-          else
-            echo "No CSV changes to commit."
-            git commit --allow-empty -m "Empty CSV Commit"
-            git push origin master
-          fi
+          # Try to commit tracked changes; if nothing to commit, create an empty commit
+          # The final '|| true' ensures the script doesn't exit on error
+          git commit -m "Update CSV tables [skip ci]" \
+            || git commit --allow-empty -m "Empty CSV Commit" \
+            || true
 
+          # Push changes (or the empty commit); ignore any push errors to proceed
+          git push origin master || true
+          
+          # Exit with success so that downstream steps always run
+          exit 0
+      
       # 6. Save a temporary copy of the generated report.html.
       - name: Save Report Temporary
         run: cp report.html /tmp/report.html
