@@ -208,15 +208,16 @@ status-website:
   logoUrl: https://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg
   name: GC Automated Consultations QA
   introTitle: '[Consulting with Canadians](https://www.canada.ca/en/government/system/consultations/consultingcanadians.html) is Canada''s one stop shop for finding Consultations.'
-  introMessage: 'This tool scans all Consultations from [Consulting with Canadians](https://www.canada.ca/en/government/system/consultations/consultingcanadians.html) which are listed as either Open o[...]'
-  - title: GitHub
-    href: https://github.com/$OWNER/$REPO
-  - title: Consulting with Canadians
-    href: https://www.canada.ca/en/government/system/consultations/consultingcanadians.html
-  - title: Consultations Open Data
-    href: https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d
-  - title: Consultations Tracker Reports
-    href: https://patlittle.github.io/Consultations-Tracker/report.html
+  introMessage: 'This tool scans all Consultations from [Consulting with Canadians](https://www.canada.ca/en/government/system/consultations/consultingcanadians.html) which are listed as either Open or Planned and checks to ensure the profile page is an active link and tries each link every 4 hours. In addition to uptime monitoring, several handy reports are generated such as Consultations starting and ending soon, consultations overdue to start, consulations open beyond their end date, etc.'
+  navbar:
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+    - title: Consulting with Canadians
+      href: https://www.canada.ca/en/government/system/consultations/consultingcanadians.html
+    - title: Consultations Open Data
+      href: https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d
+    - title: Consultations Tracker Reports
+      href: https://patlittle.github.io/Consultations-Tracker/report.html
 
 workflowSchedule:
   graphs: 0 0 * * *
