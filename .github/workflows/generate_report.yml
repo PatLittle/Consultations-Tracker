@@ -79,12 +79,12 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          git add report.html
           if [ -n "$(git status --porcelain report.html)" ]; then
-            git add report.html
             git commit -m "Update report.html [skip ci]"
             git push origin gh-pages
           else
             echo "No changes to report.html on gh-pages."
             git commit --allow-empty -m "Empty Report HTML Commit"
-            git push origin master
+            git push origin gh-pages
           fi
