@@ -1,7 +1,7 @@
 url: https://crtc.gc.ca/eng/consultation/public.htm
-status: up
-code: 200
+status: down
+code: 500
 responseTime: 29
-lastUpdated: 2025-05-22T23:14:52.988Z
+lastUpdated: 2025-05-23T08:32:58.031Z
 startTime: 2025-05-13T16:31:55.557Z
 generator: Upptime <https://github.com/upptime/upptime>
