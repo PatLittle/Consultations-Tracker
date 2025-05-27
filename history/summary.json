@@ -27,7 +27,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.30%",
+    "uptimeYear": "95.32%",
     "time": 1084,
     "timeDay": 1100,
     "timeWeek": 1846,
@@ -53,8 +53,7 @@
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
-      "2024-05-28": 1440,
-      "2024-05-27": 1440
+      "2024-05-28": 1440
     }
   },
   {
@@ -98,7 +97,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-26": 1397,
+      "2025-05-27": 52,
+      "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
@@ -460,11 +460,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/otc-cta.gc.ca.ico",
     "slug": "baffinland-steensby-railway-consultation",
     "status": "up",
-    "uptime": "97.51%",
+    "uptime": "97.53%",
     "uptimeDay": "71.94%",
     "uptimeWeek": "95.99%",
-    "uptimeMonth": "97.51%",
-    "uptimeYear": "97.51%",
+    "uptimeMonth": "97.53%",
+    "uptimeYear": "97.53%",
     "time": 1028,
     "timeDay": 7064,
     "timeWeek": 1404,
@@ -744,7 +744,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.48%",
+    "uptimeYear": "76.49%",
     "time": 228,
     "timeDay": 371,
     "timeWeek": 396,
@@ -841,8 +841,7 @@
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
-      "2024-05-28": 1440,
-      "2024-05-27": 1440
+      "2024-05-28": 1440
     }
   },
   {
