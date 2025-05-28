@@ -193,33 +193,26 @@ sites:
   url: https://www.statcan.gc.ca/en/consultation/2022/coep
 - name: Missing persons data standards consultative engagement
   url: https://www.statcan.gc.ca/en/consultation/2023/missing-persons-data-standards
-- name: Census Data on Demand (CDOD) program consultative engagement
-  url: https://www.statcan.gc.ca/en/consultation/2023/census-data-on-demand
 - name: Invitation to participate in the revision of the North American Industry Classification
     System (NAICS) Canada
   url: https://www.statcan.gc.ca/en/consultation/2023/naics
 - name: Invitation to participate in the revision of the North American Product Classification
     System (NAPCS) Canada
   url: https://www.statcan.gc.ca/en/consultation/2023/napcs
-- name: Invitation to participate in a flood awareness consultative engagement
-  url: https://www.statcan.gc.ca/en/consultation/2024/flood-awareness
 - name: Invitation to participate in the revision of the Classification of Instructional
     Programs (CIP) Canada
   url: https://www.statcan.gc.ca/en/consultation/2024/cip
 - name: Invitation to participate in the revision of the National Occupational Classification
     (NOC)
   url: https://www.statcan.gc.ca/en/consultation/2024/noc
-- name: Share your input on Statistics Canada’s service to the accessibility and disability
-    community
-  url: https://www.statcan.gc.ca/en/consultation/2024/accessibility-disability
 - name: Participate in the permanent consultation for the revision of the Canadian
     Research and Development Classification (CRDC)
   url: https://www.statcan.gc.ca/en/consultation/2025/crdc
-- name: Share your input on Statistics Canada’s Direct Health Measures Programs
-  url: https://www.statcan.gc.ca/en/consultation/2025/direct-health-measures
 - name: Share your input on Measures to Collect Health Information with the Centre
     for Direct Health Measures
   url: https://www.statcan.gc.ca/en/consultation/2025/measures-collect-health-information
+- name: Contribute to Statistics Canada's Web modernization Journey
+  url: https://www.statcan.gc.ca/en/consultation/2025/web-modernization-journey
 - name: Watchlist 2020 mid-cycle consultation with industry
   url: https://www.tsb.gc.ca/eng/qui-about/relation.html
 - name: Watchlist 2025 mid-cycle consultations with industry
