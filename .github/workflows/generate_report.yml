@@ -58,7 +58,9 @@ jobs:
       
       # 6. Save a temporary copy of the generated report.html.
       - name: Save Report Temporary
-        run: cp report.html /tmp/report.html
+        run: |
+          cp report.html /tmp/report.html
+          cp changelog.html /tmp/changelog.html
 
       # 7. Clean working directory to discard any local changes.
       - name: Clean Working Directory
@@ -71,20 +73,22 @@ jobs:
           git checkout gh-pages
 
       # 9. Copy the saved report.html into the gh-pages branch.
-      - name: Update report.html on gh-pages
-        run: cp /tmp/report.html report.html
+      - name: Update report html on gh-pages
+        run: |
+          cp /tmp/report.html report.html
+          cp /tmp/changelog.html changelog.html
 
       # 10. Commit and push changes to report.html on the gh-pages branch.
       - name: Commit and Push Report.html to gh-pages
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add report.html
+          git add report.html changelog.html
           if [ -n "$(git status --porcelain report.html)" ]; then
-            git commit -m "Update report.html [skip ci]"
+            git commit -m "Update report.html and changelog.html [skip ci]"
             git push origin gh-pages
           else
-            echo "No changes to report.html on gh-pages."
+            echo "No changes to report.html or change log on gh-pages."
             git commit --allow-empty -m "Empty Report HTML Commit"
             git push origin gh-pages
           fi
