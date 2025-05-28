@@ -279,7 +279,7 @@ status-website:
   - title: Consultations Tracker Reports
     href: https://patlittle.github.io/Consultations-Tracker/report.html
   - title: Consultations Change Log Reports
-    href: https://patlittle.github.io/Consultations-Tracker/changelog.html  
+    href: https://patlittle.github.io/Consultations-Tracker/changelog.html
 workflowSchedule:
   graphs: 0 0 * * *
   responseTime: 0 23 * * *
