@@ -129,8 +129,8 @@ html_template = f"""
       <a class="active" href="https://patlittle.github.io/Consultations-Tracker/report.html">Consultations Tracker Report</a>
       <a href="https://patlittle.github.io/Consultations-Tracker/changelog.html">Consultations Change Log Report</a>
       <a href="https://patlittle.github.io/Consultations-Tracker">Web Monitoring</a>
-      <a href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d">Open Data</a>
-      <a href="https://www.canada.ca/en/government/system/consultations/consultingcanadians.html">Consulting with Canadians</a>
+      <a href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d">Open Data↗️</a>
+      <a href="https://www.canada.ca/en/government/system/consultations/consultingcanadians.html">Consulting with Canadians↗️</a>
     </div>
     <header>
         <h1>Consultations Tracker Report</h1>
@@ -237,8 +237,8 @@ chng_log_template = f"""
       .topnav a:hover {{ background-color: #ddd; color: black; }}
       .topnav a.active {{ background-color: #04AA6D; color: white; }}
       iframe {{
-            width: 90%;
-            height: 90%;
+            width: 95vw;
+            height: 95vh;
             border: none;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }}
@@ -249,8 +249,8 @@ chng_log_template = f"""
       <a class="active" href="https://patlittle.github.io/Consultations-Tracker/changelog.html">Consultations Change Log Report</a>
       <a href="https://patlittle.github.io/Consultations-Tracker/report.html">Consultations Tracker Report</a>
       <a href="https://patlittle.github.io/Consultations-Tracker">Web Monitoring</a>
-      <a href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d">Open Data</a>
-      <a href="https://www.canada.ca/en/government/system/consultations/consultingcanadians.html">Consulting with Canadians</a>
+      <a href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d">Open Data↗️</a>
+      <a href="https://www.canada.ca/en/government/system/consultations/consultingcanadians.html">Consulting with Canadians↗️</a>
     </div>
     <header>
         <h1>Consultations Change Log Report</h1>

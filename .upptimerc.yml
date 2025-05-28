@@ -272,12 +272,14 @@ status-website:
   navbar:
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
-  - title: Consulting with Canadians
+  - title: Consulting with Canadians↗️
     href: https://www.canada.ca/en/government/system/consultations/consultingcanadians.html
-  - title: Consultations Open Data
+  - title: Consultations Open Data↗️
     href: https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d
   - title: Consultations Tracker Reports
     href: https://patlittle.github.io/Consultations-Tracker/report.html
+  - title: Consultations Change Log Reports
+    href: https://patlittle.github.io/Consultations-Tracker/changelog.html  
 workflowSchedule:
   graphs: 0 0 * * *
   responseTime: 0 23 * * *
