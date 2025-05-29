@@ -8,6 +8,8 @@ on:
     paths:
       - "generate_report.py"
       - ".github/workflows/generate_report.yml"
+    branches:
+      - gh-pages
 
 jobs:
   build:
