@@ -65,9 +65,6 @@ sites:
   url: https://www.dfo-mpo.gc.ca/sch-ppb/whitby/index-eng.html
 - name: Proposed Amendments to the Export Permits Regulations
   url: https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
-- name: Consultation on Cellulose (from powdered corn cobs) and its associated end-use
-    products, Proposed Re-evaluation Decision PRVD2025-04
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/cellulose-powdered-corn-cobs.html
 - name: 'Consultation: Towards a pathway for health products containing cannabidiol'
   url: https://www.canada.ca/en/health-canada/programs/consultation-towards-pathway-products-containing-cannabidiol.html
 - name: Consultation on fatty acid cluster and its associated end-use products, Proposed
@@ -75,6 +72,9 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/fatty-acid-cluster.html
 - name: Consultation on metaldehyde, Proposed Maximum Residue Limit PMRL2025-06
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/metaldehyde.html
+- name: Regulations Amending the Pest Control Products Regulations (Antimicrobial-treated
+    Class I Medical Devices), Notice of Intent NOI2025-01
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/notice-intent/2025/regulations-amending-pest-control-products-antimicrobial-treated-class-1-medical-devices.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
