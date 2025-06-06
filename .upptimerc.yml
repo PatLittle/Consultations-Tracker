@@ -9,6 +9,10 @@ sites:
   url: https://www.cbsa-asfc.gc.ca/services/border-tech-frontiere/modern-eng.html
 - name: Administrative Monetary Penalty System Review
   url: https://www.cbsa-asfc.gc.ca/trade-commerce/amps/menu-eng.html
+- name: Acessibility External Questionnaire
+  url: https://www.cbsa-asfc.gc.ca/accessibility-accessibilite/menu-eng.html
+- name: Accesibility Internal Questionnaire
+  url: http://atlas/hrb-dgrh/res/eed/accessibility_accessibilite_eng.asp
 - name: Regulatory Framework Plan
   url: https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cer-rec.gc.ca%2Fen%2Fabout%2Fhow-we-regulate%2Fplans-for-regulatory-framework%2F&data=05%7C02%7CMichelle.Shabits%40cer-rec.gc.ca%7Cec1c386ebea64452821d08dc41ebb1b9%7C56e9b8d38a3549abbdfc27de59608f01%7C0%7C0%7C638457728797041411%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=tKxvqtPetzkvcXlETiyyf51rWnRpUftsM2o2U5IySO4%3D&reserved=0
 - name: Regulated Industry Engagement
@@ -65,11 +69,6 @@ sites:
   url: https://www.dfo-mpo.gc.ca/sch-ppb/whitby/index-eng.html
 - name: Proposed Amendments to the Export Permits Regulations
   url: https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
-- name: 'Consultation: Towards a pathway for health products containing cannabidiol'
-  url: https://www.canada.ca/en/health-canada/programs/consultation-towards-pathway-products-containing-cannabidiol.html
-- name: Consultation on fatty acid cluster and its associated end-use products, Proposed
-    Re-evaluation Decision PRVD2025-05
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/fatty-acid-cluster.html
 - name: Consultation on metaldehyde, Proposed Maximum Residue Limit PMRL2025-06
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/metaldehyde.html
 - name: Regulations Amending the Pest Control Products Regulations (Antimicrobial-treated
