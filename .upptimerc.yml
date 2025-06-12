@@ -80,6 +80,9 @@ sites:
 - name: Consultation on Sulphur and its associated end-use products, Proposed Re-evaluation
     Decision PRVD2025-07
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/sulphur.html
+- name: Consultation on tea tree oil, Timorex Gold, Proposed Registration Decision
+    PRD2025-03
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2025/tea-tree-oil-timorex-gold.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
@@ -191,8 +194,6 @@ sites:
   url: https://www.tpsgc-pwgsc.gc.ca/pmc-cgp/pipmc-secgp-eng.html
 - name: Three-year Departmental Accessibility Plan
   url: https://www.canada.ca/en/public-services-procurement/corporate/accessibility.html
-- name: Public Lands for Homes
-  url: https://www.canada.ca/en/public-services-procurement/services/infrastructure-buildings/public-lands-homes.html
 - name: Multifactor Productivity Application
   url: https://www.statcan.gc.ca/eng/consultation/2019/mpa
 - name: Statistics Canada Client Survey 2022
