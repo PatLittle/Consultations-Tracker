@@ -1,7 +1,7 @@
 url: https://www.infrastructure.gc.ca/nia-eni/index-eng.html
-status: down
-code: 503
-responseTime: 242
-lastUpdated: 2025-06-18T12:53:32.242Z
+status: up
+code: 200
+responseTime: 561
+lastUpdated: 2025-06-18T16:33:19.497Z
 startTime: 2023-11-24T00:06:47.072Z
 generator: Upptime <https://github.com/upptime/upptime>
