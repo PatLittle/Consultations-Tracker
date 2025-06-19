@@ -15,7 +15,7 @@ sites:
   url: https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cer-rec.gc.ca%2Fen%2Fabout%2Fhow-we-regulate%2Fplans-for-regulatory-framework%2F&data=05%7C02%7CMichelle.Shabits%40cer-rec.gc.ca%7Cec1c386ebea64452821d08dc41ebb1b9%7C56e9b8d38a3549abbdfc27de59608f01%7C0%7C0%7C638457728797041411%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=tKxvqtPetzkvcXlETiyyf51rWnRpUftsM2o2U5IySO4%3D&reserved=0
 - name: Regulated Industry Engagement
   url: https://www.cer-rec.gc.ca/en/consultation-engagement/stakeholder-engagement/regulated-industry-engagement/index.html
-- name: Consultations with Canadians with Disabilities on Accessibility (2025)
+- name: Canada Revenue Agency 2025 consultations on accessibility
   url: https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/transparency-proactive-disclosure-canada-revenue-agency/consultations-engagement-canada-revenue-agency/cra-2025-consultations-accessibility.html
 - name: 'Share your thoughts: Proposed amendments to the Tables of Permissible Claims
     for Feed Labels'
@@ -92,6 +92,9 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/linuron.html
 - name: Consultation on florylpicoxamid, Proposed Maximum Residue Limit PMRL2025-08
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/florylpicoxamid.html
+- name: 'Consultation: Categorization of antimicrobial drugs based on importance in
+    human medicine'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-categorization-antimicrobial-drugs-importance-human-medicine.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
