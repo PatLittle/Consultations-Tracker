@@ -11,7 +11,6 @@ df = pd.read_csv(csv_url)
 
 # Calculate the hash of each row (excluding the hash and timestamp columns if they already exist)
 # and add it to a new 'hash' column.
-# Convert the output of pd.util.hash_pandas_object to a string before encoding
 df['hash'] = df.apply(lambda row: hashlib.sha256(str(pd.util.hash_pandas_object(row.drop(['hash', 'datetime'], errors='ignore'))).encode('utf-8')).hexdigest(), axis=1)
 
 # Add current datetime
@@ -30,9 +29,9 @@ try:
 except FileNotFoundError:
     df.to_csv('consultations_chng_log.csv', index=False)
     print("Log file created.")
-    # No need to append if the file didn't exist
     newly_appended_rows = pd.DataFrame()
     appended_count = 0
+    existing_df = df.copy()  # initialize for deletion detection below
 else:
     # Identify rows in the new DataFrame that are not present in the existing log file
     # using the 'hash' and 'composite_key' columns
@@ -53,6 +52,39 @@ else:
 print("\nNewly appended rows (if any):")
 print(newly_appended_rows)
 print(f"\nTotal rows appended in this run: {appended_count}")
+
+# --- Begin: Check for Deleted Records ---
+
+try:
+    # Load the historical log file from the local CSV
+    log_df = pd.read_csv('consultations_chng_log.csv')
+except Exception as e:
+    print(f"Error loading log file from consultations_chng_log.csv: {e}")
+    log_df = pd.DataFrame()  # Create empty DataFrame if not available
+
+# Merge the log DataFrame with the latest DataFrame on 'composite_key'
+# We want to keep rows from the log_df that do not have a matching 'composite_key' in the df (current data)
+merged_deleted_df = log_df.merge(df[['composite_key']], on='composite_key', how='left', indicator=True)
+
+# Filter for rows that are only in the log_df (meaning they are "left_only" after the left merge)
+deleted_rows_df = merged_deleted_df[merged_deleted_df['_merge'] == 'left_only'].drop(columns='_merge')
+
+if not deleted_rows_df.empty:
+    # Change the 'status' column to 'DELETED'
+    deleted_rows_df['status'] = 'DELETED'
+    # Update the 'row_chng_datetime' column to the current time
+    deleted_rows_df['row_chng_datetime'] = datetime.now()
+    print("Deleted rows detected and marked as DELETED:")
+    print(deleted_rows_df)
+
+    # Append the deleted_rows_df to the log file
+    deleted_rows_df.to_csv('consultations_chng_log.csv', mode='a', header=False, index=False)
+    # Optionally, write to a separate deleted.csv for tracking
+    deleted_rows_df.to_csv('deleted.csv', mode='a', header=False, index=False)
+else:
+    print("No deleted rows detected.")
+
+# --- End: Check for Deleted Records ---
 
 # Convert date columns to datetime objects.
 df['start_date'] = pd.to_datetime(df['start_date'])
@@ -258,8 +290,7 @@ chng_log_template = f"""
     </header>
 
     
-    <iframe src="https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/consultations_chng_log.csv?filename=consultations_chng_log.csv&sort=row_chng_datetime%2Cdesc&stickyColumnName=row_chng_datetime" title="Consultations Tracker"></iframe>
-
+    <iframe src="https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/consultations_chng_log.csv?filename=consultations_chng_log.csv&sort=row_chng_datetime%2Cdesc&stickyColumnName=row_chng_datetime" width="100%" height="600"></iframe>
 
     <footer>
         <p>Consultations Change Log Report</p>
