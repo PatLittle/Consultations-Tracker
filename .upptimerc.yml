@@ -76,9 +76,6 @@ sites:
   url: https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
 - name: Consulting Canadians on a possible Canada-European Union Digital Trade Agreement
   url: https://international.canada.ca/en/global-affairs/consultations/trade/2025-06-23-digital-trade
-- name: Regulations Amending the Pest Control Products Regulations (Antimicrobial-treated
-    Class I Medical Devices), Notice of Intent NOI2025-01
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/notice-intent/2025/regulations-amending-pest-control-products-antimicrobial-treated-class-1-medical-devices.html
 - name: 'Consultation on Guidance Document: Information and Submission Requirements
     for Biosimilar Biologic Drugs'
   url: https://www.canada.ca/en/health-canada/programs/consultation-information-submission-requirements-biosimilar-biologic-drugs.html
@@ -99,6 +96,33 @@ sites:
 - name: 'Consultation: Categorization of antimicrobial drugs based on importance in
     human medicine'
   url: https://www.canada.ca/en/health-canada/programs/consultation-categorization-antimicrobial-drugs-importance-human-medicine.html
+- name: 'Release of draft (Step 2) ICH Guideline E21: Inclusion of Pregnant and Breastfeeding
+    Individuals in Clinical Trials'
+  url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
+- name: 'Release of draft (Step 2) ICH Guideline E20: Adaptive Clinical Trials'
+  url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
+- name: 'Release of draft (Step 2) ICH Guideline M4Q(R2): Common Technical Document
+    (CTD)-Quality'
+  url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
+- name: 'Release of draft (Step 2) ICH Guideline M13B: Bioequivalence for Immediate-Release
+    Solid Oral Dosage Forms'
+  url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
+- name: 'Release of draft (step 2) ICH Guideline Q1: Stability Testing of Drug Substances
+    and Drug Products'
+  url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
+- name: 'Consultation: Proposed Regulatory Amendments for Precursor Chemicals and
+    Designated Devices'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-proposed-regulatory-amendments-precursor-chemicals-designated-devices.html
+- name: Consultation on the third legislative review of the Tobacco and Vaping Products
+    Act
+  url: https://www.canada.ca/en/health-canada/programs/consultation-third-legislative-review-tobacco-vaping-products-act.html
+- name: Updated Proposal - Ministerial class exemption order for the exceptional importation
+    and sale of certain foods for a special dietary purpose to mitigate a shortage
+    or risk of a shortage
+  url: https://www.canada.ca/en/health-canada/services/food-nutrition/public-involvement-partnerships/ministerial-exemption-exceptional-importation-certain-foods-mitigate-shortage.html
+- name: 'Release of draft (Step 2) ICH M11: Clinical electronic Structured Harmonised
+    Protocol (CeSHarP) – Technical Specification'
+  url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
