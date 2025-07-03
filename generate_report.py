@@ -2,6 +2,16 @@ import hashlib
 import pandas as pd
 from datetime import datetime, timedelta
 
+# Define the required column order for the change log
+LOG_COL_ORDER = [
+    'composite_key', 'registration_number', 'partner_departments', 'subjects',
+    'title_en', 'title_fr', 'description_en', 'description_fr',
+    'start_date', 'end_date', 'status',
+    'profile_page_en', 'profile_page_fr',
+    'report_available_online', 'report_link_en', 'report_link_fr',
+    'owner_org', 'owner_org_title', 'hash', 'row_chng_datetime'
+]
+
 def compute_row_hash(row, exclude_cols=None):
     """Compute a SHA256 hash for a pandas Series, excluding certain columns."""
     if exclude_cols is None:
@@ -18,19 +28,23 @@ df['row_chng_datetime'] = datetime.now()
 df['hash'] = df.apply(lambda row: compute_row_hash(row, exclude_cols=['hash', 'row_chng_datetime', 'datetime']), axis=1)
 df['composite_key'] = df['owner_org'].astype(str) + "-" + df['registration_number'].astype(str)
 
-# Ensure consistent column order
-cols = ['composite_key'] + [col for col in df.columns if col != 'composite_key']
-df = df[cols]
+# Ensure consistent column order as specified
+df = df.reindex(columns=LOG_COL_ORDER)
 
 try:
     log_df = pd.read_csv('consultations_chng_log.csv')
 except FileNotFoundError:
-    log_df = pd.DataFrame(columns=df.columns)
+    log_df = pd.DataFrame(columns=LOG_COL_ORDER)
 
 # --- Append new/changed rows to log ---
-merged = df.merge(log_df[['composite_key', 'hash']], on=['composite_key', 'hash'], how='left', indicator=True)
-to_append = merged[merged['_merge'] == 'left_only'].drop(columns='_merge')
+if not log_df.empty:
+    merged = df.merge(log_df[['composite_key', 'hash']], on=['composite_key', 'hash'], how='left', indicator=True)
+    to_append = merged[merged['_merge'] == 'left_only'].drop(columns='_merge')
+else:
+    to_append = df.copy()
+
 if not to_append.empty:
+    to_append = to_append.reindex(columns=LOG_COL_ORDER)
     to_append.to_csv('consultations_chng_log.csv', mode='a', header=log_df.empty, index=False)
     print(f"{len(to_append)} new or changed rows appended.")
 else:
@@ -45,6 +59,7 @@ if not to_delete.empty:
     to_delete['status'] = 'DELETED'
     to_delete['row_chng_datetime'] = datetime.now()
     to_delete['hash'] = to_delete.apply(lambda row: compute_row_hash(row, exclude_cols=['hash', 'row_chng_datetime', 'datetime']), axis=1)
+    to_delete = to_delete.reindex(columns=LOG_COL_ORDER)
     hashes_in_log = set(log_df['hash'])
     new_deletions = to_delete[~to_delete['hash'].isin(hashes_in_log)]
     if not new_deletions.empty:
@@ -61,6 +76,7 @@ if 'status' in chng_log.columns:
     deleted_records = chng_log[chng_log['status'] == 'DELETED']
 else:
     deleted_records = pd.DataFrame(columns=chng_log.columns)
+deleted_records = deleted_records.reindex(columns=LOG_COL_ORDER)
 deleted_records.to_csv('consultations_deleted_log.csv', index=False)
 print(f"Deleted records exported to consultations_deleted_log.csv ({len(deleted_records)} rows).")
 
@@ -266,7 +282,7 @@ chng_log_template = f"""
         <p>Report generated on {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}</p>
     </header>
     
-    <iframe src="https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/consultations_chng_log.csv?filename=consultations_chng_log.csv&sort=row_chng_datetime%2Cdesc&stickyColumnName=row_chng_datetime" style="width:95vw; height:95vh;"></iframe>
+    <iframe src="https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/consultations_chng_log.csv?filename=consultations_chng_log.csv&sort=row_chng_datetime%2Cdesc&stickyColumnName=row_chng_datetime" title="Change Log"></iframe>
     <footer>
         <p>Consultations Change Log Report</p>
         <div class="license" data-license-id="OGL-Canada-2.0">
