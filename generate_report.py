@@ -2,16 +2,21 @@ import hashlib
 import pandas as pd
 from datetime import datetime, timedelta
 
+def compute_row_hash(row, exclude_cols=None):
+    """Compute a SHA256 hash for a pandas Series, excluding certain columns."""
+    if exclude_cols is None:
+        exclude_cols = []
+    row_data = tuple(row.drop(labels=exclude_cols, errors='ignore').astype(str))
+    return hashlib.sha256(str(row_data).encode('utf-8')).hexdigest()
+
 # URL to the CSV file from the Government Open Data portal.
 csv_url = 'https://open.canada.ca/data/en/datastore/dump/92bec4b7-6feb-4215-a5f7-61da342b2354'  # Replace with the actual URL if necessary
 
 # Read the CSV file into a DataFrame.
 df = pd.read_csv(csv_url)
 
-
-# Calculate the hash of each row (excluding the hash and timestamp columns if they already exist)
-# and add it to a new 'hash' column.
-df['hash'] = df.apply(lambda row: hashlib.sha256(str(pd.util.hash_pandas_object(row.drop(['hash', 'datetime'], errors='ignore'))).encode('utf-8')).hexdigest(), axis=1)
+# Calculate the hash of each row (excluding the hash and datetime columns if they already exist)
+df['hash'] = df.apply(lambda row: compute_row_hash(row, exclude_cols=['hash', 'row_chng_datetime', 'datetime']), axis=1)
 
 # Add current datetime
 df['row_chng_datetime'] = datetime.now()
@@ -27,18 +32,22 @@ df = df[cols]
 try:
     existing_df = pd.read_csv('consultations_chng_log.csv')
 except FileNotFoundError:
+    # If log doesn't exist, save current data and initialize for deleted detection
     df.to_csv('consultations_chng_log.csv', index=False)
     print("Log file created.")
     newly_appended_rows = pd.DataFrame()
     appended_count = 0
-    existing_df = df.copy()  # initialize for deletion detection below
+    existing_df = df.copy()
 else:
-    # Identify rows in the new DataFrame that are not present in the existing log file
-    # using the 'hash' and 'composite_key' columns
+    # Identify rows in the new DataFrame that are not present in the existing log file using 'hash' and 'composite_key'
     merged_df = df.merge(existing_df[['composite_key', 'hash']], on=['composite_key', 'hash'], how='left', indicator=True)
     rows_to_append = merged_df[merged_df['_merge'] == 'left_only'].drop(columns='_merge')
 
-    # Append the new rows to the existing log file
+    # Remove duplicate hashes within the new rows to append
+    rows_to_append = rows_to_append[~rows_to_append['hash'].duplicated()]
+    # Remove duplicate hashes within the existing log file
+    existing_df = existing_df[~existing_df['hash'].duplicated()]
+
     if not rows_to_append.empty:
         rows_to_append.to_csv('consultations_chng_log.csv', mode='a', header=False, index=False)
         print(f"{len(rows_to_append)} new rows appended to consultations_chng_log.csv")
@@ -74,13 +83,32 @@ if not deleted_rows_df.empty:
     deleted_rows_df['status'] = 'DELETED'
     # Update the 'row_chng_datetime' column to the current time
     deleted_rows_df['row_chng_datetime'] = datetime.now()
-    print("Deleted rows detected and marked as DELETED:")
-    print(deleted_rows_df)
+    # Recalculate the hash for each row (excluding hash/datetime columns)
+    deleted_rows_df['hash'] = deleted_rows_df.apply(lambda row: compute_row_hash(row, exclude_cols=['hash', 'row_chng_datetime', 'datetime']), axis=1)
 
-    # Append the deleted_rows_df to the log file
-    deleted_rows_df.to_csv('consultations_chng_log.csv', mode='a', header=False, index=False)
-    # Optionally, write to a separate deleted.csv for tracking
-    deleted_rows_df.to_csv('deleted.csv', mode='a', header=False, index=False)
+    # --- Remove dupes in consultations_chng_log.csv ---
+    log_df = pd.read_csv('consultations_chng_log.csv')
+    # Only keep deleted_rows_df rows whose hash is not already in log_df, or if not, keep only the first per hash for appending
+    hashes_in_log = set(log_df['hash'])
+    new_deleted_rows_chng_log = deleted_rows_df[~deleted_rows_df['hash'].duplicated()]       # de-dupe within this batch
+    new_deleted_rows_chng_log = new_deleted_rows_chng_log[~new_deleted_rows_chng_log['hash'].isin(hashes_in_log)]
+
+    # --- Remove dupes in deleted.csv ---
+    try:
+        deleted_csv = pd.read_csv('deleted.csv')
+        hashes_in_deleted = set(deleted_csv['hash'])
+    except FileNotFoundError:
+        hashes_in_deleted = set()
+    new_deleted_rows_deleted_csv = deleted_rows_df[~deleted_rows_df['hash'].duplicated()]
+    new_deleted_rows_deleted_csv = new_deleted_rows_deleted_csv[~new_deleted_rows_deleted_csv['hash'].isin(hashes_in_deleted)]
+
+    if not new_deleted_rows_chng_log.empty:
+        new_deleted_rows_chng_log.to_csv('consultations_chng_log.csv', mode='a', header=False, index=False)
+    if not new_deleted_rows_deleted_csv.empty:
+        new_deleted_rows_deleted_csv.to_csv('deleted.csv', mode='a', header=not bool(hashes_in_deleted), index=False)
+
+    print("Deleted rows detected and marked as DELETED:")
+    print(new_deleted_rows_chng_log)
 else:
     print("No deleted rows detected.")
 
@@ -127,6 +155,8 @@ late_start_df = subset_df[(subset_df['status'] == 'P') & (subset_df['start_date'
 late_start_df = late_start_df.sort_values(by='start_date', ascending=False)
 html_late_start = late_start_df.to_html(index=False, classes="table table-striped")
 late_start_df.to_csv("late_start.csv", index=False)
+
+# (HTML report generation code continues unchanged...)
 
 # Create the final HTML page by injecting the tables into a template.
 html_template = f"""
