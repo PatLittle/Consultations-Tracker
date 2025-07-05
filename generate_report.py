@@ -237,8 +237,8 @@ chng_log_template = f"""
       .topnav a:hover {{ background-color: #ddd; color: black; }}
       .topnav a.active {{ background-color: #04AA6D; color: white; }}
       iframe {{
-            width: 90%;
-            height: 90%;
+            width: 90vw;
+            height: 90vh;
             border: none;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }}
