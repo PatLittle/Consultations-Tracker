@@ -15,6 +15,10 @@ sites:
   url: https://www.cer-rec.gc.ca/en/consultation-engagement/stakeholder-engagement/regulated-industry-engagement/index.html
 - name: Canada Revenue Agency 2025 consultations on accessibility
   url: https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/transparency-proactive-disclosure-canada-revenue-agency/consultations-engagement-canada-revenue-agency/cra-2025-consultations-accessibility.html
+- name: 'Share your thoughts: Proposed amended livestock feed ingredients – Miscellaneous
+    changes to the Canadian Feed Ingredients Table'
+  url: Share your thoughtsProposed amended livestock feed ingredients – Miscellaneous
+    changes to the Canadian Feed Ingredients Table - inspection.canada.ca
 - name: 'Share your thoughts: Proposed amendments to the Tables of Permissible Claims
     for Feed Labels'
   url: N
@@ -23,10 +27,22 @@ sites:
   url: N
 - name: IPPC Member consultation on draft International Standards for Phytosanitary
     Measures and specifications
-  url: https://inspection.canada.ca/en/exporting-food-plants-animals/plant-exports/international-plant-protection#a3
+  url: N
 - name: Stakeholder Consultation on the Modernization of the Canadian Shellfish Sanitation
     Program (CSSP)
   url: N
+- name: 'Share your thoughts: Proposed modified livestock feed ingredient –L-lysine,
+    L-lysine monohydrochloride and L-lysine solution'
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/lysine-lysine-monohydrochloride-and-lysine-solution
+- name: 'Share your thoughts: Proposed new livestock feed ingredient –Saponified marigold
+    and paprika oleoresin'
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/saponified-marigold-and-paprika-oleoresin
+- name: 'Share your thoughts: Proposed modified livestock feed ingredient –Vitamin
+    E acetate'
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/vitamin-e-acetate
+- name: 'Share your thoughts: Proposed new and amended livestock feed ingredients –
+    Eugenol and vanillin'
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/eugenol-and-vanillin
 - name: 'Share your thoughts: Proposed changes to the Common Names for Ingredients
     and Components Document for milk ingredients and modified milk ingredients'
   url: N
