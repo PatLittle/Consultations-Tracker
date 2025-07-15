@@ -64,6 +64,8 @@ sites:
   url: https://crtc.gc.ca/eng/consultation/cc.htm
 - name: Share your thoughts on improving public interest participation
   url: https://crtc.gc.ca/eng/consultation/public.htm
+- name: Share your thoughts about improving the National Public Alerting System
+  url: https://crtc.gc.ca/eng/consultation/pubalert.htm
 - name: Baffinland Steensby Railway Consultation
   url: https://otc-cta.gc.ca/eng/consultation/baffinland-steensby-railway-consultation
 - name: 'TRC Call to Action 66: Moving from Pilot Project to Long-Term Implementation'
@@ -113,9 +115,6 @@ sites:
 - name: Consultation on Sulphur and its associated end-use products, Proposed Re-evaluation
     Decision PRVD2025-07
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/sulphur.html
-- name: Consultation on tea tree oil, Timorex Gold, Proposed Registration Decision
-    PRD2025-03
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2025/tea-tree-oil-timorex-gold.html
 - name: Consultation on linuron, Proposed Maximum Residue Limit PMRL2025-07
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/linuron.html
 - name: Consultation on florylpicoxamid, Proposed Maximum Residue Limit PMRL2025-08
@@ -147,9 +146,10 @@ sites:
     and sale of certain foods for a special dietary purpose to mitigate a shortage
     or risk of a shortage
   url: https://www.canada.ca/en/health-canada/services/food-nutrition/public-involvement-partnerships/ministerial-exemption-exceptional-importation-certain-foods-mitigate-shortage.html
-- name: 'Release of draft (Step 2) ICH M11: Clinical electronic Structured Harmonised
-    Protocol (CeSHarP) – Technical Specification'
-  url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
+- name: Adjusted consultation period for Proposed Registration Decision for Category
+    A applications (Registration of new active ingredients or major new uses of pesticides),
+    Notice of Intent NOI2025-02
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/notice-intent/2025/adjusted-period-proposed-registration-decision-category-a-applications-new-active-ingredients-major-uses-pesticides.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
