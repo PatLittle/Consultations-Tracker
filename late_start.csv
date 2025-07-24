@@ -1,6 +1,4 @@
 registration_number,title_en,start_date,end_date,status,owner_org
-C-2025-003,Accesibility Internal Questionnaire,2025-06-16,2025-07-04,P,cbsa-asfc
-C-2025-002,Acessibility External Questionnaire,2025-06-16,2025-07-13,P,cbsa-asfc
 1071,Changing the Saskatoon International Airport Zoning Regulations,2025-06-11,2025-08-11,P,tc
 C-0245,"Consultation on a Technical and Policy, [Licensing] Framework for [Remotely Piloted Aircraft System] Operation in Licensed Spectrum",2025-06-06,2026-06-06,P,ic
 C-00000117,"Consultation on Efficiencies, Legislative Amendments, and the Ongoing Impact of the COVID-19 Pandemic",2025-06-01,2025-03-31,P,jus
@@ -22,13 +20,13 @@ C-0207,Consultation on CIPO's 2023-2024 client service standards,2023-03-27,2023
 ST-0000046,Census of the Environment Program,2023-02-27,2024-03-31,P,statcan
 645,OPP: Northern Low-Impact Shipping Corridors,2022-12-01,2023-06-01,P,tc
 C0000061,Changing Narrative Fund,2022-11-16,2022-12-16,P,pch
-IRP-010,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
 IRP-007,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
+IRP-010,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
 IRP-009,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
 IRP-008,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
-IRP-004,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
-IRP-006,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
 IRP-005,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
+IRP-006,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
+IRP-004,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
 IRP-012,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
 IRP-011,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
 IRP-013,Indigenous Reconciliation Program,2022-11-01,2023-01-25,P,dnd-mdn
