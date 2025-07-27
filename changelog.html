@@ -1,0 +1,71 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Consultations Change Log Report</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Integrate with existing CSS -->
+    <link href="https://PatLittle.github.io/Consultations-Tracker/global.css" rel="stylesheet">
+    <link href="https://PatLittle.github.io/Consultations-Tracker/themes/night.css" rel="stylesheet">
+    <style>
+      /* Additional styling for our report */
+      body { padding: 20px; font-family: Arial, sans-serif; }
+      table { width: 100%; border-collapse: collapse; margin-bottom: 20px; }
+      th, td { padding: 8px; border: 1px solid #ddd; text-align: left; }
+      th { padding-top: 12px; padding-bottom: 12px; text-align: left; background-color: #04AA6D; color: white; }
+      tr:nth-child(even) { background-color: #f2f2f2; color: black; }
+      tr:hover {background-color: #ddd;}
+      h2 { margin-top: 40px; }
+      header, footer { text-align: center; margin-bottom: 40px; }
+      .anchor-link { text-decoration: none; margin-left: 8px; color: #555; }
+      .topnav { overflow: hidden; background-color: #333; }
+      .topnav a { float: left; color: #f2f2f2; text-align: center; padding: 14px 16px;  text-decoration: none;  font-size: 17px; }
+      .topnav a:hover { background-color: #ddd; color: black; }
+      .topnav a.active { background-color: #04AA6D; color: white; }
+      iframe {
+            width: 90vw;
+            height: 90vh;
+            border: none;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="topnav">
+      <a class="active" href="https://patlittle.github.io/Consultations-Tracker/changelog.html">Consultations Change Log Report</a>
+      <a href="https://patlittle.github.io/Consultations-Tracker/report.html">Consultations Tracker Report</a>
+      <a href="https://patlittle.github.io/Consultations-Tracker">Web Monitoring</a>
+      <a href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d">Open Data</a>
+      <a href="https://www.canada.ca/en/government/system/consultations/consultingcanadians.html">Consulting with Canadians</a>
+    </div>
+    <header>
+        <h1>Consultations Change Log Report</h1>
+        <p>Report generated on 2025-07-27 04:36:29</p>
+    </header>
+
+    
+    <iframe src="https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/consultations_chng_log.csv?filename=consultations_chng_log.csv&sort=row_chng_datetime%2Cdesc&stickyColumnName=row_chng_datetime" title="Consultations Tracker"></iframe>
+
+
+    <footer>
+        <p>Consultations Change Log Report</p>
+        <div class="license" data-license-id="OGL-Canada-2.0">
+            <div class="">
+                <h3>
+                    <a href="https://open.canada.ca/en/open-government-licence-canada" class="tmpl-title">Open Government License 2.0 (Canada)</a>
+                    <a href="https://licenses.opendefinition.org/licenses/OGL-Canada-2.0.json" class="tmpl-title">🤖</a>
+                    <div class="icons">
+                        <a href="https://opendefinition.org/od/" title="Open Data" class="open-icon">
+                          <img src="https://assets.okfn.org/images/ok_buttons/od_80x15_blue.png" alt="Open Data">
+                        </a>
+                        <a href="https://opendefinition.org/od/" title="Open Data" class="open-icon">
+                          <img src="https://assets.okfn.org/images/ok_buttons/oc_80x15_red_green.png" alt="Open Data">
+                        </a>
+                    </div>
+                </h3>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
