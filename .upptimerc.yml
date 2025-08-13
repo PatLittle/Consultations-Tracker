@@ -16,6 +16,11 @@ sites:
 - name: IPPC Member consultation on draft International Standards for Phytosanitary
     Measures and specifications
   url: Canada's role in international plant protection - inspection.canada.ca
+- name: 'Share your thoughts: Proposed new livestock feed ingredients – Pea processing
+    residues dehydrated and pea processing residues wet'
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/pea-processing-residues
+- name: 'Share your thoughts: Proposed new livestock feed ingredient – Pea solubles'
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/pea-solubles
 - name: 'Share your thoughts: Canadian Food Inspection Agency''s 2026 to 2028 Accessibility
     Plan'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/2026-2028-accessibility-plan
@@ -104,9 +109,6 @@ sites:
 - name: 'Release of draft (step 2) ICH Guideline Q1: Stability Testing of Drug Substances
     and Drug Products'
   url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
-- name: 'Consultation: Proposed Regulatory Amendments for Precursor Chemicals and
-    Designated Devices'
-  url: https://www.canada.ca/en/health-canada/programs/consultation-proposed-regulatory-amendments-precursor-chemicals-designated-devices.html
 - name: Consultation on the third legislative review of the Tobacco and Vaping Products
     Act
   url: https://www.canada.ca/en/health-canada/programs/consultation-third-legislative-review-tobacco-vaping-products-act.html
