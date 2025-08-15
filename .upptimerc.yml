@@ -13,6 +13,9 @@ sites:
   url: https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cer-rec.gc.ca%2Fen%2Fabout%2Fhow-we-regulate%2Fplans-for-regulatory-framework%2F&data=05%7C02%7CMichelle.Shabits%40cer-rec.gc.ca%7Cec1c386ebea64452821d08dc41ebb1b9%7C56e9b8d38a3549abbdfc27de59608f01%7C0%7C0%7C638457728797041411%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=tKxvqtPetzkvcXlETiyyf51rWnRpUftsM2o2U5IySO4%3D&reserved=0
 - name: Regulated Industry Engagement
   url: https://www.cer-rec.gc.ca/en/consultation-engagement/stakeholder-engagement/regulated-industry-engagement/index.html
+- name: 'Share your thoughts: Proposed changes to the Tables of Nutrient Guarantees
+    and Conditions for Feed Labels'
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/changes-tables-nutrient-guarantees-and-conditions-feed-labels
 - name: IPPC Member consultation on draft International Standards for Phytosanitary
     Measures and specifications
   url: Canada's role in international plant protection - inspection.canada.ca
@@ -112,10 +115,6 @@ sites:
 - name: Consultation on the third legislative review of the Tobacco and Vaping Products
     Act
   url: https://www.canada.ca/en/health-canada/programs/consultation-third-legislative-review-tobacco-vaping-products-act.html
-- name: Updated Proposal - Ministerial class exemption order for the exceptional importation
-    and sale of certain foods for a special dietary purpose to mitigate a shortage
-    or risk of a shortage
-  url: https://www.canada.ca/en/health-canada/services/food-nutrition/public-involvement-partnerships/ministerial-exemption-exceptional-importation-certain-foods-mitigate-shortage.html
 - name: Adjusted consultation period for Proposed Registration Decision for Category
     A applications (Registration of new active ingredients or major new uses of pesticides),
     Notice of Intent NOI2025-02
@@ -145,6 +144,9 @@ sites:
 - name: Consultation on metamitron, Brevis 150 SC, and Brevis 15 SG, Proposed Registration
     Decision PRD2025-05
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2025/metamitron-brevis-150-sc-15-sg.html
+- name: 'Consultation: Classification of topical products containing human-derived
+    exosomes, human extracellular vesicles, and/or human cell-conditioned media'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-classification-topical-products-containing-human-derived-exosomes-extracellular-vesicles-cell-conditioned-media.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
