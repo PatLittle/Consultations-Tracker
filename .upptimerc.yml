@@ -16,6 +16,9 @@ sites:
 - name: 'Share your thoughts: Proposed changes to the Tables of Nutrient Guarantees
     and Conditions for Feed Labels'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/changes-tables-nutrient-guarantees-and-conditions-feed-labels
+- name: Public consultation on proposed regulatory changes in Canada Gazette Part
+    I amending the Plant Breeders' Rights Regulations
+  url: https://gazette.gc.ca/rp-pr/p1/2025/2025-08-09/html/reg1-eng.html
 - name: IPPC Member consultation on draft International Standards for Phytosanitary
     Measures and specifications
   url: Canada's role in international plant protection - inspection.canada.ca
@@ -27,6 +30,9 @@ sites:
 - name: 'Share your thoughts: Canadian Food Inspection Agency''s 2026 to 2028 Accessibility
     Plan'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/2026-2028-accessibility-plan
+- name: 'Share your thoughts: Future-proofing Canada’s Seeds Regulations for a stronger
+    tomorrow: Proposals to modernize Canada''s seed regulatory framework'
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/share-your-thoughts-seed-proposals
 - name: Changing Narrative Fund
   url: https://www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
 - name: 2022-23 Consultations on renewal of the Museum Policy
@@ -95,9 +101,6 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/linuron.html
 - name: Consultation on florylpicoxamid, Proposed Maximum Residue Limit PMRL2025-08
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/florylpicoxamid.html
-- name: 'Consultation: Categorization of antimicrobial drugs based on importance in
-    human medicine'
-  url: https://www.canada.ca/en/health-canada/programs/consultation-categorization-antimicrobial-drugs-importance-human-medicine.html
 - name: 'Release of draft (Step 2) ICH Guideline E21: Inclusion of Pregnant and Breastfeeding
     Individuals in Clinical Trials'
   url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
@@ -115,10 +118,6 @@ sites:
 - name: Consultation on the third legislative review of the Tobacco and Vaping Products
     Act
   url: https://www.canada.ca/en/health-canada/programs/consultation-third-legislative-review-tobacco-vaping-products-act.html
-- name: Adjusted consultation period for Proposed Registration Decision for Category
-    A applications (Registration of new active ingredients or major new uses of pesticides),
-    Notice of Intent NOI2025-02
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/notice-intent/2025/adjusted-period-proposed-registration-decision-category-a-applications-new-active-ingredients-major-uses-pesticides.html
 - name: Consultation on revised procedures for the registration of pesticides for
     emergency use, Regulatory Proposal PRO2025-03
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/regulatory-proposals/2025/revised-procedures-registration-pesticides-emergency-use.html
