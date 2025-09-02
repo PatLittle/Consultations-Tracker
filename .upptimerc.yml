@@ -94,10 +94,6 @@ sites:
 - name: Consultation on Sulphur and its associated end-use products, Proposed Re-evaluation
     Decision PRVD2025-07
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/sulphur.html
-- name: Consultation on linuron, Proposed Maximum Residue Limit PMRL2025-07
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/linuron.html
-- name: Consultation on florylpicoxamid, Proposed Maximum Residue Limit PMRL2025-08
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/florylpicoxamid.html
 - name: 'Release of draft (Step 2) ICH Guideline E21: Inclusion of Pregnant and Breastfeeding
     Individuals in Clinical Trials'
   url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
@@ -105,12 +101,6 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
 - name: 'Release of draft (Step 2) ICH Guideline M4Q(R2): Common Technical Document
     (CTD)-Quality'
-  url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
-- name: 'Release of draft (Step 2) ICH Guideline M13B: Bioequivalence for Immediate-Release
-    Solid Oral Dosage Forms'
-  url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
-- name: 'Release of draft (step 2) ICH Guideline Q1: Stability Testing of Drug Substances
-    and Drug Products'
   url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
 - name: Consultation on the third legislative review of the Tobacco and Vaping Products
     Act
@@ -153,6 +143,8 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/picarbutrazox.html
 - name: Consultation on triallate, Proposed Maximum Residue Limit PMRL2025-18
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/triallate.html
+- name: Consultation on potential amendments to the Cannabis Tracking System Order
+  url: https://www.canada.ca/en/health-canada/programs/consultation-potential-amendments-cannabis-tracking-system-order.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
