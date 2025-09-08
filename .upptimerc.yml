@@ -53,8 +53,6 @@ sites:
   url: https://otc-cta.gc.ca/eng/consultation/baffinland-steensby-railway-consultation
 - name: 'TRC Call to Action 66: Moving from Pilot Project to Long-Term Implementation'
   url: Not available
-- name: Pre-Budget Consultations 2025
-  url: https://www.canada.ca/en/department-finance/programs/consultations/2025/pre-budget-consultations-2025.html
 - name: National Infrastructure Assessment
   url: https://www.infrastructure.gc.ca/nia-eni/index-eng.html
 - name: 'Share your ideas: Blackwater Project'
@@ -87,6 +85,8 @@ sites:
 - name: Stakeholder engagement on potential marine conservation areas in Newfoundland
     and Labrador Region
   url: https://www.dfo-mpo.gc.ca/oceans/conservation/plan/index-eng.html
+- name: Breakwater Extension at St-Georges-de-Malbay
+  url: https://aeic-iaac.gc.ca/050/evaluations/proj/89759?culture=en-CA
 - name: Proposed Amendments to the Export Permits Regulations
   url: https://webarchiveweb.wayback.bac-lac.canada.ca/1/https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
 - name: 'Consultation on Guidance Document: Information and Submission Requirements
