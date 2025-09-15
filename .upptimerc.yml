@@ -73,6 +73,8 @@ sites:
 - name: Consultation on the proposed proposed Management plan for the Magdalen Islands
     Grasshopper (Melanoplus madeleineae)
   url: https://species-registry.canada.ca/index-en.html#/consultations/aXVJCY1wymWZZgEDAXuEN
+- name: Engagement on renewing Canada’s National Financial Literacy Strategy
+  url: https://www.canada.ca/en/financial-consumer-agency/corporate/transparency/consultations/engagement-renewing-national-financial-literacy-strategy.html
 - name: Let's talk Pacific Salmon
   url: https://letstalkpacificsalmon.ca/
 - name: Proposed ticketing for the enforcement of a fisheries offence under the Fisheries
@@ -97,12 +99,6 @@ sites:
 - name: 'Release of draft (Step 2) ICH Guideline M4Q(R2): Common Technical Document
     (CTD)-Quality'
   url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
-- name: Consultation on the third legislative review of the Tobacco and Vaping Products
-    Act
-  url: https://www.canada.ca/en/health-canada/programs/consultation-third-legislative-review-tobacco-vaping-products-act.html
-- name: Consultation on revised procedures for the registration of pesticides for
-    emergency use, Regulatory Proposal PRO2025-03
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/regulatory-proposals/2025/revised-procedures-registration-pesticides-emergency-use.html
 - name: Consultation on chlorantraniliprole, Proposed Maximum Residue Limit PMRL2025-11
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/chlorantraniliprole.html
 - name: Consultation on fenazaquin, Proposed Maximum Residue Limit PMRL2025-10
@@ -136,6 +132,19 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/triallate.html
 - name: Consultation on potential amendments to the Cannabis Tracking System Order
   url: https://www.canada.ca/en/health-canada/programs/consultation-potential-amendments-cannabis-tracking-system-order.html
+- name: Consultation on cyclobutrifluram, A22011 crop, A23156 crop, victrato and victrato
+    2, Proposed Registration Decision PRD2025-06
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2025/cyclobutrifluram-a22011-crop-a23156-victrato-2.html
+- name: Consultation on cyclobutrifluram, Proposed Maximum Residue Limit PMRL2025-19
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/cyclobutrifluram.html
+- name: Consultation on Fluoxapiprolin and Xivana Prime, Proposed Registration Decision
+    PRD2025-07
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2025/fluoxapiprolin-xivana-prime.html
+- name: Consultation on fluoxapiprolin, Proposed Maximum Residue Limit PMRL2025-20
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/fluoxapiprolin.html
+- name: Consultation on heptyl butyrate, disposable yellowjacket trap-W, yellowjacket
+    trap cartridge refill, and yellowjacket trap, Proposed Registration Decision PRD2025-08
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2025/heptyl-butyrate-disposable-yellowjacket-trap-w-cartridge-refill.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
