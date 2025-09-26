@@ -113,14 +113,6 @@ sites:
 - name: Consulting Canadians on the operation of the Canada-United States-Mexico Agreement
     (CUSMA)
   url: https://international.canada.ca/en/global-affairs/consultations/trade/2025-09-19-cusma
-- name: 'Release of draft (Step 2) ICH Guideline E21: Inclusion of Pregnant and Breastfeeding
-    Individuals in Clinical Trials'
-  url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
-- name: 'Release of draft (Step 2) ICH Guideline E20: Adaptive Clinical Trials'
-  url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
-- name: 'Release of draft (Step 2) ICH Guideline M4Q(R2): Common Technical Document
-    (CTD)-Quality'
-  url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
 - name: Consultation on chlorantraniliprole, Proposed Maximum Residue Limit PMRL2025-11
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/chlorantraniliprole.html
 - name: Consultation on fenazaquin, Proposed Maximum Residue Limit PMRL2025-10
@@ -173,6 +165,11 @@ sites:
 - name: Consultation on dicamba and its associated end-use products, Proposed Special
     Review Decision PSRD2025-01
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-special-review-decision/2025/dicamba.html
+- name: 'Consultation: Draft guidance on the plain language labelling regulations
+    for prescription drugs'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-guidance-plain-language-labelling-regulations-prescription-drugs.html
+- name: Consultation for guidance on notifying Health Canada of foreign actions
+  url: https://www.canada.ca/en/health-canada/programs/consultation-draft-guidance-notifying-foreign-actions.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
