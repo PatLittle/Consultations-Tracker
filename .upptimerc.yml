@@ -48,6 +48,8 @@ sites:
     buchneri culture dehydrated'
   url: Share your thoughtsProposed new livestock feed ingredient – Lentilactobacillus
     buchneri culture dehydrated - inspection.canada.ca
+- name: 'Share your thoughts: Options for emerald ash borer management in Canada'
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/risk-management-emerald-ash-borer
 - name: Changing Narrative Fund
   url: https://www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
 - name: 2022-23 Consultations on renewal of the Museum Policy
@@ -182,8 +184,6 @@ sites:
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
-- name: 2025 consultations on immigration levels
-  url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/consultations/2025-consultations-immigration-levels.html
 - name: Riverside Generating Station Project
   url: https://iaac-aeic.gc.ca/050/evaluations/document/163195?culture=en-CA
 - name: Riverside Generating Station Project
