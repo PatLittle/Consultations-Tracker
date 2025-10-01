@@ -93,7 +93,10 @@ sites:
   url: https://canada.ca/en/environment-climate-change/corporate/transparency/consultations/pfas-firefighting-foams-afff-phase1-prohibition.html
 - name: Evaluation by Environment and Climate Change Canada of the ongoing need for
     the Emergency Order for the Protection of the Western Chorus Frog (Longueuil)
-  url: https://species-registry.az.ec.gc.ca/index-en.html#/documents/DukhVve6e95tbKPzpUkCe
+  url: https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/consultation-documents/western-chorus-frog-longueuil-2025.html
+- name: Proposed Regulations Amending the Wildlife Area Regulations – Repeal of the
+    Hunt Program and Entrance Fees in the Cap Tourmente National Wildlife Area
+  url: https://www.canada.ca/en/environment-climate-change/services/national-wildlife-areas/locations/cap-tourmente/proposed-regulations-amending-wildlife-area-regulations-repeal-hunt-program-entrance-fees.html
 - name: Engagement on renewing Canada’s National Financial Literacy Strategy
   url: https://www.canada.ca/en/financial-consumer-agency/corporate/transparency/consultations/engagement-renewing-national-financial-literacy-strategy.html
 - name: Let's talk Pacific Salmon
@@ -221,6 +224,8 @@ sites:
 - name: Amendments to Superintendent's directives relating to cybersecurity guidelines,
     minimum requirements and measures for the Licensed Insolvency Trustee community
   url: https://ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/public-consultations
+- name: Artificial Intelligence Strategy
+  url: https://ised-isde.canada.ca/site/ised/en/public-consultations/help-define-next-chapter-canadas-ai-leadership
 - name: Indigenous Advisory Circle
   url: https://library-archives.canada.ca/eng/corporate/about-us/our-partners/Pages/indigenous-advisory-circle.aspx
 - name: Stakeholders' Forum
