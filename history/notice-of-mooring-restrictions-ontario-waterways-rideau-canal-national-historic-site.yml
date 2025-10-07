@@ -1,7 +1,7 @@
 url: https://parks.canada.ca/lhn-nhs/on/rideau/info/avis-restrictions-amarrage-notice-mooring-restrictions/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-06T23:15:34.462Z
+status: up
+code: 200
+responseTime: 305
+lastUpdated: 2025-10-07T20:27:43.761Z
 startTime: 2024-03-12T12:32:19.460Z
 generator: Upptime <https://github.com/upptime/upptime>
