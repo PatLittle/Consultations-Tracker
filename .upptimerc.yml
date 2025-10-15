@@ -120,12 +120,6 @@ sites:
 - name: Consulting Canadians on the operation of the Canada-United States-Mexico Agreement
     (CUSMA)
   url: https://international.canada.ca/en/global-affairs/consultations/trade/2025-09-19-cusma
-- name: Consultation on pyriofenone, Proposed Maximum Residue Limit PMRL2025-12
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/pyriofenone.html
-- name: Consultation on dimethenamid, Proposed Maximum Residue Limit PMRL2025-13
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/dimethenamid.html
-- name: Consultation on trinexapac-ethyl, Proposed Maximum Residue Limit PMRL2025-14
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/trinexapac-ethyl.html
 - name: 'Consultation: Classification of topical products containing human-derived
     exosomes, human extracellular vesicles, and/or human cell-conditioned media'
   url: https://www.canada.ca/en/health-canada/programs/consultation-classification-topical-products-containing-human-derived-exosomes-extracellular-vesicles-cell-conditioned-media.html
@@ -141,19 +135,10 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/triallate.html
 - name: Consultation on potential amendments to the Cannabis Tracking System Order
   url: https://www.canada.ca/en/health-canada/programs/consultation-potential-amendments-cannabis-tracking-system-order.html
-- name: Consultation on cyclobutrifluram, A22011 crop, A23156 crop, victrato and victrato
-    2, Proposed Registration Decision PRD2025-06
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2025/cyclobutrifluram-a22011-crop-a23156-victrato-2.html
 - name: Consultation on cyclobutrifluram, Proposed Maximum Residue Limit PMRL2025-19
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/cyclobutrifluram.html
-- name: Consultation on Fluoxapiprolin and Xivana Prime, Proposed Registration Decision
-    PRD2025-07
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2025/fluoxapiprolin-xivana-prime.html
 - name: Consultation on fluoxapiprolin, Proposed Maximum Residue Limit PMRL2025-20
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/fluoxapiprolin.html
-- name: Consultation on heptyl butyrate, disposable yellowjacket trap-W, yellowjacket
-    trap cartridge refill, and yellowjacket trap, Proposed Registration Decision PRD2025-08
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2025/heptyl-butyrate-disposable-yellowjacket-trap-w-cartridge-refill.html
 - name: 'Consultation: Guidance document updates for Good Pharmacovigilance Practices
     (GVP) inspections'
   url: https://www.canada.ca/en/health-canada/programs/consultation-guidance-document-updates-good-pharmacovigilance-practices-gvp-inspections.html
