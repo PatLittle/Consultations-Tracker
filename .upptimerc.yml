@@ -21,33 +21,15 @@ sites:
 - name: 'Share your thoughts: Proposed changes to the Chronic Wasting Disease Control
     Program'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/proposed-changes-chronic-wasting-disease-control-program
-- name: 'Share your thoughts: Proposed amended livestock feed ingredients – Yeast-based
-    ingredients'
-  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/yeast-based-ingredients
 - name: Public consultation on proposed regulatory changes in Canada Gazette Part
     I amending the Plant Breeders' Rights Regulations
   url: https://gazette.gc.ca/rp-pr/p1/2025/2025-08-09/html/reg1-eng.html
-- name: IPPC Member consultation on draft International Standards for Phytosanitary
-    Measures and specifications
-  url: Canada's role in international plant protection - inspection.canada.ca
 - name: 'Share your thoughts: Proposed amendments to the Susceptible species of aquatic
     animals list - Perkinsus olseni and Perkinsus marinus'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/susceptible-species-aquatic-animals-list
-- name: 'Share your thoughts: Proposed amended livestock feed ingredient – 25-Hydroxyvitamin
-    D3 monohydrate from fermentation process'
-  url: Share your thoughtsProposed amended livestock feed ingredient – 25-Hydroxyvitamin
-    D3 monohydrate from fermentation process - inspection.canada.ca
 - name: 'Share your thoughts: Proposed changes to the Common Names for Ingredients
     and Components Document for milk ingredients and modified milk ingredients'
   url: N
-- name: 'Share your thoughts: Proposed new livestock feed ingredient – Lactobacillus
-    crispatus culture dehydrated'
-  url: Share your thoughtsProposed new livestock feed ingredient – Lactobacillus crispatus culture
-    dehydrated
-- name: 'Share your thoughts: Proposed new livestock feed ingredient – Lentilactobacillus
-    buchneri culture dehydrated'
-  url: Share your thoughtsProposed new livestock feed ingredient – Lentilactobacillus
-    buchneri culture dehydrated - inspection.canada.ca
 - name: 'Share your thoughts: Options for emerald ash borer management in Canada'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/risk-management-emerald-ash-borer
 - name: Changing Narrative Fund
@@ -99,6 +81,11 @@ sites:
 - name: Proposed Regulations Amending the Wildlife Area Regulations – Repeal of the
     Hunt Program and Entrance Fees in the Cap Tourmente National Wildlife Area
   url: https://www.canada.ca/en/environment-climate-change/services/national-wildlife-areas/locations/cap-tourmente/proposed-regulations-amending-wildlife-area-regulations-repeal-hunt-program-entrance-fees.html
+- name: Notice with respect to the availability of the proposed environmental occurrences
+    notification agreements between Canada and Alberta, Canada and British Columbia,
+    Canada and Manitoba, Canada and Ontario, Canada and Saskatchewan, and Canada and
+    Yukon
+  url: https://www.canada.ca/en/environment-climate-change/services/canadian-environmental-protection-act-registry/agreements/occurrences-notification.html
 - name: Engagement on renewing Canada’s National Financial Literacy Strategy
   url: https://www.canada.ca/en/financial-consumer-agency/corporate/transparency/consultations/engagement-renewing-national-financial-literacy-strategy.html
 - name: Let's talk Pacific Salmon
