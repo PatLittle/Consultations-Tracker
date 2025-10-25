@@ -342,327 +342,141 @@ status-website:
   name: GC Automated Consultations QA
   introTitle: '[Consulting with Canadians](https://www.canada.ca/en/government/system/consultations/consultingcanadians.html)
     is Canada''s one stop shop for finding consultations.'
-  introMessage: |
-    GC Automated Consultations QA monitors open and planned consultations published
+  introMessage: 'GC Automated Consultations QA monitors open and planned consultations
+    published
+
     on [Consulting with Canadians](https://www.canada.ca/en/government/system/consultations/consultingcanadians.html),
+
     verifying each profile page every four hours to confirm that it remains available.
-    Use this dashboard to review uptime history, response times, and reports that highlight
-    consultations starting soon, due to launch, or running past their scheduled end date.
+
+    Use this dashboard to review uptime history, response times, and reports that
+    highlight
+
+    consultations starting soon, due to launch, or running past their scheduled end
+    date.
+
+    '
   navbar:
-    - title: Dashboard
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-      target: _blank
-    - title: Consulting with Canadians↗️
-      href: https://www.canada.ca/en/government/system/consultations/consultingcanadians.html
-      target: _blank
-    - title: Consultations Open Data↗️
-      href: https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d
-      target: _blank
-    - title: Consultations Tracker Reports
-      href: https://patlittle.github.io/Consultations-Tracker/report.html
-      target: _blank
-    - title: Consultations Change Log Reports
-      href: https://patlittle.github.io/Consultations-Tracker/changelog.html
-      target: _blank
-  customHeadHtml: |
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-  customBodyHtml: |
-    <a class="gcds-skip-link" href="#main-content">Skip to main content</a>
-    <div class="gcds-context-bar">
-      <span>Government of Canada · Gouvernement du Canada</span>
-    </div>
-  customFootHtml: |
-    <div class="gcds-footer-wordmark" role="presentation">
-      <div class="gcds-footer-wordmark__inner">
-        <img src="https://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg"
-             alt="Symbol of the Government of Canada" loading="lazy" />
-      </div>
-    </div>
+  - title: Dashboard
+    href: /
+  - title: GitHub
+    href: https://github.com/$OWNER/$REPO
+    target: _blank
+  - title: Consulting with Canadians↗️
+    href: https://www.canada.ca/en/government/system/consultations/consultingcanadians.html
+    target: _blank
+  - title: Consultations Open Data↗️
+    href: https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d
+    target: _blank
+  - title: Consultations Tracker Reports
+    href: https://patlittle.github.io/Consultations-Tracker/report.html
+    target: _blank
+  - title: Consultations Change Log Reports
+    href: https://patlittle.github.io/Consultations-Tracker/changelog.html
+    target: _blank
+  customHeadHtml: '<meta name="viewport" content="width=device-width, initial-scale=1"
+    />
+
+    '
+  customBodyHtml: "<a class=\"gcds-skip-link\" href=\"#main-content\">Skip to main\
+    \ content</a>\n<div class=\"gcds-context-bar\">\n  <span>Government of Canada\
+    \ · Gouvernement du Canada</span>\n</div>\n"
+  customFootHtml: "<div class=\"gcds-footer-wordmark\" role=\"presentation\">\n  <div\
+    \ class=\"gcds-footer-wordmark__inner\">\n    <img src=\"https://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg\"\
+    \n         alt=\"Symbol of the Government of Canada\" loading=\"lazy\" />\n  </div>\n\
+    </div>\n"
   links:
-    - rel: preconnect
-      href: https://fonts.googleapis.com
-    - rel: preconnect
-      href: https://fonts.gstatic.com
-      crossorigin: anonymous
-    - rel: stylesheet
-      href: https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&family=Noto+Serif:wght@600&display=swap
-    - rel: stylesheet
-      href: https://cdn.design-system.alpha.canada.ca/@gcds-core/css-shortcuts@1.0.1/dist/gcds-css-shortcuts.min.css
-    - rel: stylesheet
-      href: https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.43.1/dist/gcds/gcds.css
+  - rel: preconnect
+    href: https://fonts.googleapis.com
+  - rel: preconnect
+    href: https://fonts.gstatic.com
+    crossorigin: anonymous
+  - rel: stylesheet
+    href: https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&family=Noto+Serif:wght@600&display=swap
+  - rel: stylesheet
+    href: https://cdn.design-system.alpha.canada.ca/@gcds-core/css-shortcuts@1.0.1/dist/gcds-css-shortcuts.min.css
+  - rel: stylesheet
+    href: https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.43.1/dist/gcds/gcds.css
   metaTags:
-    - name: color-scheme
-      content: light
+  - name: color-scheme
+    content: light
   scripts:
-    - src: https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.43.1/dist/gcds/gcds.esm.js
-      type: module
-  css: |
-    :root {
-      --body-background-color: #f5f5f5;
-      --body-text-color: #1b1b1b;
-      --card-background-color: #ffffff;
-      --card-border-color: #d6d6d6;
-      --nav-background-color: #26374a;
-      --nav-border-bottom-color: #12263f;
-      --nav-current-border-bottom-color: #fcba19;
-      --down-border-left-color: #a8242f;
-      --down-background-color: #fbeaea;
-      --degraded-border-left-color: #fcba19;
-      --tag-color: #1b1b1b;
-      --tag-up-background-color: #c8e6c9;
-      --tag-down-background-color: #fbeaea;
-      --tag-degraded-background-color: #fce3b0;
-      --change-background-color: rgba(252, 186, 25, 0.18);
-      --error-button-border-color: #26374a;
-      --error-button-background-color: #28507a;
-      --error-button-color: #ffffff;
-      --submit-button-border-color: #28507a;
-      --submit-button-background-color: #28507a;
-      --submit-button-color: #ffffff;
-      --graph-opacity: 0.9;
-      --graph-filter: saturate(1.05);
-    }
-    body {
-      font-family: "Noto Sans", "Helvetica Neue", Arial, sans-serif;
-      background-color: var(--body-background-color);
-      color: var(--body-text-color);
-    }
-    a {
-      color: #2b4380;
-    }
-    a:hover,
-    a:focus {
-      color: #12263f;
-      text-decoration: underline;
-    }
-    .gcds-skip-link {
-      position: absolute;
-      top: -100%;
-      left: 0;
-      background-color: #26374a;
-      color: #ffffff;
-      padding: 0.75rem 1.5rem;
-      border-radius: 0 0 4px 4px;
-      text-decoration: none;
-      font-weight: 600;
-      z-index: 1000;
-    }
-    .gcds-skip-link:focus {
-      top: 0;
-    }
-    .gcds-context-bar {
-      background-color: #ffffff;
-      border-bottom: 1px solid #d6d6d6;
-      font-size: 0.9rem;
-      letter-spacing: 0.04em;
-      text-transform: uppercase;
-      color: #5b5b5b;
-    }
-    .gcds-context-bar span {
-      display: block;
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 0.5rem 1.5rem;
-      font-weight: 600;
-    }
-    nav {
-      background-color: var(--nav-background-color);
-      border-bottom: 4px solid var(--nav-current-border-bottom-color);
-      color: #ffffff;
-      box-shadow: 0 4px 18px rgba(17, 39, 68, 0.28);
-    }
-    nav .container {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 0 1.5rem;
-    }
-    nav .logo {
-      color: #ffffff;
-      font-weight: 600;
-      font-size: 1.35rem;
-      letter-spacing: 0.01em;
-    }
-    nav .logo img {
-      height: 2.75rem;
-      margin-right: 1rem;
-      filter: brightness(0) invert(1);
-    }
-    nav ul {
-      gap: 0.25rem;
-    }
-    nav li a {
-      color: #ffffff;
-      font-weight: 600;
-      padding: 1rem 1.25rem;
-      border-radius: 4px;
-      transition: background-color 0.2s ease, color 0.2s ease;
-    }
-    nav li a:hover,
-    nav li a:focus {
-      background-color: rgba(255, 255, 255, 0.18);
-      color: #ffffff;
-      text-decoration: none;
-    }
-    nav li a[aria-current="page"] {
-      background-color: rgba(255, 255, 255, 0.25);
-      box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.3);
-    }
-    main.container {
-      max-width: 1200px;
-      margin: 3rem auto;
-      background-color: #ffffff;
-      padding: 3rem;
-      border-radius: 12px;
-      box-shadow: 0 20px 40px rgba(38, 55, 74, 0.18);
-    }
-    main.container header {
-      border-left: 6px solid #26374a;
-      padding-left: 1.5rem;
-      margin-bottom: 3rem;
-    }
-    main.container header h1 {
-      font-family: "Noto Serif", "Georgia", serif;
-      font-weight: 600;
-      color: #26374a;
-      font-size: 2.5rem;
-      line-height: 1.25;
-      margin-bottom: 1rem;
-    }
-    main.container header .lead {
-      font-size: 1.1rem;
-      color: #353535;
-    }
-    .f {
-      background-color: #f0f4f8;
-      border: 1px solid #d6d6d6;
-      border-radius: 8px;
-      padding: 1rem 1.5rem;
-      margin-bottom: 1.5rem;
-    }
-    .f h2 {
-      color: #26374a;
-      font-size: 1.4rem;
-      font-weight: 600;
-    }
-    .f.r label {
-      background-color: #ffffff;
-      border: 1px solid #c4c4c4;
-      border-radius: 999px;
-      padding: 0.35rem 0.75rem;
-      font-size: 0.95rem;
-      transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
-    }
-    .f.r input:checked + label {
-      background-color: #26374a;
-      color: #ffffff;
-      border-color: #26374a;
-    }
-    section.live-status {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-      gap: 1.5rem;
-    }
-    article {
-      border-width: 2px !important;
-      border-radius: 10px !important;
-      box-shadow: 0 12px 24px rgba(17, 39, 68, 0.08);
-      background-color: #ffffff;
-    }
-    article h4 {
-      font-size: 1.1rem;
-      color: #26374a;
-    }
-    article h4 a {
-      color: #26374a;
-      font-weight: 600;
-    }
-    article div {
-      color: #3d3d3d;
-      font-size: 0.95rem;
-    }
-    article.up {
-      background-color: #f4fbf4;
-    }
-    article.degraded {
-      background-color: #fff7e0;
-    }
-    article.down {
-      background-color: #fdf0f0;
-    }
-    .data {
-      font-weight: 600;
-      color: #12263f;
-    }
-    footer {
-      background-color: #26374a;
-      color: #ffffff;
-      padding: 2.5rem 1.5rem 3.5rem;
-      margin-top: 4rem;
-    }
-    footer p {
-      max-width: 1200px;
-      margin: 0 auto;
-      text-align: left;
-      font-size: 0.95rem;
-      line-height: 1.7;
-    }
-    footer a {
-      color: #ffffff;
-      text-decoration: underline;
-      font-weight: 600;
-    }
-    .gcds-footer-wordmark {
-      background-color: #1b293a;
-      padding: 1.5rem 0;
-    }
-    .gcds-footer-wordmark__inner {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 0 1.5rem;
-      display: flex;
-      justify-content: flex-end;
-    }
-    .gcds-footer-wordmark__inner img {
-      height: 2.2rem;
-      filter: brightness(0) invert(1);
-    }
-    @media (max-width: 768px) {
-      nav .container {
-        flex-direction: column;
-        align-items: flex-start;
-      }
-      nav ul {
-        flex-wrap: wrap;
-        justify-content: flex-start;
-        margin-top: 0.5rem;
-      }
-      nav li a {
-        padding: 0.75rem 1rem;
-      }
-      main.container {
-        margin: 2rem 1rem;
-        padding: 2rem;
-      }
-      .gcds-context-bar span,
-      .gcds-footer-wordmark__inner {
-        padding-left: 1rem;
-        padding-right: 1rem;
-      }
-    }
-  js: |
-    document.addEventListener("DOMContentLoaded", () => {
-      const main = document.querySelector("main.container");
-      if (main && !main.id) {
-        main.id = "main-content";
-      }
-      const nav = document.querySelector("nav");
-      if (nav) {
-        nav.setAttribute("role", "navigation");
-        nav.setAttribute("aria-label", "Primary navigation");
-      }
-    });
+  - src: https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.43.1/dist/gcds/gcds.esm.js
+    type: module
+  css: ":root {\n  --body-background-color: #f5f5f5;\n  --body-text-color: #1b1b1b;\n\
+    \  --card-background-color: #ffffff;\n  --card-border-color: #d6d6d6;\n  --nav-background-color:\
+    \ #26374a;\n  --nav-border-bottom-color: #12263f;\n  --nav-current-border-bottom-color:\
+    \ #fcba19;\n  --down-border-left-color: #a8242f;\n  --down-background-color: #fbeaea;\n\
+    \  --degraded-border-left-color: #fcba19;\n  --tag-color: #1b1b1b;\n  --tag-up-background-color:\
+    \ #c8e6c9;\n  --tag-down-background-color: #fbeaea;\n  --tag-degraded-background-color:\
+    \ #fce3b0;\n  --change-background-color: rgba(252, 186, 25, 0.18);\n  --error-button-border-color:\
+    \ #26374a;\n  --error-button-background-color: #28507a;\n  --error-button-color:\
+    \ #ffffff;\n  --submit-button-border-color: #28507a;\n  --submit-button-background-color:\
+    \ #28507a;\n  --submit-button-color: #ffffff;\n  --graph-opacity: 0.9;\n  --graph-filter:\
+    \ saturate(1.05);\n}\nbody {\n  font-family: \"Noto Sans\", \"Helvetica Neue\"\
+    , Arial, sans-serif;\n  background-color: var(--body-background-color);\n  color:\
+    \ var(--body-text-color);\n}\na {\n  color: #2b4380;\n}\na:hover,\na:focus {\n\
+    \  color: #12263f;\n  text-decoration: underline;\n}\n.gcds-skip-link {\n  position:\
+    \ absolute;\n  top: -100%;\n  left: 0;\n  background-color: #26374a;\n  color:\
+    \ #ffffff;\n  padding: 0.75rem 1.5rem;\n  border-radius: 0 0 4px 4px;\n  text-decoration:\
+    \ none;\n  font-weight: 600;\n  z-index: 1000;\n}\n.gcds-skip-link:focus {\n \
+    \ top: 0;\n}\n.gcds-context-bar {\n  background-color: #ffffff;\n  border-bottom:\
+    \ 1px solid #d6d6d6;\n  font-size: 0.9rem;\n  letter-spacing: 0.04em;\n  text-transform:\
+    \ uppercase;\n  color: #5b5b5b;\n}\n.gcds-context-bar span {\n  display: block;\n\
+    \  max-width: 1200px;\n  margin: 0 auto;\n  padding: 0.5rem 1.5rem;\n  font-weight:\
+    \ 600;\n}\nnav {\n  background-color: var(--nav-background-color);\n  border-bottom:\
+    \ 4px solid var(--nav-current-border-bottom-color);\n  color: #ffffff;\n  box-shadow:\
+    \ 0 4px 18px rgba(17, 39, 68, 0.28);\n}\nnav .container {\n  max-width: 1200px;\n\
+    \  margin: 0 auto;\n  padding: 0 1.5rem;\n}\nnav .logo {\n  color: #ffffff;\n\
+    \  font-weight: 600;\n  font-size: 1.35rem;\n  letter-spacing: 0.01em;\n}\nnav\
+    \ .logo img {\n  height: 2.75rem;\n  margin-right: 1rem;\n  filter: brightness(0)\
+    \ invert(1);\n}\nnav ul {\n  gap: 0.25rem;\n}\nnav li a {\n  color: #ffffff;\n\
+    \  font-weight: 600;\n  padding: 1rem 1.25rem;\n  border-radius: 4px;\n  transition:\
+    \ background-color 0.2s ease, color 0.2s ease;\n}\nnav li a:hover,\nnav li a:focus\
+    \ {\n  background-color: rgba(255, 255, 255, 0.18);\n  color: #ffffff;\n  text-decoration:\
+    \ none;\n}\nnav li a[aria-current=\"page\"] {\n  background-color: rgba(255, 255,\
+    \ 255, 0.25);\n  box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.3);\n}\nmain.container\
+    \ {\n  max-width: 1200px;\n  margin: 3rem auto;\n  background-color: #ffffff;\n\
+    \  padding: 3rem;\n  border-radius: 12px;\n  box-shadow: 0 20px 40px rgba(38,\
+    \ 55, 74, 0.18);\n}\nmain.container header {\n  border-left: 6px solid #26374a;\n\
+    \  padding-left: 1.5rem;\n  margin-bottom: 3rem;\n}\nmain.container header h1\
+    \ {\n  font-family: \"Noto Serif\", \"Georgia\", serif;\n  font-weight: 600;\n\
+    \  color: #26374a;\n  font-size: 2.5rem;\n  line-height: 1.25;\n  margin-bottom:\
+    \ 1rem;\n}\nmain.container header .lead {\n  font-size: 1.1rem;\n  color: #353535;\n\
+    }\n.f {\n  background-color: #f0f4f8;\n  border: 1px solid #d6d6d6;\n  border-radius:\
+    \ 8px;\n  padding: 1rem 1.5rem;\n  margin-bottom: 1.5rem;\n}\n.f h2 {\n  color:\
+    \ #26374a;\n  font-size: 1.4rem;\n  font-weight: 600;\n}\n.f.r label {\n  background-color:\
+    \ #ffffff;\n  border: 1px solid #c4c4c4;\n  border-radius: 999px;\n  padding:\
+    \ 0.35rem 0.75rem;\n  font-size: 0.95rem;\n  transition: background-color 0.2s\
+    \ ease, color 0.2s ease, border-color 0.2s ease;\n}\n.f.r input:checked + label\
+    \ {\n  background-color: #26374a;\n  color: #ffffff;\n  border-color: #26374a;\n\
+    }\nsection.live-status {\n  display: grid;\n  grid-template-columns: repeat(auto-fit,\
+    \ minmax(260px, 1fr));\n  gap: 1.5rem;\n}\narticle {\n  border-width: 2px !important;\n\
+    \  border-radius: 10px !important;\n  box-shadow: 0 12px 24px rgba(17, 39, 68,\
+    \ 0.08);\n  background-color: #ffffff;\n}\narticle h4 {\n  font-size: 1.1rem;\n\
+    \  color: #26374a;\n}\narticle h4 a {\n  color: #26374a;\n  font-weight: 600;\n\
+    }\narticle div {\n  color: #3d3d3d;\n  font-size: 0.95rem;\n}\narticle.up {\n\
+    \  background-color: #f4fbf4;\n}\narticle.degraded {\n  background-color: #fff7e0;\n\
+    }\narticle.down {\n  background-color: #fdf0f0;\n}\n.data {\n  font-weight: 600;\n\
+    \  color: #12263f;\n}\nfooter {\n  background-color: #26374a;\n  color: #ffffff;\n\
+    \  padding: 2.5rem 1.5rem 3.5rem;\n  margin-top: 4rem;\n}\nfooter p {\n  max-width:\
+    \ 1200px;\n  margin: 0 auto;\n  text-align: left;\n  font-size: 0.95rem;\n  line-height:\
+    \ 1.7;\n}\nfooter a {\n  color: #ffffff;\n  text-decoration: underline;\n  font-weight:\
+    \ 600;\n}\n.gcds-footer-wordmark {\n  background-color: #1b293a;\n  padding: 1.5rem\
+    \ 0;\n}\n.gcds-footer-wordmark__inner {\n  max-width: 1200px;\n  margin: 0 auto;\n\
+    \  padding: 0 1.5rem;\n  display: flex;\n  justify-content: flex-end;\n}\n.gcds-footer-wordmark__inner\
+    \ img {\n  height: 2.2rem;\n  filter: brightness(0) invert(1);\n}\n@media (max-width:\
+    \ 768px) {\n  nav .container {\n    flex-direction: column;\n    align-items:\
+    \ flex-start;\n  }\n  nav ul {\n    flex-wrap: wrap;\n    justify-content: flex-start;\n\
+    \    margin-top: 0.5rem;\n  }\n  nav li a {\n    padding: 0.75rem 1rem;\n  }\n\
+    \  main.container {\n    margin: 2rem 1rem;\n    padding: 2rem;\n  }\n  .gcds-context-bar\
+    \ span,\n  .gcds-footer-wordmark__inner {\n    padding-left: 1rem;\n    padding-right:\
+    \ 1rem;\n  }\n}\n"
+  js: "document.addEventListener(\"DOMContentLoaded\", () => {\n  const main = document.querySelector(\"\
+    main.container\");\n  if (main && !main.id) {\n    main.id = \"main-content\"\
+    ;\n  }\n  const nav = document.querySelector(\"nav\");\n  if (nav) {\n    nav.setAttribute(\"\
+    role\", \"navigation\");\n    nav.setAttribute(\"aria-label\", \"Primary navigation\"\
+    );\n  }\n});\n"
 workflowSchedule:
   graphs: 0 0 * * *
   responseTime: 0 23 * * *
