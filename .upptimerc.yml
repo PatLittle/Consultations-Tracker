@@ -357,8 +357,6 @@ status-website:
 
     '
   navbar:
-  - title: Dashboard
-    href: /
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
     target: _blank
@@ -378,8 +376,7 @@ status-website:
     />
 
     '
-  customBodyHtml: "<a class=\"gcds-skip-link\" href=\"#main-content\">Skip to main\
-    \ content</a>\n<div class=\"gcds-context-bar\">\n  <span>Government of Canada\
+  customBodyHtml: "<div class=\"gcds-context-bar\">\n  <span>Government of Canada\
     \ · Gouvernement du Canada</span>\n</div>\n"
   customFootHtml: "<div class=\"gcds-footer-wordmark\" role=\"presentation\">\n  <div\
     \ class=\"gcds-footer-wordmark__inner\">\n    <img src=\"https://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg\"\
