@@ -1,4 +1,6 @@
 import hashlib
+from urllib.error import URLError
+
 import pandas as pd
 from datetime import datetime, timedelta
 
@@ -6,7 +8,12 @@ from datetime import datetime, timedelta
 csv_url = 'https://open.canada.ca/data/en/datastore/dump/92bec4b7-6feb-4215-a5f7-61da342b2354'  # Replace with the actual URL if necessary
 
 # Read the CSV file into a DataFrame.
-df = pd.read_csv(csv_url)
+try:
+    df = pd.read_csv(csv_url)
+    data_from_remote = True
+except URLError:
+    df = pd.read_csv('consultations_chng_log.csv')
+    data_from_remote = False
 
 
 # Calculate the hash of each row (excluding the hash and timestamp columns if they already exist)
@@ -25,30 +32,33 @@ cols = ['composite_key'] + [col for col in df.columns if col != 'composite_key']
 df = df[cols]
 
 # Check if the log file exists. If not, create it with the current data.
-try:
-    existing_df = pd.read_csv('consultations_chng_log.csv')
-except FileNotFoundError:
-    df.to_csv('consultations_chng_log.csv', index=False)
-    print("Log file created.")
-    # No need to append if the file didn't exist
-    newly_appended_rows = pd.DataFrame()
-    appended_count = 0
-else:
-    # Identify rows in the new DataFrame that are not present in the existing log file
-    # using the 'hash' and 'composite_key' columns
-    merged_df = df.merge(existing_df[['composite_key', 'hash']], on=['composite_key', 'hash'], how='left', indicator=True)
-    rows_to_append = merged_df[merged_df['_merge'] == 'left_only'].drop(columns='_merge')
-
-    # Append the new rows to the existing log file
-    if not rows_to_append.empty:
-        rows_to_append.to_csv('consultations_chng_log.csv', mode='a', header=False, index=False)
-        print(f"{len(rows_to_append)} new rows appended to consultations_chng_log.csv")
-        newly_appended_rows = rows_to_append
-        appended_count = len(rows_to_append)
-    else:
-        print("No new rows to append.")
+if data_from_remote:
+    try:
+        existing_df = pd.read_csv('consultations_chng_log.csv')
+    except FileNotFoundError:
+        df.to_csv('consultations_chng_log.csv', index=False)
+        print("Log file created.")
         newly_appended_rows = pd.DataFrame()
         appended_count = 0
+    else:
+        # Identify rows in the new DataFrame that are not present in the existing log file
+        # using the 'hash' and 'composite_key' columns
+        merged_df = df.merge(existing_df[['composite_key', 'hash']], on=['composite_key', 'hash'], how='left', indicator=True)
+        rows_to_append = merged_df[merged_df['_merge'] == 'left_only'].drop(columns='_merge')
+
+        # Append the new rows to the existing log file
+        if not rows_to_append.empty:
+            rows_to_append.to_csv('consultations_chng_log.csv', mode='a', header=False, index=False)
+            print(f"{len(rows_to_append)} new rows appended to consultations_chng_log.csv")
+            newly_appended_rows = rows_to_append
+            appended_count = len(rows_to_append)
+        else:
+            print("No new rows to append.")
+            newly_appended_rows = pd.DataFrame()
+            appended_count = 0
+else:
+    newly_appended_rows = pd.DataFrame()
+    appended_count = 0
 
 print("\nNewly appended rows (if any):")
 print(newly_appended_rows)
@@ -69,140 +79,214 @@ subset_df = df[['registration_number', 'title_en', 'start_date', 'end_date', 'st
 # 1. Consultations starting between m5 and p5.
 p5m5_start_df = subset_df[subset_df['start_date'].dt.date.between(m5, p5)]
 p5m5_start_df = p5m5_start_df.sort_values(by='start_date', ascending=False)
-html_p5m5_start = p5m5_start_df.to_html(index=False, classes="table table-striped")
+html_p5m5_start = p5m5_start_df.to_html(index=False, classes="data-table", border=0)
 p5m5_start_df.to_csv("p5m5_start.csv", index=False)
 
 # 2. Consultations ending between m5 and p5.
 p5m5_close_df = subset_df[subset_df['end_date'].dt.date.between(m5, p5)]
 p5m5_close_df = p5m5_close_df.sort_values(by='end_date', ascending=False)
-html_p5m5_close = p5m5_close_df.to_html(index=False, classes="table table-striped")
+html_p5m5_close = p5m5_close_df.to_html(index=False, classes="data-table", border=0)
 p5m5_close_df.to_csv("p5m5_close.csv", index=False)
 
 # 3. Late closing consultations (status 'O' and end_date before today).
 late_close_df = subset_df[(subset_df['status'] == 'O') & (subset_df['end_date'].dt.date < today)]
 late_close_df = late_close_df.sort_values(by='end_date', ascending=False)
-html_late_close = late_close_df.to_html(index=False, classes="table table-striped")
+html_late_close = late_close_df.to_html(index=False, classes="data-table", border=0)
 late_close_df.to_csv("late_close.csv", index=False)
 
 # 4. Early closing consultations (status 'C' and end_date after today).
 early_close_df = subset_df[(subset_df['status'] == 'C') & (subset_df['end_date'].dt.date > today)]
 early_close_df = early_close_df.sort_values(by='end_date', ascending=False)
-html_early_close = early_close_df.to_html(index=False, classes="table table-striped")
+html_early_close = early_close_df.to_html(index=False, classes="data-table", border=0)
 early_close_df.to_csv("early_close.csv", index=False)
 
 # 5. Late starting consultations (status 'P' and start_date before today).
 late_start_df = subset_df[(subset_df['status'] == 'P') & (subset_df['start_date'].dt.date < today)]
 late_start_df = late_start_df.sort_values(by='start_date', ascending=False)
-html_late_start = late_start_df.to_html(index=False, classes="table table-striped")
+html_late_start = late_start_df.to_html(index=False, classes="data-table", border=0)
 late_start_df.to_csv("late_start.csv", index=False)
 
 # Create the final HTML page by injecting the tables into a template.
-html_template = f"""
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
+generated_datetime = datetime.now()
+generated_datetime_str = generated_datetime.strftime("%Y-%m-%d %H:%M:%S")
+generated_date_str = generated_datetime.strftime("%Y-%m-%d")
+range_start_str = m5.strftime("%Y-%m-%d")
+range_end_str = p5.strftime("%Y-%m-%d")
+
+html_template = f"""<!DOCTYPE html>
+<html dir="ltr" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Consultations Tracker report summarizing upcoming consultation activity."
+    />
     <title>Consultations Tracker Report</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Integrate with existing CSS -->
-    <link href="https://PatLittle.github.io/Consultations-Tracker/global.css" rel="stylesheet">
-    <link href="https://PatLittle.github.io/Consultations-Tracker/themes/night.css" rel="stylesheet">
+    <link
+      rel="stylesheet"
+      href="https://cdn.design-system.alpha.canada.ca/@gcds-core/css-shortcuts@1.0.1/dist/gcds-css-shortcuts.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.43.1/dist/gcds/gcds.css"
+    />
+    <script
+      type="module"
+      src="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.43.1/dist/gcds/gcds.esm.js"
+    ></script>
     <style>
-      /* Additional styling for our report */
-      body {{ padding: 20px; font-family: Arial, sans-serif; }}
-      table {{ width: 100%; border-collapse: collapse; margin-bottom: 20px; }}
-      th, td {{ padding: 8px; border: 1px solid #ddd; text-align: left; }}
-      th {{ padding-top: 12px; padding-bottom: 12px; text-align: left; background-color: #04AA6D; color: white; }}
-      tr:nth-child(even) {{ background-color: #f2f2f2; color: black; }}
-      tr:hover {{background-color: #ddd;}}
-      h2 {{ margin-top: 40px; }}
-      header, footer {{ text-align: center; margin-bottom: 40px; }}
-      .anchor-link {{ text-decoration: none; margin-left: 8px; color: #555; }}
-      .topnav {{ overflow: hidden; background-color: #333; }}
-      .topnav a {{ float: left; color: #f2f2f2; text-align: center; padding: 14px 16px;  text-decoration: none;  font-size: 17px; }}
-      .topnav a:hover {{ background-color: #ddd; color: black; }}
-      .topnav a.active {{ background-color: #04AA6D; color: white; }}
+      .table-wrapper {{
+        overflow-x: auto;
+        margin-block: 1.5rem;
+      }}
+
+      table {{
+        width: 100%;
+        border-collapse: collapse;
+        min-width: 640px;
+      }}
+
+      th,
+      td {{
+        padding: 0.75rem;
+        border: 1px solid #d6d6d6;
+        text-align: left;
+      }}
+
+      th {{
+        background-color: #26374a;
+        color: #ffffff;
+      }}
+
+      tr:nth-child(even) {{
+        background-color: #f5f5f5;
+      }}
+
+      nav ul {{
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+      }}
+
+      nav li {{
+        margin: 0;
+      }}
+
+      nav gcds-link {{
+        text-decoration: none;
+      }}
     </style>
-</head>
-<body>
-    <div class="topnav">
-      <a class="active" href="https://patlittle.github.io/Consultations-Tracker/report.html">Consultations Tracker Report</a>
-      <a href="https://patlittle.github.io/Consultations-Tracker/changelog.html">Consultations Change Log Report</a>
-      <a href="https://patlittle.github.io/Consultations-Tracker">Web Monitoring</a>
-      <a href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d">Open Data</a>
-      <a href="https://www.canada.ca/en/government/system/consultations/consultingcanadians.html">Consulting with Canadians</a>
-    </div>
-    <header>
-        <h1>Consultations Tracker Report</h1>
-        <p>Report generated on {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}</p>
-    </header>
-
-    <!-- Table of Contents -->
-    <nav>
-      <ul>
-        <li><a href="#consultations-starting">Consultations Starting Between {m5} and {p5}</a></li>
-        <li><a href="#consultations-ending">Consultations Ending Between {m5} and {p5}</a></li>
-        <li><a href="#late-closing">Late Closing Consultations (Status 'O')</a></li>
-        <li><a href="#early-closing">Early Closing Consultations (Status 'C')</a></li>
-        <li><a href="#late-starting">Late Starting Consultations (Status 'P')</a></li>
-      </ul>
-    </nav>
-
-    <section id="consultations-starting">
-        <h2>🆕🔜Consultations Starting Between {m5} and {p5}
-          <a href="#consultations-starting" class="anchor-link">🔗</a>
-        </h2>
-        {html_p5m5_start}
-    </section>
-
-    <section id="consultations-ending">
-        <h2>⌛🔚Consultations Ending Between {m5} and {p5}
-          <a href="#consultations-ending" class="anchor-link">🔗</a>
-        </h2>
-        {html_p5m5_close}
-    </section>
-
-    <section id="late-closing">
-        <h2>😴Late Closing Consultations (Status 'O')
-          <a href="#late-closing" class="anchor-link">🔗</a>
-        </h2>
-        {html_late_close}
-    </section>
-
-    <section id="early-closing">
-        <h2>🏎️Early Closing Consultations (Status 'C')
-          <a href="#early-closing" class="anchor-link">🔗</a>
-        </h2>
-        {html_early_close}
-    </section>
-
-    <section id="late-starting">
-        <h2>🐌Late Starting Consultations (Status 'P')
-          <a href="#late-starting" class="anchor-link">🔗</a>
-        </h2>
-        {html_late_start}
-    </section>
-
-    <footer>
-        <p>Consultations Tracker Report</p>
-        <div class="license" data-license-id="OGL-Canada-2.0">
-            <div class="">
-                <h3>
-                    <a href="https://open.canada.ca/en/open-government-licence-canada" class="tmpl-title">Open Government License 2.0 (Canada)</a>
-                    <a href="https://licenses.opendefinition.org/licenses/OGL-Canada-2.0.json" class="tmpl-title">🤖</a>
-                    <div class="icons">
-                        <a href="https://opendefinition.org/od/" title="Open Data" class="open-icon">
-                          <img src="https://assets.okfn.org/images/ok_buttons/od_80x15_blue.png" alt="Open Data">
-                        </a>
-                        <a href="https://opendefinition.org/od/" title="Open Data" class="open-icon">
-                          <img src="https://assets.okfn.org/images/ok_buttons/oc_80x15_red_green.png" alt="Open Data">
-                        </a>
-                    </div>
-                </h3>
-            </div>
+  </head>
+  <body>
+    <gcds-header
+      lang-href="https://patlittle.github.io/Consultations-Tracker/report.html"
+      skip-to-href="#main-content"
+    >
+      <gcds-breadcrumbs slot="breadcrumb">
+        <gcds-breadcrumbs-item href="https://patlittle.github.io/Consultations-Tracker/">
+          Consultations Tracker
+        </gcds-breadcrumbs-item>
+        <gcds-breadcrumbs-item href="https://patlittle.github.io/Consultations-Tracker/report.html">
+          Report
+        </gcds-breadcrumbs-item>
+      </gcds-breadcrumbs>
+    </gcds-header>
+    <gcds-container
+      id="main-content"
+      main-container
+      size="xl"
+      centered
+      tag="main"
+    >
+      <section>
+        <gcds-heading tag="h1">Consultations Tracker Report</gcds-heading>
+        <gcds-text>
+          Report generated on {generated_datetime_str}. Explore the sections below for
+          details about consultations starting, ending, and changing statuses.
+        </gcds-text>
+        <nav aria-label="Consultations Tracker navigation">
+          <ul>
+            <li>
+              <gcds-link href="#consultations-starting">
+                Consultations Starting Between {range_start_str} and {range_end_str}
+              </gcds-link>
+            </li>
+            <li>
+              <gcds-link href="#consultations-ending">
+                Consultations Ending Between {range_start_str} and {range_end_str}
+              </gcds-link>
+            </li>
+            <li>
+              <gcds-link href="#late-closing">
+                Late Closing Consultations (Status 'O')
+              </gcds-link>
+            </li>
+            <li>
+              <gcds-link href="#early-closing">
+                Early Closing Consultations (Status 'C')
+              </gcds-link>
+            </li>
+            <li>
+              <gcds-link href="#late-starting">
+                Late Starting Consultations (Status 'P')
+              </gcds-link>
+            </li>
+          </ul>
+        </nav>
+      </section>
+      <section id="consultations-starting">
+        <gcds-heading tag="h2">
+          🆕🔜Consultations Starting Between {range_start_str} and {range_end_str}
+        </gcds-heading>
+        <div class="table-wrapper">
+          {html_p5m5_start}
         </div>
-    </footer>
-</body>
+      </section>
+      <section id="consultations-ending">
+        <gcds-heading tag="h2">
+          ⌛🔚Consultations Ending Between {range_start_str} and {range_end_str}
+        </gcds-heading>
+        <div class="table-wrapper">
+          {html_p5m5_close}
+        </div>
+      </section>
+      <section id="late-closing">
+        <gcds-heading tag="h2">
+          😴Late Closing Consultations (Status 'O')
+        </gcds-heading>
+        <div class="table-wrapper">
+          {html_late_close}
+        </div>
+      </section>
+      <section id="early-closing">
+        <gcds-heading tag="h2">
+          🏎️Early Closing Consultations (Status 'C')
+        </gcds-heading>
+        <div class="table-wrapper">
+          {html_early_close}
+        </div>
+      </section>
+      <section id="late-starting">
+        <gcds-heading tag="h2">
+          🐌Late Starting Consultations (Status 'P')
+        </gcds-heading>
+        <div class="table-wrapper">
+          {html_late_start}
+        </div>
+      </section>
+      <gcds-date-modified>{generated_date_str}</gcds-date-modified>
+    </gcds-container>
+    <gcds-footer
+      display="full"
+      contextual-heading="Consultations Tracker"
+      contextual-links='{{"Consultations Tracker Report":"https://patlittle.github.io/Consultations-Tracker/report.html","Consultations Change Log Report":"https://patlittle.github.io/Consultations-Tracker/changelog.html","Consulting with Canadians":"https://www.canada.ca/en/government/system/consultations/consultingcanadians.html"}}'
+    >
+    </gcds-footer>
+  </body>
 </html>
 """
 
@@ -211,76 +295,108 @@ with open("report.html", "w", encoding="utf-8") as f:
     f.write(html_template)
 
 # Create the final HTML page by injecting the tables into a template.
-chng_log_template = f"""
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
+chng_log_template = f"""<!DOCTYPE html>
+<html dir="ltr" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Change log view of consultation updates sourced from the Consultations Tracker."
+    />
     <title>Consultations Change Log Report</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Integrate with existing CSS -->
-    <link href="https://PatLittle.github.io/Consultations-Tracker/global.css" rel="stylesheet">
-    <link href="https://PatLittle.github.io/Consultations-Tracker/themes/night.css" rel="stylesheet">
+    <link
+      rel="stylesheet"
+      href="https://cdn.design-system.alpha.canada.ca/@gcds-core/css-shortcuts@1.0.1/dist/gcds-css-shortcuts.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.43.1/dist/gcds/gcds.css"
+    />
+    <script
+      type="module"
+      src="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.43.1/dist/gcds/gcds.esm.js"
+    ></script>
     <style>
-      /* Additional styling for our report */
-      body {{ padding: 20px; font-family: Arial, sans-serif; }}
-      table {{ width: 100%; border-collapse: collapse; margin-bottom: 20px; }}
-      th, td {{ padding: 8px; border: 1px solid #ddd; text-align: left; }}
-      th {{ padding-top: 12px; padding-bottom: 12px; text-align: left; background-color: #04AA6D; color: white; }}
-      tr:nth-child(even) {{ background-color: #f2f2f2; color: black; }}
-      tr:hover {{background-color: #ddd;}}
-      h2 {{ margin-top: 40px; }}
-      header, footer {{ text-align: center; margin-bottom: 40px; }}
-      .anchor-link {{ text-decoration: none; margin-left: 8px; color: #555; }}
-      .topnav {{ overflow: hidden; background-color: #333; }}
-      .topnav a {{ float: left; color: #f2f2f2; text-align: center; padding: 14px 16px;  text-decoration: none;  font-size: 17px; }}
-      .topnav a:hover {{ background-color: #ddd; color: black; }}
-      .topnav a.active {{ background-color: #04AA6D; color: white; }}
-      iframe {{
-            width: 90vw;
-            height: 90vh;
-            border: none;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }}
+      .iframe-wrapper {{
+        margin-block-start: 2rem;
+      }}
+
+      .iframe-wrapper iframe {{
+        width: 100%;
+        min-height: 70vh;
+        border: none;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }}
     </style>
-</head>
-<body>
-    <div class="topnav">
-      <a class="active" href="https://patlittle.github.io/Consultations-Tracker/changelog.html">Consultations Change Log Report</a>
-      <a href="https://patlittle.github.io/Consultations-Tracker/report.html">Consultations Tracker Report</a>
-      <a href="https://patlittle.github.io/Consultations-Tracker">Web Monitoring</a>
-      <a href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d">Open Data</a>
-      <a href="https://www.canada.ca/en/government/system/consultations/consultingcanadians.html">Consulting with Canadians</a>
-    </div>
-    <header>
-        <h1>Consultations Change Log Report</h1>
-        <p>Report generated on {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}</p>
-    </header>
-
-    
-    <iframe src="https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/consultations_chng_log.csv?filename=consultations_chng_log.csv&sort=row_chng_datetime%2Cdesc&stickyColumnName=row_chng_datetime" title="Consultations Tracker"></iframe>
-
-
-    <footer>
-        <p>Consultations Change Log Report</p>
-        <div class="license" data-license-id="OGL-Canada-2.0">
-            <div class="">
-                <h3>
-                    <a href="https://open.canada.ca/en/open-government-licence-canada" class="tmpl-title">Open Government License 2.0 (Canada)</a>
-                    <a href="https://licenses.opendefinition.org/licenses/OGL-Canada-2.0.json" class="tmpl-title">🤖</a>
-                    <div class="icons">
-                        <a href="https://opendefinition.org/od/" title="Open Data" class="open-icon">
-                          <img src="https://assets.okfn.org/images/ok_buttons/od_80x15_blue.png" alt="Open Data">
-                        </a>
-                        <a href="https://opendefinition.org/od/" title="Open Data" class="open-icon">
-                          <img src="https://assets.okfn.org/images/ok_buttons/oc_80x15_red_green.png" alt="Open Data">
-                        </a>
-                    </div>
-                </h3>
-            </div>
-        </div>
-    </footer>
-</body>
+  </head>
+  <body>
+    <gcds-header
+      lang-href="https://patlittle.github.io/Consultations-Tracker/changelog.html"
+      skip-to-href="#main-content"
+    >
+      <gcds-breadcrumbs slot="breadcrumb">
+        <gcds-breadcrumbs-item href="https://patlittle.github.io/Consultations-Tracker/">
+          Consultations Tracker
+        </gcds-breadcrumbs-item>
+        <gcds-breadcrumbs-item href="https://patlittle.github.io/Consultations-Tracker/changelog.html">
+          Change Log Report
+        </gcds-breadcrumbs-item>
+      </gcds-breadcrumbs>
+    </gcds-header>
+    <gcds-container
+      id="main-content"
+      main-container
+      size="xl"
+      centered
+      tag="main"
+    >
+      <section>
+        <gcds-heading tag="h1">Consultations Change Log Report</gcds-heading>
+        <gcds-text>
+          Report generated on {generated_datetime_str}. Review the embedded table to see the
+          latest updates to consultation records, ordered by the most recent change first.
+        </gcds-text>
+        <gcds-text>
+          Use the navigation links below to move between resources related to the Consultations
+          Tracker initiative.
+        </gcds-text>
+        <gcds-button-group justify="start">
+          <gcds-button
+            href="https://patlittle.github.io/Consultations-Tracker/report.html"
+            variant="primary"
+          >
+            Consultations Tracker Report
+          </gcds-button>
+          <gcds-button
+            href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d"
+            variant="secondary"
+          >
+            Source Open Data Set
+          </gcds-button>
+          <gcds-button
+            href="https://www.canada.ca/en/government/system/consultations/consultingcanadians.html"
+            variant="secondary"
+          >
+            Consulting with Canadians
+          </gcds-button>
+        </gcds-button-group>
+      </section>
+      <section class="iframe-wrapper">
+        <iframe
+          src="https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/consultations_chng_log.csv?filename=consultations_chng_log.csv&sort=row_chng_datetime%2Cdesc&stickyColumnName=row_chng_datetime"
+          title="Consultations Tracker change log table"
+        ></iframe>
+      </section>
+      <gcds-date-modified>{generated_date_str}</gcds-date-modified>
+    </gcds-container>
+    <gcds-footer
+      display="full"
+      contextual-heading="Consultations Tracker"
+      contextual-links='{{"Consultations Tracker Report":"https://patlittle.github.io/Consultations-Tracker/report.html","Consultations Change Log Report":"https://patlittle.github.io/Consultations-Tracker/changelog.html","Consulting with Canadians":"https://www.canada.ca/en/government/system/consultations/consultingcanadians.html"}}'
+    >
+    </gcds-footer>
+  </body>
 </html>
 """
 
