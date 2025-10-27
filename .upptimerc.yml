@@ -5,10 +5,6 @@ sites:
   url: https://www.rcaanc-cirnac.gc.ca/eng/1511969222951/1529103469169
 - name: Administrative Monetary Penalty System Review
   url: https://www.cbsa-asfc.gc.ca/trade-commerce/amps/menu-eng.html
-- name: Acessibility External Questionnaire
-  url: https://www.cbsa-asfc.gc.ca/accessibility-accessibilite/menu-eng.html
-- name: Accesibility Internal Questionnaire
-  url: http://atlas/hrb-dgrh/res/eed/accessibility_accessibilite_eng.asp
 - name: Consultation on the use of the customs broker business number (BN) following
     importer of record regulatory legislative changes
   url: https://www.cbsa-asfc.gc.ca/agency-agence/consult/consultations/2025-1-eng.html
@@ -142,9 +138,6 @@ sites:
 - name: Consultation on isofetamid 400SC Fungicide, containing isofetamid, Proposed
     Registration Decision PRD2025-09
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2025/sofetamid-400-sc-fungicide.html
-- name: Consultation on Trichoderma asperellum strain T34 and Asperello T34 Biocontrol,
-    Proposed Registration Decision PRD2025-10
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2025/trichoderma-asperellum-strain-t34-asperello-biocontrol.html
 - name: Consultation on iron (present as Ferric Sodium EDTA Trihydrate) and associated
     end-use products, Proposed Re-evaluation Decision PRVD2025-08
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/iron-present-ferric-sodium-edta-trihydrate.html
