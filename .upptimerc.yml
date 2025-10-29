@@ -102,9 +102,6 @@ sites:
 - name: Consulting Canadians on the operation of the Canada-United States-Mexico Agreement
     (CUSMA)
   url: https://international.canada.ca/en/global-affairs/consultations/trade/2025-09-19-cusma
-- name: 'Consultation: Classification of topical products containing human-derived
-    exosomes, human extracellular vesicles, and/or human cell-conditioned media'
-  url: https://www.canada.ca/en/health-canada/programs/consultation-classification-topical-products-containing-human-derived-exosomes-extracellular-vesicles-cell-conditioned-media.html
 - name: Consultation on metamitron, Proposed Maximum Residue Limit PMRL2025-15
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/metamitron.html
 - name: Consultation on inpyrfluxam, Proposed Maximum Residue Limit PMRL2025-16
@@ -165,13 +162,6 @@ sites:
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
-- name: Riverside Generating Station Project
-  url: https://iaac-aeic.gc.ca/050/evaluations/document/163195?culture=en-CA
-- name: Riverside Generating Station Project
-  url: https://iaac-aeic.gc.ca/050/evaluations/document/163219?culture=en-CA
-- name: Contrecoeur Port Terminal Expansion ProjectPublic NoticePublic Comments Invited
-    on Proposed Amendments to the Decision Statement
-  url: https://iaac-aeic.gc.ca/050/evaluations/document/163328?culture=en-CA
 - name: Indian Oil and Gas Regulations - Phase II
   url: http://www.pgic-iogc.gc.ca/eng/1471964522302/1471964567990
 - name: Indigenous Procurement Modernization (including Procurement Strategy for Aboriginal
