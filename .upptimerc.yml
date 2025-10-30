@@ -110,8 +110,6 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/picarbutrazox.html
 - name: Consultation on triallate, Proposed Maximum Residue Limit PMRL2025-18
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/triallate.html
-- name: Consultation on potential amendments to the Cannabis Tracking System Order
-  url: https://www.canada.ca/en/health-canada/programs/consultation-potential-amendments-cannabis-tracking-system-order.html
 - name: Consultation on cyclobutrifluram, Proposed Maximum Residue Limit PMRL2025-19
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/cyclobutrifluram.html
 - name: Consultation on fluoxapiprolin, Proposed Maximum Residue Limit PMRL2025-20
@@ -290,6 +288,13 @@ sites:
   url: https://www.statcan.gc.ca/en/consultation/2025/crdc
 - name: Contribute to Statistics Canada's Web modernization Journey
   url: https://www.statcan.gc.ca/en/consultation/2025/web-modernization-journey
+- name: Share your feedback on Census of Environment products
+  url: https://www.statcan.gc.ca/en/consultation/2025/census-environment-products
+- name: Share your experiences with the Labour Force Survey
+  url: https://www.statcan.gc.ca/en/consultation/2025/labour-force-survey
+- name: Contribute to Statistics Canada’s consultative engagement on the Residential
+    Building Occupancy Project
+  url: https://www.statcan.gc.ca/en/consultation/2025/rbo
 - name: Watchlist 2020 mid-cycle consultation with industry
   url: https://www.tsb.gc.ca/eng/qui-about/relation.html
 - name: Watchlist 2025 mid-cycle consultations with industry
