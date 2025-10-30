@@ -33,6 +33,8 @@ sites:
   url: https://www.canada.ca/en/canadian-heritage/campaigns/renewal-museum-policy.html
 - name: REGDOC-3.2.2, Indigenous Engagement
   url: https://www.cnsc-ccsn.gc.ca/eng/acts-and-regulations/regulatory-documents/history/regdoc3-2-2/
+- name: REGDOC-2.13.2, Import and Export
+  url: https://www.cnsc-ccsn.gc.ca/eng/acts-and-regulations/regulatory-documents/history/regdoc2-13-2/
 - name: Co-development of a new Indigenous Broadcasting Policy
   url: https://crtc.gc.ca/eng/archive/2019/2019-217.htm
 - name: Share your thoughts about closed captioning of programming from online streaming
@@ -157,6 +159,9 @@ sites:
 - name: Consultation on rectified clove leaf oil and DECCO 070 EC, Proposed Registration
     Decision PRD2025-13
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2025/rectified-clove-leaf-oil-decco-070-ec.html
+- name: Consultation on iodosulfuron-methyl-sodium and its associated end-use product,
+    Proposed Re-evaluation Decision PRVD2025-10
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/iodosulfuron-methyl-sodium.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
