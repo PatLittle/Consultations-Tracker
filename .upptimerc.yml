@@ -50,8 +50,6 @@ sites:
   url: https://crtc.gc.ca/eng/consultation/resilienctele.htm
 - name: Volume-Related Composite Price Index Consultation, 2025
   url: https://otc-cta.gc.ca/eng/consultation/volume-related-composite-price-index-consultation-2025
-- name: 'TRC Call to Action 66: Moving from Pilot Project to Long-Term Implementation'
-  url: Not available
 - name: National Infrastructure Assessment
   url: https://www.infrastructure.gc.ca/nia-eni/index-eng.html
 - name: 'Share your ideas: Blackwater Project'
@@ -124,9 +122,6 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/cyclobutrifluram.html
 - name: Consultation on fluoxapiprolin, Proposed Maximum Residue Limit PMRL2025-20
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/fluoxapiprolin.html
-- name: 'Consultation: Guidance document updates for Good Pharmacovigilance Practices
-    (GVP) inspections'
-  url: https://www.canada.ca/en/health-canada/programs/consultation-guidance-document-updates-good-pharmacovigilance-practices-gvp-inspections.html
 - name: 'Consultation: Adding melatonin for sleep-related use in the pediatric population
     to the Prescription Drug List'
   url: https://www.canada.ca/en/health-canada/programs/consultation-adding-melatonin-sleep-related-use-pediatric-population-prescription-drug-list.html
@@ -327,9 +322,17 @@ sites:
   url: TBD
 - name: Canadian Marine Advisory Council - Fall 2025
   url: https://tc.canada.ca/en/marine/canadian-marine-advisory-council-cmac-engagement-opportunity-marine-safety-security-regulations#canada_gazette_1
-- name: Changing the Saskatoon International Airport Zoning Regulations
-  url: https://tc.canada.ca/en/corporate-services/consultations/changing-saskatoon-international-airport-zoning-regulations
 - name: Commercial Air Services Standards Omnibus Package
+  url: https://NA
+- name: Consultation to fuel Transport Canada’s Accessibility plan 2026-2028
+  url: https://NA
+- name: 'PICA 2025-001: Use of Foreign Ex-Military Aircraft in Canadian Commercial
+    Aviation'
+  url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/npaapmr.aspx?id=3064&GoCTemplateCulture=en-CA
+- name: NPA 2025-005 - Simultaneous Independent Parallel Instrument Approaches – Closely
+    Spaced Parallel Operations (CSPO) / Precision Runway Monitor (PRM)
+  url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/npaapmr.aspx?id=3062&GoCTemplateCulture=en-CA
+- name: Canadian experience with vehicle headlights and glare during night-time driving
   url: https://NA
 - name: Creating Canada’s 6th  National Action Plan on Open Government
   url: https://letstalkopengovernment.ca/
