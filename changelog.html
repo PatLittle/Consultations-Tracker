@@ -31,6 +31,30 @@
         border: none;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
       }
+
+      .page-layout {
+        display: grid;
+        gap: 2rem;
+      }
+
+      @media (min-width: 64em) {
+        .page-layout {
+          grid-template-columns: minmax(220px, 280px) 1fr;
+        }
+      }
+
+      .side-nav {
+        position: sticky;
+        top: 2rem;
+      }
+
+      gcds-side-nav {
+        display: block;
+      }
+
+      .page-content > section + section {
+        margin-block-start: 2rem;
+      }
     </style>
   </head>
   <body>
@@ -54,50 +78,47 @@
       centered
       tag="main"
     >
-      <section>
-        <gcds-heading tag="h1">Consultations Change Log Report</gcds-heading>
-        <gcds-text>
-          Report generated on 2025-11-03 06:17:47. Review the embedded table to see the
-          latest updates to consultation records, ordered by the most recent change first.
-        </gcds-text>
-        <gcds-text>
-          Use the navigation links below to move between resources related to the Consultations
-          Tracker initiative.
-        </gcds-text>
-        <gcds-button-group justify="start">
-          <gcds-button
-            href="https://patlittle.github.io/Consultations-Tracker/report.html"
-            variant="primary"
-          >
-            Consultations Tracker Report
-          </gcds-button>
-          <gcds-button
-            href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d"
-            variant="secondary"
-          >
-            Source Open Data Set
-          </gcds-button>
-          <gcds-button
-            href="https://www.canada.ca/en/government/system/consultations/consultingcanadians.html"
-            variant="secondary"
-          >
-            Consulting with Canadians
-          </gcds-button>
-        </gcds-button-group>
-      </section>
-      <section class="iframe-wrapper">
-        <iframe
-          src="https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/consultations_chng_log.csv?filename=consultations_chng_log.csv&sort=row_chng_datetime%2Cdesc&stickyColumnName=row_chng_datetime"
-          title="Consultations Tracker change log table"
-        ></iframe>
-      </section>
-      <gcds-date-modified>2025-11-03</gcds-date-modified>
+      <div class="page-layout">
+        <aside class="side-nav" aria-label="Consultations Tracker navigation">
+          <gcds-side-nav label="Consultations Tracker navigation">
+            <gcds-nav-link href="https://patlittle.github.io/Consultations-Tracker/report.html">
+              Consultations Tracker Report
+            </gcds-nav-link>
+            <gcds-nav-link
+              href="https://patlittle.github.io/Consultations-Tracker/changelog.html"
+              current
+            >
+              Change Log Report
+            </gcds-nav-link>
+            <gcds-nav-link href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d">
+              Source Open Data Set
+            </gcds-nav-link>
+            <gcds-nav-link href="https://www.canada.ca/en/government/system/consultations/consultingcanadians.html">
+              Consulting with Canadians
+            </gcds-nav-link>
+          </gcds-side-nav>
+        </aside>
+        <div class="page-content">
+          <section>
+            <gcds-heading tag="h1">Consultations Change Log Report</gcds-heading>
+            <gcds-text>
+              Report generated on 2025-11-03 06:17:47. Review the embedded table to see the
+              latest updates to consultation records, ordered by the most recent change first.
+            </gcds-text>
+            <gcds-text>
+              Use the side navigation to access related resources for the Consultations Tracker initiative.
+            </gcds-text>
+          </section>
+          <section class="iframe-wrapper">
+            <iframe
+              src="https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/consultations_chng_log.csv?filename=consultations_chng_log.csv&sort=row_chng_datetime%2Cdesc&stickyColumnName=row_chng_datetime"
+              title="Consultations Tracker change log table"
+            ></iframe>
+          </section>
+          <gcds-date-modified>2025-11-03</gcds-date-modified>
+        </div>
+      </div>
     </gcds-container>
-    <gcds-footer
-      display="full"
-      contextual-heading="Consultations Tracker"
-      contextual-links='{"Consultations Tracker Report":"https://patlittle.github.io/Consultations-Tracker/report.html","Consultations Change Log Report":"https://patlittle.github.io/Consultations-Tracker/changelog.html","Consulting with Canadians":"https://www.canada.ca/en/government/system/consultations/consultingcanadians.html"}'
-    >
-    </gcds-footer>
+    <gcds-footer display="full"></gcds-footer>
   </body>
 </html>
