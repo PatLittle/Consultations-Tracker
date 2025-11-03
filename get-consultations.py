@@ -1,6 +1,8 @@
+import re
+from datetime import datetime, time, timedelta
+
 import pandas as pd
 import yaml
-from datetime import datetime, time, timedelta
 
 # Path to the uploaded YAML file
 yaml_file_path = '/home/runner/work/Consultations-Tracker/Consultations-Tracker/.upptimerc.yml'  # Replace with your actual YAML file path
@@ -8,12 +10,53 @@ yaml_file_path = '/home/runner/work/Consultations-Tracker/Consultations-Tracker/
 # URL of the CSV file
 csv_url = 'https://open.canada.ca/data/en/datastore/dump/92bec4b7-6feb-4215-a5f7-61da342b2354'  # Replace with the actual URL of the CSV file
 
+# URL for the consultations CSV used to detect bad URLs
+consultations_csv_url = (
+    'https://open.canada.ca/data/dataset/7c03f039-3753-4093-af60-74b0f7b2385d/'
+    'resource/92bec4b7-6feb-4215-a5f7-61da342b2354/download/consultations.csv'
+)
+
 # Read the existing YAML file
 with open(yaml_file_path, 'r', encoding='utf8') as file:
     yaml_content = yaml.safe_load(file)
 
 # Read the CSV file
 df = pd.read_csv(csv_url)
+
+# Download and inspect consultations for bad URLs
+consultations_df = pd.read_csv(consultations_csv_url)
+
+keywords = [
+    'canada-preview.adobecqms.net',
+    'can01.safelinks.protection.outlook.com',
+    'NA',
+    'N/A',
+    'S/O',
+]
+keyword_pattern = '|'.join(re.escape(keyword) for keyword in keywords)
+invalid_url_pattern = r'^(?!https?://|www\.|mailto:).+'
+
+url_columns = [
+    'profile_page_en',
+    'profile_page_fr',
+    'report_link_en',
+    'report_link_fr',
+]
+
+bad_url_mask = pd.Series(False, index=consultations_df.index)
+for column in url_columns:
+    if column in consultations_df.columns:
+        column_values = consultations_df[column].fillna('').astype(str)
+        keyword_matches = column_values.str.contains(
+            keyword_pattern, na=False, case=False, regex=True
+        )
+        invalid_matches = column_values.str.contains(
+            invalid_url_pattern, na=False, regex=True
+        )
+        bad_url_mask = bad_url_mask | keyword_matches | invalid_matches
+
+bad_urls_df = consultations_df.loc[bad_url_mask]
+bad_urls_df.to_csv('bad-urls.csv', index=False)
 
 # Filtering the DataFrame for rows where 'status' = 'O' and 'end_date' is before today's date
 today = datetime.today().date()

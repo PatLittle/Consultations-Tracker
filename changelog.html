@@ -31,6 +31,30 @@
         border: none;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
       }
+
+      .page-layout {
+        display: grid;
+        gap: 2rem;
+      }
+
+      @media (min-width: 64em) {
+        .page-layout {
+          grid-template-columns: minmax(220px, 280px) 1fr;
+        }
+      }
+
+      .side-nav {
+        position: sticky;
+        top: 2rem;
+      }
+
+      gcds-side-nav {
+        display: block;
+      }
+
+      .page-content > section + section {
+        margin-block-start: 2rem;
+      }
     </style>
   </head>
   <body>
@@ -93,11 +117,6 @@
       </section>
       <gcds-date-modified>2025-11-03</gcds-date-modified>
     </gcds-container>
-    <gcds-footer
-      display="full"
-      contextual-heading="Consultations Tracker"
-      contextual-links='{"Consultations Tracker Report":"https://patlittle.github.io/Consultations-Tracker/report.html","Consultations Change Log Report":"https://patlittle.github.io/Consultations-Tracker/changelog.html","Consulting with Canadians":"https://www.canada.ca/en/government/system/consultations/consultingcanadians.html"}'
-    >
-    </gcds-footer>
+    <gcds-footer display="full"></gcds-footer>
   </body>
 </html>
