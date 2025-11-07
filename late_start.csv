@@ -1,14 +1,15 @@
 registration_number,title_en,start_date,end_date,status,owner_org
 1019,Canadian Marine Advisory Council - Fall 2025,2025-11-04,2025-11-06,P,tc
 1115,Consultation to fuel Transport Canada’s Accessibility plan 2026-2028,2025-10-10,2025-11-03,P,tc
-DFO20250730-03,Consultation on the Channel Darter (St. Lawrence River populations) management plan under the Species at Risk Act,2025-10-01,2025-11-01,P,dfo-mpo
 DFO20250730-02,Multi-species Action Plan for the Alberta at-risk native trout in Canada,2025-10-01,2025-10-27,P,dfo-mpo
 C-ISC-1013,Indian Oil and Gas Regulation Amendments: Environment and Surface,2025-10-01,2026-12-31,P,isc-sac
+DFO20250730-03,Consultation on the Channel Darter (St. Lawrence River populations) management plan under the Species at Risk Act,2025-10-01,2025-11-01,P,dfo-mpo
 DFO20250801,Public engagement on management measures in the Newfoundland and Labrador (NL) Recreational Groundfish Fishery,2025-09-30,2025-10-31,P,dfo-mpo
 DFO20250506,Resilient and Adaptive Fisheries Strategy,2025-09-01,2025-10-13,P,dfo-mpo
 DFO20250606-03,Management Plan for the Cutlip Minnow (Exoglossum maxillingua) in Canada,2025-08-13,2025-10-12,P,dfo-mpo
+C-00000143,National Capital (NCR) Residency for judges of the Federal Court and Tax Court of Canada,2025-08-05,2025-09-26,P,jus
 C-0245,"Consultation on a Technical and Policy, [Licensing] Framework for [Remotely Piloted Aircraft System] Operation in Licensed Spectrum",2025-06-06,2026-06-06,P,ic
-C-00000117,"Consultation on Efficiencies, Legislative Amendments, and the Ongoing Impact of the COVID-19 Pandemic",2025-06-01,2025-03-31,P,jus
+C-00000117,"Consultation on Efficiencies, Legislative Amendments, and the Ongoing Impact of the COVID-19 Pandemic",2025-06-01,2026-03-31,P,jus
 C-0246,Proposed Modification to the Conditions of Licence on Space Debris Mitigation,2024-12-10,2025-12-10,P,ic
 DFO20240709-01,"Recovery Strategy for the Mountain Sucker (Catostomus platyrhynchus), Milk River populations, in Canada [Proposed].",2024-09-23,2025-11-09,P,dfo-mpo
 C-ISC-1025,Indigenous Health Equity Fund,2024-04-01,2026-03-31,P,isc-sac
@@ -17,8 +18,8 @@ C-ISC-1025,Indigenous Health Equity Fund,2024-04-01,2026-03-31,P,isc-sac
 684,Regulations Amending Certain Regulations Under the Motor Vehicle Safety Act (Information Gathering),2023-09-03,2024-01-30,P,tc
 694,Preliminary Issue & Consultation Assessment (PICA) - Global Aeronautical Distress and Safety System (GADSS),2023-09-01,2023-12-15,P,tc
 699,Air Right Touch Engagement,2023-09-01,2024-03-31,P,tc
-700,Proposed amendments to the Environmental Response Regulations,2023-09-01,2023-10-15,P,tc
 682,"TBD: Allowing Product Identification Numbers for restricted-use vehicles, and Clarifying public roads",2023-09-01,2024-01-30,P,tc
+700,Proposed amendments to the Environmental Response Regulations,2023-09-01,2023-10-15,P,tc
 C-0207,Consultation on CIPO's 2023-2024 client service standards,2023-03-27,2023-03-31,P,ic
 ST-0000046,Census of the Environment Program,2023-02-27,2024-03-31,P,statcan
 645,OPP: Northern Low-Impact Shipping Corridors,2022-12-01,2023-06-01,P,tc
