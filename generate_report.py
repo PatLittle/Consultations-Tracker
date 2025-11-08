@@ -232,7 +232,7 @@ html_template = f"""<!DOCTYPE html>
               Change Log Report
             </gcds-nav-link>
             <gcds-nav-link href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d">
-              Source Open Data Set
+              Consultations Open Dataset
             </gcds-nav-link>
             <gcds-nav-link href="https://www.canada.ca/en/government/system/consultations/consultingcanadians.html">
               Consulting with Canadians
@@ -245,10 +245,7 @@ html_template = f"""<!DOCTYPE html>
             <gcds-notice type="success" notice-title-tag="h2" notice-title="Report Generated">
               <gcds-text>{generated_datetime_str}</gcds-text>
             </gcds-notice>
-            <gcds-text>
-              Explore the sections below for details about consultations starting,
-              ending, and changing statuses.
-            </gcds-text>
+            
           </section>
           <section class="table-of-contents" aria-label="On this page">
             <gcds-heading tag="h2">On this page</gcds-heading>
@@ -434,13 +431,12 @@ chng_log_template = f"""<!DOCTYPE html>
         <div class="page-content">
           <section>
             <gcds-heading tag="h1">Consultations Change Log Report</gcds-heading>
-            <gcds-text>
-              Report generated on {generated_datetime_str}. Review the embedded table to see the
-              latest updates to consultation records, ordered by the most recent change first.
-            </gcds-text>
-            <gcds-text>
-              Use the side navigation to move between resources related to the Consultations Tracker initiative.
-            </gcds-text>
+           
+            <gcds-notice type="success" notice-title-tag="h2" notice-title="Report Generated">
+              <gcds-text>{generated_datetime_str}</gcds-text>
+            </gcds-notice>
+            
+         
           </section>
           <section class="iframe-wrapper">
             <iframe
