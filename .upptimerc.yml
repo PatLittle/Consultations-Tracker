@@ -352,26 +352,18 @@ status-website:
 
     '
   navbar:
-  - title: GitHub
-    href: https://github.com/$OWNER/$REPO
-    target: _blank
   - title: Consulting with Canadians↗️
     href: https://www.canada.ca/en/government/system/consultations/consultingcanadians.html
     target: _blank
   - title: Consultations Open Data↗️
     href: https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d
     target: _blank
-  - title: Consultations Tracker Reports
-    href: https://patlittle.github.io/Consultations-Tracker/report.html
-    target: _blank
-  - title: Consultations Change Log Reports
-    href: https://patlittle.github.io/Consultations-Tracker/changelog.html
-    target: _blank
+
   customHeadHtml: '<meta name="viewport" content="width=device-width, initial-scale=1"
     />
 
     '
-  customBodyHtml: "<div class=\"gcds-context-bar\">\n  <span>Government of Canada\
+  customBodyHtml: "<div class=\"gcds-context-bar\">\n  <span><pre>ALPHA</pre>Government of Canada\
     \ · Gouvernement du Canada</span>\n</div>\n"
   customFootHtml: "<div class=\"gcds-footer-wordmark\" role=\"presentation\">\n  <div\
     \ class=\"gcds-footer-wordmark__inner\">\n    <img src=\"https://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg\"\
