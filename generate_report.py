@@ -163,21 +163,38 @@ html_template = f"""<!DOCTYPE html>
         background-color: #f5f5f5;
       }}
 
-      nav ul {{
-        list-style: none;
-        padding: 0;
-        margin: 0;
-        display: flex;
-        flex-wrap: wrap;
-        gap: 1rem;
+      .page-layout {{
+        display: grid;
+        gap: 2rem;
       }}
 
-      nav li {{
-        margin: 0;
+      @media (min-width: 64em) {{
+        .page-layout {{
+          grid-template-columns: minmax(220px, 280px) 1fr;
+        }}
       }}
 
-      nav gcds-link {{
-        text-decoration: none;
+      .side-nav {{
+        position: sticky;
+        top: 2rem;
+        align-self: start;
+      }}
+
+      .page-content > section + section {{
+        margin-block-start: 2rem;
+      }}
+
+      .table-of-contents {{
+        margin-block-start: 2rem;
+      }}
+
+      .table-of-contents ul {{
+        margin: 0;
+        padding-inline-start: 1.25rem;
+      }}
+
+      .table-of-contents li {{
+        margin-block-end: 0.75rem;
       }}
     </style>
   </head>
@@ -202,90 +219,112 @@ html_template = f"""<!DOCTYPE html>
       centered
       tag="main"
     >
-      <section>
-        <gcds-heading tag="h1">Consultations Tracker Report</gcds-heading>
-        <gcds-text>
-          Report generated on {generated_datetime_str}. Explore the sections below for
-          details about consultations starting, ending, and changing statuses.
-        </gcds-text>
-        <nav aria-label="Consultations Tracker navigation">
-          <ul>
-            <li>
-              <gcds-link href="#consultations-starting">
-                Consultations Starting Between {range_start_str} and {range_end_str}
-              </gcds-link>
-            </li>
-            <li>
-              <gcds-link href="#consultations-ending">
-                Consultations Ending Between {range_start_str} and {range_end_str}
-              </gcds-link>
-            </li>
-            <li>
-              <gcds-link href="#late-closing">
-                Late Closing Consultations (Status 'O')
-              </gcds-link>
-            </li>
-            <li>
-              <gcds-link href="#early-closing">
-                Early Closing Consultations (Status 'C')
-              </gcds-link>
-            </li>
-            <li>
-              <gcds-link href="#late-starting">
-                Late Starting Consultations (Status 'P')
-              </gcds-link>
-            </li>
-          </ul>
-        </nav>
-      </section>
-      <section id="consultations-starting">
-        <gcds-heading tag="h2">
-          🆕🔜Consultations Starting Between {range_start_str} and {range_end_str}
-        </gcds-heading>
-        <div class="table-wrapper">
-          {html_p5m5_start}
+      <div class="page-layout">
+        <aside class="side-nav" aria-label="Consultations Tracker navigation">
+          <gcds-side-nav label="Consultations Tracker navigation">
+            <gcds-nav-link
+              href="https://patlittle.github.io/Consultations-Tracker/report.html"
+              current
+            >
+              Consultations Tracker Report
+            </gcds-nav-link>
+            <gcds-nav-link href="https://patlittle.github.io/Consultations-Tracker/changelog.html">
+              Change Log Report
+            </gcds-nav-link>
+            <gcds-nav-link href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d">
+              Source Open Data Set
+            </gcds-nav-link>
+            <gcds-nav-link href="https://www.canada.ca/en/government/system/consultations/consultingcanadians.html">
+              Consulting with Canadians
+            </gcds-nav-link>
+          </gcds-side-nav>
+        </aside>
+        <div class="page-content">
+          <section>
+            <gcds-heading tag="h1">Consultations Tracker Report</gcds-heading>
+            <gcds-notice type="success" notice-title-tag="h2" notice-title="Report Generated">
+              <gcds-text>{generated_datetime_str}</gcds-text>
+            </gcds-notice>
+            <gcds-text>
+              Explore the sections below for details about consultations starting,
+              ending, and changing statuses.
+            </gcds-text>
+          </section>
+          <section class="table-of-contents" aria-label="On this page">
+            <gcds-heading tag="h2">On this page</gcds-heading>
+            <ul class="list-disc mb-300">
+              <li class="mb-75">
+                <gcds-link href="#consultations-starting">
+                  Consultations Starting Between {range_start_str} and {range_end_str}
+                </gcds-link>
+              </li>
+              <li class="mb-75">
+                <gcds-link href="#consultations-ending">
+                  Consultations Ending Between {range_start_str} and {range_end_str}
+                </gcds-link>
+              </li>
+              <li class="mb-75">
+                <gcds-link href="#late-closing">
+                  Late Closing Consultations (Status 'O')
+                </gcds-link>
+              </li>
+              <li class="mb-75">
+                <gcds-link href="#early-closing">
+                  Early Closing Consultations (Status 'C')
+                </gcds-link>
+              </li>
+              <li>
+                <gcds-link href="#late-starting">
+                  Late Starting Consultations (Status 'P')
+                </gcds-link>
+              </li>
+            </ul>
+          </section>
+          <section id="consultations-starting">
+            <gcds-heading tag="h2">
+              🆕🔜Consultations Starting Between {range_start_str} and {range_end_str}
+            </gcds-heading>
+            <div class="table-wrapper">
+              {html_p5m5_start}
+            </div>
+          </section>
+          <section id="consultations-ending">
+            <gcds-heading tag="h2">
+              ⌛🔚Consultations Ending Between {range_start_str} and {range_end_str}
+            </gcds-heading>
+            <div class="table-wrapper">
+              {html_p5m5_close}
+            </div>
+          </section>
+          <section id="late-closing">
+            <gcds-heading tag="h2">
+              😴Late Closing Consultations (Status 'O')
+            </gcds-heading>
+            <div class="table-wrapper">
+              {html_late_close}
+            </div>
+          </section>
+          <section id="early-closing">
+            <gcds-heading tag="h2">
+              🏎️Early Closing Consultations (Status 'C')
+            </gcds-heading>
+            <div class="table-wrapper">
+              {html_early_close}
+            </div>
+          </section>
+          <section id="late-starting">
+            <gcds-heading tag="h2">
+              🐌Late Starting Consultations (Status 'P')
+            </gcds-heading>
+            <div class="table-wrapper">
+              {html_late_start}
+            </div>
+          </section>
+          <gcds-date-modified>{generated_date_str}</gcds-date-modified>
         </div>
-      </section>
-      <section id="consultations-ending">
-        <gcds-heading tag="h2">
-          ⌛🔚Consultations Ending Between {range_start_str} and {range_end_str}
-        </gcds-heading>
-        <div class="table-wrapper">
-          {html_p5m5_close}
-        </div>
-      </section>
-      <section id="late-closing">
-        <gcds-heading tag="h2">
-          😴Late Closing Consultations (Status 'O')
-        </gcds-heading>
-        <div class="table-wrapper">
-          {html_late_close}
-        </div>
-      </section>
-      <section id="early-closing">
-        <gcds-heading tag="h2">
-          🏎️Early Closing Consultations (Status 'C')
-        </gcds-heading>
-        <div class="table-wrapper">
-          {html_early_close}
-        </div>
-      </section>
-      <section id="late-starting">
-        <gcds-heading tag="h2">
-          🐌Late Starting Consultations (Status 'P')
-        </gcds-heading>
-        <div class="table-wrapper">
-          {html_late_start}
-        </div>
-      </section>
-      <gcds-date-modified>{generated_date_str}</gcds-date-modified>
+      </div>
     </gcds-container>
-    <gcds-footer
-      display="full"
-      contextual-heading="Consultations Tracker"
-      contextual-links='{{"Consultations Tracker Report":"https://patlittle.github.io/Consultations-Tracker/report.html","Consultations Change Log Report":"https://patlittle.github.io/Consultations-Tracker/changelog.html","Consulting with Canadians":"https://www.canada.ca/en/government/system/consultations/consultingcanadians.html"}}'
-    >
-    </gcds-footer>
+    <gcds-footer display="simple"></gcds-footer>
   </body>
 </html>
 """
@@ -318,6 +357,27 @@ chng_log_template = f"""<!DOCTYPE html>
       src="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.43.1/dist/gcds/gcds.esm.js"
     ></script>
     <style>
+      .page-layout {{
+        display: grid;
+        gap: 2rem;
+      }}
+
+      @media (min-width: 64em) {{
+        .page-layout {{
+          grid-template-columns: minmax(220px, 280px) 1fr;
+        }}
+      }}
+
+      .side-nav {{
+        position: sticky;
+        top: 2rem;
+        align-self: start;
+      }}
+
+      .page-content > section + section {{
+        margin-block-start: 2rem;
+      }}
+
       .iframe-wrapper {{
         margin-block-start: 2rem;
       }}
@@ -351,51 +411,48 @@ chng_log_template = f"""<!DOCTYPE html>
       centered
       tag="main"
     >
-      <section>
-        <gcds-heading tag="h1">Consultations Change Log Report</gcds-heading>
-        <gcds-text>
-          Report generated on {generated_datetime_str}. Review the embedded table to see the
-          latest updates to consultation records, ordered by the most recent change first.
-        </gcds-text>
-        <gcds-text>
-          Use the navigation links below to move between resources related to the Consultations
-          Tracker initiative.
-        </gcds-text>
-        <gcds-button-group justify="start">
-          <gcds-button
-            href="https://patlittle.github.io/Consultations-Tracker/report.html"
-            variant="primary"
-          >
-            Consultations Tracker Report
-          </gcds-button>
-          <gcds-button
-            href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d"
-            variant="secondary"
-          >
-            Source Open Data Set
-          </gcds-button>
-          <gcds-button
-            href="https://www.canada.ca/en/government/system/consultations/consultingcanadians.html"
-            variant="secondary"
-          >
-            Consulting with Canadians
-          </gcds-button>
-        </gcds-button-group>
-      </section>
-      <section class="iframe-wrapper">
-        <iframe
-          src="https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/consultations_chng_log.csv?filename=consultations_chng_log.csv&sort=row_chng_datetime%2Cdesc&stickyColumnName=row_chng_datetime"
-          title="Consultations Tracker change log table"
-        ></iframe>
-      </section>
-      <gcds-date-modified>{generated_date_str}</gcds-date-modified>
+      <div class="page-layout">
+        <aside class="side-nav" aria-label="Consultations Tracker navigation">
+          <gcds-side-nav label="Consultations Tracker navigation">
+            <gcds-nav-link href="https://patlittle.github.io/Consultations-Tracker/report.html">
+              Consultations Tracker Report
+            </gcds-nav-link>
+            <gcds-nav-link
+              href="https://patlittle.github.io/Consultations-Tracker/changelog.html"
+              current
+            >
+              Change Log Report
+            </gcds-nav-link>
+            <gcds-nav-link href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d">
+              Source Open Data Set
+            </gcds-nav-link>
+            <gcds-nav-link href="https://www.canada.ca/en/government/system/consultations/consultingcanadians.html">
+              Consulting with Canadians
+            </gcds-nav-link>
+          </gcds-side-nav>
+        </aside>
+        <div class="page-content">
+          <section>
+            <gcds-heading tag="h1">Consultations Change Log Report</gcds-heading>
+            <gcds-text>
+              Report generated on {generated_datetime_str}. Review the embedded table to see the
+              latest updates to consultation records, ordered by the most recent change first.
+            </gcds-text>
+            <gcds-text>
+              Use the side navigation to move between resources related to the Consultations Tracker initiative.
+            </gcds-text>
+          </section>
+          <section class="iframe-wrapper">
+            <iframe
+              src="https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/consultations_chng_log.csv?filename=consultations_chng_log.csv&sort=row_chng_datetime%2Cdesc&stickyColumnName=row_chng_datetime"
+              title="Consultations Tracker change log table"
+            ></iframe>
+          </section>
+          <gcds-date-modified>{generated_date_str}</gcds-date-modified>
+        </div>
+      </div>
     </gcds-container>
-    <gcds-footer
-      display="full"
-      contextual-heading="Consultations Tracker"
-      contextual-links='{{"Consultations Tracker Report":"https://patlittle.github.io/Consultations-Tracker/report.html","Consultations Change Log Report":"https://patlittle.github.io/Consultations-Tracker/changelog.html","Consulting with Canadians":"https://www.canada.ca/en/government/system/consultations/consultingcanadians.html"}}'
-    >
-    </gcds-footer>
+    <gcds-footer display="simple"></gcds-footer>
   </body>
 </html>
 """
