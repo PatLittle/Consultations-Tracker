@@ -29,7 +29,7 @@ consultations_df = pd.read_csv(consultations_csv_url)
 keywords = [
     'canada-preview.adobecqms.net',
     'can01.safelinks.protection.outlook.com',
-    'NA',
+    'NA ',
     'N/A',
     'S/O',
 ]
