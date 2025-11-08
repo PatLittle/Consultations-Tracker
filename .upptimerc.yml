@@ -334,7 +334,6 @@ status-website:
   baseUrl: /Consultations-Tracker
   logoUrl: https://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg
   faviconSvg: https://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg
-  name: GC Automated Consultations QA
   introTitle: '[Consulting with Canadians](https://www.canada.ca/en/government/system/consultations/consultingcanadians.html)
     is Canada''s one stop shop for finding consultations.'
   introMessage: 'GC Automated Consultations QA monitors open and planned consultations
@@ -363,7 +362,7 @@ status-website:
     />
 
     '
-  customBodyHtml: "<div class=\"gcds-context-bar\">\n  <span><pre>ALPHA</pre>Government of Canada\
+  customBodyHtml: "<div class=\"gcds-context-bar\">\n  <span><b>ALPHA</b>Government of Canada\
     \ · Gouvernement du Canada</span>\n</div>\n"
   customFootHtml: "<div class=\"gcds-footer-wordmark\" role=\"presentation\">\n  <div\
     \ class=\"gcds-footer-wordmark__inner\">\n    <img src=\"https://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg\"\
