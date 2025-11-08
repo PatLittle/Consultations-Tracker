@@ -357,13 +357,12 @@ status-website:
   - title: Consultations Open Data↗️
     href: https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d
     target: _blank
-
   customHeadHtml: '<meta name="viewport" content="width=device-width, initial-scale=1"
     />
 
     '
-  customBodyHtml: "<div class=\"gcds-context-bar\">\n  <span><b>ALPHA</b>Government of Canada\
-    \ · Gouvernement du Canada</span>\n</div>\n"
+  customBodyHtml: "<div class=\"gcds-context-bar\">\n  <span><b>ALPHA</b>Government\
+    \ of Canada · Gouvernement du Canada</span>\n</div>\n"
   customFootHtml: "<div class=\"gcds-footer-wordmark\" role=\"presentation\">\n  <div\
     \ class=\"gcds-footer-wordmark__inner\">\n    <img src=\"https://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg\"\
     \n         alt=\"Symbol of the Government of Canada\" loading=\"lazy\" />\n  </div>\n\
