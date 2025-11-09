@@ -120,9 +120,6 @@ sites:
 - name: 'Consultation: Adding melatonin for sleep-related use in the pediatric population
     to the Prescription Drug List'
   url: https://www.canada.ca/en/health-canada/programs/consultation-adding-melatonin-sleep-related-use-pediatric-population-prescription-drug-list.html
-- name: 'Consultation: Draft guidance on the plain language labelling regulations
-    for prescription drugs'
-  url: https://www.canada.ca/en/health-canada/programs/consultation-guidance-plain-language-labelling-regulations-prescription-drugs.html
 - name: Consultation for guidance on notifying Health Canada of foreign actions
   url: https://www.canada.ca/en/health-canada/programs/consultation-draft-guidance-notifying-foreign-actions.html
 - name: Consultation on isofetamid 400SC Fungicide, containing isofetamid, Proposed
@@ -131,9 +128,6 @@ sites:
 - name: Consultation on iron (present as Ferric Sodium EDTA Trihydrate) and associated
     end-use products, Proposed Re-evaluation Decision PRVD2025-08
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/iron-present-ferric-sodium-edta-trihydrate.html
-- name: Consultation on proposed updates to the danger to human health or safety assessment
-    for free-standing clothing storage units
-  url: https://www.canada.ca/en/health-canada/programs/consultation-updates-danger-human-health-safety-assessment-free-standing-clothing-storage-units.html
 - name: Consultation on isocycloseram, VANECTO Cockroach Gel Bait, EQUENTO and A23128
     ST, Proposed Registration Decision PRD2025-11
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2025/isocycloseram-vanecto-cockroach-gel-bait-equento-a23128-st.html
@@ -157,6 +151,13 @@ sites:
 - name: Consultation on iodosulfuron-methyl-sodium and its associated end-use product,
     Proposed Re-evaluation Decision PRVD2025-10
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/iodosulfuron-methyl-sodium.html
+- name: 'Canada Gazette, Part I, Volume 159, Number 45: Regulations Amending the Medical
+    Devices Regulations (Establishment Licences)'
+  url: https://gazette.gc.ca/rp-pr/p1/2025/2025-11-08/html/reg1-eng.html
+- name: Consultation on ethiprole, Proposed Maximum Residue Limit PMRL2025-23
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/ethiprole.html
+- name: Consultation on quizalofop-ethyl, Proposed Maximum Residue Limit PMRL2025-24
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/quizalofop-ethyl.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
