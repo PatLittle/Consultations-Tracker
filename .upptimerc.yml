@@ -45,8 +45,9 @@ sites:
 - name: Share your thoughts about improving the resiliency of telecommunications networks
     and reliability of telecommunications services
   url: https://crtc.gc.ca/eng/consultation/resilienctele.htm
-- name: Volume-Related Composite Price Index Consultation, 2025
-  url: https://otc-cta.gc.ca/eng/consultation/volume-related-composite-price-index-consultation-2025
+- name: Consultation on the Application for Authorization of the Lac-Mégantic Rail
+    Bypass Project
+  url: https://formulaires-forms.otc-cta.gc.ca/en/lac-megantic-bypass-railway-consultation
 - name: National Infrastructure Assessment
   url: https://www.infrastructure.gc.ca/nia-eni/index-eng.html
 - name: National Capital (NCR) Residency for judges of the Federal Court and Tax Court
