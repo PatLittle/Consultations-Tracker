@@ -61,6 +61,7 @@ jobs:
       # 6. Save a temporary copy of the generated report.html.
       - name: Save Report Temporary
         run: |
+          ls 
           cp report.html /tmp/report.html
           cp changelog.html /tmp/changelog.html
           cp url_errors.html  /tmp/url_errors.html
@@ -80,7 +81,7 @@ jobs:
         run: |
           cp /tmp/report.html report.html
           cp /tmp/changelog.html changelog.html
-          cp /tmp/url_errors.html url_errors.html
+          cp -u /tmp/url_errors.html url_errors.html
 
       # 10. Commit and push changes to report.html on the gh-pages branch.
       - name: Commit and Push Report.html to gh-pages
