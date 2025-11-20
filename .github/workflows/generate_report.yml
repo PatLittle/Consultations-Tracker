@@ -80,7 +80,7 @@ jobs:
         run: |
           cp /tmp/report.html report.html
           cp /tmp/changelog.html changelog.html
-          cp url_errors.html  /tmp/url_errors.html
+          cp /tmp/url_errors.html url_errors.html
 
       # 10. Commit and push changes to report.html on the gh-pages branch.
       - name: Commit and Push Report.html to gh-pages
