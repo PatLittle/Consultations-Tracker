@@ -85,12 +85,15 @@ sites:
 - name: 'Consultation on Amending the List of Species under the Species at Risk Act:
     Terrestrial Species January 2025'
   url: https://canada-preview.adobecqms.net/en/environment-climate-change/services/species-risk-public-registry/consultation-documents/part-3-consultation-amending-terrestrial-species-list-sara-summary-jan-2025.html
+- name: 'Consultation document on Phase 1 PFAS prohibition: Risk management of PFAS,
+    excluding fluoropolymers, not currently regulated in firefighting foams'
+  url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/pfas-firefighting-foams-afff-phase1-prohibition.html
 - name: 20th Conference of the Parties to the Convention on International Trade in
     Endangered Species
   url: https://www.canada.ca/en/environment-climate-change/services/convention-international-trade-endangered-species/consultation/share-view-ideas-20-cop-cites.html
-- name: Consultation on the proposed proposed Management plan for the Magdalen Islands
-    Grasshopper (Melanoplus madeleineae)
-  url: https://species-registry.canada.ca/index-en.html#/consultations/aXVJCY1wymWZZgEDAXuEN
+- name: Consultation on proposed amendments to the Volatile Organic Compound (VOC)
+    concentration limits for automotive refinishing products regulations
+  url: https://www.canada.ca/en/environment-climate-change/services/canadian-environmental-protection-act-registry/publications/share-your-thoughts-amendments-volatile-organic-compound.html
 - name: Amendments to the Volatile Organic Compound (VOC) Concentration Limits for
     Automotive Refinishing Regulations- Consultation Document
   url: https://www.canada.ca/en/environment-climate-change/services/canadian-environmental-protection-act-registry/publications/share-your-thoughts-amendments-volatile-organic-compound.html
@@ -117,6 +120,11 @@ sites:
 - name: Draft Assessment for Manganese and its Compounds, and the Risk Management
     Scope
   url: https://gazette.gc.ca/rp-pr/p1/2025/2025-10-25/html/notice-avis-eng.html#ne3
+- name: Notice with respect to the availability of the proposed environmental occurrences
+    notification agreements between Canada and Alberta, Canada and British Columbia,
+    Canada and Manitoba, Canada and Ontario, Canada and Saskatchewan, and Canada and
+    Yukon
+  url: https://www.canada.ca/en/environment-climate-change/services/canadian-environmental-protection-act-registry/agreements/occurrences-notification.html
 - name: Engagement on renewing Canada’s National Financial Literacy Strategy
   url: https://www.canada.ca/en/financial-consumer-agency/corporate/transparency/consultations/engagement-renewing-national-financial-literacy-strategy.html
 - name: Let's talk Pacific Salmon
