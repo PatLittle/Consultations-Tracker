@@ -63,6 +63,7 @@ jobs:
         run: |
           cp report.html /tmp/report.html
           cp changelog.html /tmp/changelog.html
+          cp url_errors.html  /tmp/url_errors.html
 
       # 7. Clean working directory to discard any local changes.
       - name: Clean Working Directory
@@ -79,6 +80,7 @@ jobs:
         run: |
           cp /tmp/report.html report.html
           cp /tmp/changelog.html changelog.html
+          cp url_errors.html  /tmp/url_errors.html
 
       # 10. Commit and push changes to report.html on the gh-pages branch.
       - name: Commit and Push Report.html to gh-pages
