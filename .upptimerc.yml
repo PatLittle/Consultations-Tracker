@@ -13,42 +13,9 @@ sites:
   url: https://www.cerdialogue.ca/contractor-oversight-guidance
 - name: Consultation on Automatic tax filing
   url: https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/transparency-proactive-disclosure-canada-revenue-agency/consultations-engagement-canada-revenue-agency/automatic-tax-filing-consultation.html
-- name: 'Share your thoughts: Proposed changes to the Chronic Wasting Disease Control
-    Program'
-  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/proposed-changes-chronic-wasting-disease-control-program
-- name: 'Share your thoughts: Proposed amended livestock feed ingredients – Yeast-based
-    ingredients'
-  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/yeast-based-ingredients
-- name: Public consultation on proposed regulatory changes in Canada Gazette Part
-    I amending the Plant Breeders' Rights Regulations
-  url: https://gazette.gc.ca/rp-pr/p1/2025/2025-08-09/html/reg1-eng.html
 - name: 'Share your thoughts: Proposal to deregulate Phytophthora abietivora in Canada'
   url: Share your thoughtsProposal to deregulate Phytophthora abietivora in Canada
     - inspection.canada.ca
-- name: IPPC Member consultation on draft International Standards for Phytosanitary
-    Measures and specifications
-  url: Canada's role in international plant protection - inspection.canada.ca
-- name: 'Share your thoughts: Proposed amendments to the Susceptible species of aquatic
-    animals list - Perkinsus olseni and Perkinsus marinus'
-  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/susceptible-species-aquatic-animals-list
-- name: 'Share your thoughts: Proposed amended livestock feed ingredient – 25-Hydroxyvitamin
-    D3 monohydrate from fermentation process'
-  url: Share your thoughtsProposed amended livestock feed ingredient – 25-Hydroxyvitamin
-    D3 monohydrate from fermentation process - inspection.canada.ca
-- name: 'Share your thoughts: Proposed changes to the Common Names for Ingredients
-    and Components Document for milk ingredients and modified milk ingredients'
-  url: N
-- name: 'Share your thoughts: Canadian Food Inspection Agency''s 2026 to 2028 Accessibility
-    Plan'
-  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/2026-2028-accessibility-plan
-- name: 'Share your thoughts: Proposed new livestock feed ingredient – Lactobacillus
-    crispatus culture dehydrated'
-  url: Share your thoughtsProposed new livestock feed ingredient – Lactobacillus crispatus culture
-    dehydrated
-- name: 'Share your thoughts: Proposed new livestock feed ingredient – Lentilactobacillus
-    buchneri culture dehydrated'
-  url: Share your thoughtsProposed new livestock feed ingredient – Lentilactobacillus
-    buchneri culture dehydrated - inspection.canada.ca
 - name: 'Share your thoughts: Options for emerald ash borer management in Canada'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/risk-management-emerald-ash-borer
 - name: Changing Narrative Fund
@@ -78,6 +45,8 @@ sites:
 - name: Consultations for the 2026 Annual Report on the 2030 Agenda and the Sustainable
     Development Goals
   url: https://www.canada.ca/en/employment-social-development/programs/sustainable-development-goals/2025-consultation.html
+- name: 'Building Canada Strong: Youth in the Labour Market'
+  url: https://www.canada.ca/en/employment-social-development/programs/youth-employment-strategy/labour-challenges.html?utm_campaign=esdc-edsc-youth-consultation-&utm_medium=email&utm_source=email&utm_content=en
 - name: 'Share your ideas: Blackwater Project'
   url: https://www.canada.ca/en/environment-climate-change/services/managing-pollution/sources-industry/mining/metal-diamond-mining-effluent-regulation/blackwater-consultation.html
 - name: 'Consultation on Amending the List of Species under the Species at Risk Act:
@@ -193,6 +162,10 @@ sites:
 - name: Proposal to modify the List of Permitted Food Enzymes to authorize the use
     of exo-inulinase
   url: https://www.canada.ca/en/health-canada/services/food-nutrition/legislation-guidelines/acts-regulations/notices-proposal-notices-modification/permitted-food-enzymes-authorize-exo-inulinase.html
+- name: 'Consultation: Comment period for the danger to human health or safety assessment
+    for products containing button or coin batteries and the packaging of button and
+    coin batteries'
+  url: https://www.canada.ca/en/services/health/consultations/consultation-comment-period-danger-human-health-safety-assessment-products-containing-button-coin-batteries-packaging.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
