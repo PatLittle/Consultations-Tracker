@@ -14,8 +14,7 @@ sites:
 - name: Consultation on Automatic tax filing
   url: https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/transparency-proactive-disclosure-canada-revenue-agency/consultations-engagement-canada-revenue-agency/automatic-tax-filing-consultation.html
 - name: 'Share your thoughts: Proposal to deregulate Phytophthora abietivora in Canada'
-  url: Share your thoughtsProposal to deregulate Phytophthora abietivora in Canada
-    - inspection.canada.ca
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/deregulating-p-abietivora
 - name: 'Share your thoughts: Options for emerald ash borer management in Canada'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/risk-management-emerald-ash-borer
 - name: Changing Narrative Fund
@@ -248,6 +247,8 @@ sites:
 - name: Targeted Stakeholder Engagement to Inform Canada’s Public Safety Broadband
     Network (PSBN)
   url: https://www.canada.ca/en/services/policing/emergencies/consultation-governance-framework-psbn.html
+- name: Consultations on federal leadership in Emergency Management
+  url: https://www.canada.ca/en/public-safety-canada/consultations/public-engagement-strengthen-federal-leadership-emergency-management.html
 - name: PSPC Controlled Goods Program’s Industry Engagement Committee (IEC)
   url: https://www.tpsgc-pwgsc.gc.ca/pmc-cgp/pipmc-secgp-eng.html
 - name: Three-year Departmental Accessibility Plan
