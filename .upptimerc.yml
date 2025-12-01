@@ -14,9 +14,16 @@ sites:
 - name: Consultation on Automatic tax filing
   url: https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/transparency-proactive-disclosure-canada-revenue-agency/consultations-engagement-canada-revenue-agency/automatic-tax-filing-consultation.html
 - name: 'Share your thoughts: Proposal to deregulate Phytophthora abietivora in Canada'
-  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/deregulating-p-abietivora
+  url: Share your thoughtsProposal to deregulate Phytophthora abietivora in Canada
+    - inspection.canada.ca
 - name: 'Share your thoughts: Options for emerald ash borer management in Canada'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/risk-management-emerald-ash-borer
+- name: Proposed amended livestock feed ingredient – Polymethylolcarbamide
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/polymethylolcarbamide
+- name: Proposed amended livestock feed ingredient – L-Ascorbyl-2-polyphosphate
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/ascorbyl-2-polyphosphate
+- name: Proposed new livestock feed ingredient – Micro-algae fermentation oil
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/micro-algae-fermentation-oil
 - name: Changing Narrative Fund
   url: https://www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
 - name: 2022-23 Consultations on renewal of the Museum Policy
@@ -93,6 +100,8 @@ sites:
 - name: Stakeholder engagement on potential marine conservation areas in Newfoundland
     and Labrador Region
   url: https://www.dfo-mpo.gc.ca/oceans/conservation/plan/index-eng.html
+- name: Fish and Fish Habitat Restoration Priorities for Lake Ontario
+  url: https://www.talkfishhabitat.ca/wave-2/news_feed/announcing-ffhpp-framework-to-identify-fish-habitat-restoration-priorities
 - name: Great Slave Lake Integrated Fisheries Management Plan
   url: https://www.dfo-mpo.gc.ca/about-notre-sujet/engagement/2025/great-slave-lake-grand-lac-esclaves-eng.html
 - name: Proposed Amendments to the Export Permits Regulations
@@ -241,12 +250,6 @@ sites:
   url: https://parks.canada.ca/lhn-nhs/ns/grahambell/info/plan
 - name: 'Consultation: Renewal of the Canadian Task Force on Preventive Health Care'
   url: https://www.canada.ca/en/public-health/programs/consultation-renewal-canadian-task-force-preventative-health-care.html
-- name: National Strategy to Combat Human Trafficking (HT) Targeted Engagement Annual
-    Engagement
-  url: https://www.canada.ca/en/services/policing/police/crime-and-crime-prevention/human-trafficking-smuggling/nggmnt-rnwd-hmntrffckng.html
-- name: Targeted Stakeholder Engagement to Inform Canada’s Public Safety Broadband
-    Network (PSBN)
-  url: https://www.canada.ca/en/services/policing/emergencies/consultation-governance-framework-psbn.html
 - name: Consultations on federal leadership in Emergency Management
   url: https://www.canada.ca/en/public-safety-canada/consultations/public-engagement-strengthen-federal-leadership-emergency-management.html
 - name: PSPC Controlled Goods Program’s Industry Engagement Committee (IEC)
