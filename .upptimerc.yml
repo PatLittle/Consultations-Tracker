@@ -39,9 +39,6 @@ sites:
 - name: Share your thoughts about closed captioning of programming from online streaming
     services
   url: https://crtc.gc.ca/eng/consultation/cc.htm
-- name: Share your thoughts about improving the resiliency of telecommunications networks
-    and reliability of telecommunications services
-  url: https://crtc.gc.ca/eng/consultation/resilienctele.htm
 - name: Consultation on the Application for Authorization of the Lac-Mégantic Rail
     Bypass Project
   url: https://formulaires-forms.otc-cta.gc.ca/en/lac-megantic-bypass-railway-consultation
