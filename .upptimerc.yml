@@ -108,6 +108,9 @@ sites:
   url: https://www.talkfishhabitat.ca/wave-2/news_feed/announcing-ffhpp-framework-to-identify-fish-habitat-restoration-priorities
 - name: Proposed Amendments to the Export Permits Regulations
   url: https://webarchiveweb.wayback.bac-lac.canada.ca/1/https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
+- name: Consulting Canadians on a potential free trade agreement with the United Arab
+    Emirates
+  url: https://international.canada.ca/en/global-affairs/consultations/trade/2025-12-03-united-arab-emirates
 - name: 'Consultation: Adding melatonin for sleep-related use in the pediatric population
     to the Prescription Drug List'
   url: https://www.canada.ca/en/health-canada/programs/consultation-adding-melatonin-sleep-related-use-pediatric-population-prescription-drug-list.html
@@ -215,6 +218,8 @@ sites:
 - name: Consultation on proposed harmonized requirements for the evaluation of software
     in software-controlled measuring devices
   url: https://ised-isde.canada.ca/site/measurement-canada/en/consultations/consultation-proposed-harmonized-requirements-evaluation-software-software-controlled-measuring?auHash=eLMDgV8gUm3VSwLpDbcfAMkLCLJhXhGFYiZTkFfMeTA
+- name: Rural Development Action Plan - Consultation
+  url: https://ised-isde.canada.ca/site/rural/en/help-shape-future-rural-canada-moving-strategy-action
 - name: Indigenous Advisory Circle
   url: https://library-archives.canada.ca/eng/corporate/about-us/our-partners/Pages/indigenous-advisory-circle.aspx
 - name: Stakeholders' Forum
@@ -272,8 +277,6 @@ sites:
   url: https://www.letstalkmountainparks.ca/town-of-banff-area-redevelopment-plan-strategic-environmental-assessment/widgets/194782/documents
 - name: Alexander Graham Bell National Historic Site Management Plan
   url: https://parks.canada.ca/lhn-nhs/ns/grahambell/info/plan
-- name: 'Consultation: Renewal of the Canadian Task Force on Preventive Health Care'
-  url: https://www.canada.ca/en/public-health/programs/consultation-renewal-canadian-task-force-preventative-health-care.html
 - name: Independent Review of the Preclearance Act, 2016
   url: https://www.canada.ca/en/public-safety-canada/consultations/public-consultation-towards-independent-review-preclearance-act-2016.html
 - name: Consultations on federal leadership in Emergency Management
