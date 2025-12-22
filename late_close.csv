@@ -1,8 +1,6 @@
 registration_number,title_en,start_date,end_date,status,owner_org
 C-2025-01,Draft Contractor Oversight Guidance,2025-09-22,2025-12-21,O,cer-rec
 STC0000075,Contribute to Statistics Canada's Web modernization Journey,2025-05-20,2025-12-19,O,statcan
-C-1235726,Consultations for the 2026 Annual Report on the 2030 Agenda and the Sustainable Development Goals,2025-11-04,2025-12-19,O,esdc-edsc
-C-1235736,Building Canada Strong: Youth in the Labour Market,2025-11-24,2025-12-19,O,esdc-edsc
 C-0033346,"Notice with respect to the availability of the proposed environmental occurrences notification agreements between Canada and Alberta, Canada and British Columbia, Canada and Manitoba, Canada and Ontario, Canada and Saskatchewan, and Canada and Yukon",2025-10-18,2025-12-17,O,ec
 C-0033350,"Notice with respect to the availability of the proposed environmental occurrences notification agreements between Canada and Alberta, Canada and British Columbia, Canada and Manitoba, Canada and Ontario, Canada and Saskatchewan, and Canada and Yukon",2025-10-18,2025-12-17,O,ec
 C-0033372,"Notice with respect to the availability of the proposed environmental occurrences notification agreements between Canada and Alberta, Canada and British Columbia, Canada and Manitoba, Canada and Ontario, Canada and Saskatchewan, and Canada and Yukon",2025-10-18,2025-12-17,O,ec
@@ -27,8 +25,8 @@ C-0000127,Visitor Use Management - Jasper National Park,2024-06-18,2024-09-13,O,
 STC-0000065,Invitation to participate in the revision of the Classification of Instructional Programs (CIP) Canada,2024-04-15,2024-07-31,O,statcan
 C-0158,Notice No. TIPB-001-2024 — Petition to the Governor in Council concerning Telecom Decision CRTC 2023-358,2024-04-27,2024-06-11,O,ic
 C-0000124,Fortress of Louisbourg National Historic Site Management Plan,2024-05-06,2024-06-07,O,pc
-C-0000120,Notice of Mooring Restrictions – Ontario Waterways - Rideau Canal National Historic Site,2024-03-11,2024-04-07,O,pc
 C-0000119,Notice of Mooring Restrictions – Ontario Waterways - Trent-Severn Waterway National Historic Site,2024-03-07,2024-04-07,O,pc
+C-0000120,Notice of Mooring Restrictions – Ontario Waterways - Rideau Canal National Historic Site,2024-03-11,2024-04-07,O,pc
 698,Digitizing the Travel Journey at Airports,2023-04-01,2024-03-31,O,tc
 C-ISC-1018,National Outcome-Based Framework,2023-01-15,2024-01-31,O,isc-sac
 C-ISC - 1018,Developing laws and regulations for First Nations drinking water and wastewater: engagement 2022/2023,2022-08-01,2023-09-08,O,isc-sac
@@ -42,7 +40,7 @@ SCCS-2021,Statistics Canada Client Survey 2022,2022-03-01,2022-04-25,O,statcan
 530,OPP - Understanding the Cumulative Effects of Marine Vessel Activity on Coastal and Marine Environments,2017-09-20,2022-01-10,O,tc
 C-003124,Share your ideas: Blackwater Project,2021-06-08,2021-09-30,O,ec
 C-00052,National Infrastructure Assessment,2021-03-16,2021-06-30,O,infc
-C-INA0005,Indigenous Procurement Modernization (including Procurement Strategy for Aboriginal Business),2017-06-01,2021-03-31,O,isc-sac
 C-ISC0037,Renewal of the Fire Protection Strategy,2020-04-01,2021-03-31,O,isc-sac
+C-INA0005,Indigenous Procurement Modernization (including Procurement Strategy for Aboriginal Business),2017-06-01,2021-03-31,O,isc-sac
 C-ISC0033,Indian Oil and Gas Regulations - Phase II,2013-04-01,2021-03-31,O,isc-sac
 STC-0000023,Multifactor Productivity Application,2019-12-01,2020-03-31,O,statcan
