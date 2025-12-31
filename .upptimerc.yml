@@ -127,23 +127,12 @@ sites:
 - name: 'Share your views: Consulting Canadians on a potential free trade agreement
     with Mercosur'
   url: https://international.canada.ca/en/global-affairs/consultations/trade/2025-12-02-mercosur
-- name: 'Consultation: Adding melatonin for sleep-related use in the pediatric population
-    to the Prescription Drug List'
-  url: https://www.canada.ca/en/health-canada/programs/consultation-adding-melatonin-sleep-related-use-pediatric-population-prescription-drug-list.html
-- name: Consultation on iron (present as Ferric Sodium EDTA Trihydrate) and associated
-    end-use products, Proposed Re-evaluation Decision PRVD2025-08
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/iron-present-ferric-sodium-edta-trihydrate.html
-- name: Consultation on isocycloseram, Proposed Maximum Residue Limit PMRL2025-21
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/isocycloseram.html
 - name: 'Release of draft (step 2) ICH Guideline Q3E: Impurities: Guideline for Extractables
     and Leachables'
   url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
 - name: Consultation on DEET plus related active toluamides and its associated end-use
     products, Proposed Re-evaluation Decision PRVD2025-09
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/deet-plus-related-active-toluamides.html
-- name: 'Consultation: Draft guidance on preparing and submitting summary reports
-    for marketed drugs and natural health products'
-  url: https://www.canada.ca/en/health-canada/programs/consultation-draft-guidance-preparing-submitting-summary-reports-marketed-drugs-natural-health-products.html
 - name: Consultation on iodosulfuron-methyl-sodium and its associated end-use product,
     Proposed Re-evaluation Decision PRVD2025-10
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/iodosulfuron-methyl-sodium.html
@@ -207,6 +196,8 @@ sites:
 - name: 'Consultation: Removal of reconsideration process from requests for priority
     review and advance consideration for Notice of Compliance with conditions'
   url: https://www.canada.ca/en/health-canada/programs/consultation-removal-reconsideration-process-requests-priority-review-advance-consideration-notice-compliance-conditions.html
+- name: 'Consultation: Draft guidance on decentralized clinical trials'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-draft-guidance-decentralized-clinical-trials.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
