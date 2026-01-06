@@ -18,14 +18,6 @@ sites:
 - name: 'Share your thoughts: Proposal to deregulate Phytophthora abietivora in Canada'
   url: Share your thoughtsProposal to deregulate Phytophthora abietivora in Canada
     - inspection.canada.ca
-- name: 'Share your thoughts: Options for emerald ash borer management in Canada'
-  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/risk-management-emerald-ash-borer
-- name: Proposed amended livestock feed ingredient – Polymethylolcarbamide
-  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/polymethylolcarbamide
-- name: Proposed amended livestock feed ingredient – L-Ascorbyl-2-polyphosphate
-  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/ascorbyl-2-polyphosphate
-- name: Proposed new livestock feed ingredient – Micro-algae fermentation oil
-  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/micro-algae-fermentation-oil
 - name: Changing Narrative Fund
   url: https://www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
 - name: 2022-23 Consultations on renewal of the Museum Policy
