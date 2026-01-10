@@ -617,6 +617,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "2026-2029 Federal Sustainable Development Strategy",
+    "url": "https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/share-your-throughts-draft-2026-2029-federal-sustainable-development-strategy.html",
+    "icon": "https://icons.duckduckgo.com/ip3/www.canada.ca.ico",
+    "slug": "2026-2029-federal-sustainable-development-strategy",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1139,
+    "timeDay": 1139,
+    "timeWeek": 1139,
+    "timeMonth": 1139,
+    "timeYear": 1139,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Evaluation by Environment and Climate Change Canada of the ongoing need for the Emergency Order for the Protection of the Western Chorus Frog (Longueuil)",
     "url": "https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/consultation-documents/western-chorus-frog-longueuil-2025.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.canada.ca.ico",
@@ -2811,7 +2829,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-10": 60,
+      "2026-01-10": 134,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -3103,11 +3121,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.canada.ca.ico",
     "slug": "horizontal-red-tape-reviews",
     "status": "up",
-    "uptime": "95.86%",
+    "uptime": "95.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.86%",
-    "uptimeYear": "95.86%",
+    "uptimeMonth": "95.87%",
+    "uptimeYear": "95.87%",
     "time": 2414,
     "timeDay": 1081,
     "timeWeek": 2445,
@@ -3117,24 +3135,6 @@
       "2025-12-17": 1235,
       "2025-12-16": 206
     }
-  },
-  {
-    "name": "2025 review of the Access to Information Act: Policy Approaches",
-    "url": "https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/modernizing-access-information/reviewing-access-information-act/2025-review-access-information-act/2025-review-access-information-act-policy-approaches.html",
-    "icon": "https://icons.duckduckgo.com/ip3/www.canada.ca.ico",
-    "slug": "2025-review-of-the-access-to-information-act-policy-approaches",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2201,
-    "timeDay": 1063,
-    "timeWeek": 2112,
-    "timeMonth": 2201,
-    "timeYear": 2201,
-    "dailyMinutesDown": {}
   },
   {
     "name": "Ministerial Advisory Groups • Recognition  •  Families  • Care and Support • Policy •  Health and Well-being • Service Excellence and Transition",
