@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Change log view of consultation updates sourced from the Consultations Tracker."
+    />
+    <title>Consultations Change Log Report</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.design-system.alpha.canada.ca/@gcds-core/css-shortcuts@1.0.1/dist/gcds-css-shortcuts.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.43.1/dist/gcds/gcds.css"
+    />
+    <script
+      type="module"
+      src="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.43.1/dist/gcds/gcds.esm.js"
+    ></script>
+    <style>
+      .page-layout {
+        display: grid;
+        gap: 2rem;
+      }
+
+      @media (min-width: 64em) {
+        .page-layout {
+          grid-template-columns: minmax(220px, 280px) 1fr;
+        }
+      }
+
+      .side-nav {
+        position: sticky;
+        top: 2rem;
+        align-self: start;
+      }
+
+      .page-content > section + section {
+        margin-block-start: 2rem;
+      }
+
+      .iframe-wrapper {
+        margin-block-start: 2rem;
+      }
+
+      .iframe-wrapper iframe {
+        width: 100%;
+        min-height: 70vh;
+        border: none;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+    </style>
+  </head>
+  <body>
+    <gcds-header
+      lang-href="https://patlittle.github.io/Consultations-Tracker/changelog.html"
+      skip-to-href="#main-content"
+    >
+      <gcds-breadcrumbs slot="breadcrumb">
+        <gcds-breadcrumbs-item href="https://patlittle.github.io/Consultations-Tracker/">
+          Consultations Tracker
+        </gcds-breadcrumbs-item>
+        <gcds-breadcrumbs-item href="https://patlittle.github.io/Consultations-Tracker/changelog.html">
+          Change Log Report
+        </gcds-breadcrumbs-item>
+      </gcds-breadcrumbs>
+    </gcds-header>
+    <gcds-container
+      id="main-content"
+      main-container
+      size="xl"
+      centered
+      tag="main"
+    >
+      <div class="page-layout">
+        <aside class="side-nav" aria-label="Consultations Tracker navigation">
+          <gcds-side-nav label="Consultations Tracker navigation">
+            <gcds-nav-link href="https://patlittle.github.io/Consultations-Tracker/report.html">
+              Consultations Tracker Report
+            </gcds-nav-link>
+            <gcds-nav-link href="https://patlittle.github.io/Consultations-Tracker/url_errors.html">
+              URL Errors Report
+            </gcds-nav-link>
+            <gcds-nav-link
+              href="https://patlittle.github.io/Consultations-Tracker/changelog.html"
+              current
+            >
+              Change Log Report
+            </gcds-nav-link>
+            <gcds-nav-link href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d">
+              Source Open Data Set
+            </gcds-nav-link>
+            <gcds-nav-link href="https://www.canada.ca/en/government/system/consultations/consultingcanadians.html">
+              Consulting with Canadians
+            </gcds-nav-link>
+          </gcds-side-nav>
+        </aside>
+        <div class="page-content">
+          <section>
+            <gcds-heading tag="h1">Consultations Change Log Report</gcds-heading>
+           
+            <gcds-notice type="success" notice-title-tag="h2" notice-title="Report Generated">
+              <gcds-text>2026-01-12 04:12:18</gcds-text>
+            </gcds-notice>
+            
+         
+          </section>
+          <section class="iframe-wrapper">
+            <iframe
+              src="https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/consultations_chng_log.csv?filename=consultations_chng_log.csv&sort=row_chng_datetime%2Cdesc&stickyColumnName=row_chng_datetime"
+              title="Consultations Tracker change log table"
+            ></iframe>
+          </section>
+          <gcds-date-modified>2026-01-12</gcds-date-modified>
+        </div>
+      </div>
+    </gcds-container>
+    <gcds-footer display="simple"></gcds-footer>
+  </body>
+</html>
