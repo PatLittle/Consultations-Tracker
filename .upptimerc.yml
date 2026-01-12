@@ -86,9 +86,6 @@ sites:
   url: https://species-registry.canada.ca/index-en.html#/documents/7LZ1syQXItFTRlqBFnKfT
 - name: Management plan for the Channel Darter (St.Lawrence population)
   url: https://species-registry.canada.ca/index-en.html#/documents/c1lK6z18p1C9z3ePBMQ8f
-- name: Public engagement on management measures in the Newfoundland and Labrador
-    (NL) Recreational Groundfish Fishery
-  url: https://www.dfo-mpo.gc.ca/about-notre-sujet/engagement/2025/recreational-groundfish-fishery-peche-recreative-poisson-fond-eng.html
 - name: Stakeholder engagement on potential marine conservation areas in Newfoundland
     and Labrador Region
   url: https://www.dfo-mpo.gc.ca/oceans/conservation/plan/index-eng.html
@@ -175,6 +172,9 @@ sites:
   url: https://www.canada.ca/en/health-canada/programs/consultation-removal-reconsideration-process-requests-priority-review-advance-consideration-notice-compliance-conditions.html
 - name: 'Consultation: Draft guidance on decentralized clinical trials'
   url: https://www.canada.ca/en/health-canada/programs/consultation-draft-guidance-decentralized-clinical-trials.html
+- name: 'Consultation: Guidelines for Canadian Drinking Water Quality, Haloacetic
+    Acids'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-guidelines-drinking-water-quality-haloacetic-acids.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
