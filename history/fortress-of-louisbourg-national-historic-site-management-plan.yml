@@ -1,7 +1,7 @@
 url: https://www.pc.gc.ca/en/lhn-nhs/ns/louisbourg/info/plan
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-13T09:01:40.939Z
+status: up
+code: 200
+responseTime: 422
+lastUpdated: 2026-01-13T13:04:04.460Z
 startTime: 2024-05-02T16:24:22.174Z
 generator: Upptime <https://github.com/upptime/upptime>
