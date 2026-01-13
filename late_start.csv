@@ -1,4 +1,6 @@
 registration_number,title_en,start_date,end_date,status,owner_org
+C202504,"REGDOC-3.2.2, Indigenous Engagement",2026-01-12,2026-03-09,P,cnsc-ccsn
+1120,Canadian experience with vehicle headlights and glare during night-time driving,2026-01-12,2026-03-13,P,tc
 DFO20250506,Resilient and Adaptive Fisheries Strategy,2026-01-07,2026-02-18,P,dfo-mpo
 C-0000127,Consultations on the Next Agricultural Policy Framework,2026-01-01,2027-12-31,P,aafc-aac
 C-0261,"Amendments to Superintendent's directives relating to cybersecurity guidelines, minimum requirements and measures for the Licensed Insolvency Trustee community",2025-12-12,2026-01-12,P,ic
@@ -9,8 +11,8 @@ C-0256,"Amendments to Directive No 2R2, Joint Filing, and to various forms",2025
 C-0185,"Amendments to Directive No 11R3, Surplus Income Directive",2025-11-10,2025-12-10,P,ic
 1019,Canadian Marine Advisory Council - Fall 2025,2025-11-04,2025-11-06,P,tc
 1115,Consultation to fuel Transport Canada’s Accessibility plan 2026-2028,2025-10-10,2025-11-03,P,tc
-DFO20250730-03,Consultation on the Channel Darter (St. Lawrence River populations) management plan under the Species at Risk Act,2025-10-01,2025-11-01,P,dfo-mpo
 C-ISC-1013,Indian Oil and Gas Regulation Amendments: Environment and Surface,2025-10-01,2026-12-31,P,isc-sac
+DFO20250730-03,Consultation on the Channel Darter (St. Lawrence River populations) management plan under the Species at Risk Act,2025-10-01,2025-11-01,P,dfo-mpo
 C-00000143,National Capital (NCR) Residency for judges of the Federal Court and Tax Court of Canada,2025-08-05,2025-09-26,P,jus
 C-0245,"Consultation on a Technical and Policy, [Licensing] Framework for [Remotely Piloted Aircraft System] Operation in Licensed Spectrum",2025-06-06,2026-06-06,P,ic
 C-00000117,"Consultation on Efficiencies, Legislative Amendments, and the Ongoing Impact of the COVID-19 Pandemic",2025-06-01,2026-03-31,P,jus
@@ -27,7 +29,6 @@ C-0207,Consultation on CIPO's 2023-2024 client service standards,2023-03-27,2023
 ST-0000046,Census of the Environment Program,2023-02-27,2024-03-31,P,statcan
 645,OPP: Northern Low-Impact Shipping Corridors,2022-12-01,2023-06-01,P,tc
 C0000061,Changing Narrative Fund,2022-11-16,2022-12-16,P,pch
-IRP-012,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
 IRP-004,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
 IRP-005,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
 IRP-006,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
@@ -36,6 +37,7 @@ IRP-008,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
 IRP-009,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
 IRP-010,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
 IRP-011,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
+IRP-012,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
 IRP-013,Indigenous Reconciliation Program,2022-11-01,2023-01-25,P,dnd-mdn
 C-011123,Follow-up discussions with Indigenous organizations consulted during the development of the new Directive on the Management of Real Property,2022-11-01,2024-03-31,P,tbs-sct
 C-0000089,Special Advocate Program Independent Selection Committee,2022-09-06,2023-01-31,P,jus
