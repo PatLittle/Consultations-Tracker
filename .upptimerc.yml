@@ -30,6 +30,8 @@ sites:
   url: https://www.cnsc-ccsn.gc.ca/eng/acts-and-regulations/regulatory-documents/history/regdoc3-2-2/
 - name: REGDOC-2.13.2, Import and Export
   url: https://www.cnsc-ccsn.gc.ca/eng/acts-and-regulations/regulatory-documents/history/regdoc2-13-2/
+- name: REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy
+  url: https://www.cnsc-ccsn.gc.ca/eng/acts-and-regulations/regulatory-documents/published/html/regdoc2-13-1/
 - name: Co-development of a new Indigenous Broadcasting Policy
   url: https://crtc.gc.ca/eng/archive/2019/2019-217.htm
 - name: Share your thoughts about closed captioning of programming from online streaming
