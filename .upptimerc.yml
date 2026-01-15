@@ -19,9 +19,15 @@ sites:
 - name: 'Share your thoughts: Proposal to deregulate Phytophthora abietivora in Canada'
   url: Share your thoughtsProposal to deregulate Phytophthora abietivora in Canada
     - inspection.canada.ca
+- name: 'Share your thoughts: Proposals to Modernize Canada’s Seed Regulatory Framework
+    (Part II: Seed Potatoes)'
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/seed-potatoes
 - name: Proposed amended livestock feed ingredient – DL-Methionine hydroxy analogue
     isopropyl ester
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/dl-methionine-hydroxy-analogue-isopropyl-ester
+- name: 'Share your thoughts: Proposed new licensing fees for hatchery and feed establishments'
+  url: Share your thoughtsProposed new licensing fees for hatchery and feed establishments
+    - inspection.canada.ca
 - name: Changing Narrative Fund
   url: https://www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
 - name: 2022-23 Consultations on renewal of the Museum Policy
