@@ -60,8 +60,14 @@ sites:
 - name: 'Share your views and ideas: Review of the Environmental Emergency Regulations,
     2019'
   url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/environmental-emergencies-regulations-consultation.html
+- name: 'Consultation on Amending the List of Species under the Species at Risk Act:
+    Terrestrial Species January 2026'
+  url: https://species-registry.canada.ca/index-en.html#/documents/wldyX0JgFdbCyk7E48LxX
 - name: 2026-2029 Federal Sustainable Development Strategy
   url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/share-your-throughts-draft-2026-2029-federal-sustainable-development-strategy.html
+- name: 'Proposed Posting: Amended Recovery Strategy and Amended Action Plan for the
+    Piping Plover melodus subspecies (Charadrius melodus melodus) in Canada'
+  url: https://species-registry.canada.ca/index-en.html#/consultations/3LN0Ew6Lk8XhGJDupe04E
 - name: Evaluation by Environment and Climate Change Canada of the ongoing need for
     the Emergency Order for the Protection of the Western Chorus Frog (Longueuil)
   url: https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/consultation-documents/western-chorus-frog-longueuil-2025.html
@@ -78,6 +84,9 @@ sites:
   url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/comment-driving-effective-carbon-markets.html
 - name: Proposed Regulations Amending the Single-use Plastics Prohibition Regulations
   url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/proposed-amendments-single-use-plastics-prohibition-regulations.html
+- name: Proposed Regulations Amending the Migratory Birds Regulations, 2022 - Biennial
+    Hunting Amendments (2026-2028)
+  url: https://gazette.gc.ca/rp-pr/p1/2026/2026-01-17/html/notice-avis-eng.html#ne6
 - name: Engagement on renewing Canada’s National Financial Literacy Strategy
   url: https://www.canada.ca/en/financial-consumer-agency/corporate/transparency/consultations/engagement-renewing-national-financial-literacy-strategy.html
 - name: Let's talk Pacific Salmon
