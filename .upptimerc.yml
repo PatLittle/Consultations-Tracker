@@ -1,6 +1,8 @@
 owner: PatLittle
 repo: Consultations-Tracker
 sites:
+- name: Consultations on the Next Agricultural Policy Framework
+  url: https://agriculture.canada.ca/en/department/transparency/public-opinion-research-consultations/share-ideas-next-agricultural-policy-framework-0
 - name: White River First Nations
   url: https://www.rcaanc-cirnac.gc.ca/eng/1511969222951/1529103469169
 - name: Administrative Monetary Penalty System Review
