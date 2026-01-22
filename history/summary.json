@@ -54,11 +54,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cbsa-asfc.gc.ca.ico",
     "slug": "administrative-monetary-penalty-system-review",
     "status": "up",
-    "uptime": "63.28%",
+    "uptime": "63.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.12%",
     "uptimeMonth": "97.90%",
-    "uptimeYear": "64.51%",
+    "uptimeYear": "64.53%",
     "time": 286,
     "timeDay": 181,
     "timeWeek": 224,
@@ -199,8 +199,7 @@
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
-      "2025-01-23": 1440,
-      "2025-01-22": 1440
+      "2025-01-23": 1440
     }
   },
   {
@@ -453,11 +452,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cnsc-ccsn.gc.ca.ico",
     "slug": "regdoc-3-2-2-indigenous-engagement",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.62%",
+    "uptimeYear": "99.63%",
     "time": 228,
     "timeDay": 196,
     "timeWeek": 223,
@@ -618,8 +617,7 @@
       "2025-07-08": 211,
       "2025-06-18": 220,
       "2025-06-13": 236,
-      "2025-01-23": 102,
-      "2025-01-22": 47
+      "2025-01-23": 102
     }
   },
   {
@@ -970,8 +968,7 @@
       "2025-02-23": 111,
       "2025-02-22": 216,
       "2025-02-01": 465,
-      "2025-01-23": 266,
-      "2025-01-22": 214
+      "2025-01-23": 266
     }
   },
   {
@@ -1819,11 +1816,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ised-isde.canada.ca.ico",
     "slug": "rural-development-action-plan-consultation",
     "status": "up",
-    "uptime": "97.51%",
+    "uptime": "97.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.27%",
     "uptimeMonth": "97.48%",
-    "uptimeYear": "97.51%",
+    "uptimeYear": "97.52%",
     "time": 57,
     "timeDay": 38,
     "timeWeek": 41,
@@ -2048,18 +2045,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rncanengagenrcan.ca.ico",
     "slug": "indigenous-ministerial-arrangements-regulations",
     "status": "down",
-    "uptime": "97.56%",
+    "uptime": "97.55%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.95%",
-    "uptimeMonth": "94.72%",
-    "uptimeYear": "97.13%",
+    "uptimeWeek": "80.00%",
+    "uptimeMonth": "94.50%",
+    "uptimeYear": "97.11%",
     "time": 1125,
     "timeDay": 0,
     "timeWeek": 393,
     "timeMonth": 1333,
     "timeYear": 1380,
     "dailyMinutesDown": {
-      "2026-01-21": 1406,
+      "2026-01-22": 62,
+      "2026-01-21": 1440,
       "2026-01-20": 40,
       "2026-01-15": 474,
       "2026-01-13": 244,
@@ -2862,8 +2860,7 @@
       "2025-02-23": 113,
       "2025-02-22": 214,
       "2025-02-01": 464,
-      "2025-01-23": 266,
-      "2025-01-22": 211
+      "2025-01-23": 266
     }
   },
   {
@@ -2967,7 +2964,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-21": 1408,
+      "2026-01-22": 65,
+      "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
@@ -3270,11 +3268,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.canada.ca.ico",
     "slug": "horizontal-red-tape-reviews",
     "status": "up",
-    "uptime": "97.23%",
+    "uptime": "97.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.23%",
+    "uptimeYear": "97.24%",
     "time": 2118,
     "timeDay": 187,
     "timeWeek": 599,
