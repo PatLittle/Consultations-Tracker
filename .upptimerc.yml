@@ -14,15 +14,17 @@ sites:
 - name: Draft Contractor Oversight Guidance
   url: https://www.cerdialogue.ca/contractor-oversight-guidance
 - name: 'Share your thoughts: Proposal to deregulate Phytophthora abietivora in Canada'
-  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/deregulating-p-abietivora
-- name: 'Share your thoughts: Proposals to Modernize Canada’s Seed Regulatory Framework
-    (Part II: Seed Potatoes)'
-  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/seed-potatoes
+  url: Share your thoughtsProposal to deregulate Phytophthora abietivora in Canada
+    - inspection.canada.ca
 - name: Proposed amended livestock feed ingredient – DL-Methionine hydroxy analogue
     isopropyl ester
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/dl-methionine-hydroxy-analogue-isopropyl-ester
 - name: 'Share your thoughts: Proposed new licensing fees for hatchery and feed establishments'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/hatchery-and-feed
+- name: Proposed licensing fees for hatchery and feed establishments
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/hatchery-and-feed
+- name: Proposed updated directive for managing Bacterial Ring Rot (BRR) in seed potatoes
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/proposed-updated-directive-managing-bacterial-ring-rot-brr-seed-potatoes
 - name: Changing Narrative Fund
   url: https://www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
 - name: 2022-23 Consultations on renewal of the Museum Policy
@@ -232,7 +234,7 @@ sites:
 - name: Modernization of the Explosives Regulations, 2013
   url: https://natural-resources.canada.ca/minerals-mining/explosives-fireworks-ammunition/explosives/amendments-explosives-regulations-2013
 - name: Canada-NS and Canada-NL Offshore Renewable Energy Regulations
-  url: https://natural-resources.canada.ca/energy-sources/renewable-energy/offshore-renewable-energy-regulations-initiative
+  url: The Offshore Renewable Energy Regulations Initiative - Natural Resources Canada
 - name: Amending the Nuclear Liability and Compensation Regulations, pre-publication
     in CG Part I
   url: '[To be updated in fall]'
