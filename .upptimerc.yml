@@ -7,6 +7,9 @@ sites:
   url: https://www.rcaanc-cirnac.gc.ca/eng/1511969222951/1529103469169
 - name: Administrative Monetary Penalty System Review
   url: https://www.cbsa-asfc.gc.ca/trade-commerce/amps/menu-eng.html
+- name: Telephone Reporting Sites in areas formerly covered by the Remote Area Border
+    Crossing permit program
+  url: https://www.cbsa-asfc.gc.ca/agency-agence/consult/consultations/rabc-pfre-tel-eng.html
 - name: Regulatory Framework Plan
   url: https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cer-rec.gc.ca%2Fen%2Fabout%2Fhow-we-regulate%2Fplans-for-regulatory-framework%2F&data=05%7C02%7CMichelle.Shabits%40cer-rec.gc.ca%7Cec1c386ebea64452821d08dc41ebb1b9%7C56e9b8d38a3549abbdfc27de59608f01%7C0%7C0%7C638457728797041411%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=tKxvqtPetzkvcXlETiyyf51rWnRpUftsM2o2U5IySO4%3D&reserved=0
 - name: Regulated Industry Engagement
@@ -122,8 +125,6 @@ sites:
 - name: Consultation on iodosulfuron-methyl-sodium and its associated end-use product,
     Proposed Re-evaluation Decision PRVD2025-10
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/iodosulfuron-methyl-sodium.html
-- name: Consultation for pyrethrins, Proposed Maximum Residue Limit PMRL2025-25
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/pyrethrins.html
 - name: Consultation on penthiopyrad, Proposed Maximum Residue Limit PMRL2025-26
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/penthiopyrad.html
 - name: Consultation on spidoxamat, Proposed Maximum Residue Limit PMRL2025-27
@@ -171,6 +172,8 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2026/sedaxane.html
 - name: 'Consultation: Guidance on asbestos in drinking water'
   url: https://www.canada.ca/en/health-canada/programs/consultation-guidance-asbestos-drinking-water.html
+- name: Consultation on 1-methylcyclopropene, Proposed Maximum Residue Limit PMRL2026-02
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2026/1-methylcyclopropene.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
@@ -343,6 +346,8 @@ sites:
   url: https://NA
 - name: Horizontal Red Tape Reviews
   url: https://www.canada.ca/en/government/system/laws/developing-improving-federal-regulations/red-tape-reduction-office/horizontal-red-tape-reviews.html
+- name: Government of Canada Artificial Intelligence Register
+  url: https://forms-formulaires.alpha.canada.ca/en/id/cmkbdzco801d4x901rf4gqboq
 - name: Ministerial Advisory Groups • Recognition  •  Families  • Care and Support
     • Policy •  Health and Well-being • Service Excellence and Transition
   url: https://www.veterans.gc.ca/en/about-vac/public-engagement/ministerial-advisory-groups
