@@ -125,8 +125,6 @@ sites:
 - name: Consultation on iodosulfuron-methyl-sodium and its associated end-use product,
     Proposed Re-evaluation Decision PRVD2025-10
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/iodosulfuron-methyl-sodium.html
-- name: Consultation on penthiopyrad, Proposed Maximum Residue Limit PMRL2025-26
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/penthiopyrad.html
 - name: Consultation on spidoxamat, Proposed Maximum Residue Limit PMRL2025-27
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/spidoxamat.html
 - name: 'Consultation on proposed updates to the Cosmetic Ingredient Hotlist: Prohibited
@@ -174,9 +172,28 @@ sites:
   url: https://www.canada.ca/en/health-canada/programs/consultation-guidance-asbestos-drinking-water.html
 - name: Consultation on 1-methylcyclopropene, Proposed Maximum Residue Limit PMRL2026-02
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2026/1-methylcyclopropene.html
+- name: Consultation on cold pressed orange oil and Appeal, Proposed Registration
+    Decision PRD2026-01
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2026/cold-pressed-orange-oil-appeal.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
+- name: Deep Geological Repository (DGR) for Canada's Used Nuclear Fuel Project
+  url: https://iaac-aeic.gc.ca/050/evaluations/proj/88774?culture=en-CA
+- name: Valentine Gold ProjectPublic noticePublic Comments Invited on Proposed Amendments
+    to the Decision Statement
+  url: https://iaac-aeic.gc.ca/050/evaluations/document/164493?culture=en-CA
+- name: New Nuclear at Wesleyville Project
+  url: https://iaac-aeic.gc.ca/050/evaluations/proj/89802?culture=en-CA
+- name: Lawyers-Ranch ProjectPublic NoticePublic Comments Invited and Funding Available
+  url: https://iaac-aeic.gc.ca/050/evaluations/document/164494?culture=en-CA
+- name: Fording River Extension ProjectPublic noticePublic comments invited on the
+    draft guidelines and plans
+  url: https://iaac-aeic.gc.ca/050/evaluations/document/164558?culture=en-CA
+- name: Shaakichiuwaanaan Mining ProjectPublic NoticeParticipant Funding Available
+  url: https://iaac-aeic.gc.ca/050/evaluations/document/164570?&culture=en-CA
+- name: Great Bear Gold ProjectPublic noticeParticipant funding available
+  url: https://iaac-aeic.gc.ca/050/evaluations/document/164613?culture=en-CA
 - name: Indian Oil and Gas Regulations - Phase II
   url: http://www.pgic-iogc.gc.ca/eng/1471964522302/1471964567990
 - name: Indigenous Procurement Modernization (including Procurement Strategy for Aboriginal
@@ -244,6 +261,9 @@ sites:
 - name: 'Engagement: Designated Officer Regulations under the Canadian Energy Regulator
     Act'
   url: https://www.letstalknaturalresources.ca/designated-officer-regulations
+- name: 'Engagement: Proposed Indigenous Ministerial Arrangements Regulations under
+    the Canadian Energy Regulator Act'
+  url: www.letstalknaturalresources.ca/proposed-indigenous-ministerial-arrangements-regulations
 - name: Capital Adequacy Requirements (CAR) Guideline (2027)
   url: https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-adequacy-requirements-car-guideline-2027?utm_campaign=PANTHEON_STRIPPED&utm_medium=PANTHEON_STRIPPED&utm_source=PANTHEON_STRIPPED&utm_term=PANTHEON_STRIPPED
 - name: General Regulations under the Canada National Marine Conservation Areas Act
