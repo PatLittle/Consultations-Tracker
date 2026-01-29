@@ -125,9 +125,6 @@ sites:
 - name: 'Share your views: Consulting Canadians on a potential free trade agreement
     with Mercosur'
   url: https://international.canada.ca/en/global-affairs/consultations/trade/2025-12-02-mercosur
-- name: Consultation on iodosulfuron-methyl-sodium and its associated end-use product,
-    Proposed Re-evaluation Decision PRVD2025-10
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2025/iodosulfuron-methyl-sodium.html
 - name: Consultation on spidoxamat, Proposed Maximum Residue Limit PMRL2025-27
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2025/spidoxamat.html
 - name: 'Consultation on proposed updates to the Cosmetic Ingredient Hotlist: Prohibited
@@ -269,6 +266,10 @@ sites:
   url: https://www.letstalknaturalresources.ca/proposed-indigenous-ministerial-arrangements-regulations
 - name: Capital Adequacy Requirements (CAR) Guideline (2027)
   url: https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-adequacy-requirements-car-guideline-2027?utm_campaign=PANTHEON_STRIPPED&utm_medium=PANTHEON_STRIPPED&utm_source=PANTHEON_STRIPPED&utm_term=PANTHEON_STRIPPED
+- name: Consultative document on Credit Risk Management
+  url: https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/consultative-document-credit-risk-management
+- name: Consultative document on Senior Leader Accountability
+  url: https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/consultative-document-proposed-senior-leader-regime
 - name: General Regulations under the Canada National Marine Conservation Areas Act
   url: https://www.letstalknmcas.ca/
 - name: Notice of Mooring Restrictions – Ontario Waterways - Trent-Severn Waterway
