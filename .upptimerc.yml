@@ -175,6 +175,11 @@ sites:
 - name: Consultation on cold pressed orange oil and Appeal, Proposed Registration
     Decision PRD2026-01
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2026/cold-pressed-orange-oil-appeal.html
+- name: Consultation on isocycloseram, A21377 CP, A21708 CP, A22466 CP, EQUENTO RFC
+    and A23294 TO, Proposed Registration Decision PRD2026-02
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2026/isocycloseram-a21377-cp-a21708-cp-a22466-cp-equento-rfc-a23294-to.html
+- name: Consultation on isocycloseram, Proposed Maximum Residue Limit PMRL2026-03
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2026/isocycloseram.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
@@ -224,9 +229,6 @@ sites:
 - name: Amendments to Superintendent's directives relating to cybersecurity guidelines,
     minimum requirements and measures for the Licensed Insolvency Trustee community
   url: https://ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/public-consultations
-- name: Consultation on proposed harmonized requirements for the evaluation of software
-    in software-controlled measuring devices
-  url: https://ised-isde.canada.ca/site/measurement-canada/en/consultations/consultation-proposed-harmonized-requirements-evaluation-software-software-controlled-measuring?auHash=eLMDgV8gUm3VSwLpDbcfAMkLCLJhXhGFYiZTkFfMeTA
 - name: Rural Development Action Plan - Consultation
   url: https://ised-isde.canada.ca/site/rural/en/help-shape-future-rural-canada-moving-strategy-action
 - name: Indigenous Advisory Circle
