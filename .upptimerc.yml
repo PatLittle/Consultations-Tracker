@@ -352,26 +352,13 @@ sites:
   url: https://letstalktransportation.ca/understanding-the-effects-of-marine-vessel-activity-on-coastal-environments
 - name: 'OPP: Northern Low-Impact Shipping Corridors'
   url: https://www.dfo-mpo.gc.ca/about-notre-sujet/engagement/2021/shipping-corridors-navigation-eng.html
-- name: 'TBD: Zero Emission Vehicle Safety (Electric Battery and Hydrogen)'
-  url: https://N/A
-- name: Fee Modernization Initiative for Transport Canada's Owned and Operated Ports
-  url: https://NA
 - name: Proposed amendments to the Environmental Response Regulations
   url: TBD
-- name: Canadian Marine Advisory Council - Fall 2025
-  url: https://tc.canada.ca/en/marine/canadian-marine-advisory-council-cmac-engagement-opportunity-marine-safety-security-regulations#canada_gazette_1
-- name: Commercial Air Services Standards Omnibus Package
-  url: https://NA
-- name: Consultation to fuel Transport Canada’s Accessibility plan 2026-2028
-  url: https://NA
-- name: 'PICA 2025-001: Use of Foreign Ex-Military Aircraft in Canadian Commercial
-    Aviation'
-  url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/npaapmr.aspx?id=3064&GoCTemplateCulture=en-CA
-- name: NPA 2025-005 - Simultaneous Independent Parallel Instrument Approaches – Closely
-    Spaced Parallel Operations (CSPO) / Precision Runway Monitor (PRM)
-  url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/npaapmr.aspx?id=3062&GoCTemplateCulture=en-CA
-- name: Canadian experience with vehicle headlights and glare during night-time driving
-  url: https://NA
+- name: Regulations Amending the Motor Vehicle Safety Regulations (Theft Protection)
+  url: https://gazette.gc.ca/rp-pr/p1/2025/2025-12-27/html/reg1-eng.html
+- name: Preliminary Consultation for the Upset Prevention and Recovery Training (UPRT)
+    Initiative - for air operators regulated under subpart 705
+  url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/actr.aspx?id=125&aType=1&GoCTemplateCulture=en-CA
 - name: Horizontal Red Tape Reviews
   url: https://www.canada.ca/en/government/system/laws/developing-improving-federal-regulations/red-tape-reduction-office/horizontal-red-tape-reviews.html
 - name: Government of Canada Artificial Intelligence Register
