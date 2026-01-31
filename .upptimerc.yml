@@ -17,8 +17,10 @@ sites:
 - name: Draft Contractor Oversight Guidance
   url: https://www.cerdialogue.ca/contractor-oversight-guidance
 - name: 'Share your thoughts: Proposal to deregulate Phytophthora abietivora in Canada'
-  url: Share your thoughtsProposal to deregulate Phytophthora abietivora in Canada
-    - inspection.canada.ca
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/deregulating-p-abietivora
+- name: 'Share your thoughts: Proposals to Modernize Canada’s Seed Regulatory Framework
+    (Part II: Seed Potatoes)'
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/seed-potatoes
 - name: Proposed amended livestock feed ingredient – DL-Methionine hydroxy analogue
     isopropyl ester
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/dl-methionine-hydroxy-analogue-isopropyl-ester
@@ -28,6 +30,8 @@ sites:
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/hatchery-and-feed
 - name: Proposed updated directive for managing Bacterial Ring Rot (BRR) in seed potatoes
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/proposed-updated-directive-managing-bacterial-ring-rot-brr-seed-potatoes
+- name: Proposed licensing fees for hatchery and feed establishments
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/hatchery-and-feed
 - name: Changing Narrative Fund
   url: https://www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
 - name: 2022-23 Consultations on renewal of the Museum Policy
@@ -87,6 +91,14 @@ sites:
 - name: Proposed Regulations Amending the Migratory Birds Regulations, 2022 - Biennial
     Hunting Amendments (2026-2028)
   url: https://gazette.gc.ca/rp-pr/p1/2026/2026-01-17/html/notice-avis-eng.html#ne6
+- name: 'Share your ideas : Amendments to the Metal and Diamond Mining Effluent Regulations
+    for the Scully Mine Tailings Expansion Project'
+  url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/scully-mine-project.html
+- name: Proposed Regulations Amending the Migratory Birds Regulations, 2022 - Biennial
+    Hunting Amendments (2026-2028)
+  url: https://gazette.gc.ca/rp-pr/p1/2026/2026-01-17/html/notice-avis-eng.html#ne6
+- name: Driving Effective Carbon Markets in Canada
+  url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/comment-driving-effective-carbon-markets.html
 - name: 'Share your ideas : Amendments to the Metal and Diamond Mining Effluent Regulations
     for the Scully Mine Tailings Expansion Project'
   url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/scully-mine-project.html
