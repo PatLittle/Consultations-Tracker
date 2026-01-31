@@ -1,7 +1,7 @@
 url: https://www.veterans.gc.ca/en/about-vac/public-engagement/ministerial-advisory-groups
-status: up
-code: 200
-responseTime: 830
-lastUpdated: 2026-01-30T23:22:41.128Z
+status: down
+code: 502
+responseTime: 15597
+lastUpdated: 2026-01-31T05:05:56.418Z
 startTime: 2025-02-20T16:30:41.067Z
 generator: Upptime <https://github.com/upptime/upptime>
