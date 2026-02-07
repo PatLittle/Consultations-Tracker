@@ -58,11 +58,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cbsa-asfc.gc.ca.ico",
     "slug": "administrative-monetary-penalty-system-review",
     "status": "up",
-    "uptime": "64.65%",
+    "uptime": "64.66%",
     "uptimeDay": "88.99%",
     "uptimeWeek": "96.23%",
     "uptimeMonth": "96.50%",
-    "uptimeYear": "68.75%",
+    "uptimeYear": "68.77%",
     "time": 282,
     "timeDay": 147,
     "timeWeek": 202,
@@ -191,8 +191,7 @@
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
-      "2025-02-08": 1440,
-      "2025-02-07": 1440
+      "2025-02-08": 1440
     }
   },
   {
@@ -1582,11 +1581,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/iaac-aeic.gc.ca.ico",
     "slug": "new-nuclear-at-wesleyville-project",
     "status": "up",
-    "uptime": "96.19%",
+    "uptime": "96.22%",
     "uptimeDay": "89.73%",
     "uptimeWeek": "96.45%",
-    "uptimeMonth": "96.19%",
-    "uptimeYear": "96.19%",
+    "uptimeMonth": "96.22%",
+    "uptimeYear": "96.22%",
     "time": 1228,
     "timeDay": 838,
     "timeWeek": 1379,
