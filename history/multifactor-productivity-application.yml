@@ -1,7 +1,7 @@
 url: https://www.statcan.gc.ca/eng/consultation/2019/mpa
-status: down
-code: 404
-responseTime: 305
-lastUpdated: 2026-02-12T20:44:26.878Z
+status: up
+code: 200
+responseTime: 248
+lastUpdated: 2026-02-12T23:25:55.036Z
 startTime: 2023-11-24T00:07:22.509Z
 generator: Upptime <https://github.com/upptime/upptime>
