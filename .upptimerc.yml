@@ -102,17 +102,12 @@ sites:
   url: https://www.dfo-mpo.gc.ca/fisheries-peches/management-gestion/ghostgear-equipementfantome/program-programme/program-programme-eng.html
 - name: Proposed Amendments to the Export Permits Regulations
   url: https://webarchiveweb.wayback.bac-lac.canada.ca/1/https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
-- name: Proposal to modify the List of Permitted Preservatives to authorize the use
-    of rosemary extract
-  url: https://www.canada.ca/en/health-canada/services/food-nutrition/legislation-guidelines/acts-regulations/notices-proposal-notices-modification/list-permitted-preservatives-authorize-use-rosemary-extract.html
 - name: 'Consultation: Modernizing the framework for clinical trials'
   url: https://www.canada.ca/en/health-canada/programs/consultation-modernizing-framework-clinical-trials.html
 - name: 'Canada Gazette, Part I, Volume 159, Number 51: Order Providing for Reliance
     on Decisions of, or Documents Produced by, Foreign Regulatory Authorities in Respect
     of Certain Drugs'
   url: https://gazette.gc.ca/rp-pr/p1/2025/2025-12-20/html/reg4-eng.html
-- name: 'Consultation: Draft guidance on decentralized clinical trials'
-  url: https://www.canada.ca/en/health-canada/programs/consultation-draft-guidance-decentralized-clinical-trials.html
 - name: 'Consultation: Guidelines for Canadian Drinking Water Quality, Haloacetic
     Acids'
   url: https://www.canada.ca/en/health-canada/programs/consultation-guidelines-drinking-water-quality-haloacetic-acids.html
@@ -200,8 +195,6 @@ sites:
 - name: Amendments to Superintendent's directives relating to cybersecurity guidelines,
     minimum requirements and measures for the Licensed Insolvency Trustee community
   url: https://ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/public-consultations
-- name: Rural Development Action Plan - Consultation
-  url: https://ised-isde.canada.ca/site/rural/en/help-shape-future-rural-canada-moving-strategy-action
 - name: Indigenous Advisory Circle
   url: https://library-archives.canada.ca/eng/corporate/about-us/our-partners/Pages/indigenous-advisory-circle.aspx
 - name: Stakeholders' Forum
