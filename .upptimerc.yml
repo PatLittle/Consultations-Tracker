@@ -302,13 +302,11 @@ sites:
   url: https://www.statcan.gc.ca/en/consultation/2025/crdc
 - name: Contribute to Statistics Canada's Web modernization Journey
   url: https://www.statcan.gc.ca/en/consultation/2025/web-modernization-journey
-- name: Share your feedback on Census of Environment products
-  url: https://www.statcan.gc.ca/en/consultation/2025/census-environment-products
-- name: Share your experiences with the Labour Force Survey
-  url: https://www.statcan.gc.ca/en/consultation/2025/labour-force-survey
-- name: Contribute to Statistics Canada’s consultative engagement on the Residential
-    Building Occupancy Project
-  url: https://www.statcan.gc.ca/en/consultation/2025/rbo
+- name: Enhancing the ability to search for Statistics Canada data - Consultative
+    engagement
+  url: https://www.statcan.gc.ca/en/enhancing-ability-search
+- name: Share your feedback on the General Social Survey
+  url: https://www.statcan.gc.ca/en/consultation/2026/general-social-survey
 - name: Watchlist 2020 mid-cycle consultation with industry
   url: https://www.tsb.gc.ca/eng/qui-about/relation.html
 - name: Watchlist 2025 mid-cycle consultations with industry
