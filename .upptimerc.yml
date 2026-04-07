@@ -104,9 +104,9 @@ sites:
   url: https://www.dfo-mpo.gc.ca/fisheries-peches/management-gestion/ghostgear-equipementfantome/program-programme/program-programme-eng.html
 - name: Proposed Amendments to the Export Permits Regulations
   url: https://webarchiveweb.wayback.bac-lac.canada.ca/1/https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
-- name: 'Public consultations: Call for submissions regarding Canada’s Annual Report
-    on Human Rights and Free Trade Between Canada and the Republic of Colombia'
-  url: https://international.canada.ca/en/global-affairs/consultations/trade/2026-03-07-republic-colombia
+- name: 'Share your views: Canada’s allocation and administration of the import quota
+    for electric vehicles from China'
+  url: https://international.canada.ca/en/global-affairs/consultations/trade/2026-04-07-electric-vehicules
 - name: 'Release of draft (step 2) ICH E22: General Considerations for Patient Preference
     Studies'
   url: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-submissions/guidance-documents/international-council-harmonisation/consultations-notices.html
@@ -195,6 +195,9 @@ sites:
 - name: Amendments to Superintendent's directives relating to cybersecurity guidelines,
     minimum requirements and measures for the Licensed Insolvency Trustee community
   url: https://ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/public-consultations
+- name: Consultation on Increasing Legal Certainty in Intellectual Property Services
+    and Administration
+  url: https://ised-isde.canada.ca/site/ised/en/public-consultations/consultation-increasing-legal-certainty-intellectual-property-services-and-administration
 - name: Indigenous Advisory Circle
   url: https://library-archives.canada.ca/eng/corporate/about-us/our-partners/Pages/indigenous-advisory-circle.aspx
 - name: Stakeholders' Forum
