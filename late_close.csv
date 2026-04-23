@@ -1,4 +1,5 @@
 registration_number,title_en,start_date,end_date,status,owner_org
+1039,Update to the Canadian Motor Vehicle Child Restraint Systems and Booster Seats Safety Regulations,2026-02-06,2026-04-22,O,tc
 C202505,"REGDOC-2.13.2, Import and Export",2026-02-18,2026-04-19,O,cnsc-ccsn
 C202506,"REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy",2026-02-18,2026-04-19,O,cnsc-ccsn
 1143,Public Consultation on the Future Uses of the Pickering Lands,2026-03-02,2026-04-17,O,tc
@@ -6,18 +7,18 @@ C202506,"REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy",2026-02-18,
 C-000145,Consultations on Canada’s Automotive Remission Framework,2026-02-27,2026-04-13,O,fin
 C-0000713,"Modernization of the Explosives Regulations, 2013",2022-03-01,2026-04-01,O,nrcan-rncan
 C-0000008,Youth Advisory Council,2019-04-01,2026-03-31,O,lac-bac
-C-ISC-1025,Indigenous Health Equity Fund,2024-04-01,2026-03-31,O,isc-sac
+C-0000209,Canada-NS and Canada-NL Offshore Renewable Energy Regulations,2022-05-01,2026-03-31,O,nrcan-rncan
 C-0000004,Indigenous Advisory Circle,2019-04-01,2026-03-31,O,lac-bac
 C-0000005,Stakeholders' Forum,2019-04-01,2026-03-31,O,lac-bac
 C-0000006,Services Consultation Committee,2019-04-01,2026-03-31,O,lac-bac
-C--202301,Three-year Departmental Accessibility Plan,2025-07-01,2026-03-31,O,pwgsc-tpsgc
-C-0000209,Canada-NS and Canada-NL Offshore Renewable Energy Regulations,2022-05-01,2026-03-31,O,nrcan-rncan
-C-0000734,Engagement: Proposed Indigenous Ministerial Arrangements Regulations under the Canadian Energy Regulator Act,2026-01-29,2026-03-31,O,nrcan-rncan
-DFO20251106,Fish and Fish Habitat Restoration Priorities for Lake Ontario,2026-01-05,2026-03-31,O,dfo-mpo
 c-202506,Domestic Assessment of Product Category Filters for the Green Public Procurement Tool (GPPT),2025-10-01,2026-03-31,O,pwgsc-tpsgc
-STC0000081,Enhancing the ability to search for Statistics Canada data - Consultative engagement,2026-02-24,2026-03-31,O,statcan
+C-0000734,Engagement: Proposed Indigenous Ministerial Arrangements Regulations under the Canadian Energy Regulator Act,2026-01-29,2026-03-31,O,nrcan-rncan
+C--202301,Three-year Departmental Accessibility Plan,2025-07-01,2026-03-31,O,pwgsc-tpsgc
 DFO20251106-02,Fish and Fish Habitat Restoration Priorities for Manitoba Phase 2,2025-11-01,2026-03-31,O,dfo-mpo
+STC0000081,Enhancing the ability to search for Statistics Canada data - Consultative engagement,2026-02-24,2026-03-31,O,statcan
+C-ISC-1025,Indigenous Health Equity Fund,2024-04-01,2026-03-31,O,isc-sac
 C-0000063,Engaging Stakeholders on Economic Abuse,2025-07-16,2026-03-31,O,wage
+DFO20251106,Fish and Fish Habitat Restoration Priorities for Lake Ontario,2026-01-05,2026-03-31,O,dfo-mpo
 DFO20220513-07,Whitby Harbour Remediation Project,2022-02-10,2026-03-31,O,dfo-mpo
 DFO20210511-05,Let's talk Pacific Salmon,2022-07-15,2026-03-31,O,dfo-mpo
 C-0000102,General Regulations under the Canada National Marine Conservation Areas Act,2023-04-11,2026-03-15,O,pc
@@ -72,21 +73,21 @@ C-0000127,Visitor Use Management - Jasper National Park,2024-06-18,2024-09-13,O,
 STC-0000065,Invitation to participate in the revision of the Classification of Instructional Programs (CIP) Canada,2024-04-15,2024-07-31,O,statcan
 C-0158,Notice No. TIPB-001-2024 — Petition to the Governor in Council concerning Telecom Decision CRTC 2023-358,2024-04-27,2024-06-11,O,ic
 C-0000124,Fortress of Louisbourg National Historic Site Management Plan,2024-05-06,2024-06-07,O,pc
-C-0000119,Notice of Mooring Restrictions – Ontario Waterways - Trent-Severn Waterway National Historic Site,2024-03-07,2024-04-07,O,pc
 C-0000120,Notice of Mooring Restrictions – Ontario Waterways - Rideau Canal National Historic Site,2024-03-11,2024-04-07,O,pc
+C-0000119,Notice of Mooring Restrictions – Ontario Waterways - Trent-Severn Waterway National Historic Site,2024-03-07,2024-04-07,O,pc
 698,Digitizing the Travel Journey at Airports,2023-04-01,2024-03-31,O,tc
 C-ISC-1018,National Outcome-Based Framework,2023-01-15,2024-01-31,O,isc-sac
 C-ISC - 1018,Developing laws and regulations for First Nations drinking water and wastewater: engagement 2022/2023,2022-08-01,2023-09-08,O,isc-sac
 C-0000108,2022-23 Consultations on renewal of the Museum Policy,2022-10-28,2023-05-31,O,pch
 C-201901,PSPC Controlled Goods Program’s Industry Engagement Committee (IEC),2012-01-01,2023-01-01,O,pwgsc-tpsgc
 C-CANSOF-002,Social systems professional services,2022-03-01,2022-08-31,O,dnd-mdn
-C-JAG-21Q2-18,Consultation to inform the regulatory development to support the implementation of An Act to amend the National Defence Act and to make related and consequential amendments to other Acts,2021-05-13,2022-08-03,O,dnd-mdn
 C-JAG-21Q1-11,Consultation to inform the regulatory development to support the implementation of An Act to amend the National Defence Act and to make related and consequential amendments to other Acts,2021-05-13,2022-08-03,O,dnd-mdn
+C-JAG-21Q2-18,Consultation to inform the regulatory development to support the implementation of An Act to amend the National Defence Act and to make related and consequential amendments to other Acts,2021-05-13,2022-08-03,O,dnd-mdn
 C-0000558,Proposed Amendments to the Export Permits Regulations,2022-06-18,2022-07-18,O,dfatd-maecd
 SCCS-2021,Statistics Canada Client Survey 2022,2022-03-01,2022-04-25,O,statcan
 C-003124,Share your ideas: Blackwater Project,2021-06-08,2021-09-30,O,ec
 C-00052,National Infrastructure Assessment,2021-03-16,2021-06-30,O,infc
-C-ISC0033,Indian Oil and Gas Regulations - Phase II,2013-04-01,2021-03-31,O,isc-sac
 C-INA0005,Indigenous Procurement Modernization (including Procurement Strategy for Aboriginal Business),2017-06-01,2021-03-31,O,isc-sac
+C-ISC0033,Indian Oil and Gas Regulations - Phase II,2013-04-01,2021-03-31,O,isc-sac
 C-ISC0037,Renewal of the Fire Protection Strategy,2020-04-01,2021-03-31,O,isc-sac
 STC-0000023,Multifactor Productivity Application,2019-12-01,2020-03-31,O,statcan
