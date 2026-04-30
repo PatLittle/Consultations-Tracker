@@ -125,6 +125,9 @@ sites:
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2026/agri-mek-sc-containing-abamectin.html
 - name: Men and Boys' Health Strategy
   url: https://www.canada.ca/en/health-canada/services/healthy-living/improving-health-men-canada.html
+- name: Consultation on GATTEN Fungicide, containing flutianil, Proposed Registration
+    Decision PRD2026-08
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2026/gattent-fungicide-containing-flutianil.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
@@ -194,6 +197,8 @@ sites:
   url: https://www.canada.ca/en/department-national-defence/services/benefits-military/legal-services/victim-service-offence.html
 - name: Social systems professional services
   url: www.marsdd.com
+- name: Fuel tank removal at the NRC Dominion Radio Astrophysical Observatory
+  url: https://iaac-aeic.gc.ca/050/evaluations/proj/90391?version=26357
 - name: Canada in a Changing Climate
   url: https://natural-resources.canada.ca/climate-change/canada-changing-climate/canada-changing-climate-national-assessment-process
 - name: Indigenous Ministerial Arrangements Regulations
