@@ -206,13 +206,13 @@ sites:
 - name: Modernization of the Explosives Regulations, 2013
   url: https://natural-resources.canada.ca/minerals-mining/explosives-fireworks-ammunition/explosives/amendments-explosives-regulations-2013
 - name: Canada-NS and Canada-NL Offshore Renewable Energy Regulations
-  url: https://natural-resources.canada.ca/energy-sources/renewable-energy/offshore-renewable-energy-regulations-initiative
+  url: The Offshore Renewable Energy Regulations Initiative - Natural Resources Canada
 - name: Amending the Nuclear Liability and Compensation Regulations, pre-publication
     in CG Part I
   url: '[To be updated in fall]'
 - name: 'Engagement: Proposed Indigenous Ministerial Arrangements Regulations under
     the Canadian Energy Regulator Act'
-  url: https://www.letstalknaturalresources.ca/proposed-indigenous-ministerial-arrangements-regulations
+  url: www.letstalknaturalresources.ca/proposed-indigenous-ministerial-arrangements-regulations
 - name: Consultative document on Credit Risk Management
   url: https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/consultative-document-credit-risk-management
 - name: Consultative document on Senior Leader Accountability
@@ -286,28 +286,18 @@ sites:
 - name: Watchlist 2025 mid-cycle consultations with industry
   url: https://www.tsb.gc.ca/eng/surveillance-watchlist/2022.html
 - name: Oceans Protection Plan
-  url: https://www.letstalktransportation.ca/OPP
-- name: Consultations on the disposition of surplus St. Lawrence Seaway properties
+  url: https://consultations.tc.canada.ca/en/consultation/let-s-talk-oceans-protection-plan
+- name: Electric Vehicle Safety
   url: https://tc.canada.ca/en/corporate-services/consultations
-- name: Update to the Canadian Motor Vehicle Child Restraint Systems and Booster Seats
-    Safety Regulations
-  url: https://tc.canada.ca/en/corporate-services/consultations/proposal-update-regulatory-requirements-concerning-safety-restraint-systems-vehicle-anchorages
-- name: Consultations with industry, and other key road safety stakeholders on draft
-    Safety Assessment for Automated Driving Systems 2.0
-  url: https://tc.canada.ca/en/corporate-services/consultations/united-nations-global-technical-regulation-automated-driving-systems
-- name: Regulations Amending the Motor Vehicle Safety Regulations (Theft Protection)
-  url: https://gazette.gc.ca/rp-pr/p1/2025/2025-12-27/html/reg1-eng.html
-- name: Publication of the Commercial Space Launch public web page
-  url: https://tc.canada.ca/en/corporate-services/consultations/consultation-commercial-space-launch-canada
-- name: Preliminary Consultation for the Upset Prevention and Recovery Training (UPRT)
-    Initiative - for air operators regulated under subpart 705
-  url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/actr.aspx?id=125&aType=1&GoCTemplateCulture=en-CA
-- name: Recreational Drone Operators Survey
-  url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/crs.aspx?lang=eng
-- name: Pilot Survey of Near Mid-Air Collision Experiences
-  url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/crs.aspx?lang=eng
-- name: Public Consultation on the Future Uses of the Pickering Lands
-  url: https://tc.canada.ca/en/corporate-services/consultations/public-consultation-future-uses-pickering-lands
+- name: Potential regulations to increase access to marine emergency services and
+    improve response to pollution incidents
+  url: https://tc.canada.ca/en/corporate-services/consultations/potential-regulations-increase-access-marine-emergency-services-improve-response-pollution-incidents-second-consultation
+- name: 'PICA-2026-001: Operational Evaluations (OE)'
+  url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/actr.aspx?id=132&aType=1&GoCTemplateCulture=en-CA
+- name: Miscellaneous Low Impact Standards Amendment
+  url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/npaapmr.aspx?id=3070&GoCTemplateCulture=en-CA
+- name: Personnel Licensing and Training Standard  Amendment Package
+  url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/npaapmr.aspx?id=3072&GoCTemplateCulture=en-CA
 - name: Horizontal Red Tape Reviews
   url: https://www.canada.ca/en/government/system/laws/developing-improving-federal-regulations/red-tape-reduction-office/horizontal-red-tape-reviews.html
 - name: Have your say! Help shape the future of access to information in Canada.
