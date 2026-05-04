@@ -52,6 +52,32 @@
         border: none;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
       }
+
+      .viewer-controls {
+        margin-block-start: 1rem;
+        display: flex;
+        gap: 0.75rem;
+        flex-wrap: wrap;
+      }
+
+      .viewer-overlay {
+        position: fixed;
+        inset: 0;
+        background: #ffffff;
+        z-index: 9999;
+        padding: 1rem;
+        display: none;
+      }
+
+      .viewer-overlay.active {
+        display: block;
+      }
+
+      .viewer-overlay iframe {
+        width: 100%;
+        height: calc(100vh - 4rem);
+        border: none;
+      }
     </style>
   </head>
   <body>
@@ -90,6 +116,9 @@
             >
               Change Log Report
             </gcds-nav-link>
+            <gcds-nav-link href="https://patlittle.github.io/Consultations-Tracker/consultations_dataset.html">
+              Consultations Data View
+            </gcds-nav-link>
             <gcds-nav-link href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d">
               Source Open Data Set
             </gcds-nav-link>
@@ -108,16 +137,53 @@
             
          
           </section>
-          <section class="iframe-wrapper">
+                    <section class="iframe-wrapper">
             <iframe
+              id="embedded-flat-viewer"
               src="https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/consultations_chng_log.csv?filename=consultations_chng_log.csv&sort=row_chng_datetime%2Cdesc&stickyColumnName=row_chng_datetime"
               title="Consultations Tracker change log table"
             ></iframe>
+            <div class="viewer-controls">
+              <gcds-button id="open-fullscreen">Open full screen table view</gcds-button>
+              <gcds-button id="open-filter" button-role="secondary">Open Filter Builder</gcds-button>
+            </div>
           </section>
+          <div id="viewer-overlay" class="viewer-overlay" aria-hidden="true">
+            <gcds-button id="close-fullscreen" button-role="secondary">Return to standard view</gcds-button>
+            <iframe id="overlay-flat-viewer" src="https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/consultations_chng_log.csv?filename=consultations_chng_log.csv&sort=row_chng_datetime%2Cdesc&stickyColumnName=row_chng_datetime" title="Consultations Tracker change log table full screen"></iframe>
+          </div>
+
           <gcds-date-modified>2026-05-04</gcds-date-modified>
         </div>
       </div>
     </gcds-container>
     <gcds-footer display="simple"></gcds-footer>
-  </body>
+  
+    <script>
+      const overlay = document.getElementById("viewer-overlay");
+      const openBtn = document.getElementById("open-fullscreen");
+      const closeBtn = document.getElementById("close-fullscreen");
+      const filterBtn = document.getElementById("open-filter");
+      const iframe = document.getElementById("embedded-flat-viewer");
+      const overlayIframe = document.getElementById("overlay-flat-viewer");
+      const FILTER_HASH = "#schema=builder";
+
+      openBtn?.addEventListener("click", () => {
+        overlay.classList.add("active");
+        overlay.setAttribute("aria-hidden", "false");
+      });
+
+      closeBtn?.addEventListener("click", () => {
+        overlay.classList.remove("active");
+        overlay.setAttribute("aria-hidden", "true");
+      });
+
+      filterBtn?.addEventListener("click", () => {
+        const url = new URL(iframe.src);
+        url.hash = FILTER_HASH.replace("#", "");
+        iframe.src = url.toString();
+        overlayIframe.src = url.toString();
+      });
+    </script>
+</body>
 </html>
