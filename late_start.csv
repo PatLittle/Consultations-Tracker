@@ -1,14 +1,12 @@
 registration_number,title_en,start_date,end_date,status,owner_org
 C-0000730,"Amending the Nuclear Liability and Compensation Regulations, pre-publication in CG Part I",2026-05-01,2026-05-31,P,nrcan-rncan
-C-0276,Consultation on Electric Vehicle Supply Equipment (EVSE) Type-Approval Specifications,2026-04-20,2026-06-01,P,ic
-C-0255,Consultation on Level 1 and 2 Electric Vehicle Supply Equipment (EVSE) Inspection Specifications and Procedures,2026-04-20,2026-06-01,P,ic
 C-2025-001,Administrative Monetary Penalty System Review,2026-04-06,2026-05-01,P,cbsa-asfc
 C-2026-011,Changes to Customs Sufferance Warehouse Regulations with regards to timeframes and means for Warehouse Arrival Certification Message (WACM),2026-04-01,2027-02-01,P,cbsa-asfc
 C-0273,Red Tape Review and Patent Grace Period – Canadian Intellectual Property Office,2026-03-31,2026-04-30,P,ic
 C-0274,"Consultation on Amendments to the Tower Siting Process and Decision on Roaming, Tower sharing and Annual Reporting Requirements for Terrestrial Licences",2026-03-06,2026-06-06,P,ic
-DFO20250506,Resilient and Adaptive Fisheries Strategy,2026-03-02,2026-05-01,P,dfo-mpo
 C-0261,"Amendments to Superintendent's directives relating to cybersecurity guidelines, minimum requirements and measures for the Licensed Insolvency Trustee community",2026-03-02,2026-04-02,P,ic
 C-0256,"Amendments to Directive No 2R2, Joint Filing, and to various forms",2026-03-02,2026-04-02,P,ic
+DFO20250506,Resilient and Adaptive Fisheries Strategy,2026-03-02,2026-05-01,P,dfo-mpo
 D00103,"Independent Review of the Preclearance Act, 2016",2025-11-26,2026-01-16,P,ps-sp
 C-00000139,National Capital (NCR) Residency for judges of the Federal Court and Tax Court of Canada,2025-08-05,2025-09-26,P,jus
 C-0245,"Consultation on a Technical and Policy, [Licensing] Framework for [Remotely Piloted Aircraft System] Operation in Licensed Spectrum",2025-06-06,2026-06-06,P,ic
@@ -17,15 +15,15 @@ C-0246,Proposed Modification to the Conditions of Licence on Space Debris Mitiga
 C-0207,Consultation on CIPO's 2023-2024 client service standards,2023-03-27,2023-03-31,P,ic
 ST-0000046,Census of the Environment Program,2023-02-27,2024-03-31,P,statcan
 C0000061,Changing Narrative Fund,2022-11-16,2022-12-16,P,pch
+IRP-012,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
+IRP-011,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
+IRP-004,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
+IRP-009,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
 IRP-008,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
 IRP-007,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
 IRP-006,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
 IRP-005,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
-IRP-004,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
 IRP-010,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
-IRP-011,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
-IRP-012,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
-IRP-009,Indigenous Reconciliation Program,2022-11-15,2023-04-01,P,dnd-mdn
 IRP-013,Indigenous Reconciliation Program,2022-11-01,2023-01-25,P,dnd-mdn
 C-011123,Follow-up discussions with Indigenous organizations consulted during the development of the new Directive on the Management of Real Property,2022-11-01,2024-03-31,P,tbs-sct
 C0000081,Request for Proposal for Facial Recognition Software Service Contract (Maintenance),2022-02-01,2022-02-01,P,cic
