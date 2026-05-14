@@ -123,6 +123,9 @@ sites:
 - name: Consultation on the proposed phased implementation of the incorporated by
     reference list for the Ministerial Reliance Order
   url: https://www.canada.ca/en/health-canada/programs/consultation-proposed-phased-implementation-incorporated-by-reference-list-ministerial-reliance-order.html
+- name: 'Consultation: Proposed change to the veterinary omeprazole listing on the
+    Prescription Drug List (PDL)'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-proposed-change-veterinary-omeprazole-listing-prescription-drug-list.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
@@ -130,20 +133,15 @@ sites:
   url: https://www.canada.ca/en/immigration-refugees-citizenship/services/client-surveys.html
 - name: Deep Geological Repository (DGR) for Canada's Used Nuclear Fuel Project
   url: https://iaac-aeic.gc.ca/050/evaluations/proj/88774?culture=en-CA
-- name: Valentine Gold ProjectPublic noticePublic Comments Invited on Proposed Amendments
-    to the Decision Statement
-  url: https://iaac-aeic.gc.ca/050/evaluations/document/164493?culture=en-CA
-- name: New Nuclear at Wesleyville Project
-  url: https://iaac-aeic.gc.ca/050/evaluations/proj/89802?culture=en-CA
-- name: Lawyers-Ranch ProjectPublic NoticePublic Comments Invited and Funding Available
-  url: https://iaac-aeic.gc.ca/050/evaluations/document/164494?culture=en-CA
-- name: Fording River Extension ProjectPublic noticePublic comments invited on the
-    draft guidelines and plans
-  url: https://iaac-aeic.gc.ca/050/evaluations/document/164558?culture=en-CA
-- name: Shaakichiuwaanaan Mining ProjectPublic NoticeParticipant Funding Available
-  url: https://iaac-aeic.gc.ca/050/evaluations/document/164570?&culture=en-CA
-- name: Great Bear Gold ProjectPublic noticeParticipant funding available
-  url: https://iaac-aeic.gc.ca/050/evaluations/document/164613?culture=en-CA
+- name: Shaakichiuwaanaan Mining ProjectPublic noticeComments invited on the summary
+    of the Impact Statement
+  url: https://iaac-aeic.gc.ca/050/evaluations/document/165751?culture=en-CA
+- name: Webequie Supply Road ProjectPublic noticePublic comments invited on the draft
+    Impact Assessment Report and  potential conditions
+  url: https://iaac-aeic.gc.ca/050/evaluations/document/166135?culture=en-CA
+- name: Crawford Nickel ProjectPublic noticePublic comments invited on the draft Impact
+    Assessment Report and potential conditions
+  url: https://iaac-aeic.gc.ca/050/evaluations/document/166438?culture=en-CA
 - name: Indian Oil and Gas Regulations - Phase II
   url: http://www.pgic-iogc.gc.ca/eng/1471964522302/1471964567990
 - name: Indigenous Procurement Modernization (including Procurement Strategy for Aboriginal
