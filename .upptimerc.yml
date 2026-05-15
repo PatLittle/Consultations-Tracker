@@ -16,10 +16,27 @@ sites:
   url: https://www.cer-rec.gc.ca/en/consultation-engagement/stakeholder-engagement/regulated-industry-engagement/index.html
 - name: Canada's Energy Future 2026
   url: https://www.cerdialogue.ca/canada-s-energy-future
-- name: Proposed amendments to the Susceptible species of aquatic animals list
-  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/aquatic-animal-list-amendment
 - name: 'Share your thoughts: Proposed changes to the list of pests regulated by Canada'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/changes-list-pests
+- name: 'Share your thoughts: Proposed amended livestock feed ingredient – Calcium
+    formate'
+  url: Share your thoughtsProposed amended livestock feed ingredient – Calcium formate
+    - inspection.canada.ca
+- name: 'Share your thoughts: Proposed new livestock feed ingredient – Bacillus licheniformis fermentation
+    extract liquid'
+  url: Share your thoughtsProposed new livestock feed ingredient – Bacillus licheniformis
+    fermentation extract liquid - inspection.canada.ca
+- name: 'Share your thoughts: Proposed amended livestock feed ingredient – Guanidinoacetic
+    acid'
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/guanidinoacetic-acid-consultation
+- name: 'Share your thoughts: Proposed new livestock feed ingredient – Whole sunflower
+    seeds'
+  url: Share your thoughtsProposed new livestock feed ingredient – Whole sunflower
+    seeds - inspection.canada.ca
+- name: 'Share your thoughts: Proposed new livestock feed ingredient – Encapsulated
+    zinc oxide'
+  url: Share your thoughtsProposed new livestock feed ingredient – Encapsulated zinc
+    oxide - inspection.canada.ca
 - name: Changing Narrative Fund
   url: https://www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
 - name: 2022-23 Consultations on renewal of the Museum Policy
