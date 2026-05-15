@@ -10,6 +10,8 @@ sites:
 - name: Telephone Reporting Sites in areas formerly covered by the Remote Area Border
     Crossing permit program
   url: https://www.cbsa-asfc.gc.ca/agency-agence/consult/consultations/rabc-pfre-tel-eng.html
+- name: Accessibility at the Canada Border Services Agency
+  url: To be provided
 - name: Regulatory Framework Plan
   url: https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cer-rec.gc.ca%2Fen%2Fabout%2Fhow-we-regulate%2Fplans-for-regulatory-framework%2F&data=05%7C02%7CMichelle.Shabits%40cer-rec.gc.ca%7Cec1c386ebea64452821d08dc41ebb1b9%7C56e9b8d38a3549abbdfc27de59608f01%7C0%7C0%7C638457728797041411%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=tKxvqtPetzkvcXlETiyyf51rWnRpUftsM2o2U5IySO4%3D&reserved=0
 - name: Regulated Industry Engagement
@@ -58,12 +60,6 @@ sites:
 - name: Consultation on commercial market factors to be considered in determining
     fair and reasonable interswitching rates
   url: https://otc-cta.gc.ca/eng/consultation/consultation-on-commercial-market-factors-to-be-considered-in-determining-fair-and-reasonable-interswitching-rates
-- name: Consultation on the possibility of introducing a domestic content requirement
-    as part of the Clean Electricity investment tax credit and the Clean Technology
-    investment tax credit
-  url: https://www.canada.ca/en/department-finance/programs/consultations/2026/consultation-on-possibility-introducing-domestic-content-requirement-part-clean-electricity-investment-tax-credit-clean-technology-investment-tax-credit.html
-- name: Consultations on Canada’s Automotive Remission Framework
-  url: https://www.canada.ca/en/department-finance/programs/consultations/2026/consultations-on-canadas-automotive-remission-framework.html
 - name: National Infrastructure Assessment
   url: https://www.infrastructure.gc.ca/nia-eni/index-eng.html
 - name: National Capital (NCR) Residency for judges of the Federal Court and Tax Court
@@ -324,8 +320,6 @@ sites:
   url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/npaapmr.aspx?id=3070&GoCTemplateCulture=en-CA
 - name: Personnel Licensing and Training Standard  Amendment Package
   url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/npaapmr.aspx?id=3072&GoCTemplateCulture=en-CA
-- name: Horizontal Red Tape Reviews
-  url: https://www.canada.ca/en/government/system/laws/developing-improving-federal-regulations/red-tape-reduction-office/horizontal-red-tape-reviews.html
 - name: Have your say! Help shape the future of access to information in Canada.
   url: https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/modernizing-access-information/reviewing-access-information-act/2025-review-access-information-act/2025-review-access-information-act-policy-approaches.html
 - name: Privacy Act Modernization
