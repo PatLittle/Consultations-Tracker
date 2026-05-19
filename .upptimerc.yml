@@ -7,9 +7,6 @@ sites:
   url: https://www.rcaanc-cirnac.gc.ca/eng/1511969222951/1529103469169
 - name: Administrative Monetary Penalty System Review
   url: https://www.cbsa-asfc.gc.ca/trade-commerce/amps/menu-eng.html
-- name: Telephone Reporting Sites in areas formerly covered by the Remote Area Border
-    Crossing permit program
-  url: https://www.cbsa-asfc.gc.ca/agency-agence/consult/consultations/rabc-pfre-tel-eng.html
 - name: Accessibility at the Canada Border Services Agency
   url: To be provided
 - name: Regulatory Framework Plan
@@ -142,6 +139,8 @@ sites:
 - name: Proposal to modify the List of Permitted Food Colours (Jagua (genipin-glycine)
     blue)
   url: https://www.canada.ca/en/health-canada/services/food-nutrition/legislation-guidelines/acts-regulations/notices-proposal-notices-modification/list-permitted-food-colours-jagua-genipin-glycine-blue.html
+- name: 'Consultation: Potential amendments to the Industrial Hemp Regulations'
+  url: https://www.canada.ca/en/health-canada/programs/consultation-potential-amendments-industrial-hemp-regulations.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
