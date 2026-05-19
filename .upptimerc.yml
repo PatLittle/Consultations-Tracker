@@ -193,6 +193,9 @@ sites:
   url: https://ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/public-consultations
 - name: Red Tape Review and Patent Grace Period – Canadian Intellectual Property Office
   url: https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/consultation-expedited-patent-examination-and-patent-grace-period-0
+- name: Consultation on Amendments to the Tower Siting Process and Decision on Roaming,
+    Tower sharing and Annual Reporting Requirements for Terrestrial Licences
+  url: https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/learn-more/key-documents/consultations/consultation-amendments-tower-siting-process-and-decision-roaming-tower-sharing-and-annual-reporting
 - name: Consultation on the Revisions to the 2500-2690 MHz Band Plan
   url: https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/learn-more/key-documents/consultations/consultation-revisions-2500-2690-mhz-band-plan
 - name: Consultation on the Policy, Technical and Licensing Framework for the VHF
@@ -232,7 +235,7 @@ sites:
   url: The Offshore Renewable Energy Regulations Initiative - Natural Resources Canada
 - name: Amending the Nuclear Liability and Compensation Regulations, pre-publication
     in CG Part I
-  url: '[To be updated in fall]'
+  url: https://gazette.gc.ca/rp-pr/p1/2026/2026-05-02/html/reg1-eng.html
 - name: Bill S-4 An Act to Amend the Energy Efficiency Act.
   url: N/A - Targeted call out by email
 - name: Consultative document on Credit Risk Management
