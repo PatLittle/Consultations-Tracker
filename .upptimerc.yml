@@ -120,19 +120,12 @@ sites:
 - name: 'Consultation: Canadian Access, Watch, Reserve classification of antimicrobial
     drugs for human use'
   url: https://www.canada.ca/en/health-canada/programs/consultation-canadian-access-watch-reserve-classification-antimicrobial-drugs-human-use.html
-- name: Consultation on AQUABAC II XT Biological Larvicide, containing Bacillus thuringiensis
-    subsp. Israelensis serotype H-14, strain BMP-144, Proposed Registration Decision
-    PRD2026-07
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2026/aquabac-ii-xt-biological-larvicide-containing-bacillus-thuringiensis-subsp-israelensis-serotype-h-14-strain-bmp-144.html
 - name: Consultation on AGRI-MEK SC, containing abamectin, Proposed Registration Decision
     PRD2026-05
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2026/agri-mek-sc-containing-abamectin.html
 - name: Consultation on GATTEN Fungicide, containing flutianil, Proposed Registration
     Decision PRD2026-08
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2026/gattent-fungicide-containing-flutianil.html
-- name: Consultation on the proposed phased implementation of the incorporated by
-    reference list for the Ministerial Reliance Order
-  url: https://www.canada.ca/en/health-canada/programs/consultation-proposed-phased-implementation-incorporated-by-reference-list-ministerial-reliance-order.html
 - name: 'Consultation: Proposed change to the veterinary omeprazole listing on the
     Prescription Drug List (PDL)'
   url: https://www.canada.ca/en/health-canada/programs/consultation-proposed-change-veterinary-omeprazole-listing-prescription-drug-list.html
@@ -146,6 +139,9 @@ sites:
 - name: Consultation on the proposed special review decision of 4-Chloro-2-methylphenoxyacetic
     acid and its associated end-use products, PSRD2026-01
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-special-review-decision/2026/4-chloro-2-methylphenoxyacetic-acid.html
+- name: Consultation on spiropidion, A20262 Insecticide, Proposed Registration Decision
+    PRD2026-09
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2026/spiropidion-a20262-insecticide.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
