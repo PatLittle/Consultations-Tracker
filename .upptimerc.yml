@@ -30,11 +30,13 @@ sites:
 - name: Share your thoughts about closed captioning of programming from online streaming
     services
   url: https://crtc.gc.ca/eng/consultation/cc.htm
-- name: Call for applications – Indigenous radio stations to serve Ottawa and Toronto
-  url: https://crtc.gc.ca/eng/archive/2026/2026-33.htm
 - name: Share your thoughts about developing an Indigenous stream of the Broadband
     Fund
   url: https://crtc.gc.ca/eng/consultation/indg-atch.htm
+- name: Call for comments – Renewing radio licences for indefinite terms
+  url: https://crtc.gc.ca/eng/archive/2026/2026-115.htm
+- name: Share your thoughts about making consumer protections clearer for Canadians
+  url: https://crtc.gc.ca/eng/consultation/harmoni.htm
 - name: Consultation on commercial market factors to be considered in determining
     fair and reasonable interswitching rates
   url: https://otc-cta.gc.ca/eng/consultation/consultation-on-commercial-market-factors-to-be-considered-in-determining-fair-and-reasonable-interswitching-rates
