@@ -349,6 +349,8 @@ sites:
 - name: Ministerial Advisory Groups • Recognition  •  Families  • Care and Support
     • Policy •  Health and Well-being • Service Excellence and Transition
   url: https://www.veterans.gc.ca/en/about-vac/public-engagement/ministerial-advisory-groups
+- name: 2SLGBTQI+ community needs
+  url: https://www.canada.ca/en/women-gender-equality/free-to-be-me/2slgbtqi-plus-sharing-ideas.html
 status-website:
   theme: light
   baseUrl: /Consultations-Tracker
