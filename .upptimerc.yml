@@ -241,8 +241,6 @@ sites:
   url: https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/internal-liquidity-adequacy-assessment-process-ilaap-deposit-taking-institutions-guideline-2027
 - name: Liquidity Adequacy Requirements (LAR) – Guideline (2027)
   url: https://www.osfi-bsif.gc.ca/fr/consignes/repertoire-consignes/normes-liquidite-ligne-directrice-2027
-- name: Draft Guideline B-12 Interest Rate Risk Management
-  url: https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/interest-rate-risk-management-guideline-2027
 - name: Draft Pillar 3 Disclosure for Interest Rate Risk
   url: https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/consultation-pillar-3-disclosure-guidelines-interest-rate-risk-banking-book-letter
 - name: Capital and Liquidity Treatment of Crypto-asset Exposures (Banking) – Guideline
@@ -304,8 +302,6 @@ sites:
 - name: Participate in the permanent consultation for the revision of the Canadian
     Research and Development Classification (CRDC)
   url: https://www.statcan.gc.ca/en/consultation/2025/crdc
-- name: Contribute to Statistics Canada's Web modernization Journey
-  url: https://www.statcan.gc.ca/en/consultation/2025/web-modernization-journey
 - name: Enhancing the ability to search for Statistics Canada data - Consultative
     engagement
   url: https://www.statcan.gc.ca/en/enhancing-ability-search
