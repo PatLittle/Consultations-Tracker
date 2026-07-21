@@ -26,15 +26,48 @@ df = pd.read_csv(csv_url)
 # Download and inspect consultations for bad URLs
 consultations_df = pd.read_csv(consultations_csv_url)
 
-keywords = [
-    'canada-preview.adobecqms.net',
-    'can01.safelinks.protection.outlook.com',
-    'NA ',
-    'N/A',
-    'S/O',
+INVALID_URL_RULES = [
+    (
+        "canada-preview.adobecqms.net",
+        "Canada.ca Preview Link",
+    ),
+    (
+        "can01.safelinks.protection",
+        "Office 365 Safe Links",
+    ),
 ]
-keyword_pattern = '|'.join(re.escape(keyword) for keyword in keywords)
-invalid_url_pattern = r'^(?!https?://|www\.|mailto:).+'
+PLACEHOLDER_VALUES = {"", "na", "n/a", "s/o", "nan", "none", "null"}
+INVALID_SCHEME_PATTERN = re.compile(r"^[a-z][a-z0-9+.-]*:", re.IGNORECASE)
+
+
+def explain_invalid_url(value):
+    """Return an invalid URL explanation, or an empty string when the URL is monitorable."""
+    if pd.isna(value):
+        return ""
+
+    url = str(value).strip()
+    normalized_url = url.lower()
+
+    if normalized_url in PLACEHOLDER_VALUES:
+        return "Placeholder or blank URL"
+
+    for marker, reason in INVALID_URL_RULES:
+        if marker in normalized_url:
+            return reason
+
+    if normalized_url.startswith("mailto:"):
+        return "Email link is not monitorable"
+
+    if normalized_url.startswith("www."):
+        return "Missing URL scheme"
+
+    if not normalized_url.startswith(("http://", "https://")):
+        if INVALID_SCHEME_PATTERN.match(normalized_url):
+            return "Unsupported URL scheme"
+        return "Missing URL scheme"
+
+    return ""
+
 
 url_columns = [
     'profile_page_en',
@@ -43,19 +76,26 @@ url_columns = [
     'report_link_fr',
 ]
 
+invalid_url_details = []
 bad_url_mask = pd.Series(False, index=consultations_df.index)
-for column in url_columns:
-    if column in consultations_df.columns:
-        column_values = consultations_df[column].fillna('').astype(str)
-        keyword_matches = column_values.str.contains(
-            keyword_pattern, na=False, case=False, regex=True
-        )
-        invalid_matches = column_values.str.contains(
-            invalid_url_pattern, na=False, regex=True
-        )
-        bad_url_mask = bad_url_mask | keyword_matches | invalid_matches
+for index, row in consultations_df.iterrows():
+    row_details = []
+    for column in url_columns:
+        if column not in consultations_df.columns:
+            continue
 
-bad_urls_df = consultations_df.loc[bad_url_mask]
+        reason = explain_invalid_url(row[column])
+        if reason:
+            row_details.append(f"{column}: {reason}")
+
+    invalid_url_details.append("; ".join(row_details))
+    if row_details:
+        bad_url_mask.at[index] = True
+
+bad_urls_df = consultations_df.loc[bad_url_mask].copy()
+bad_urls_df['invalid_url_fields'] = [
+    details for details, is_bad in zip(invalid_url_details, bad_url_mask) if is_bad
+]
 bad_urls_df.to_csv('bad-urls.csv', index=False)
 
 # Filtering the DataFrame for rows where 'status' = 'O' and 'end_date' is before today's date
@@ -93,13 +133,14 @@ df_filtered = df[df['status'] != 'C']
 # Select specific columns and rename them for YAML
 selected_data = df_filtered[['title_en', 'profile_page_en']].rename(columns={'title_en': 'name', 'profile_page_en': 'url'})
 
-# Further filter out entries where the URL is nan
-filtered_data = selected_data.dropna(subset=['url'])
+# Further filter out entries where the URL is nan, blank, or not monitorable by Upptime.
+filtered_data = selected_data.dropna(subset=['url']).copy()
 
-# Remove ':' from the 'url' field
-filtered_data['url'] = filtered_data['url'].str.replace(': ', '')
-filtered_data['url'] = filtered_data['url'].str.replace('\n', '')
-filtered_data['name'] = filtered_data['name'].str.replace('\n', '')
+# Normalize the name and URL values before validating them for the YAML output.
+filtered_data['url'] = filtered_data['url'].astype(str).str.replace(': ', '', regex=False)
+filtered_data['url'] = filtered_data['url'].str.replace('\n', '', regex=False).str.strip()
+filtered_data['name'] = filtered_data['name'].astype(str).str.replace('\n', '', regex=False)
+filtered_data = filtered_data[filtered_data['url'].apply(explain_invalid_url) == '']
 
 # Update the 'sites' section in the YAML content
 yaml_content['sites'] = filtered_data.to_dict(orient='records')
