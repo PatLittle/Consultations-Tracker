@@ -66,6 +66,9 @@ sites:
 - name: Regulations Amending Certain Regulations Made Under the Canada Labour Code
     (Personal Protective Equipment)
   url: https://gazette.gc.ca/rp-pr/p1/2026/2026-06-13/html/reg1-eng.html
+- name: 'Building Canada Strong for All – Powered by Canada’s Workers: Targeted Second
+    Phase'
+  url: https://www.canada.ca/en/employment-social-development/news/2026/07/building-canada-strong-for-all--powered-by-canadas-workers-targeted-second-phase--consultation-document.html
 - name: 'Share your ideas: Blackwater Project'
   url: https://www.canada.ca/en/environment-climate-change/services/managing-pollution/sources-industry/mining/metal-diamond-mining-effluent-regulation/blackwater-consultation.html
 - name: 'Consultation on Amending the List of Species under the Species at Risk Act:
@@ -141,6 +144,8 @@ sites:
 - name: 'Consultation: Recommendations for nuclear emergency protection strategies
     in Canada'
   url: https://www.canada.ca/en/health-canada/programs/consultation-recommendations-nuclear-emergency-protection-strategies.html
+- name: 'Consultation: Draft revised Quality of natural health products guide'
+  url: https://www.canada.ca/en/health-canada/programs/draft-consultation-quality-natural-health-products-guide.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
