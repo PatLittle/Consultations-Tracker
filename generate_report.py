@@ -113,6 +113,70 @@ generated_date_str = generated_datetime.strftime("%Y-%m-%d")
 range_start_str = m5.strftime("%Y-%m-%d")
 range_end_str = p5.strftime("%Y-%m-%d")
 
+iframe_fullscreen_styles = """
+      .viewer-controls {
+        margin-block-start: 1rem;
+        display: flex;
+        gap: 0.75rem;
+        flex-wrap: wrap;
+      }
+
+      .viewer-overlay {
+        position: fixed;
+        inset: 0;
+        background: #ffffff;
+        z-index: 9999;
+        padding: 1rem;
+        display: none;
+      }
+
+      .viewer-overlay.active {
+        display: block;
+      }
+
+      .viewer-overlay iframe {
+        width: 100%;
+        height: calc(100vh - 4rem);
+        border: none;
+      }
+"""
+
+iframe_fullscreen_script = """
+    <script>
+      document.querySelectorAll("[data-open-fullscreen]").forEach((openBtn) => {
+        const overlayId = openBtn.getAttribute("data-open-fullscreen");
+        const overlay = document.getElementById(overlayId);
+        const closeBtn = overlay?.querySelector("[data-close-fullscreen]");
+
+        openBtn.addEventListener("click", () => {
+          overlay?.classList.add("active");
+          overlay?.setAttribute("aria-hidden", "false");
+        });
+
+        closeBtn?.addEventListener("click", () => {
+          overlay.classList.remove("active");
+          overlay.setAttribute("aria-hidden", "true");
+        });
+      });
+    </script>
+"""
+
+
+def flatgithub_viewer_section(src, title, overlay_id):
+    return f"""          <section class="iframe-wrapper">
+            <iframe
+              src="{src}"
+              title="{title}"
+            ></iframe>
+            <div class="viewer-controls">
+              <gcds-button data-open-fullscreen="{overlay_id}">Open full screen table view</gcds-button>
+            </div>
+          </section>
+          <div id="{overlay_id}" class="viewer-overlay" aria-hidden="true">
+            <gcds-button data-close-fullscreen button-role="secondary">Return to standard view</gcds-button>
+            <iframe src="{src}" title="{title} full screen"></iframe>
+          </div>"""
+
 html_template = f"""<!DOCTYPE html>
 <html dir="ltr" lang="en">
   <head>
@@ -233,6 +297,9 @@ html_template = f"""<!DOCTYPE html>
             </gcds-nav-link>
             <gcds-nav-link href="https://patlittle.github.io/Consultations-Tracker/changelog.html">
               Change Log Report
+            </gcds-nav-link>
+            <gcds-nav-link href="https://patlittle.github.io/Consultations-Tracker/consultations_dataset.html">
+              Consultations Data View
             </gcds-nav-link>
             <gcds-nav-link href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d">
               Consultations Open Dataset
@@ -388,6 +455,7 @@ chng_log_template = f"""<!DOCTYPE html>
         border: none;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
       }}
+{iframe_fullscreen_styles}
     </style>
   </head>
   <body>
@@ -426,6 +494,9 @@ chng_log_template = f"""<!DOCTYPE html>
             >
               Change Log Report
             </gcds-nav-link>
+            <gcds-nav-link href="https://patlittle.github.io/Consultations-Tracker/consultations_dataset.html">
+              Consultations Data View
+            </gcds-nav-link>
             <gcds-nav-link href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d">
               Source Open Data Set
             </gcds-nav-link>
@@ -444,17 +515,17 @@ chng_log_template = f"""<!DOCTYPE html>
             
          
           </section>
-          <section class="iframe-wrapper">
-            <iframe
-              src="https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/consultations_chng_log.csv?filename=consultations_chng_log.csv&sort=row_chng_datetime%2Cdesc&stickyColumnName=row_chng_datetime"
-              title="Consultations Tracker change log table"
-            ></iframe>
-          </section>
+{flatgithub_viewer_section(
+            "https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/consultations_chng_log.csv?filename=consultations_chng_log.csv&sort=row_chng_datetime%2Cdesc&stickyColumnName=row_chng_datetime",
+            "Consultations Tracker change log table",
+            "change-log-viewer-overlay",
+          )}
           <gcds-date-modified>{generated_date_str}</gcds-date-modified>
         </div>
       </div>
     </gcds-container>
     <gcds-footer display="simple"></gcds-footer>
+{iframe_fullscreen_script}
   </body>
 </html>
 """
@@ -514,6 +585,7 @@ url_errors_template = f"""<!DOCTYPE html>
         border: none;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
       }}
+{iframe_fullscreen_styles}
     </style>
   </head>
   <body>
@@ -549,6 +621,9 @@ url_errors_template = f"""<!DOCTYPE html>
             <gcds-nav-link href="https://patlittle.github.io/Consultations-Tracker/changelog.html">
               Change Log Report
             </gcds-nav-link>
+            <gcds-nav-link href="https://patlittle.github.io/Consultations-Tracker/consultations_dataset.html">
+              Consultations Data View
+            </gcds-nav-link>
             <gcds-nav-link href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d">
               Source Open Data Set
             </gcds-nav-link>
@@ -567,17 +642,17 @@ url_errors_template = f"""<!DOCTYPE html>
 
 
           </section>
-          <section class="iframe-wrapper">
-            <iframe
-              src="https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/bad-urls.csv?filename=bad-urls.csv"
-              title="Consultations Tracker URL errors table"
-            ></iframe>
-          </section>
+{flatgithub_viewer_section(
+            "https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/bad-urls.csv?filename=bad-urls.csv",
+            "Consultations Tracker URL errors table",
+            "url-errors-viewer-overlay",
+          )}
           <gcds-date-modified>{generated_date_str}</gcds-date-modified>
         </div>
       </div>
     </gcds-container>
     <gcds-footer display="simple"></gcds-footer>
+{iframe_fullscreen_script}
   </body>
 </html>
 """
