@@ -52,6 +52,33 @@
         border: none;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
       }
+
+      .viewer-controls {
+        margin-block-start: 1rem;
+        display: flex;
+        gap: 0.75rem;
+        flex-wrap: wrap;
+      }
+
+      .viewer-overlay {
+        position: fixed;
+        inset: 0;
+        background: #ffffff;
+        z-index: 9999;
+        padding: 1rem;
+        display: none;
+      }
+
+      .viewer-overlay.active {
+        display: block;
+      }
+
+      .viewer-overlay iframe {
+        width: 100%;
+        height: calc(100vh - 4rem);
+        border: none;
+      }
+
     </style>
   </head>
   <body>
@@ -90,6 +117,9 @@
             >
               Change Log Report
             </gcds-nav-link>
+            <gcds-nav-link href="https://patlittle.github.io/Consultations-Tracker/consultations_dataset.html">
+              Consultations Data View
+            </gcds-nav-link>
             <gcds-nav-link href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d">
               Source Open Data Set
             </gcds-nav-link>
@@ -103,7 +133,7 @@
             <gcds-heading tag="h1">Consultations Change Log Report</gcds-heading>
            
             <gcds-notice type="success" notice-title-tag="h2" notice-title="Report Generated">
-              <gcds-text>2026-07-21 04:58:05</gcds-text>
+              <gcds-text>2026-07-21 07:28:07</gcds-text>
             </gcds-notice>
             
          
@@ -113,11 +143,37 @@
               src="https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/consultations_chng_log.csv?filename=consultations_chng_log.csv&sort=row_chng_datetime%2Cdesc&stickyColumnName=row_chng_datetime"
               title="Consultations Tracker change log table"
             ></iframe>
+            <div class="viewer-controls">
+              <gcds-button data-open-fullscreen="change-log-viewer-overlay">Open full screen table view</gcds-button>
+            </div>
           </section>
+          <div id="change-log-viewer-overlay" class="viewer-overlay" aria-hidden="true">
+            <gcds-button data-close-fullscreen button-role="secondary">Return to standard view</gcds-button>
+            <iframe src="https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/consultations_chng_log.csv?filename=consultations_chng_log.csv&sort=row_chng_datetime%2Cdesc&stickyColumnName=row_chng_datetime" title="Consultations Tracker change log table full screen"></iframe>
+          </div>
           <gcds-date-modified>2026-07-21</gcds-date-modified>
         </div>
       </div>
     </gcds-container>
     <gcds-footer display="simple"></gcds-footer>
+
+    <script>
+      document.querySelectorAll("[data-open-fullscreen]").forEach((openBtn) => {
+        const overlayId = openBtn.getAttribute("data-open-fullscreen");
+        const overlay = document.getElementById(overlayId);
+        const closeBtn = overlay?.querySelector("[data-close-fullscreen]");
+
+        openBtn.addEventListener("click", () => {
+          overlay?.classList.add("active");
+          overlay?.setAttribute("aria-hidden", "false");
+        });
+
+        closeBtn?.addEventListener("click", () => {
+          overlay.classList.remove("active");
+          overlay.setAttribute("aria-hidden", "true");
+        });
+      });
+    </script>
+
   </body>
 </html>
