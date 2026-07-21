@@ -129,7 +129,7 @@
             <gcds-heading tag="h1">Consultations URL Errors Report</gcds-heading>
 
             <gcds-notice type="success" notice-title-tag="h2" notice-title="Report Generated">
-              <gcds-text>2026-05-04 20:12:48</gcds-text>
+              <gcds-text>2026-07-21 07:47:46</gcds-text>
             </gcds-notice>
 
 
@@ -141,46 +141,36 @@
               title="Consultations Tracker URL errors table"
             ></iframe>
             <div class="viewer-controls">
-              <gcds-button id="open-fullscreen">Open full screen table view</gcds-button>
-              <gcds-button id="open-filter" button-role="secondary">Open Filter Builder</gcds-button>
+              <gcds-button data-open-fullscreen="url-errors-viewer-overlay">Open full screen table view</gcds-button>
             </div>
           </section>
-          <div id="viewer-overlay" class="viewer-overlay" aria-hidden="true">
-            <gcds-button id="close-fullscreen" button-role="secondary">Return to standard view</gcds-button>
-            <iframe id="overlay-flat-viewer" src="https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/bad-urls.csv?filename=bad-urls.csv" title="Consultations Tracker URL errors table full screen"></iframe>
+          <div id="url-errors-viewer-overlay" class="viewer-overlay" aria-hidden="true">
+            <gcds-button data-close-fullscreen button-role="secondary">Return to standard view</gcds-button>
+            <iframe src="https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/bad-urls.csv?filename=bad-urls.csv" title="Consultations Tracker URL errors table full screen"></iframe>
           </div>
-
-          <gcds-date-modified>2026-05-04</gcds-date-modified>
+          <gcds-date-modified>2026-07-21</gcds-date-modified>
         </div>
       </div>
     </gcds-container>
     <gcds-footer display="simple"></gcds-footer>
-  
+
     <script>
-      const overlay = document.getElementById("viewer-overlay");
-      const openBtn = document.getElementById("open-fullscreen");
-      const closeBtn = document.getElementById("close-fullscreen");
-      const filterBtn = document.getElementById("open-filter");
-      const iframe = document.getElementById("embedded-flat-viewer");
-      const overlayIframe = document.getElementById("overlay-flat-viewer");
-      const FILTER_HASH = "#schema=builder";
+      document.querySelectorAll("[data-open-fullscreen]").forEach((openBtn) => {
+        const overlayId = openBtn.getAttribute("data-open-fullscreen");
+        const overlay = document.getElementById(overlayId);
+        const closeBtn = overlay?.querySelector("[data-close-fullscreen]");
 
-      openBtn?.addEventListener("click", () => {
-        overlay.classList.add("active");
-        overlay.setAttribute("aria-hidden", "false");
-      });
+        openBtn.addEventListener("click", () => {
+          overlay?.classList.add("active");
+          overlay?.setAttribute("aria-hidden", "false");
+        });
 
-      closeBtn?.addEventListener("click", () => {
-        overlay.classList.remove("active");
-        overlay.setAttribute("aria-hidden", "true");
-      });
-
-      filterBtn?.addEventListener("click", () => {
-        const url = new URL(iframe.src);
-        url.hash = FILTER_HASH.replace("#", "");
-        iframe.src = url.toString();
-        overlayIframe.src = url.toString();
+        closeBtn?.addEventListener("click", () => {
+          overlay.classList.remove("active");
+          overlay.setAttribute("aria-hidden", "true");
+        });
       });
     </script>
-</body>
+
+  </body>
 </html>
