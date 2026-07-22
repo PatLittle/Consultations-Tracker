@@ -29,7 +29,7 @@ consultations_df = pd.read_csv(consultations_csv_url)
 INVALID_URL_RULES = [
     (
         "canada-preview.adobecqms.net",
-        "Canada.ca Preview Link",
+        "Canada-ca Preview Link",
     ),
     (
         "can01.safelinks.protection",
