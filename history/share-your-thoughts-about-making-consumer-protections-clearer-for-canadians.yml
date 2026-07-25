@@ -1,7 +1,7 @@
 url: https://crtc.gc.ca/eng/consultation/harmoni.htm
-status: up
-code: 200
-responseTime: 178
-lastUpdated: 2026-07-24T23:59:08.094Z
+status: down
+code: 502
+responseTime: 113
+lastUpdated: 2026-07-25T13:49:35.030Z
 startTime: 2026-06-18T20:54:06.796Z
 generator: Upptime <https://github.com/upptime/upptime>
