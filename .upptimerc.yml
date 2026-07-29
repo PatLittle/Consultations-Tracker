@@ -243,8 +243,6 @@ sites:
   url: https://www.rncanengagenrcan.ca/en/content/development-new-indigenous-ministerial-arrangements-regulations
 - name: Canada-NS and Canada-NL Offshore Renewable Energy Regulations
   url: https://natural-resources.canada.ca/energy-sources/renewable-energy/offshore-renewable-energy-regulations-initiative
-- name: Consultative document on Credit Risk Management
-  url: https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/consultative-document-credit-risk-management
 - name: Consultative document on Senior Leader Accountability
   url: https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/consultative-document-proposed-senior-leader-regime
 - name: Internal Liquidity Adequacy Assessment Process (ILAAP) for Deposit-Taking
@@ -308,17 +306,21 @@ sites:
   url: https://www.tsb.gc.ca/eng/surveillance-watchlist/2022.html
 - name: Oceans Protection Plan
   url: https://consultations.tc.canada.ca/en/consultation/let-s-talk-oceans-protection-plan
-- name: Electric Vehicle Safety
-  url: https://tc.canada.ca/en/corporate-services/consultations
-- name: Potential regulations to increase access to marine emergency services and
-    improve response to pollution incidents
-  url: https://tc.canada.ca/en/corporate-services/consultations/potential-regulations-increase-access-marine-emergency-services-improve-response-pollution-incidents-second-consultation
-- name: 'PICA-2026-001: Operational Evaluations (OE)'
-  url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/actr.aspx?id=132&aType=1&GoCTemplateCulture=en-CA
-- name: Miscellaneous Low Impact Standards Amendment
-  url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/npaapmr.aspx?id=3070&GoCTemplateCulture=en-CA
-- name: Personnel Licensing and Training Standard  Amendment Package
-  url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/npaapmr.aspx?id=3072&GoCTemplateCulture=en-CA
+- name: Amendments to the Aircraft Marking and Registration Standard
+  url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/npaapmr.aspx?id=3074&GoCTemplateCulture=en-CA
+- name: 'RPAS: Remote Identification, Community-Based  Organizations, and Designated
+    Airspace'
+  url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/npaapmr.aspx?id=3073&GoCTemplateCulture=en-CA
+- name: Updating the Vancouver International Airport Zoning Regulations
+  url: https://tc.canada.ca/en/corporate-services/consultations/updating-vancouver-international-airport-zoning-regulations
+- name: Strengthening One Canadian Economy through trade and transportation
+  url: https://tc.canada.ca/en/corporate-services/consultations/strengthening-one-canadian-economy-through-trade-transportation
+- name: Public consultation on the future of Billy Bishop Toronto City Airport
+  url: https://tc.canada.ca/en/corporate-services/consultations/public-consultation-future-billy-bishop-toronto-city-airport
+- name: Strengthening transportation security clearances for One Canadian Economy
+  url: https://tc.canada.ca/en/corporate-services/consultations/strengthening-one-canadian-economy-through-trade-transportation/discussion-paper-strengthening-transportation-security-clearances-one-canadian-economy
+- name: Assistance to Aircraft Accident Victims and their Families
+  url: https://tc.canada.ca/en/corporate-services/consultations/assistance-aircraft-accident-victims-their-families
 - name: Ministerial Advisory Groups • Recognition  •  Families  • Care and Support
     • Policy •  Health and Well-being • Service Excellence and Transition
   url: https://www.veterans.gc.ca/en/about-vac/public-engagement/ministerial-advisory-groups
