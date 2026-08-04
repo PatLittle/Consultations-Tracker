@@ -51,8 +51,8 @@ sites:
   url: https://crtc.gc.ca/eng/consultation/indg-atch.htm
 - name: Share your thoughts about making consumer protections clearer for Canadians
   url: https://crtc.gc.ca/eng/consultation/harmoni.htm
-- name: Lac‑Mégantic Bypass Consultation on Groupe Conseil UDA Report and CMQR’s response
-  url: https://otc-cta.gc.ca/eng/consultation/lac-megantic-bypass-consultation-groupe-conseil-uda-report-and-cmqr-response
+- name: VRCPI Forecast Models Consultation
+  url: https://otc-cta.gc.ca/eng/consultation/extended-consultation-vrcpi-forecast-models
 - name: Consultations on Extending the Canadian Journalism Labour Tax Credit to Audio
     and Audiovisual News Organizations
   url: https://www.canada.ca/en/department-finance/programs/consultations/2026/consultations-on-extending-canadian-journalism-labour-tax-credit-audio-audiovisual-news-organizations.html
@@ -194,9 +194,6 @@ sites:
   url: https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/learn-more/key-documents/consultations/consultation-policy-licensing-and-technical-framework-remotely-piloted-aircraft-systems-rpas-5030
 - name: Proposed Revisions to the Canadian Table of Frequency Allocations 2026 Edition
   url: https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/learn-more/key-documents/consultations/proposed-revisions-canadian-table-frequency-allocations-2026-edition
-- name: Regulations Amending the Electricity and Gas Inspection Regulations and the
-    Weights and Measures Regulations
-  url: https://gazette.gc.ca/rp-pr/p1/2026/2026-07-04/html/reg4-eng.html
 - name: Consultation on enhancing trust in artificial intelligence through increased
     transparency
   url: https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada
