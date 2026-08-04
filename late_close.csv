@@ -1,6 +1,4 @@
 registration_number,title_en,start_date,end_date,status,owner_org
-C-0276,Consultation on Electric Vehicle Supply Equipment (EVSE) Type-Approval Specifications,2026-06-08,2026-08-03,O,ic
-C-0255,Consultation on Level 1 and 2 Electric Vehicle Supply Equipment (EVSE) Inspection Specifications and Procedures,2026-06-08,2026-08-03,O,ic
 82960,"Upper Beaver Gold Project
 Public notice
 Participant funding available",2026-07-03,2026-08-03,O,iaac-aeic
@@ -18,8 +16,8 @@ C-0001150,Consultation: Proposed health-based air quality objectives for arsenic
 C-0001151,"Consultation on the proposed special review decision of 4-Chloro-2-methylphenoxyacetic acid and its associated end-use products, PSRD2026-01",2026-05-29,2026-07-13,O,hc-sc
 C-VAC0060,Ministerial Advisory Groups • Recognition  •  Families  • Care and Support • Policy •  Health and Well-being • Service Excellence and Transition,2024-11-01,2026-06-30,O,vac-acc
 cta-otc-2026-1,Lac‑Mégantic Bypass Consultation on Groupe Conseil UDA Report and CMQR’s response,2026-06-18,2026-06-29,O,cta-otc
-DFO20260420-01,Wharf 401 Reconstruction - Millerand Harbour - Magdalen Islands,2026-03-26,2026-06-15,O,dfo-mpo
 DFO20260420-02,Wharf 403 Reconstruction - Newport Harbour - Gaspésie,2026-03-26,2026-06-15,O,dfo-mpo
+DFO20260420-01,Wharf 401 Reconstruction - Millerand Harbour - Magdalen Islands,2026-03-26,2026-06-15,O,dfo-mpo
 DFO20260116,Development of the Canadian Ghost Gear Action Plan,2025-12-01,2026-05-31,O,dfo-mpo
 DFO20250730-02,Multi-species Action Plan for the Alberta at-risk Native Trout in Canada,2026-03-26,2026-05-25,O,dfo-mpo
 C-672074,Fuel tank removal at the NRC Dominion Radio Astrophysical Observatory,2026-04-21,2026-05-21,O,nrc-cnrc
@@ -27,24 +25,24 @@ C-0282,Proposed Revisions to the Canadian Table of Frequency Allocations 2026 Ed
 C-0273,Red Tape Review and Patent Grace Period – Canadian Intellectual Property Office,2026-03-31,2026-04-30,O,ic
 C0000255,Consultations on potential Express Entry reforms,2026-03-16,2026-04-29,O,cic
 C-0281,"Consultation on a Policy, Licensing and Technical Framework for Remotely Piloted Aircraft Systems (RPAS) in the 5030-5091 MHz Band and Certain Bands Used to Provide Commercial Mobile Services",2025-12-22,2026-04-10,O,ic
+STC0000081,Enhancing the ability to search for Statistics Canada data - Consultative engagement,2026-02-24,2026-03-31,O,statcan
+c-202506,Domestic Assessment of Product Category Filters for the Green Public Procurement Tool (GPPT),2025-10-01,2026-03-31,O,pwgsc-tpsgc
 C-0000008,Youth Advisory Council,2019-04-01,2026-03-31,O,lac-bac
 C-0000005,Stakeholders' Forum,2019-04-01,2026-03-31,O,lac-bac
 C-0000004,Indigenous Advisory Circle,2019-04-01,2026-03-31,O,lac-bac
-c-202506,Domestic Assessment of Product Category Filters for the Green Public Procurement Tool (GPPT),2025-10-01,2026-03-31,O,pwgsc-tpsgc
 C-0000006,Services Consultation Committee,2019-04-01,2026-03-31,O,lac-bac
 DFO20220513-07,Whitby Harbour Remediation Project,2022-02-10,2026-03-31,O,dfo-mpo
-STC0000081,Enhancing the ability to search for Statistics Canada data - Consultative engagement,2026-02-24,2026-03-31,O,statcan
 C-0000102,General Regulations under the Canada National Marine Conservation Areas Act,2023-04-11,2026-03-15,O,pc
 C-0000146,A Reimagined Visitor Centre and Community Space in the Heart of Banff,2026-01-30,2026-02-27,O,pc
 C-0033475,"Share your views and ideas: Review of the Environmental Emergency Regulations, 2019",2025-12-15,2026-02-13,O,ec
-C-0033495,Science approach document on the prioritization of chemicals in plastics,2025-12-06,2026-02-04,O,ec
 88774,Deep Geological Repository (DGR) for Canada's Used Nuclear Fuel Project,2026-01-05,2026-02-04,O,iaac-aeic
+C-0033495,Science approach document on the prioritization of chemicals in plastics,2025-12-06,2026-02-04,O,ec
 C0000247,2025 online survey of newcomers to Canada,2025-12-01,2026-01-01,O,cic
 C-0000702,Indigenous Ministerial Arrangements Regulations,2022-07-25,2025-12-31,O,nrcan-rncan
 C-0033493,"Draft Assessment for Manganese and its Compounds, and the Risk Management Scope",2025-10-25,2025-12-24,O,ec
 C-0033424,Consultation on Amending the List of Species under the Species at Risk Act: Terrestrial Species January 2025,2024-12-10,2025-10-19,O,ec
-C-0254,Consultation on the implementation of the Global Cross-Border Privacy Rules (CBPR) Forum certifications in Canada,2025-03-07,2025-07-31,O,ic
 C-0000144,Alexander Graham Bell National Historic Site Management Plan,2025-06-23,2025-07-31,O,pc
+C-0254,Consultation on the implementation of the Global Cross-Border Privacy Rules (CBPR) Forum certifications in Canada,2025-03-07,2025-07-31,O,ic
 STC0000059,Invitation to participate in the revision of the North American Product Classification System (NAPCS) Canada,2023-08-25,2025-06-30,O,statcan
 STC0000058,Invitation to participate in the revision of the North American Industry Classification System (NAICS) Canada,2023-08-24,2025-06-30,O,statcan
 C-1000002,Watchlist 2025 mid-cycle consultations with industry,2024-10-07,2025-05-31,O,tsb-bst
@@ -69,7 +67,7 @@ C-JAG-21Q1-11,Consultation to inform the regulatory development to support the i
 C-0000558,Proposed Amendments to the Export Permits Regulations,2022-06-18,2022-07-18,O,dfatd-maecd
 SCCS-2021,Statistics Canada Client Survey 2022,2022-03-01,2022-04-25,O,statcan
 C-00052,National Infrastructure Assessment,2021-03-16,2021-06-30,O,infc
-C-ISC0037,Renewal of the Fire Protection Strategy,2020-04-01,2021-03-31,O,isc-sac
-C-INA0005,Indigenous Procurement Modernization (including Procurement Strategy for Aboriginal Business),2017-06-01,2021-03-31,O,isc-sac
 C-ISC0033,Indian Oil and Gas Regulations - Phase II,2013-04-01,2021-03-31,O,isc-sac
+C-INA0005,Indigenous Procurement Modernization (including Procurement Strategy for Aboriginal Business),2017-06-01,2021-03-31,O,isc-sac
+C-ISC0037,Renewal of the Fire Protection Strategy,2020-04-01,2021-03-31,O,isc-sac
 STC-0000023,Multifactor Productivity Application,2019-12-01,2020-03-31,O,statcan
