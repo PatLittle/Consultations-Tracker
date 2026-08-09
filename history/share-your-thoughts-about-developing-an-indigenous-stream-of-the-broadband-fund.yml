@@ -1,7 +1,7 @@
 url: https://crtc.gc.ca/eng/consultation/indg-atch.htm
-status: up
-code: 200
-responseTime: 195
-lastUpdated: 2026-08-08T23:23:35.635Z
+status: down
+code: 502
+responseTime: 167
+lastUpdated: 2026-08-09T16:43:02.702Z
 startTime: 2026-03-23T17:00:45.381Z
 generator: Upptime <https://github.com/upptime/upptime>
