@@ -1,7 +1,7 @@
 url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/npaapmr.aspx?id=3073&GoCTemplateCulture=en-CA
-status: up
-code: 200
-responseTime: 1041
-lastUpdated: 2026-08-21T23:20:29.392Z
+status: down
+code: 404
+responseTime: 100
+lastUpdated: 2026-08-22T12:52:24.935Z
 startTime: 2026-07-29T21:04:31.173Z
 generator: Upptime <https://github.com/upptime/upptime>
