@@ -13,9 +13,6 @@ sites:
   url: https://www.cerdialogue.ca/remediation-process-guide-review
 - name: Proposed changes to Canada’s Enhanced Feed Ban
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/enhanced-feed-ban
-- name: 'Share your thoughts: Proposed new livestock feed ingredient –  Quillaja saponaria
-    wood powder'
-  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/quillaja-saponaria
 - name: 'Share your thoughts: Proposed amended livestock feed ingredients –  Carotenoid
     based pigments'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/carotenoid-related-ingredients
@@ -25,6 +22,12 @@ sites:
 - name: 'Share your thoughts: Proposed risk management options for red pine scale
     in Canada'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/red-pine-scale
+- name: 'Share your thoughts: Proposed new livestock feed ingredient – Heyndrickxia
+    faecalis culture dehydrated'
+  url: https://inspection.canada.ca/en/animal-health/livestock-feeds/consultations/heyndrickxia-faecalis
+- name: 'Share your thoughts: Proposed new and amended Livestock feed ingredients –
+    Carrot-based ingredients'
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/carrot-based-feed
 - name: Changing Narrative Fund
   url: https://www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
 - name: 2026 Cross-Canada Official Languages Consultations
@@ -92,6 +95,8 @@ sites:
 - name: 'Share your ideas: Amendments to the Metal and Diamond Mining Effluent Regulations
     for the Great Bear Gold Project'
   url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/amendments-metal-diamond-mining-effluent-regulations-great-bear-gold-project.html
+- name: 'Share your ideas: Recovery from ship-source marine oil spills'
+  url: https://www.canada.ca/en/environment-climate-change/corporate/transparency/consultations/environmental-recovery-ship-source-marine-oil-spills.html
 - name: Whitby Harbour Remediation Project
   url: https://www.dfo-mpo.gc.ca/sch-ppb/whitby/index-eng.html
 - name: Multi-species Action Plan for the Alberta at-risk Native Trout in Canada
