@@ -1,7 +1,7 @@
-url: https://noc.esdc.gc.ca/Home/ParticipateInNOCConsultations
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-08-29T22:34:18.249Z
+url: https://www.statcan.gc.ca/en/consultation/2024/noc
+status: up
+code: 200
+responseTime: 432
+lastUpdated: 2026-08-29T22:36:35.578Z
 startTime: 2024-07-15T20:22:14.512Z
 generator: Upptime <https://github.com/upptime/upptime>
