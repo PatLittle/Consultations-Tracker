@@ -1,7 +1,7 @@
 url: https://www.tsb.gc.ca/eng/surveillance-watchlist/2022.html
-status: up
-code: 200
-responseTime: 295
-lastUpdated: 2026-08-31T16:05:39.088Z
+status: down
+code: 502
+responseTime: 165
+lastUpdated: 2026-08-31T23:44:12.418Z
 startTime: 2024-10-31T20:24:19.490Z
 generator: Upptime <https://github.com/upptime/upptime>
