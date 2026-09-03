@@ -13,12 +13,6 @@ sites:
   url: https://www.cerdialogue.ca/remediation-process-guide-review
 - name: Proposed changes to Canada’s Enhanced Feed Ban
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/enhanced-feed-ban
-- name: 'Share your thoughts: Proposed amended livestock feed ingredients –  Carotenoid
-    based pigments'
-  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/carotenoid-related-ingredients
-- name: Regulations Amending the Safe Food for Canadians Regulations (Unmet Slaughter
-    Capacity)
-  url: https://gazette.gc.ca/rp-pr/p1/2026/2026-06-27/html/reg1-eng.html
 - name: 'Share your thoughts: Proposed risk management options for red pine scale
     in Canada'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/red-pine-scale
@@ -28,6 +22,9 @@ sites:
 - name: 'Share your thoughts: Proposed new and amended Livestock feed ingredients –
     Carrot-based ingredients'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/carrot-based-feed
+- name: 'Updates to Directive D-12-01: Phytosanitary requirements to prevent the introduction
+    of plants and regulated as pests in Canada'
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/directive-12-01-updates
 - name: Changing Narrative Fund
   url: https://www.canada.ca/en/canadian-heritage/campaigns/changing-narratives-fund.html
 - name: 2026 Cross-Canada Official Languages Consultations
