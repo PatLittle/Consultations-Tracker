@@ -1,6 +1,8 @@
 owner: PatLittle
 repo: Consultations-Tracker
 sites:
+- name: 'Accessibility Standards Canada: 2026 Accessibility Progress Report'
+  url: https://accessible.canada.ca/consultations/accessibility-plan-and-progress-report
 - name: White River First Nations
   url: https://www.rcaanc-cirnac.gc.ca/eng/1511969222951/1529103469169
 - name: Administrative Monetary Penalty System Review
@@ -13,6 +15,9 @@ sites:
   url: https://www.cerdialogue.ca/remediation-process-guide-review
 - name: Proposed changes to Canada’s Enhanced Feed Ban
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/enhanced-feed-ban
+- name: 'Share your thoughts: Proposed new and amended livestock feed ingredient –
+    dehydrated carrots (new) and 1-617-098 and 1-617-100 (amended)'
+  url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/carrot-based-feed
 - name: 'Share your thoughts: Proposed risk management options for red pine scale
     in Canada'
   url: https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/red-pine-scale
