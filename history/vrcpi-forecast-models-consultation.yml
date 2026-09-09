@@ -1,7 +1,7 @@
 url: https://otc-cta.gc.ca/eng/consultation/extended-consultation-vrcpi-forecast-models
-status: up
-code: 200
-responseTime: 558
-lastUpdated: 2026-09-09T01:01:07.160Z
+status: down
+code: 503
+responseTime: 121
+lastUpdated: 2026-09-09T22:25:29.154Z
 startTime: 2026-08-05T03:14:33.535Z
 generator: Upptime <https://github.com/upptime/upptime>
