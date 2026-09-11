@@ -117,11 +117,6 @@ sites:
 - name: 'Share your views: Consulting Canadians on a potential free trade agreement
     with Türkiye'
   url: https://international.canada.ca/en/global-affairs/consultations/trade/2026-07-29-turkiye
-- name: Consultation on ammonium bromide and its associated end-use products, Proposed
-    Re-evaluation Decision PRVD2026-03
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2026/ammonium-bromide.html
-- name: Consultation on spiropidion, Proposed Maximum Residue Limit PMRL2026-07
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2026/spiropidion.html
 - name: 'Consultation: Proposal to amend the Children’s Sleepwear Regulations under
     the Canada Consumer Product Safety Act'
   url: https://www.canada.ca/en/health-canada/programs/consultation-proposal-amend-childrens-sleepwear-regulations.html
@@ -145,6 +140,9 @@ sites:
 - name: Consultation on Closer Insecticide, containing sulfoxaflor, Proposed Registration
     Decision PRD2026-11
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2026/closer-insecticide-containing-sulfoxaflor.html
+- name: Consultation on Allowing use of pesticides in vertical farms, Regulatory Proposal
+    PRO2026-03
+  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/regulatory-proposals/2026/allowing-use-pesticides-vertical-farms.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
