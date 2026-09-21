@@ -1,7 +1,7 @@
 url: https://parks.canada.ca/lhn-nhs/ns/grahambell/info/plan
-status: down
-code: 500
-responseTime: 7867
-lastUpdated: 2026-09-21T00:51:30.130Z
+status: up
+code: 200
+responseTime: 300
+lastUpdated: 2026-09-21T15:01:41.576Z
 startTime: 2025-06-23T20:29:44.597Z
 generator: Upptime <https://github.com/upptime/upptime>
