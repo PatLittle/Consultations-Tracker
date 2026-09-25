@@ -95,8 +95,6 @@ sites:
 - name: Share your comments on the Recovery Strategy for the Lake Huron Grasshopper
     (Trimerotropis huroniana) in Canada [Proposed]
   url: https://species-registry.canada.ca/index-en.html#/consultations/jiLwwQeaGMwg7QiZd2bHy
-- name: Public Engagement toward a National Water Security Strategy
-  url: https://www.canada.ca/en/canada-water-agency/national-water-security-strategy/public-engagement-towards-nwss.html
 - name: Whitby Harbour Remediation Project
   url: https://www.dfo-mpo.gc.ca/sch-ppb/whitby/index-eng.html
 - name: Multi-species Action Plan for the Alberta at-risk Native Trout in Canada
@@ -112,13 +110,8 @@ sites:
   url: https://www.iaac-aeic.gc.ca/050/evaluations/proj/90308?culture=en-CA
 - name: Proposed Amendments to the Export Permits Regulations
   url: https://webarchiveweb.wayback.bac-lac.canada.ca/1/https://www.international.gc.ca/trade-commerce/controls-controles/expor/backgrounder-amendments-epr-information-modification-rle.aspx?lang=eng
-- name: 'Consultation: Draft revised Quality of natural health products guide'
-  url: https://www.canada.ca/en/health-canada/programs/draft-consultation-quality-natural-health-products-guide.html
 - name: Consultation on epyrifenacil, Proposed Maximum Residue Limit PMRL2026-08
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-maximum-residue-limit/2026/epyrifenacil.html
-- name: Consultation on epyrifenacil, S-3100 0.46 EC Herbicide and V-10488 0.94 SE
-    Herbicide, Proposed Registration Decision PRD2026-13
-  url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-registration-decisions/2026/epyrifenacil-s-3100-0-4-ec-herbicide-v-10488-0-94-se.html
 - name: Proposed special review decision PSRD2026-02, Halohydantoins and associated
     end-use products
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-special-review-decision/2026/halohydantoins/document.html
@@ -135,6 +128,8 @@ sites:
 - name: Consultation on Allowing use of pesticides in vertical farms, Regulatory Proposal
     PRO2026-03
   url: https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/regulatory-proposals/2026/allowing-use-pesticides-vertical-farms.html
+- name: Guidance on residential premise plumbing pathogens and water quality
+  url: https://www.canada.ca/en/health-canada/services/publications/healthy-living/guidance-residential-premise-plumbing-pathogens-water-quality.html
 - name: Regulations Amending the Immigration and Refugee Protection Regulations (Temporary
     Foreign Workers)
   url: https://gazette.gc.ca/rp-pr/p1/2021/2021-07-10/html/reg2-eng.html
