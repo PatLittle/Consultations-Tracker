@@ -53,8 +53,6 @@ sites:
 - name: Share your thoughts about developing an Indigenous stream of the Broadband
     Fund
   url: https://crtc.gc.ca/eng/consultation/indg-atch.htm
-- name: Share your thoughts about making consumer protections clearer for Canadians
-  url: https://crtc.gc.ca/eng/consultation/harmoni.htm
 - name: VRCPI Forecast Models Consultation
   url: https://otc-cta.gc.ca/eng/consultation/extended-consultation-vrcpi-forecast-models
 - name: Consultations on Extending the Canadian Journalism Labour Tax Credit to Audio
@@ -155,6 +153,9 @@ sites:
 - name: Indigenous Procurement Modernization (including Procurement Strategy for Aboriginal
     Business)
   url: https://www.aadnc-aandc.gc.ca/eng/1554218527634/1554218554486
+- name: An Act respecting First Nations, Inuit and Métis children, youth and families
+    5-year review
+  url: https://www.sac-isc.gc.ca/eng/1784053638939/1784053838441
 - name: Competition Bureau invites feedback on changes to the Textile Labelling and
     Advertising Regulations
   url: https://www.ic.gc.ca/eic/site/cb-bc.nsf/eng/h_00142.html
