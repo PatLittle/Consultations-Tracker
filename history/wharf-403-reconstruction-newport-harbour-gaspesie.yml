@@ -1,7 +1,7 @@
 url: https://www.iaac-aeic.gc.ca/050/evaluations/proj/90308?culture=en-CA
-status: up
-code: 200
-responseTime: 1372
-lastUpdated: 2026-10-03T01:42:44.986Z
+status: down
+code: 403
+responseTime: 301
+lastUpdated: 2026-10-03T19:09:30.908Z
 startTime: 2026-05-13T21:40:36.085Z
 generator: Upptime <https://github.com/upptime/upptime>
