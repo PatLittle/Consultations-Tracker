@@ -280,18 +280,16 @@ sites:
 - name: Watchlist 2025 mid-cycle consultations with industry
   url: https://www.tsb.gc.ca/eng/surveillance-watchlist/2022.html
 - name: Oceans Protection Plan
-  url: https://consultations.tc.canada.ca/en/consultation/let-s-talk-oceans-protection-plan
+  url: https://www.letstalktransportation.ca/OPP
+- name: Electric Vehicle Safety
+  url: https://N/A
 - name: Amendments to the Aircraft Marking and Registration Standard
   url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/npaapmr.aspx?id=3074&GoCTemplateCulture=en-CA
-- name: 'RPAS: Remote Identification, Community-Based  Organizations, and Designated
-    Airspace'
-  url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/npaapmr.aspx?id=3073&GoCTemplateCulture=en-CA
 - name: Updating the Vancouver International Airport Zoning Regulations
   url: https://tc.canada.ca/en/corporate-services/consultations/updating-vancouver-international-airport-zoning-regulations
-- name: Strengthening transportation security clearances for One Canadian Economy
-  url: https://tc.canada.ca/en/corporate-services/consultations/strengthening-one-canadian-economy-through-trade-transportation/discussion-paper-strengthening-transportation-security-clearances-one-canadian-economy
-- name: Assistance to Aircraft Accident Victims and their Families
-  url: https://tc.canada.ca/en/corporate-services/consultations/assistance-aircraft-accident-victims-their-families
+- name: TP 6327 - Safety Criteria for Approval of Extended Diversion Time Operations
+    (EDTO)
+  url: https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/NPA-APM/npaapmr.aspx?id=3075&GoCTemplateCulture=en-CA
 - name: Ministerial Advisory Groups • Recognition  •  Families  • Care and Support
     • Policy •  Health and Well-being • Service Excellence and Transition
   url: https://www.veterans.gc.ca/en/about-vac/public-engagement/ministerial-advisory-groups
