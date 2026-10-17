@@ -1,0 +1,51 @@
+name: Publish custom consultation pages
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - CwC-experimental/**
+      - report.html
+      - changelog.html
+      - url_errors.html
+      - .github/workflows/publish_custom_pages.yml
+  workflow_run:
+    workflows: [Static Site CI]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-custom-consultation-pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source pages
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          path: source
+      - name: Check out Pages branch
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: pages
+      - name: Copy custom pages
+        run: |
+          mkdir -p pages/CwC-experimental
+          cp source/CwC-experimental/index.html pages/CwC-experimental/index.html
+          cp source/report.html source/changelog.html source/url_errors.html pages/
+          git -C pages rm --ignore-unmatch consultations_dataset.html
+          git -C pages add CwC-experimental/index.html report.html changelog.html url_errors.html
+          if ! git -C pages diff --cached --quiet; then
+            git -C pages config user.name 'github-actions[bot]'
+            git -C pages config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git -C pages commit -m 'Publish custom consultation pages [skip ci]'
+            git -C pages push origin HEAD:gh-pages
+          fi

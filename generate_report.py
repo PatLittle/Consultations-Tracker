@@ -10,8 +10,8 @@ from datetime import datetime, timedelta
 
 # URL to the CSV file from the Government Open Data portal.
 csv_url = 'https://open.canada.ca/data/en/datastore/dump/92bec4b7-6feb-4215-a5f7-61da342b2354'  # Replace with the actual URL if necessary
-gazette_consultations_en_url = 'https://gazette.gc.ca/consult/consult-eng.html#a4'
-gazette_consultations_fr_url = 'https://gazette.gc.ca/consult/consult-fra.html#a4'
+gazette_consultations_en_url = 'https://gazette.gc.ca/consult/consult2-eng.html#a4'
+gazette_consultations_fr_url = 'https://gazette.gc.ca/consult/consult2-fra.html'
 gazette_base_url = 'https://gazette.gc.ca'
 
 ENGLISH_MONTHS = {
@@ -50,67 +50,59 @@ FRENCH_MONTHS = {
 class GazetteConsultationParser(HTMLParser):
     def __init__(self):
         super().__init__(convert_charrefs=True)
-        self.in_open_section = False
-        self.in_entry = False
-        self.in_link = False
-        self.in_list_item = False
-        self.current_entry = None
-        self.current_text = []
+        self.in_open_table = False
+        self.in_caption = False
+        self.caption_text = []
+        self.caption_is_open = False
+        self.in_cell = False
+        self.current_row = None
+        self.cell_text = []
         self.entries = []
 
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
-        if tag == 'h2' and attrs.get('id') == 'a4':
-            self.in_open_section = True
+        if tag == 'caption':
+            self.in_caption = True
+            self.caption_text = []
+            self.caption_is_open = attrs.get('id') == 'a4'
             return
 
-        if not self.in_open_section:
+        if not self.in_open_table:
             return
 
-        if tag == 'h2':
-            self.in_open_section = False
-            return
-
-        if tag == 'div':
-            self.in_entry = True
-            self.current_entry = {'title': '', 'link': '', 'items': []}
-            return
-
-        if not self.in_entry:
-            return
-
-        if tag == 'a':
-            self.in_link = True
-            self.current_text = []
-            self.current_entry['link'] = attrs.get('href', '')
-        elif tag == 'li':
-            self.in_list_item = True
-            self.current_text = []
+        if tag == 'tr':
+            self.current_row = {'cells': [], 'link': ''}
+        elif tag == 'td' and self.current_row is not None:
+            self.in_cell = True
+            self.cell_text = []
+        elif tag == 'a' and self.in_cell:
+            self.current_row['link'] = attrs.get('href', '')
 
     def handle_endtag(self, tag):
-        if tag == 'h2' and self.in_open_section and not self.in_entry:
+        if tag == 'caption' and self.in_caption:
+            caption = normalize_space(''.join(self.caption_text)).lower()
+            self.in_open_table = self.caption_is_open or caption in ('open consultations', 'consultations ouvertes')
+            self.in_caption = False
             return
 
-        if not self.in_open_section or not self.in_entry:
+        if not self.in_open_table:
             return
 
-        if tag == 'a' and self.in_link:
-            self.current_entry['title'] = normalize_space(''.join(self.current_text))
-            self.in_link = False
-            self.current_text = []
-        elif tag == 'li' and self.in_list_item:
-            self.current_entry['items'].append(normalize_space(''.join(self.current_text)))
-            self.in_list_item = False
-            self.current_text = []
-        elif tag == 'div':
-            if self.current_entry and self.current_entry.get('title'):
-                self.entries.append(self.current_entry)
-            self.current_entry = None
-            self.in_entry = False
+        if tag == 'td' and self.in_cell:
+            self.current_row['cells'].append(normalize_space(''.join(self.cell_text)))
+            self.in_cell = False
+        elif tag == 'tr' and self.current_row is not None:
+            if len(self.current_row['cells']) == 3 and self.current_row['link']:
+                self.entries.append(self.current_row)
+            self.current_row = None
+        elif tag == 'table':
+            self.in_open_table = False
 
     def handle_data(self, data):
-        if self.in_link or self.in_list_item:
-            self.current_text.append(data)
+        if self.in_caption:
+            self.caption_text.append(data)
+        if self.in_cell:
+            self.cell_text.append(data)
 
 
 def normalize_space(value):
@@ -146,49 +138,46 @@ def fetch_gazette_consultations(url, language):
 
     consultations = []
     for entry in parser.entries:
-        published_text = next(
-            (item for item in entry['items'] if 'published' in item.lower() or 'publié' in item.lower()),
-            '',
-        )
-        close_text = next(
-            (item for item in entry['items'] if 'until' in item.lower() or 'jusqu' in item.lower()),
-            '',
-        )
         consultations.append(
             {
-                f'title_{language}': entry['title'],
+                f'title_{language}': entry['cells'][1],
                 f'link_{language}': urljoin(gazette_base_url, entry['link']),
-                'date_published': parse_text_date(published_text, language),
-                'date_close': parse_text_date(close_text, language),
+                'date_published': parse_text_date(entry['cells'][0], language),
+                'date_close': parse_text_date(entry['cells'][2], language),
             }
         )
 
+    if not consultations:
+        raise ValueError(f'No open consultations found at {url}; page layout may have changed')
     return consultations
 
 
 def collect_gazette_consultations():
     english_consultations = fetch_gazette_consultations(gazette_consultations_en_url, 'en')
     french_consultations = fetch_gazette_consultations(gazette_consultations_fr_url, 'fr')
+    french_by_link = {entry['link_fr']: entry for entry in french_consultations}
+    expected_french_links = {
+        entry['link_en'].replace('-eng.html', '-fra.html')
+        for entry in english_consultations
+    }
+    if expected_french_links != set(french_by_link):
+        raise ValueError('English and French Gazette consultation lists do not match')
     consultation_rows = []
 
     for english_entry in english_consultations:
         french_link = english_entry['link_en'].replace('-eng.html', '-fra.html')
-        french_entry = next(
-            (
-                entry
-                for entry in french_consultations
-                if entry['link_fr'] == french_link
-            ),
-            {},
-        )
+        french_entry = french_by_link[french_link]
+        if not all((english_entry['date_published'], english_entry['date_close'],
+                    french_entry['date_published'], french_entry['date_close'])):
+            raise ValueError(f'Missing Gazette consultation date: {english_entry["link_en"]}')
         consultation_rows.append(
             {
-                'date_published': english_entry['date_published'] or french_entry.get('date_published', ''),
-                'date_close': english_entry['date_close'] or french_entry.get('date_close', ''),
+                'date_published': english_entry['date_published'],
+                'date_close': english_entry['date_close'],
                 'title_en': english_entry['title_en'],
-                'title_fr': french_entry.get('title_fr', ''),
+                'title_fr': french_entry['title_fr'],
                 'link_en': english_entry['link_en'],
-                'link_fr': french_entry.get('link_fr', french_link),
+                'link_fr': french_entry['link_fr'],
             }
         )
 
@@ -299,7 +288,7 @@ late_start_df.to_csv("late_start.csv", index=False)
 # 6. Open Canada Gazette consultations.
 try:
     gazette_consultations_df = collect_gazette_consultations()
-except URLError:
+except (URLError, ValueError):
     try:
         gazette_consultations_df = pd.read_csv('gazette_consultations.csv')
     except FileNotFoundError:
@@ -507,8 +496,8 @@ html_template = f"""<!DOCTYPE html>
             <gcds-nav-link href="https://patlittle.github.io/Consultations-Tracker/changelog.html">
               Change Log Report
             </gcds-nav-link>
-            <gcds-nav-link href="https://patlittle.github.io/Consultations-Tracker/consultations_dataset.html">
-              Consultations Data View
+            <gcds-nav-link href="https://patlittle.github.io/Consultations-Tracker/CwC-experimental/">
+              CwC Experimental
             </gcds-nav-link>
             <gcds-nav-link href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d">
               Consultations Open Dataset
@@ -716,8 +705,8 @@ chng_log_template = f"""<!DOCTYPE html>
             >
               Change Log Report
             </gcds-nav-link>
-            <gcds-nav-link href="https://patlittle.github.io/Consultations-Tracker/consultations_dataset.html">
-              Consultations Data View
+            <gcds-nav-link href="https://patlittle.github.io/Consultations-Tracker/CwC-experimental/">
+              CwC Experimental
             </gcds-nav-link>
             <gcds-nav-link href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d">
               Source Open Data Set
@@ -843,8 +832,8 @@ url_errors_template = f"""<!DOCTYPE html>
             <gcds-nav-link href="https://patlittle.github.io/Consultations-Tracker/changelog.html">
               Change Log Report
             </gcds-nav-link>
-            <gcds-nav-link href="https://patlittle.github.io/Consultations-Tracker/consultations_dataset.html">
-              Consultations Data View
+            <gcds-nav-link href="https://patlittle.github.io/Consultations-Tracker/CwC-experimental/">
+              CwC Experimental
             </gcds-nav-link>
             <gcds-nav-link href="https://open.canada.ca/data/en/dataset/7c03f039-3753-4093-af60-74b0f7b2385d">
               Source Open Data Set
