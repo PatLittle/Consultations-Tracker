@@ -738,7 +738,7 @@ chng_log_template = f"""<!DOCTYPE html>
          
           </section>
 {flatgithub_viewer_section(
-            "https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/consultations_chng_log.csv?filename=consultations_chng_log.csv&sort=row_chng_datetime%2Cdesc&stickyColumnName=row_chng_datetime",
+            "https://patlittle.github.io/flatgit/PatLittle/Consultations-Tracker/blob/master/consultations_chng_log.csv",
             "Consultations Tracker change log table",
             "change-log-viewer-overlay",
           )}
@@ -865,7 +865,7 @@ url_errors_template = f"""<!DOCTYPE html>
 
           </section>
 {flatgithub_viewer_section(
-            "https://flatgithub.com/PatLittle/Consultations-Tracker/blob/master/bad-urls.csv?filename=bad-urls.csv",
+            "https://patlittle.github.io/flatgit/PatLittle/Consultations-Tracker/blob/master/bad-urls.csv",
             "Consultations Tracker URL errors table",
             "url-errors-viewer-overlay",
           )}
