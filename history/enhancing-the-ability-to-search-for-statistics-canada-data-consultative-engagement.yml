@@ -1,7 +1,7 @@
 url: https://www.statcan.gc.ca/en/enhancing-ability-search
-status: down
-code: 403
-responseTime: 366
-lastUpdated: 2026-10-22T01:16:13.935Z
+status: up
+code: 200
+responseTime: 427
+lastUpdated: 2026-10-22T19:56:05.165Z
 startTime: 2026-03-13T20:45:42.684Z
 generator: Upptime <https://github.com/upptime/upptime>
