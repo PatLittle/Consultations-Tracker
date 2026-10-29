@@ -261,9 +261,14 @@ sites:
 - name: Participate in the permanent consultation for the revision of the Canadian
     Research and Development Classification (CRDC)
   url: https://www.statcan.gc.ca/en/consultation/2025/crdc
-- name: Enhancing the ability to search for Statistics Canada data - Consultative
-    engagement
-  url: https://www.statcan.gc.ca/en/enhancing-ability-search
+- name: 'Share your thoughts: Data access and website navigation training sessions'
+  url: https://www.statcan.gc.ca/en/consultation/2026/data-access-website-navigation-training-sessions
+- name: Contribute to the improvement of Statistics Canada's disability measurements
+  url: https://www.statcan.gc.ca/en/consultation/2026/disability-measurements
+- name: 'Share your thoughts: Portrait of Population Impact Assessment Reports'
+  url: https://www.statcan.gc.ca/en/consultation/2026/portrait-population-impact-assessment-reports
+- name: 'Share your thoughts: Ethnic or cultural origin and religion concepts'
+  url: https://www.statcan.gc.ca/en/consultation/2026/ethnic-cultural-origin-religion-concepts
 - name: Watchlist 2020 mid-cycle consultation with industry
   url: https://www.tsb.gc.ca/eng/qui-about/relation.html
 - name: Watchlist 2025 mid-cycle consultations with industry
