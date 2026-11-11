@@ -38,11 +38,13 @@ jobs:
           path: pages
       - name: Copy custom pages
         run: |
-          mkdir -p pages/CwC-experimental
-          cp source/CwC-experimental/index.html pages/CwC-experimental/index.html
+          mkdir -p pages/CwC-experimental/en pages/CwC-experimental/fr
+          cp source/CwC-experimental/en/index.html pages/CwC-experimental/en/index.html
+          cp source/CwC-experimental/fr/index.html pages/CwC-experimental/fr/index.html
+          cp source/CwC-experimental/en/index.html pages/CwC-experimental/index.html
           cp source/report.html source/changelog.html source/url_errors.html pages/
           git -C pages rm --ignore-unmatch consultations_dataset.html
-          git -C pages add CwC-experimental/index.html report.html changelog.html url_errors.html
+          git -C pages add CwC-experimental report.html changelog.html url_errors.html
           if ! git -C pages diff --cached --quiet; then
             git -C pages config user.name 'github-actions[bot]'
             git -C pages config user.email '41898282+github-actions[bot]@users.noreply.github.com'
