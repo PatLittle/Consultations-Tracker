@@ -44,6 +44,13 @@
     .multi-select summary span { display: block; margin: .25rem 0 0 1.15rem; color: #555; font-size: .88rem; font-weight: 400; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
     .checkbox-scroll { max-height: 17rem; overflow: auto; padding: .4rem .85rem .9rem; border-top: 1px solid var(--cwc-line); }
     .filter-box { padding-top: .25rem; }
+    .filter-label { display: block; margin: 0 0 .45rem; font-weight: 700; }
+    #start-date { grid-column: 1; grid-row: 1; }
+    #end-date { grid-column: 2; grid-row: 1; }
+    .status-filter { grid-column: 3; grid-row: 1 / span 2; }
+    .report-filter { grid-column: 1 / 3; grid-row: 2; }
+    .subject-filter { grid-column: 1; grid-row: 3; }
+    .organization-filter { grid-column: 2 / -1; grid-row: 3; }
     .actions { display: flex; flex-wrap: wrap; gap: .75rem; margin-top: 1.25rem; align-items: center; }
     .results-bar { display: flex; justify-content: space-between; gap: 1rem; align-items: end; margin: 2rem 0 1.25rem; }
     .results-bar p { margin: .25rem 0 0; }
@@ -102,10 +109,26 @@
       .record-grid { grid-template-columns: 1fr; }
       .record-grid dt { border-bottom: 0; }
     }
+    .primary-filters { display: grid; grid-template-columns: minmax(0, 2fr) minmax(13rem, 1fr) minmax(8rem, .45fr); gap: 1rem 1.25rem; align-items: start; }
+    .advanced-options { margin-top: 1.25rem; border-top: 1px solid var(--cwc-line); }
+    .advanced-options > summary { width: fit-content; margin: 1rem 0; color: #284f7a; font-weight: 700; text-decoration: underline; cursor: pointer; }
+    .button-icon { width: 1.15em; height: 1.15em; margin-right: .4rem; vertical-align: -.18em; fill: currentColor; }
+    dialog { position: fixed; inset: 50% auto auto 50%; transform: translate(-50%, -50%); margin: 0; overflow: auto; }
+    @media (max-width: 850px) {
+      .primary-filters { grid-template-columns: minmax(0, 2fr) minmax(12rem, 1fr); }
+      .primary-filters #records { grid-column: span 2; }
+      #start-date, #end-date, .status-filter, .subject-filter, .organization-filter { grid-column: auto; grid-row: auto; }
+      .report-filter { grid-column: 1 / -1; grid-row: auto; }
+    }
+    @media (max-width: 560px) {
+      .primary-filters { grid-template-columns: 1fr; }
+      .primary-filters #records { grid-column: auto; }
+      .report-filter { grid-column: auto; }
+    }
   </style>
 </head>
 <body>
-  <gcds-header lang-href="/fr/proto-cwc" skip-to-href="#main-content">
+  <gcds-header lang-href="/Consultations-Tracker/CwC-experimental/fr/" skip-to-href="#main-content">
     <gcds-breadcrumbs slot="breadcrumb">
       <gcds-breadcrumbs-item href="https://www.canada.ca/en.html">Canada.ca</gcds-breadcrumbs-item>
       <gcds-breadcrumbs-item href="https://www.canada.ca/en/government/system.html">How government works</gcds-breadcrumbs-item>
@@ -132,35 +155,10 @@
     <gcds-text>Search by keyword or narrow the list by status, subject or organization.</gcds-text>
 
     <form id="search-form" class="filter-panel">
-      <div class="filter-grid">
-        <gcds-input id="keywords" class="wide" input-id="keywords-input" name="keywords" type="search"
-          label="Keywords" hint="For example: accessibility, climate or artificial intelligence">
+      <div class="primary-filters">
+        <gcds-input id="keywords" input-id="keywords-input" name="keywords" type="search"
+          label="Keywords" placeholder="For example: accessibility, climate or artificial intelligence">
         </gcds-input>
-        <gcds-date-input id="start-date" name="start-date" format="iso" legend="Window starts" hint="Show consultations active on or after this date"></gcds-date-input>
-        <gcds-date-input id="end-date" name="end-date" format="iso" legend="Window ends" hint="Show consultations active on or before this date"></gcds-date-input>
-        <details class="multi-select">
-          <summary>Status <span id="status-selection">Any status</span></summary>
-          <div class="checkbox-scroll">
-            <gcds-checkboxes id="status" name="status" legend="Status" hide-legend
-              options='[{"id":"status-o","label":"Open","value":"O"},{"id":"status-p","label":"Planned","value":"P"},{"id":"status-c","label":"Closed","value":"C"}]'></gcds-checkboxes>
-          </div>
-        </details>
-        <details class="multi-select">
-          <summary>Subjects <span id="subject-selection">Any subject</span></summary>
-          <div class="checkbox-scroll">
-            <gcds-checkboxes id="subject" name="subject" legend="Subjects" hide-legend options="[]"></gcds-checkboxes>
-          </div>
-        </details>
-        <details class="multi-select wide">
-          <summary>Organizations <span id="organization-selection">Any organization</span></summary>
-          <div class="checkbox-scroll">
-            <gcds-checkboxes id="organization" name="organization" legend="Organizations" hide-legend options="[]"></gcds-checkboxes>
-          </div>
-        </details>
-        <div class="filter-box">
-          <gcds-checkboxes id="report" name="report" hide-label
-            options='[{"id":"report-y","label":"What we heard report available","value":"Y"}]'></gcds-checkboxes>
-        </div>
         <gcds-select id="sort" select-id="sort-select" name="sort" label="Sort by" default-value="Closing soonest">
           <option value="end_date asc nulls last">Closing soonest</option>
           <option value="start_date desc nulls last">Newest</option>
@@ -170,8 +168,39 @@
           <option value="15">15</option><option value="50">50</option><option value="150">150</option>
         </gcds-select>
       </div>
+      <details id="advanced-options" class="advanced-options">
+        <summary>Advanced Options</summary>
+        <div class="filter-grid">
+        <gcds-date-input id="start-date" name="start-date" format="iso" legend="Window starts" hint="Show consultations active on or after this date"></gcds-date-input>
+        <gcds-date-input id="end-date" name="end-date" format="iso" legend="Window ends" hint="Show consultations active on or before this date"></gcds-date-input>
+        <div class="filter-box report-filter">
+          <span class="filter-label">Report availability</span>
+          <gcds-checkboxes id="report" name="report"
+            options='[{"id":"report-y","label":"What we heard report available","value":"Y"}]'></gcds-checkboxes>
+        </div>
+        <details class="multi-select status-filter" open>
+          <summary>Status <span id="status-selection">Any status</span></summary>
+          <div class="checkbox-scroll">
+            <gcds-checkboxes id="status" name="status" legend="Status" hide-legend
+              options='[{"id":"status-o","label":"Open","value":"O"},{"id":"status-p","label":"Planned","value":"P"},{"id":"status-c","label":"Closed","value":"C"}]'></gcds-checkboxes>
+          </div>
+        </details>
+        <details class="multi-select subject-filter" open>
+          <summary>Subjects <span id="subject-selection">Any subject</span></summary>
+          <div class="checkbox-scroll">
+            <gcds-checkboxes id="subject" name="subject" legend="Subjects" hide-legend options="[]"></gcds-checkboxes>
+          </div>
+        </details>
+        <details class="multi-select wide organization-filter" open>
+          <summary>Organizations <span id="organization-selection">Any organization</span></summary>
+          <div class="checkbox-scroll">
+            <gcds-checkboxes id="organization" name="organization" legend="Organizations" hide-legend options="[]"></gcds-checkboxes>
+          </div>
+        </details>
+        </div>
+      </details>
       <div class="actions">
-        <gcds-button id="search-button" type="submit">Search consultations</gcds-button>
+        <gcds-button id="search-button" type="submit"><svg class="button-icon" aria-hidden="true" focusable="false" viewBox="0 0 24 24"><path d="M10 3a7 7 0 1 0 4.9 12l5.55 5.55 1.4-1.4-5.55-5.55A7 7 0 0 0 10 3Zm0 2a5 5 0 1 1 0 10 5 5 0 0 1 0-10Z"/></svg>Search consultations</gcds-button>
         <gcds-button id="clear-filters" type="button" button-role="secondary">Clear filters</gcds-button>
       </div>
     </form>
@@ -191,8 +220,8 @@
         <gcds-button id="export-calendar" type="button" button-role="secondary" size="small" hidden>Download this page as a calendar</gcds-button>
       </div>
       <div class="quick-filters" aria-label="Quick consultation filters">
-        <button id="closing-soon" class="quick-filter quick-closing" type="button" aria-pressed="false" title="Ends today or within the next 7 days">Closing Soon (<span id="closing-count">0</span>)</button>
-        <button id="opening-soon" class="quick-filter quick-opening" type="button" aria-pressed="false" title="Started within the previous 7 days">Opening Soon (<span id="opening-count">0</span>)</button>
+        <button id="closing-soon" class="quick-filter quick-closing" type="button" aria-pressed="false" title="Ends today or within the next 7 days"><svg class="button-icon" aria-hidden="true" focusable="false" viewBox="0 0 24 24"><path d="M3 4h18l-7 8v6l-4 2v-8L3 4Z"/></svg>Closing Soon (<span id="closing-count">0</span>)</button>
+        <button id="opening-soon" class="quick-filter quick-opening" type="button" aria-pressed="false" title="Started within the previous 7 days"><svg class="button-icon" aria-hidden="true" focusable="false" viewBox="0 0 24 24"><path d="M3 4h18l-7 8v6l-4 2v-8L3 4Z"/></svg>Opening Soon (<span id="opening-count">0</span>)</button>
       </div>
 
       <div id="loading" class="loading-grid" aria-hidden="true">
@@ -343,6 +372,12 @@
       const compressed = Uint8Array.from(binary, char => char.charCodeAt(0));
       const stream = new Blob([compressed]).stream().pipeThrough(new DecompressionStream("gzip"));
       return JSON.parse(await new Response(stream).text());
+    }
+    function applyKeywordPlaceholder() {
+      const host = $("keywords"), placeholder = host.getAttribute("placeholder") || "";
+      const apply = () => host.shadowRoot?.querySelector("input")?.setAttribute("placeholder", placeholder);
+      apply();
+      if (typeof host.componentOnReady === "function") host.componentOnReady().then(apply);
     }
     function populateSubjects() {
       const options = Object.entries(SUBJECTS)
@@ -543,24 +578,37 @@
       state.records = filtered.slice(start,start+state.pageSize);
       render();
     }
-    async function tryLiveResults(query, request) {
+    async function refreshRegistry() {
       try {
-        const data = await jsonp(API,query,6000);
-        if (request !== state.request || !data.success) return;
-        state.total = Number(data.result.total || 0);
-        state.records = data.result.records || [];
-        render();
-      } catch (_) {}
+        const records = [];
+        let offset = 0;
+        while (true) {
+          const data = await jsonp(API, {resource_id:RESOURCE_ID,limit:1000,offset,sort:"_id asc"},30000);
+          if (!data.success || !Array.isArray(data.result?.records)) throw new Error("Invalid DataStore response");
+          const batch = data.result.records;
+          records.push(...batch);
+          offset += batch.length;
+          const total = Number(data.result.total);
+          if (!batch.length || (Number.isFinite(total) && offset >= total)) break;
+        }
+        state.snapshotRecords = records;
+        populateOrganizations();
+        updateQuickCounts();
+        $("open-count").textContent = records.filter(record => record.status === "O").length.toLocaleString(locale);
+        loadResults();
+      } catch (_) {
+        // Keep the complete embedded snapshot if the live registry is unavailable.
+      }
     }
     function loadResults() {
       const request = ++state.request;
       $("error-area").hidden = true;
       const {query,canUseLive} = buildQuery();
       renderSnapshot();
-      if (location.protocol !== "file:" && canUseLive) tryLiveResults(query,request);
     }
     function restoreState() {
       const params = new URLSearchParams(location.search);
+      $("advanced-options").open = ["status","subject","org","report","from","to"].some(key => params.has(key));
       state.page = Math.max(1,Number(params.get("page")) || 1);
       state.quick = ["closing","opening"].includes(params.get("quick")) ? params.get("quick") : "";
       [["keywords","q"],["start-date","from"],["end-date","to"],["sort","sort"],["records","limit"]].forEach(([id,key]) => {
@@ -652,17 +700,14 @@
       customElements.whenDefined("gcds-input"),
       decodeSnapshot()
     ]).then(([, , , , records]) => {
+      applyKeywordPlaceholder();
       state.snapshotRecords = records;
       populateOrganizations();
       restoreState();
       updateQuickCounts();
       loadResults();
       $("open-count").textContent = records.filter(record => record.status==="O").length.toLocaleString(locale);
-      if (location.protocol !== "file:") {
-        jsonp(API,{resource_id:RESOURCE_ID,limit:0,filters:JSON.stringify({status:"O"})},6000)
-          .then(data => { if (data.success) $("open-count").textContent = Number(data.result.total || 0).toLocaleString(locale); })
-          .catch(() => {});
-      }
+      refreshRegistry();
     }).catch(() => {
       $("loading").hidden = true;
       $("error-area").hidden = false;
@@ -675,6 +720,7 @@
       ["status","subject","organization","report"].forEach(id => setCheckboxValues(id,[]));
       $("sort").value="end_date asc nulls last"; $("sort").setAttribute("value","end_date asc nulls last");
       $("records").value="15"; $("records").setAttribute("value","15");
+      $("advanced-options").open=false;
       state.page=1; state.quick=""; loadResults();
     });
     ["change","gcdsChange"].forEach(type => $("records").addEventListener(type,() => { state.page=1; loadResults(); }));
